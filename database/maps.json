@@ -1,0 +1,228 @@
+[
+  {
+    "id": "veldhavn",
+    "type": "city",
+    "name": "Veldhavn",
+    "biome": "Lacustre",
+    "description": "Veldhavn é uma cidade que parece flutuar sobre a água. Canais estreitos serpenteiam entre casas de arquitetura contemporânea e fachadas de madeira pintadas em tons pastéis, lembrando pequenas joias refletidas na superfície calma. Conectada por pontes delicadas, algumas apenas para pedestres e bicicletas, a cidade mantém uma estética limpa e organizada, evocando uma sensação de tranquilidade quase surreal.\n\nHistoricamente, Veldhavn começou como uma vila de pescadores, mas com o tempo cresceu em torno do turismo e do comércio de produtos locais, sem perder a harmonia com seus canais e lagoas. Pequenos cafés e boutiques se alinham às margens da água, e barcos silenciosos deslizam pelos canais, substituindo estradas convencionais em algumas áreas. O contraste surge na modernidade urbana do centro, onde edifícios de vidro e tecnologia de ponta se integram com a estética lacustre, criando um charme que é ao mesmo tempo antigo e futurista.\n\nCulturalmente, a cidade celebra festivais de luzes sobre a água e feiras de arte que ocupam as margens dos canais, atraindo visitantes de toda Seira. A população mantém forte senso de comunidade: vizinhos ajudam-se mutuamente durante enchentes sazonais ou para preservar a beleza natural. Entretanto, o excesso de turistas em certos períodos causa tensão entre o comércio local e residentes mais tradicionais, gerando uma mistura curiosa de hospitalidade e ligeira impaciência.",
+    "map_image": "https://2img.net/i.imgur.com/4AlliMd.png",
+    "coordinates": {
+      "x": 50,
+      "y": 120
+    },
+    "metadata": {
+      "population": "95.000",
+      "economy": [
+        "Turismo aquático",
+        "pequenas indústrias artesanais",
+        "cafés e comércio de tecnologia local"
+      ],
+      "based_on": "Giethoorn, Países Baixos"
+    },
+    "points_of_interest": [
+      {
+        "id": "veld01",
+        "name": "Laboratório do Professor Velkova",
+        "type": "other",
+        "description": "Às margens de um canal tranquilo, ergue-se uma casa de madeira antiga adaptada para a pesquisa, com estufas de vidro e jardins ao redor. O interior mistura rusticidade com ciência, onde livros, mapas e equipamentos se espalham em meio ao cheiro de madeira e ervas frescas.",
+        "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn",
+        "shop_data": null
+      },
+      {
+        "id": "veld02",
+        "name": "Ginásio - Ponte da Virtude",
+        "type": "gym",
+        "description": "Inspirada na arquitetura lacustre, a arena foi construída sobre plataformas flutuantes ligadas por pontes de madeira, com telhados inclinados e arquibancadas discretas. Entre o som da água e o vento que passa pelos canais, o local transmite tanto tradição quanto espírito competitivo.",
+        "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn-02",
+        "shop_data": null
+      },
+      {
+        "id": "veld03",
+        "name": "Doceria Brilho do Canal",
+        "type": "shop",
+        "description": "A fachada colorida e alegre esconde um interior perfumado por chocolate, caramelo e frutas cristalizadas. Prateleiras de madeira exibem doces artesanais em potes de vidro, enquanto vitrines iluminadas revelam pirulitos e guloseimas que parecem saídos de um conto.",
+        "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn-03",
+        "shop_data": {
+          "sells": [
+            567,
+            1168,
+            1169
+          ],
+          "buys": [
+            567,
+            1172,
+            728
+          ]
+        }
+      }
+    ],
+    "forageable_items": [
+      {
+        "item_id": 1031,
+        "posts_to_collect": 1
+      },
+      {
+        "item_id": 898,
+        "posts_to_collect": 2
+      }
+    ],
+    "spawns": {
+      "common": [
+        129,
+        519,
+        580
+      ],
+      "rare": [
+        417,
+        944,
+        118
+      ],
+      "epic": [
+        978,
+        440,
+        813
+      ]
+    },
+    "interaction_objects": [
+      "apricorn-tree-01",
+      "berry-tree-01",
+      "fishing-spot-01"
+    ],
+    "accesses": {
+      "north": {
+        "id": "rota06",
+        "name": "Rota 06",
+        "forum_link": "https://seira.forumeiros.com/t111-descricao-rota-06"
+      }
+    }
+  },
+  {
+    "id": "rota06",
+    "type": "route",
+    "name": "Rota 06",
+    "biome": "Florestal",
+    "description": "A Rota 06 é uma longa estrada sinuosa que corta um mar de vegetação densa e bem preservada, cercada por colinas verdejantes e árvores de copas amplas. O asfalto escuro e recém-pavimentado contrasta com o verde vibrante das margens, onde a natureza parece tocar a estrada sem cerimônia, invadindo seus limites com raízes, folhas e flores. À medida que os viajantes deixam Veldhavn para trás, o canto dos pássaros e o farfalhar das folhas acompanham cada passo — mas ao longe, já é possível ver a luz fria de letreiros digitais piscando nas encostas montanhosas que anunciam a chegada de Astralton.\n\nApesar da tranquilidade aparente, a Rota 06 é um ponto de transição simbólico entre dois mundos. Treinadores a percorrem em busca de um momento de respiro entre a rusticidade de Veldhavn e o frenesi tecnológico de Astralton. Há relatos de que a estrada possui sensores embutidos e sinalizações inteligentes, legados da influência tecnológica do norte, mas eles coexistem com postes simples de madeira e placas feitas à mão, ainda mantidas pelos moradores do sul. O contraste entre o natural e o artificial está por toda parte, e a estrada se tornou não apenas um caminho, mas uma metáfora viva da convivência (e tensão) entre tradição e progresso.",
+    "coordinates": {
+      "x": 79,
+      "y": 50
+    },
+    "map_image": "https://2img.net/i.imgur.com/Xhrbstg.png",
+    "metadata": {
+      "population": "Aproximadamente 350 a 500 viajantes diários, entre treinadores, moradores locais e comerciantes itinerantes.",
+      "economy": [
+        "Principal corredor entre Veldhavn e Astralton",
+        "servindo ao transporte de mercadorias",
+        "turismo ecológico e circulação de treinadores. Pequenos negócios ao longo da estrada dependem do fluxo diário."
+      ]
+    },
+    "accesses": {
+      "south": {
+        "id": "veldhavan",
+        "name": "Veldhavn",
+        "posts_required": 2,
+        "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn"
+      }
+    },
+    "points_of_interest": [
+      {
+        "id": "rota06-1",
+        "name": "Acampamento dos Viajantes",
+        "type": "facility",
+        "description": "Um espaço acolhedor para viajantes descansarem, com fogueiras acesas, mesas rústicas e um pequeno comércio de snacks. O acampamento oferece abrigo e conforto para treinadores e aventureiros antes de continuar a jornada pela rota, em meio à natureza que cerca o local.",
+        "forum_link": "n/a",
+        "shop_data": null
+      }
+    ],
+    "forageable_items": [
+      {
+        "item_id": 94,
+        "posts_to_collect": 1
+      },
+      {
+        "item_id": 86,
+        "posts_to_collect": 1
+      },
+      {
+        "item_id": 87,
+        "posts_to_collect": 1
+      },
+      {
+        "item_id": 899,
+        "posts_to_collect": 1
+      }
+    ],
+    "spawns": {
+      "common": [
+        519,
+        265,
+        669
+      ],
+      "rare": [
+        878,
+        529,
+        837
+      ],
+      "epic": [
+        203,
+        621,
+        816
+      ]
+    },
+    "interaction_objects": [
+      "berry-tree-01",
+      "apricorn-tree-01",
+      "moss-stone"
+    ]
+  },
+  {
+    "id": "003",
+    "type": "landmark",
+    "name": "Ruinas de Rhisis",
+    "biome": "Ruinoso",
+    "description": "Entre colinas suaves e campos floridos, repousam as Ruínas de Rhisis, vestígios de uma antiga civilização que marcou a história de Seira. Colunas partidas e blocos de pedra espalhados pelo terreno formam corredores abertos e plataformas irregulares, enquanto o vento percorre os espaços vazios, criando um sussurro contínuo que parece narrar histórias antigas. O terreno é irregular, com desníveis que desafiam os viajantes e blocos de pedra instáveis que exigem cuidado ao atravessar.\n\nApesar da antiguidade, a região é integrada ao mundo moderno: trilhas de caminhada e pequenos mirantes foram instalados por exploradores e estudiosos, e placas informativas digitais fornecem dados históricos, contrastando com a sensação de abandono das ruínas. Treinadores aproveitam o local para treinos, exploração e estudos arqueológicos, enquanto pequenos Pokémon habitam frestas e blocos caídos, criando um ecossistema próprio entre pedras e musgo.",
+    "coordinates": {
+      "x": 79,
+      "y": 200
+    },
+    "map_image": "https://2img.net/i.imgur.com/IV51npg.png",
+    "accesses": {
+      "south": {
+        "id": "004",
+        "name": "Astralton",
+        "posts_required": 4,
+        "forum_link": "https://seira.forumeiros.com/t118-descricao-ruinas-de-rhisis"
+      }
+    },
+    "points_of_interest": [
+      {
+        "id": "poi-1763224350210",
+        "name": "Portão Quebrado",
+        "type": "other",
+        "description": "O principal portal de entrada das Ruínas de Rhisis, com colunas partidas e inscrições antigas. Treinadores e exploradores usam o local como ponto de referência antes de iniciar a exploração, enquanto pequenos Pokémon se escondem entre as pedras.",
+        "forum_link": "",
+        "shop_data": null
+      }
+    ],
+    "spawns": {
+      "common": [
+        24,
+        3,
+        4
+      ],
+      "rare": [
+        19,
+        27,
+        49
+      ],
+      "epic": [
+        49,
+        3,
+        50
+      ]
+    },
+    "interaction_objects": [
+      "playground",
+      "apricorn-tree-01"
+    ]
+  }
+]
