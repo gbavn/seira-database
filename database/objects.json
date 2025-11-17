@@ -2,8 +2,8 @@
   {
     "id": "berry-tree-01",
     "type": "berry_tree",
-    "name": "Árvore de Berries",
-    "description": "Uma árvore carregada de berries maduras e suculentas.",
+    "name": "Ãrvore de Berries",
+    "description": "Uma Ã¡rvore carregada de berries maduras e suculentas.",
     "cooldown_hours": 24,
     "loot": {
       "common": [
@@ -53,8 +53,8 @@
   {
     "id": "apricorn-tree-01",
     "type": "apricorn_tree",
-    "name": "Árvore de Apricorn",
-    "description": "Uma árvore rara que produz Apricorns coloridos.",
+    "name": "Ãrvore de Apricorn",
+    "description": "Uma Ã¡rvore rara que produz Apricorns coloridos.",
     "cooldown_hours": 48,
     "loot": [
       {
@@ -75,14 +75,14 @@
     "id": "moss-stone",
     "type": "evolution_stone",
     "name": "Pedra Musgosa",
-    "description": "Uma pedra antiga coberta de musgo brilhante. Pokémon do tipo Planta são naturalmente atraídos por ela.",
+    "description": "Uma pedra antiga coberta de musgo brilhante. PokÃ©mon do tipo Planta sÃ£o naturalmente atraÃ­dos por ela.",
     "linked_pokemon": [
       133
     ],
     "evolves_to": [
       470
     ],
-    "narrative": "Eevee se aproxima da pedra, sentindo uma energia natural emanando dela. Seu corpo começa a brilhar com uma luz esmeralda...",
+    "narrative": "Eevee se aproxima da pedra, sentindo uma energia natural emanando dela. Seu corpo comeÃ§a a brilhar com uma luz esmeralda...",
     "loot": {
       "linked_pokemon": [
         470
@@ -93,7 +93,7 @@
     "id": "old-windmill",
     "type": "evolution_location",
     "name": "Moinho Antigo",
-    "description": "Um moinho centenário que ainda funciona, movido pelo vento e luz solar.",
+    "description": "Um moinho centenÃ¡rio que ainda funciona, movido pelo vento e luz solar.",
     "linked_pokemon": [
       191,
       44,
@@ -103,13 +103,13 @@
       80,
       85
     ],
-    "narrative": "A luz do sol atravessa as janelas do moinho, criando um espetáculo de cores douradas. O vento gira as pás suavemente..."
+    "narrative": "A luz do sol atravessa as janelas do moinho, criando um espetÃ¡culo de cores douradas. O vento gira as pÃ¡s suavemente..."
   },
   {
     "id": "playground",
     "type": "social_spot",
-    "name": "Playground Pokémon",
-    "description": "Um parque infantil colorido, perfeito para Pokémon jovens brincarem.",
+    "name": "Playground PokÃ©mon",
+    "description": "Um parque infantil colorido, perfeito para PokÃ©mon jovens brincarem.",
     "linked_pokemon": [
       172,
       173,
@@ -125,7 +125,7 @@
       439,
       440
     ],
-    "narrative": "Pokémon bebês brincam alegremente nos balanços e escorregadores. Suas risadas ecoam pelo parque, criando uma atmosfera alegre e acolhedora.",
+    "narrative": "PokÃ©mon bebÃªs brincam alegremente nos balanÃ§os e escorregadores. Suas risadas ecoam pelo parque, criando uma atmosfera alegre e acolhedora.",
     "loot": {
       "linked_pokemon": [
         447,
@@ -140,7 +140,7 @@
     "id": "fishing-spot-01",
     "type": "fishing_spot",
     "name": "Ponto de Pesca",
-    "description": "Um local tranquilo na margem do rio, perfeito para pescar Pokémon aquáticos.",
+    "description": "Um local tranquilo na margem do rio, perfeito para pescar PokÃ©mon aquÃ¡ticos.",
     "requires_item": 265,
     "loot": {
       "common": [
