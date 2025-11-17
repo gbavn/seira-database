@@ -4,7 +4,7 @@
     "type": "city",
     "name": "Veldhavn",
     "biome": "Lacustre",
-    "description": "Veldhavn ÃÂÃÂ© uma cidade que parece flutuar sobre a ÃÂÃÂ¡gua. Canais estreitos serpenteiam entre casas de arquitetura contemporÃÂÃÂ¢nea e fachadas de madeira pintadas em tons pastÃÂÃÂ©is, lembrando pequenas joias refletidas na superfÃÂÃÂ­cie calma. Conectada por pontes delicadas, algumas apenas para pedestres e bicicletas, a cidade mantÃÂÃÂ©m uma estÃÂÃÂ©tica limpa e organizada, evocando uma sensaÃÂÃÂ§ÃÂÃÂ£o de tranquilidade quase surreal.\n\nHistoricamente, Veldhavn comeÃÂÃÂ§ou como uma vila de pescadores, mas com o tempo cresceu em torno do turismo e do comÃÂÃÂ©rcio de produtos locais, sem perder a harmonia com seus canais e lagoas. Pequenos cafÃÂÃÂ©s e boutiques se alinham ÃÂÃÂ s margens da ÃÂÃÂ¡gua, e barcos silenciosos deslizam pelos canais, substituindo estradas convencionais em algumas ÃÂÃÂ¡reas. O contraste surge na modernidade urbana do centro, onde edifÃÂÃÂ­cios de vidro e tecnologia de ponta se integram com a estÃÂÃÂ©tica lacustre, criando um charme que ÃÂÃÂ© ao mesmo tempo antigo e futurista.\n\nCulturalmente, a cidade celebra festivais de luzes sobre a ÃÂÃÂ¡gua e feiras de arte que ocupam as margens dos canais, atraindo visitantes de toda Seira. A populaÃÂÃÂ§ÃÂÃÂ£o mantÃÂÃÂ©m forte senso de comunidade: vizinhos ajudam-se mutuamente durante enchentes sazonais ou para preservar a beleza natural. Entretanto, o excesso de turistas em certos perÃÂÃÂ­odos causa tensÃÂÃÂ£o entre o comÃÂÃÂ©rcio local e residentes mais tradicionais, gerando uma mistura curiosa de hospitalidade e ligeira impaciÃÂÃÂªncia.",
+    "description": "Veldhavn ÃÂÃÂÃÂÃÂ© uma cidade que parece flutuar sobre a ÃÂÃÂÃÂÃÂ¡gua. Canais estreitos serpenteiam entre casas de arquitetura contemporÃÂÃÂÃÂÃÂ¢nea e fachadas de madeira pintadas em tons pastÃÂÃÂÃÂÃÂ©is, lembrando pequenas joias refletidas na superfÃÂÃÂÃÂÃÂ­cie calma. Conectada por pontes delicadas, algumas apenas para pedestres e bicicletas, a cidade mantÃÂÃÂÃÂÃÂ©m uma estÃÂÃÂÃÂÃÂ©tica limpa e organizada, evocando uma sensaÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ£o de tranquilidade quase surreal.\n\nHistoricamente, Veldhavn comeÃÂÃÂÃÂÃÂ§ou como uma vila de pescadores, mas com o tempo cresceu em torno do turismo e do comÃÂÃÂÃÂÃÂ©rcio de produtos locais, sem perder a harmonia com seus canais e lagoas. Pequenos cafÃÂÃÂÃÂÃÂ©s e boutiques se alinham ÃÂÃÂÃÂÃÂ s margens da ÃÂÃÂÃÂÃÂ¡gua, e barcos silenciosos deslizam pelos canais, substituindo estradas convencionais em algumas ÃÂÃÂÃÂÃÂ¡reas. O contraste surge na modernidade urbana do centro, onde edifÃÂÃÂÃÂÃÂ­cios de vidro e tecnologia de ponta se integram com a estÃÂÃÂÃÂÃÂ©tica lacustre, criando um charme que ÃÂÃÂÃÂÃÂ© ao mesmo tempo antigo e futurista.\n\nCulturalmente, a cidade celebra festivais de luzes sobre a ÃÂÃÂÃÂÃÂ¡gua e feiras de arte que ocupam as margens dos canais, atraindo visitantes de toda Seira. A populaÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ£o mantÃÂÃÂÃÂÃÂ©m forte senso de comunidade: vizinhos ajudam-se mutuamente durante enchentes sazonais ou para preservar a beleza natural. Entretanto, o excesso de turistas em certos perÃÂÃÂÃÂÃÂ­odos causa tensÃÂÃÂÃÂÃÂ£o entre o comÃÂÃÂÃÂÃÂ©rcio local e residentes mais tradicionais, gerando uma mistura curiosa de hospitalidade e ligeira impaciÃÂÃÂÃÂÃÂªncia.",
     "map_image": "https://2img.net/i.imgur.com/4AlliMd.png",
     "coordinates": {
       "x": 50,
@@ -13,26 +13,26 @@
     "metadata": {
       "population": "95.000",
       "economy": [
-        "Turismo aquÃÂÃÂ¡tico",
-        "pequenas indÃÂÃÂºstrias artesanais",
-        "cafÃÂÃÂ©s e comÃÂÃÂ©rcio de tecnologia local"
+        "Turismo aquÃÂÃÂÃÂÃÂ¡tico",
+        "pequenas indÃÂÃÂÃÂÃÂºstrias artesanais",
+        "cafÃÂÃÂÃÂÃÂ©s e comÃÂÃÂÃÂÃÂ©rcio de tecnologia local"
       ],
-      "based_on": "Giethoorn, PaÃÂÃÂ­ses Baixos"
+      "based_on": "Giethoorn, PaÃÂÃÂÃÂÃÂ­ses Baixos"
     },
     "points_of_interest": [
       {
         "id": "veld01",
-        "name": "LaboratÃÂÃÂ³rio do Professor Velkova",
+        "name": "LaboratÃÂÃÂÃÂÃÂ³rio do Professor Velkova",
         "type": "other",
-        "description": "ÃÂÃÂs margens de um canal tranquilo, ergue-se uma casa de madeira antiga adaptada para a pesquisa, com estufas de vidro e jardins ao redor. O interior mistura rusticidade com ciÃÂÃÂªncia, onde livros, mapas e equipamentos se espalham em meio ao cheiro de madeira e ervas frescas.",
+        "description": "ÃÂÃÂÃÂÃÂs margens de um canal tranquilo, ergue-se uma casa de madeira antiga adaptada para a pesquisa, com estufas de vidro e jardins ao redor. O interior mistura rusticidade com ciÃÂÃÂÃÂÃÂªncia, onde livros, mapas e equipamentos se espalham em meio ao cheiro de madeira e ervas frescas.",
         "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn",
         "shop_data": null
       },
       {
         "id": "veld02",
-        "name": "GinÃÂÃÂ¡sio - Ponte da Virtude",
+        "name": "GinÃÂÃÂÃÂÃÂ¡sio - Ponte da Virtude",
         "type": "gym",
-        "description": "Inspirada na arquitetura lacustre, a arena foi construÃÂÃÂ­da sobre plataformas flutuantes ligadas por pontes de madeira, com telhados inclinados e arquibancadas discretas. Entre o som da ÃÂÃÂ¡gua e o vento que passa pelos canais, o local transmite tanto tradiÃÂÃÂ§ÃÂÃÂ£o quanto espÃÂÃÂ­rito competitivo.",
+        "description": "Inspirada na arquitetura lacustre, a arena foi construÃÂÃÂÃÂÃÂ­da sobre plataformas flutuantes ligadas por pontes de madeira, com telhados inclinados e arquibancadas discretas. Entre o som da ÃÂÃÂÃÂÃÂ¡gua e o vento que passa pelos canais, o local transmite tanto tradiÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ£o quanto espÃÂÃÂÃÂÃÂ­rito competitivo.",
         "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn-02",
         "shop_data": null
       },
@@ -40,7 +40,7 @@
         "id": "veld03",
         "name": "Doceria Brilho do Canal",
         "type": "shop",
-        "description": "A fachada colorida e alegre esconde um interior perfumado por chocolate, caramelo e frutas cristalizadas. Prateleiras de madeira exibem doces artesanais em potes de vidro, enquanto vitrines iluminadas revelam pirulitos e guloseimas que parecem saÃÂÃÂ­dos de um conto.",
+        "description": "A fachada colorida e alegre esconde um interior perfumado por chocolate, caramelo e frutas cristalizadas. Prateleiras de madeira exibem doces artesanais em potes de vidro, enquanto vitrines iluminadas revelam pirulitos e guloseimas que parecem saÃÂÃÂÃÂÃÂ­dos de um conto.",
         "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn-03",
         "shop_data": {
           "sells": [
@@ -101,18 +101,18 @@
     "type": "route",
     "name": "Rota 06",
     "biome": "Florestal",
-    "description": "A Rota 06 ÃÂÃÂ© uma longa estrada sinuosa que corta um mar de vegetaÃÂÃÂ§ÃÂÃÂ£o densa e bem preservada, cercada por colinas verdejantes e ÃÂÃÂ¡rvores de copas amplas. O asfalto escuro e recÃÂÃÂ©m-pavimentado contrasta com o verde vibrante das margens, onde a natureza parece tocar a estrada sem cerimÃÂÃÂ´nia, invadindo seus limites com raÃÂÃÂ­zes, folhas e flores. ÃÂÃÂ medida que os viajantes deixam Veldhavn para trÃÂÃÂ¡s, o canto dos pÃÂÃÂ¡ssaros e o farfalhar das folhas acompanham cada passo ÃÂ¢ÃÂÃÂ mas ao longe, jÃÂÃÂ¡ ÃÂÃÂ© possÃÂÃÂ­vel ver a luz fria de letreiros digitais piscando nas encostas montanhosas que anunciam a chegada de Astralton.\n\nApesar da tranquilidade aparente, a Rota 06 ÃÂÃÂ© um ponto de transiÃÂÃÂ§ÃÂÃÂ£o simbÃÂÃÂ³lico entre dois mundos. Treinadores a percorrem em busca de um momento de respiro entre a rusticidade de Veldhavn e o frenesi tecnolÃÂÃÂ³gico de Astralton. HÃÂÃÂ¡ relatos de que a estrada possui sensores embutidos e sinalizaÃÂÃÂ§ÃÂÃÂµes inteligentes, legados da influÃÂÃÂªncia tecnolÃÂÃÂ³gica do norte, mas eles coexistem com postes simples de madeira e placas feitas ÃÂÃÂ  mÃÂÃÂ£o, ainda mantidas pelos moradores do sul. O contraste entre o natural e o artificial estÃÂÃÂ¡ por toda parte, e a estrada se tornou nÃÂÃÂ£o apenas um caminho, mas uma metÃÂÃÂ¡fora viva da convivÃÂÃÂªncia (e tensÃÂÃÂ£o) entre tradiÃÂÃÂ§ÃÂÃÂ£o e progresso.",
+    "description": "A Rota 06 ÃÂÃÂÃÂÃÂ© uma longa estrada sinuosa que corta um mar de vegetaÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ£o densa e bem preservada, cercada por colinas verdejantes e ÃÂÃÂÃÂÃÂ¡rvores de copas amplas. O asfalto escuro e recÃÂÃÂÃÂÃÂ©m-pavimentado contrasta com o verde vibrante das margens, onde a natureza parece tocar a estrada sem cerimÃÂÃÂÃÂÃÂ´nia, invadindo seus limites com raÃÂÃÂÃÂÃÂ­zes, folhas e flores. ÃÂÃÂÃÂÃÂ medida que os viajantes deixam Veldhavn para trÃÂÃÂÃÂÃÂ¡s, o canto dos pÃÂÃÂÃÂÃÂ¡ssaros e o farfalhar das folhas acompanham cada passo ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ mas ao longe, jÃÂÃÂÃÂÃÂ¡ ÃÂÃÂÃÂÃÂ© possÃÂÃÂÃÂÃÂ­vel ver a luz fria de letreiros digitais piscando nas encostas montanhosas que anunciam a chegada de Astralton.\n\nApesar da tranquilidade aparente, a Rota 06 ÃÂÃÂÃÂÃÂ© um ponto de transiÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ£o simbÃÂÃÂÃÂÃÂ³lico entre dois mundos. Treinadores a percorrem em busca de um momento de respiro entre a rusticidade de Veldhavn e o frenesi tecnolÃÂÃÂÃÂÃÂ³gico de Astralton. HÃÂÃÂÃÂÃÂ¡ relatos de que a estrada possui sensores embutidos e sinalizaÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂµes inteligentes, legados da influÃÂÃÂÃÂÃÂªncia tecnolÃÂÃÂÃÂÃÂ³gica do norte, mas eles coexistem com postes simples de madeira e placas feitas ÃÂÃÂÃÂÃÂ  mÃÂÃÂÃÂÃÂ£o, ainda mantidas pelos moradores do sul. O contraste entre o natural e o artificial estÃÂÃÂÃÂÃÂ¡ por toda parte, e a estrada se tornou nÃÂÃÂÃÂÃÂ£o apenas um caminho, mas uma metÃÂÃÂÃÂÃÂ¡fora viva da convivÃÂÃÂÃÂÃÂªncia (e tensÃÂÃÂÃÂÃÂ£o) entre tradiÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ£o e progresso.",
     "coordinates": {
       "x": 79,
       "y": 50
     },
     "map_image": "https://2img.net/i.imgur.com/Xhrbstg.png",
     "metadata": {
-      "population": "Aproximadamente 350 a 500 viajantes diÃÂÃÂ¡rios, entre treinadores, moradores locais e comerciantes itinerantes.",
+      "population": "Aproximadamente 350 a 500 viajantes diÃÂÃÂÃÂÃÂ¡rios, entre treinadores, moradores locais e comerciantes itinerantes.",
       "economy": [
         "Principal corredor entre Veldhavn e Astralton",
         "servindo ao transporte de mercadorias",
-        "turismo ecolÃÂÃÂ³gico e circulaÃÂÃÂ§ÃÂÃÂ£o de treinadores. Pequenos negÃÂÃÂ³cios ao longo da estrada dependem do fluxo diÃÂÃÂ¡rio."
+        "turismo ecolÃÂÃÂÃÂÃÂ³gico e circulaÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ£o de treinadores. Pequenos negÃÂÃÂÃÂÃÂ³cios ao longo da estrada dependem do fluxo diÃÂÃÂÃÂÃÂ¡rio."
       ]
     },
     "accesses": {
@@ -128,7 +128,7 @@
         "id": "rota06-1",
         "name": "Acampamento dos Viajantes",
         "type": "facility",
-        "description": "Um espaÃÂÃÂ§o acolhedor para viajantes descansarem, com fogueiras acesas, mesas rÃÂÃÂºsticas e um pequeno comÃÂÃÂ©rcio de snacks. O acampamento oferece abrigo e conforto para treinadores e aventureiros antes de continuar a jornada pela rota, em meio ÃÂÃÂ  natureza que cerca o local.",
+        "description": "Um espaÃÂÃÂÃÂÃÂ§o acolhedor para viajantes descansarem, com fogueiras acesas, mesas rÃÂÃÂÃÂÃÂºsticas e um pequeno comÃÂÃÂÃÂÃÂ©rcio de snacks. O acampamento oferece abrigo e conforto para treinadores e aventureiros antes de continuar a jornada pela rota, em meio ÃÂÃÂÃÂÃÂ  natureza que cerca o local.",
         "forum_link": "n/a",
         "shop_data": null
       }
@@ -179,7 +179,7 @@
     "type": "landmark",
     "name": "Ruinas de Rhisis",
     "biome": "Ruinoso",
-    "description": "Entre colinas suaves e campos floridos, repousam as RuÃÂÃÂ­nas de Rhisis, vestÃÂÃÂ­gios de uma antiga civilizaÃÂÃÂ§ÃÂÃÂ£o que marcou a histÃÂÃÂ³ria de Seira. Colunas partidas e blocos de pedra espalhados pelo terreno formam corredores abertos e plataformas irregulares, enquanto o vento percorre os espaÃÂÃÂ§os vazios, criando um sussurro contÃÂÃÂ­nuo que parece narrar histÃÂÃÂ³rias antigas. O terreno ÃÂÃÂ© irregular, com desnÃÂÃÂ­veis que desafiam os viajantes e blocos de pedra instÃÂÃÂ¡veis que exigem cuidado ao atravessar.\n\nApesar da antiguidade, a regiÃÂÃÂ£o ÃÂÃÂ© integrada ao mundo moderno: trilhas de caminhada e pequenos mirantes foram instalados por exploradores e estudiosos, e placas informativas digitais fornecem dados histÃÂÃÂ³ricos, contrastando com a sensaÃÂÃÂ§ÃÂÃÂ£o de abandono das ruÃÂÃÂ­nas. Treinadores aproveitam o local para treinos, exploraÃÂÃÂ§ÃÂÃÂ£o e estudos arqueolÃÂÃÂ³gicos, enquanto pequenos PokÃÂÃÂ©mon habitam frestas e blocos caÃÂÃÂ­dos, criando um ecossistema prÃÂÃÂ³prio entre pedras e musgo.",
+    "description": "Entre colinas suaves e campos floridos, repousam as RuÃÂÃÂÃÂÃÂ­nas de Rhisis, vestÃÂÃÂÃÂÃÂ­gios de uma antiga civilizaÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ£o que marcou a histÃÂÃÂÃÂÃÂ³ria de Seira. Colunas partidas e blocos de pedra espalhados pelo terreno formam corredores abertos e plataformas irregulares, enquanto o vento percorre os espaÃÂÃÂÃÂÃÂ§os vazios, criando um sussurro contÃÂÃÂÃÂÃÂ­nuo que parece narrar histÃÂÃÂÃÂÃÂ³rias antigas. O terreno ÃÂÃÂÃÂÃÂ© irregular, com desnÃÂÃÂÃÂÃÂ­veis que desafiam os viajantes e blocos de pedra instÃÂÃÂÃÂÃÂ¡veis que exigem cuidado ao atravessar.\n\nApesar da antiguidade, a regiÃÂÃÂÃÂÃÂ£o ÃÂÃÂÃÂÃÂ© integrada ao mundo moderno: trilhas de caminhada e pequenos mirantes foram instalados por exploradores e estudiosos, e placas informativas digitais fornecem dados histÃÂÃÂÃÂÃÂ³ricos, contrastando com a sensaÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ£o de abandono das ruÃÂÃÂÃÂÃÂ­nas. Treinadores aproveitam o local para treinos, exploraÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ£o e estudos arqueolÃÂÃÂÃÂÃÂ³gicos, enquanto pequenos PokÃÂÃÂÃÂÃÂ©mon habitam frestas e blocos caÃÂÃÂÃÂÃÂ­dos, criando um ecossistema prÃÂÃÂÃÂÃÂ³prio entre pedras e musgo.",
     "coordinates": {
       "x": 79,
       "y": 200
@@ -196,9 +196,9 @@
     "points_of_interest": [
       {
         "id": "poi-1763224350210",
-        "name": "PortÃÂÃÂ£o Quebrado",
+        "name": "PortÃÂÃÂÃÂÃÂ£o Quebrado",
         "type": "other",
-        "description": "O principal portal de entrada das RuÃÂÃÂ­nas de Rhisis, com colunas partidas e inscriÃÂÃÂ§ÃÂÃÂµes antigas. Treinadores e exploradores usam o local como ponto de referÃÂÃÂªncia antes de iniciar a exploraÃÂÃÂ§ÃÂÃÂ£o, enquanto pequenos PokÃÂÃÂ©mon se escondem entre as pedras.",
+        "description": "O principal portal de entrada das RuÃÂÃÂÃÂÃÂ­nas de Rhisis, com colunas partidas e inscriÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂµes antigas. Treinadores e exploradores usam o local como ponto de referÃÂÃÂÃÂÃÂªncia antes de iniciar a exploraÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ£o, enquanto pequenos PokÃÂÃÂÃÂÃÂ©mon se escondem entre as pedras.",
         "forum_link": "",
         "shop_data": null
       }
