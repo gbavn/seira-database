@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Stench",
-    "effect": "Has a 10% chance of making target PokÃÂÃÂ©mon flinch with each hit.",
+    "effect": "Has a 10% chance of making target PokÃÂÃÂÃÂÃÂ©mon flinch with each hit.",
     "modified_for_rpg": false
   },
   {
@@ -32,7 +32,7 @@
   {
     "id": 6,
     "name": "Damp",
-    "effect": "Prevents self destruct, explosion, and aftermath from working while the PokÃÂÃÂ©mon is in battle.",
+    "effect": "Prevents self destruct, explosion, and aftermath from working while the PokÃÂÃÂÃÂÃÂ©mon is in battle.",
     "modified_for_rpg": false
   },
   {
@@ -44,13 +44,13 @@
   {
     "id": 8,
     "name": "Sand veil",
-    "effect": "Increases evasion to 1.25ÃÂÃÂ during a sandstorm.  Protects against sandstorm damage.",
+    "effect": "Increases evasion to 1.25ÃÂÃÂÃÂÃÂ during a sandstorm.  Protects against sandstorm damage.",
     "modified_for_rpg": false
   },
   {
     "id": 9,
     "name": "Static",
-    "effect": "Has a 30% chance of paralyzing attacking PokÃÂÃÂ©mon on contact.",
+    "effect": "Has a 30% chance of paralyzing attacking PokÃÂÃÂÃÂÃÂ©mon on contact.",
     "modified_for_rpg": false
   },
   {
@@ -80,7 +80,7 @@
   {
     "id": 14,
     "name": "Compound eyes",
-    "effect": "Increases moves' accuracy to 1.3ÃÂÃÂ.",
+    "effect": "Increases moves' accuracy to 1.3ÃÂÃÂÃÂÃÂ.",
     "modified_for_rpg": false
   },
   {
@@ -104,7 +104,7 @@
   {
     "id": 18,
     "name": "Flash fire",
-    "effect": "Protects against fire moves.  Once one has been blocked, the PokÃÂÃÂ©mon's own Fire moves inflict 1.5ÃÂÃÂ damage until it leaves battle.",
+    "effect": "Protects against fire moves.  Once one has been blocked, the PokÃÂÃÂÃÂÃÂ©mon's own Fire moves inflict 1.5ÃÂÃÂÃÂÃÂ damage until it leaves battle.",
     "modified_for_rpg": false
   },
   {
@@ -122,7 +122,7 @@
   {
     "id": 21,
     "name": "Suction cups",
-    "effect": "Prevents being forced out of battle by other PokÃÂÃÂ©mon's moves.",
+    "effect": "Prevents being forced out of battle by other PokÃÂÃÂÃÂÃÂ©mon's moves.",
     "modified_for_rpg": false
   },
   {
@@ -140,7 +140,7 @@
   {
     "id": 24,
     "name": "Rough skin",
-    "effect": "Damages attacking PokÃÂÃÂ©mon for 1/8 their max HP on contact.",
+    "effect": "Damages attacking PokÃÂÃÂÃÂÃÂ©mon for 1/8 their max HP on contact.",
     "modified_for_rpg": false
   },
   {
@@ -158,19 +158,19 @@
   {
     "id": 27,
     "name": "Effect spore",
-    "effect": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking PokÃÂÃÂ©mon on contact.",
+    "effect": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking PokÃÂÃÂÃÂÃÂ©mon on contact.",
     "modified_for_rpg": false
   },
   {
     "id": 28,
     "name": "Synchronize",
-    "effect": "Copies burns, paralysis, and poison received onto the PokÃÂÃÂ©mon that inflicted them.",
+    "effect": "Copies burns, paralysis, and poison received onto the PokÃÂÃÂÃÂÃÂ©mon that inflicted them.",
     "modified_for_rpg": false
   },
   {
     "id": 29,
     "name": "Clear body",
-    "effect": "Prevents stats from being lowered by other PokÃÂÃÂ©mon.",
+    "effect": "Prevents stats from being lowered by other PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
@@ -182,7 +182,7 @@
   {
     "id": 31,
     "name": "Lightning rod",
-    "effect": "Redirects single-target electric moves to this PokÃÂÃÂ©mon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
+    "effect": "Redirects single-target electric moves to this PokÃÂÃÂÃÂÃÂ©mon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
     "modified_for_rpg": false
   },
   {
@@ -224,7 +224,7 @@
   {
     "id": 38,
     "name": "Poison point",
-    "effect": "Has a 30% chance of poisoning attacking PokÃÂÃÂ©mon on contact.",
+    "effect": "Has a 30% chance of poisoning attacking PokÃÂÃÂÃÂÃÂ©mon on contact.",
     "modified_for_rpg": false
   },
   {
@@ -272,7 +272,7 @@
   {
     "id": 46,
     "name": "Pressure",
-    "effect": "Increases the PP cost of moves targetting the PokÃÂÃÂ©mon by one.",
+    "effect": "Increases the PP cost of moves targetting the PokÃÂÃÂÃÂÃÂ©mon by one.",
     "modified_for_rpg": false
   },
   {
@@ -290,7 +290,7 @@
   {
     "id": 49,
     "name": "Flame body",
-    "effect": "A temperatura abrasadora do corpo do PokÃÂÃÂ©mon pode causar queimaduras ao menor toque. AlÃÂÃÂ©m disso, quando o portador carrega um ovo (estando fora da PokÃÂÃÂ©bola), seu calor natural acelera a incubaÃÂÃÂ§ÃÂÃÂ£o, reduzindo em -1 a contagem para chocÃÂÃÂ¡-lo.",
+    "effect": "A temperatura abrasadora do corpo do PokÃÂÃÂÃÂÃÂ©mon pode causar queimaduras ao menor toque. AlÃÂÃÂÃÂÃÂ©m disso, quando o portador carrega um ovo (estando fora da PokÃÂÃÂÃÂÃÂ©bola), seu calor natural acelera a incubaÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ£o, reduzindo em -1 a contagem para chocÃÂÃÂÃÂÃÂ¡-lo.",
     "modified_for_rpg": true
   },
   {
@@ -308,13 +308,13 @@
   {
     "id": 52,
     "name": "Hyper cutter",
-    "effect": "Prevents Attack from being lowered by other PokÃÂÃÂ©mon.",
+    "effect": "Prevents Attack from being lowered by other PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
     "id": 53,
     "name": "Pickup",
-    "effect": "Picks up other PokÃÂÃÂ©mon's used and Flung held items.  May also pick up an item after battle.",
+    "effect": "Picks up other PokÃÂÃÂÃÂÃÂ©mon's used and Flung held items.  May also pick up an item after battle.",
     "modified_for_rpg": false
   },
   {
@@ -326,25 +326,25 @@
   {
     "id": 55,
     "name": "Hustle",
-    "effect": "Strengthens physical moves to inflict 1.5ÃÂÃÂ damage, but decreases their accuracy to 0.8ÃÂÃÂ.",
+    "effect": "Strengthens physical moves to inflict 1.5ÃÂÃÂÃÂÃÂ damage, but decreases their accuracy to 0.8ÃÂÃÂÃÂÃÂ.",
     "modified_for_rpg": false
   },
   {
     "id": 56,
     "name": "Cute charm",
-    "effect": "Has a 30% chance of infatuating attacking PokÃÂÃÂ©mon on contact.",
+    "effect": "Has a 30% chance of infatuating attacking PokÃÂÃÂÃÂÃÂ©mon on contact.",
     "modified_for_rpg": false
   },
   {
     "id": 57,
     "name": "Plus",
-    "effect": "Increases Special Attack to 1.5ÃÂÃÂ when a friendly PokÃÂÃÂ©mon has plus or minus.",
+    "effect": "Increases Special Attack to 1.5ÃÂÃÂÃÂÃÂ when a friendly PokÃÂÃÂÃÂÃÂ©mon has plus or minus.",
     "modified_for_rpg": false
   },
   {
     "id": 58,
     "name": "Minus",
-    "effect": "Increases Special Attack to 1.5ÃÂÃÂ when a friendly PokÃÂÃÂ©mon has plus or minus.",
+    "effect": "Increases Special Attack to 1.5ÃÂÃÂÃÂÃÂ when a friendly PokÃÂÃÂÃÂÃÂ©mon has plus or minus.",
     "modified_for_rpg": false
   },
   {
@@ -356,7 +356,7 @@
   {
     "id": 60,
     "name": "Sticky hold",
-    "effect": "Prevents a held item from being removed by other PokÃÂÃÂ©mon.",
+    "effect": "Prevents a held item from being removed by other PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
@@ -368,13 +368,13 @@
   {
     "id": 62,
     "name": "Guts",
-    "effect": "Increases Attack to 1.5ÃÂÃÂ with a major status ailment.",
+    "effect": "Increases Attack to 1.5ÃÂÃÂÃÂÃÂ with a major status ailment.",
     "modified_for_rpg": false
   },
   {
     "id": 63,
     "name": "Marvel scale",
-    "effect": "Increases Defense to 1.5ÃÂÃÂ with a major status ailment.",
+    "effect": "Increases Defense to 1.5ÃÂÃÂÃÂÃÂ with a major status ailment.",
     "modified_for_rpg": false
   },
   {
@@ -386,25 +386,25 @@
   {
     "id": 65,
     "name": "Overgrow",
-    "effect": "Strengthens grass moves to inflict 1.5ÃÂÃÂ damage at 1/3 max HP or less.",
+    "effect": "Strengthens grass moves to inflict 1.5ÃÂÃÂÃÂÃÂ damage at 1/3 max HP or less.",
     "modified_for_rpg": false
   },
   {
     "id": 66,
     "name": "Blaze",
-    "effect": "Strengthens fire moves to inflict 1.5ÃÂÃÂ damage at 1/3 max HP or less.",
+    "effect": "Strengthens fire moves to inflict 1.5ÃÂÃÂÃÂÃÂ damage at 1/3 max HP or less.",
     "modified_for_rpg": false
   },
   {
     "id": 67,
     "name": "Torrent",
-    "effect": "Strengthens water moves to inflict 1.5ÃÂÃÂ damage at 1/3 max HP or less.",
+    "effect": "Strengthens water moves to inflict 1.5ÃÂÃÂÃÂÃÂ damage at 1/3 max HP or less.",
     "modified_for_rpg": false
   },
   {
     "id": 68,
     "name": "Swarm",
-    "effect": "Strengthens bug moves to inflict 1.5ÃÂÃÂ damage at 1/3 max HP or less.",
+    "effect": "Strengthens bug moves to inflict 1.5ÃÂÃÂÃÂÃÂ damage at 1/3 max HP or less.",
     "modified_for_rpg": false
   },
   {
@@ -422,7 +422,7 @@
   {
     "id": 71,
     "name": "Arena trap",
-    "effect": "Prevents opponents from fleeing or switching out.  Eluded by flying-types and PokÃÂÃÂ©mon in the air.",
+    "effect": "Prevents opponents from fleeing or switching out.  Eluded by flying-types and PokÃÂÃÂÃÂÃÂ©mon in the air.",
     "modified_for_rpg": false
   },
   {
@@ -434,7 +434,7 @@
   {
     "id": 73,
     "name": "White smoke",
-    "effect": "Prevents stats from being lowered by other PokÃÂÃÂ©mon.",
+    "effect": "Prevents stats from being lowered by other PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
@@ -470,7 +470,7 @@
   {
     "id": 79,
     "name": "Rivalry",
-    "effect": "Increases damage inflicted to 1.25ÃÂÃÂ against PokÃÂÃÂ©mon of the same gender, but decreases damage to 0.75ÃÂÃÂ against the opposite gender.",
+    "effect": "Increases damage inflicted to 1.25ÃÂÃÂÃÂÃÂ against PokÃÂÃÂÃÂÃÂ©mon of the same gender, but decreases damage to 0.75ÃÂÃÂÃÂÃÂ against the opposite gender.",
     "modified_for_rpg": false
   },
   {
@@ -482,13 +482,13 @@
   {
     "id": 81,
     "name": "Snow cloak",
-    "effect": "Increases evasion to 1.25ÃÂÃÂ during hail.  Protects against hail damage.",
+    "effect": "Increases evasion to 1.25ÃÂÃÂÃÂÃÂ during hail.  Protects against hail damage.",
     "modified_for_rpg": false
   },
   {
     "id": 82,
     "name": "Gluttony",
-    "effect": "Makes the PokÃÂÃÂ©mon eat any held Berry triggered by low HP below 1/2 its max HP.",
+    "effect": "Makes the PokÃÂÃÂÃÂÃÂ©mon eat any held Berry triggered by low HP below 1/2 its max HP.",
     "modified_for_rpg": false
   },
   {
@@ -512,13 +512,13 @@
   {
     "id": 86,
     "name": "Simple",
-    "effect": "Doubles the PokÃÂÃÂ©mon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages.",
+    "effect": "Doubles the PokÃÂÃÂÃÂÃÂ©mon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages.",
     "modified_for_rpg": false
   },
   {
     "id": 87,
     "name": "Dry skin",
-    "effect": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25ÃÂÃÂ, but absorbs water moves, healing for 1/4 max HP.",
+    "effect": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25ÃÂÃÂÃÂÃÂ, but absorbs water moves, healing for 1/4 max HP.",
     "modified_for_rpg": false
   },
   {
@@ -530,7 +530,7 @@
   {
     "id": 89,
     "name": "Iron fist",
-    "effect": "Strengthens punch-based moves to 1.2ÃÂÃÂ their power.",
+    "effect": "Strengthens punch-based moves to 1.2ÃÂÃÂÃÂÃÂ their power.",
     "modified_for_rpg": false
   },
   {
@@ -542,7 +542,7 @@
   {
     "id": 91,
     "name": "Adaptability",
-    "effect": "Increases the same-type attack bonus from 1.5ÃÂÃÂ to 2ÃÂÃÂ.",
+    "effect": "Increases the same-type attack bonus from 1.5ÃÂÃÂÃÂÃÂ to 2ÃÂÃÂÃÂÃÂ.",
     "modified_for_rpg": false
   },
   {
@@ -560,25 +560,25 @@
   {
     "id": 94,
     "name": "Solar power",
-    "effect": "Increases Special Attack to 1.5ÃÂÃÂ but costs 1/8 max HP after each turn during strong sunlight.",
+    "effect": "Increases Special Attack to 1.5ÃÂÃÂÃÂÃÂ but costs 1/8 max HP after each turn during strong sunlight.",
     "modified_for_rpg": false
   },
   {
     "id": 95,
     "name": "Quick feet",
-    "effect": "Increases Speed to 1.5ÃÂÃÂ with a major status ailment.",
+    "effect": "Increases Speed to 1.5ÃÂÃÂÃÂÃÂ with a major status ailment.",
     "modified_for_rpg": false
   },
   {
     "id": 96,
     "name": "Normalize",
-    "effect": "Makes the PokÃÂÃÂ©mon's moves all act normal-type.",
+    "effect": "Makes the PokÃÂÃÂÃÂÃÂ©mon's moves all act normal-type.",
     "modified_for_rpg": false
   },
   {
     "id": 97,
     "name": "Sniper",
-    "effect": "Strengthens critical hits to inflict 3ÃÂÃÂ damage rather than 2ÃÂÃÂ.",
+    "effect": "Strengthens critical hits to inflict 3ÃÂÃÂÃÂÃÂ damage rather than 2ÃÂÃÂÃÂÃÂ.",
     "modified_for_rpg": false
   },
   {
@@ -590,19 +590,19 @@
   {
     "id": 99,
     "name": "No guard",
-    "effect": "Ensures all moves used by and against the PokÃÂÃÂ©mon hit.",
+    "effect": "Ensures all moves used by and against the PokÃÂÃÂÃÂÃÂ©mon hit.",
     "modified_for_rpg": false
   },
   {
     "id": 100,
     "name": "Stall",
-    "effect": "Makes the PokÃÂÃÂ©mon move last within its move's priority bracket.",
+    "effect": "Makes the PokÃÂÃÂÃÂÃÂ©mon move last within its move's priority bracket.",
     "modified_for_rpg": false
   },
   {
     "id": 101,
     "name": "Technician",
-    "effect": "Strengthens moves of 60 base power or less to 1.5ÃÂÃÂ their power.",
+    "effect": "Strengthens moves of 60 base power or less to 1.5ÃÂÃÂÃÂÃÂ their power.",
     "modified_for_rpg": false
   },
   {
@@ -614,7 +614,7 @@
   {
     "id": 103,
     "name": "Klutz",
-    "effect": "Prevents the PokÃÂÃÂ©mon from using its held item in battle.",
+    "effect": "Prevents the PokÃÂÃÂÃÂÃÂ©mon from using its held item in battle.",
     "modified_for_rpg": false
   },
   {
@@ -650,7 +650,7 @@
   {
     "id": 109,
     "name": "Unaware",
-    "effect": "Ignores other PokÃÂÃÂ©mon's stat modifiers for damage and accuracy calculation.",
+    "effect": "Ignores other PokÃÂÃÂÃÂÃÂ©mon's stat modifiers for damage and accuracy calculation.",
     "modified_for_rpg": false
   },
   {
@@ -674,13 +674,13 @@
   {
     "id": 113,
     "name": "Scrappy",
-    "effect": "Lets the PokÃÂÃÂ©mon's normal and fighting moves hit ghost PokÃÂÃÂ©mon.",
+    "effect": "Lets the PokÃÂÃÂÃÂÃÂ©mon's normal and fighting moves hit ghost PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
     "id": 114,
     "name": "Storm drain",
-    "effect": "Redirects single-target water moves to this PokÃÂÃÂ©mon where possible.  Absorbs Water moves, raising Special Attack one stage.",
+    "effect": "Redirects single-target water moves to this PokÃÂÃÂÃÂÃÂ©mon where possible.  Absorbs Water moves, raising Special Attack one stage.",
     "modified_for_rpg": false
   },
   {
@@ -704,7 +704,7 @@
   {
     "id": 118,
     "name": "Honey gather",
-    "effect": "The PokÃÂÃÂ©mon may pick up honey after battle.",
+    "effect": "The PokÃÂÃÂÃÂÃÂ©mon may pick up honey after battle.",
     "modified_for_rpg": false
   },
   {
@@ -716,7 +716,7 @@
   {
     "id": 120,
     "name": "Reckless",
-    "effect": "Strengthens recoil moves to 1.2ÃÂÃÂ their power.",
+    "effect": "Strengthens recoil moves to 1.2ÃÂÃÂÃÂÃÂ their power.",
     "modified_for_rpg": false
   },
   {
@@ -728,7 +728,7 @@
   {
     "id": 122,
     "name": "Flower gift",
-    "effect": "Increases friendly PokÃÂÃÂ©mon's Attack and Special Defense to 1.5ÃÂÃÂ during strong sunlight.",
+    "effect": "Increases friendly PokÃÂÃÂÃÂÃÂ©mon's Attack and Special Defense to 1.5ÃÂÃÂÃÂÃÂ during strong sunlight.",
     "modified_for_rpg": false
   },
   {
@@ -740,13 +740,13 @@
   {
     "id": 124,
     "name": "Pickpocket",
-    "effect": "Steals attacking PokÃÂÃÂ©mon's held items on contact.",
+    "effect": "Steals attacking PokÃÂÃÂÃÂÃÂ©mon's held items on contact.",
     "modified_for_rpg": false
   },
   {
     "id": 125,
     "name": "Sheer force",
-    "effect": "Strengthens moves with extra effects to 1.3ÃÂÃÂ their power, but prevents their extra effects.",
+    "effect": "Strengthens moves with extra effects to 1.3ÃÂÃÂÃÂÃÂ their power, but prevents their extra effects.",
     "modified_for_rpg": false
   },
   {
@@ -758,7 +758,7 @@
   {
     "id": 127,
     "name": "Unnerve",
-    "effect": "Prevents opposing PokÃÂÃÂ©mon from eating held Berries.",
+    "effect": "Prevents opposing PokÃÂÃÂÃÂÃÂ©mon from eating held Berries.",
     "modified_for_rpg": false
   },
   {
@@ -776,7 +776,7 @@
   {
     "id": 130,
     "name": "Cursed body",
-    "effect": "Has a 30% chance of Disabling any move that hits the PokÃÂÃÂ©mon.",
+    "effect": "Has a 30% chance of Disabling any move that hits the PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
@@ -788,7 +788,7 @@
   {
     "id": 132,
     "name": "Friend guard",
-    "effect": "Decreases all direct damage taken by friendly PokÃÂÃÂ©mon to 0.75ÃÂÃÂ.",
+    "effect": "Decreases all direct damage taken by friendly PokÃÂÃÂÃÂÃÂ©mon to 0.75ÃÂÃÂÃÂÃÂ.",
     "modified_for_rpg": false
   },
   {
@@ -800,13 +800,13 @@
   {
     "id": 134,
     "name": "Heavy metal",
-    "effect": "Doubles the PokÃÂÃÂ©mon's weight.",
+    "effect": "Doubles the PokÃÂÃÂÃÂÃÂ©mon's weight.",
     "modified_for_rpg": false
   },
   {
     "id": 135,
     "name": "Light metal",
-    "effect": "Halves the PokÃÂÃÂ©mon's weight.",
+    "effect": "Halves the PokÃÂÃÂÃÂÃÂ©mon's weight.",
     "modified_for_rpg": false
   },
   {
@@ -818,25 +818,25 @@
   {
     "id": 137,
     "name": "Toxic boost",
-    "effect": "Increases Attack to 1.5ÃÂÃÂ when poisoned.",
+    "effect": "Increases Attack to 1.5ÃÂÃÂÃÂÃÂ when poisoned.",
     "modified_for_rpg": false
   },
   {
     "id": 138,
     "name": "Flare boost",
-    "effect": "Increases Special Attack to 1.5ÃÂÃÂ when burned.",
+    "effect": "Increases Special Attack to 1.5ÃÂÃÂÃÂÃÂ when burned.",
     "modified_for_rpg": false
   },
   {
     "id": 139,
     "name": "Harvest",
-    "effect": "Has a 50% chance of restoring a used Berry after each turn if the PokÃÂÃÂ©mon has held no items in the meantime.",
+    "effect": "Has a 50% chance of restoring a used Berry after each turn if the PokÃÂÃÂÃÂÃÂ©mon has held no items in the meantime.",
     "modified_for_rpg": false
   },
   {
     "id": 140,
     "name": "Telepathy",
-    "effect": "Protects against friendly PokÃÂÃÂ©mon's damaging moves.",
+    "effect": "Protects against friendly PokÃÂÃÂÃÂÃÂ©mon's damaging moves.",
     "modified_for_rpg": false
   },
   {
@@ -854,7 +854,7 @@
   {
     "id": 143,
     "name": "Poison touch",
-    "effect": "Has a 30% chance of poisoning target PokÃÂÃÂ©mon upon contact.",
+    "effect": "Has a 30% chance of poisoning target PokÃÂÃÂÃÂÃÂ©mon upon contact.",
     "modified_for_rpg": false
   },
   {
@@ -884,13 +884,13 @@
   {
     "id": 148,
     "name": "Analytic",
-    "effect": "Strengthens moves to 1.3ÃÂÃÂ their power when moving last.",
+    "effect": "Strengthens moves to 1.3ÃÂÃÂÃÂÃÂ their power when moving last.",
     "modified_for_rpg": false
   },
   {
     "id": 149,
     "name": "Illusion",
-    "effect": "Takes the appearance of the last conscious party PokÃÂÃÂ©mon upon being sent out until hit by a damaging move.",
+    "effect": "Takes the appearance of the last conscious party PokÃÂÃÂÃÂÃÂ©mon upon being sent out until hit by a damaging move.",
     "modified_for_rpg": false
   },
   {
@@ -908,13 +908,13 @@
   {
     "id": 152,
     "name": "Mummy",
-    "effect": "Changes attacking PokÃÂÃÂ©mon's abilities to Mummy on contact.",
+    "effect": "Changes attacking PokÃÂÃÂÃÂÃÂ©mon's abilities to Mummy on contact.",
     "modified_for_rpg": false
   },
   {
     "id": 153,
     "name": "Moxie",
-    "effect": "Raises Attack one stage upon KOing a PokÃÂÃÂ©mon.",
+    "effect": "Raises Attack one stage upon KOing a PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
@@ -950,13 +950,13 @@
   {
     "id": 159,
     "name": "Sand force",
-    "effect": "Strengthens rock, ground, and steel moves to 1.3ÃÂÃÂ their power during a sandstorm.  Protects against sandstorm damage.",
+    "effect": "Strengthens rock, ground, and steel moves to 1.3ÃÂÃÂÃÂÃÂ their power during a sandstorm.  Protects against sandstorm damage.",
     "modified_for_rpg": false
   },
   {
     "id": 160,
     "name": "Iron barbs",
-    "effect": "Damages attacking PokÃÂÃÂ©mon for 1/8 their max HP on contact.",
+    "effect": "Damages attacking PokÃÂÃÂÃÂÃÂ©mon for 1/8 their max HP on contact.",
     "modified_for_rpg": false
   },
   {
@@ -968,7 +968,7 @@
   {
     "id": 162,
     "name": "Victory star",
-    "effect": "Increases moves' accuracy to 1.1ÃÂÃÂ for friendly PokÃÂÃÂ©mon.",
+    "effect": "Increases moves' accuracy to 1.1ÃÂÃÂÃÂÃÂ for friendly PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
@@ -992,7 +992,7 @@
   {
     "id": 166,
     "name": "Flower veil",
-    "effect": "Protects friendly grass PokÃÂÃÂ©mon from having their stats lowered by other PokÃÂÃÂ©mon.",
+    "effect": "Protects friendly grass PokÃÂÃÂÃÂÃÂ©mon from having their stats lowered by other PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
@@ -1034,19 +1034,19 @@
   {
     "id": 173,
     "name": "Strong jaw",
-    "effect": "Strengthens biting moves to 1.5ÃÂÃÂ their power.",
+    "effect": "Strengthens biting moves to 1.5ÃÂÃÂÃÂÃÂ their power.",
     "modified_for_rpg": false
   },
   {
     "id": 174,
     "name": "Refrigerate",
-    "effect": "Turns the bearer's normal moves into ice moves and strengthens them to 1.3ÃÂÃÂ their power.",
+    "effect": "Turns the bearer's normal moves into ice moves and strengthens them to 1.3ÃÂÃÂÃÂÃÂ their power.",
     "modified_for_rpg": false
   },
   {
     "id": 175,
     "name": "Sweet veil",
-    "effect": "Prevents friendly PokÃÂÃÂ©mon from sleeping.",
+    "effect": "Prevents friendly PokÃÂÃÂÃÂÃÂ©mon from sleeping.",
     "modified_for_rpg": false
   },
   {
@@ -1064,7 +1064,7 @@
   {
     "id": 178,
     "name": "Mega launcher",
-    "effect": "Strengthens aura and pulse moves to 1.5ÃÂÃÂ their power.",
+    "effect": "Strengthens aura and pulse moves to 1.5ÃÂÃÂÃÂÃÂ their power.",
     "modified_for_rpg": false
   },
   {
@@ -1082,25 +1082,25 @@
   {
     "id": 181,
     "name": "Tough claws",
-    "effect": "Strengthens moves that make contact to 1.33ÃÂÃÂ their power.",
+    "effect": "Strengthens moves that make contact to 1.33ÃÂÃÂÃÂÃÂ their power.",
     "modified_for_rpg": false
   },
   {
     "id": 182,
     "name": "Pixilate",
-    "effect": "Turns the bearer's normal moves into fairy moves and strengthens them to 1.3ÃÂÃÂ their power.",
+    "effect": "Turns the bearer's normal moves into fairy moves and strengthens them to 1.3ÃÂÃÂÃÂÃÂ their power.",
     "modified_for_rpg": false
   },
   {
     "id": 183,
     "name": "Gooey",
-    "effect": "Lowers attacking PokÃÂÃÂ©mon's Speed by one stage on contact.",
+    "effect": "Lowers attacking PokÃÂÃÂÃÂÃÂ©mon's Speed by one stage on contact.",
     "modified_for_rpg": false
   },
   {
     "id": 184,
     "name": "Aerilate",
-    "effect": "Turns the bearer's normal moves into flying moves and strengthens them to 1.3ÃÂÃÂ their power.",
+    "effect": "Turns the bearer's normal moves into flying moves and strengthens them to 1.3ÃÂÃÂÃÂÃÂ their power.",
     "modified_for_rpg": false
   },
   {
@@ -1112,13 +1112,13 @@
   {
     "id": 186,
     "name": "Dark aura",
-    "effect": "Strengthens dark moves to 1.33ÃÂÃÂ their power for all friendly and opposing PokÃÂÃÂ©mon.",
+    "effect": "Strengthens dark moves to 1.33ÃÂÃÂÃÂÃÂ their power for all friendly and opposing PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
     "id": 187,
     "name": "Fairy aura",
-    "effect": "Strengthens fairy moves to 1.33ÃÂÃÂ their power for all friendly and opposing PokÃÂÃÂ©mon.",
+    "effect": "Strengthens fairy moves to 1.33ÃÂÃÂÃÂÃÂ their power for all friendly and opposing PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
@@ -1142,37 +1142,37 @@
   {
     "id": 191,
     "name": "Delta stream",
-    "effect": "Creates a mysterious air current, which cannot be replaced and causes moves to never be super effective against Flying PokÃÂÃÂ©mon.",
+    "effect": "Creates a mysterious air current, which cannot be replaced and causes moves to never be super effective against Flying PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
     "id": 192,
     "name": "Stamina",
-    "effect": "Raises this PokÃÂÃÂ©mon's Defense by one stage when it takes damage from a move.",
+    "effect": "Raises this PokÃÂÃÂÃÂÃÂ©mon's Defense by one stage when it takes damage from a move.",
     "modified_for_rpg": false
   },
   {
     "id": 193,
     "name": "Wimp out",
-    "effect": "This PokÃÂÃÂ©mon automatically switches out when its HP drops below half.",
+    "effect": "This PokÃÂÃÂÃÂÃÂ©mon automatically switches out when its HP drops below half.",
     "modified_for_rpg": false
   },
   {
     "id": 194,
     "name": "Emergency exit",
-    "effect": "This PokÃÂÃÂ©mon automatically switches out when its HP drops below half.",
+    "effect": "This PokÃÂÃÂÃÂÃÂ©mon automatically switches out when its HP drops below half.",
     "modified_for_rpg": false
   },
   {
     "id": 195,
     "name": "Water compaction",
-    "effect": "Raises this PokÃÂÃÂ©mon's Defense by two stages when it's hit by a Water move.",
+    "effect": "Raises this PokÃÂÃÂÃÂÃÂ©mon's Defense by two stages when it's hit by a Water move.",
     "modified_for_rpg": false
   },
   {
     "id": 196,
     "name": "Merciless",
-    "effect": "This PokÃÂÃÂ©mon's moves critical hit against poisoned targets.",
+    "effect": "This PokÃÂÃÂÃÂÃÂ©mon's moves critical hit against poisoned targets.",
     "modified_for_rpg": false
   },
   {
@@ -1184,7 +1184,7 @@
   {
     "id": 198,
     "name": "Stakeout",
-    "effect": "This PokÃÂÃÂ©mon's moves have double power against PokÃÂÃÂ©mon that switched in this turn.",
+    "effect": "This PokÃÂÃÂÃÂÃÂ©mon's moves have double power against PokÃÂÃÂÃÂÃÂ©mon that switched in this turn.",
     "modified_for_rpg": false
   },
   {
@@ -1196,25 +1196,25 @@
   {
     "id": 200,
     "name": "Steelworker",
-    "effect": "This PokÃÂÃÂ©mon's Steel moves have 1.5ÃÂÃÂ power.",
+    "effect": "This PokÃÂÃÂÃÂÃÂ©mon's Steel moves have 1.5ÃÂÃÂÃÂÃÂ power.",
     "modified_for_rpg": false
   },
   {
     "id": 201,
     "name": "Berserk",
-    "effect": "Raises this PokÃÂÃÂ©mon's Special Attack by one stage every time its HP drops below half.",
+    "effect": "Raises this PokÃÂÃÂÃÂÃÂ©mon's Special Attack by one stage every time its HP drops below half.",
     "modified_for_rpg": false
   },
   {
     "id": 202,
     "name": "Slush rush",
-    "effect": "During Hail, this PokÃÂÃÂ©mon has double Speed.",
+    "effect": "During Hail, this PokÃÂÃÂÃÂÃÂ©mon has double Speed.",
     "modified_for_rpg": false
   },
   {
     "id": 203,
     "name": "Long reach",
-    "effect": "This PokÃÂÃÂ©mon's moves do not make contact.",
+    "effect": "This PokÃÂÃÂÃÂÃÂ©mon's moves do not make contact.",
     "modified_for_rpg": false
   },
   {
@@ -1226,19 +1226,19 @@
   {
     "id": 205,
     "name": "Triage",
-    "effect": "This PokÃÂÃÂ©mon's healing moves have their priority increased by 3.",
+    "effect": "This PokÃÂÃÂÃÂÃÂ©mon's healing moves have their priority increased by 3.",
     "modified_for_rpg": false
   },
   {
     "id": 206,
     "name": "Galvanize",
-    "effect": "This PokÃÂÃÂ©mon's Normal moves are Electric and have their power increased to 1.2ÃÂÃÂ.",
+    "effect": "This PokÃÂÃÂÃÂÃÂ©mon's Normal moves are Electric and have their power increased to 1.2ÃÂÃÂÃÂÃÂ.",
     "modified_for_rpg": false
   },
   {
     "id": 207,
     "name": "Surge surfer",
-    "effect": "Doubles this PokÃÂÃÂ©mon's Speed on Electric Terrain.",
+    "effect": "Doubles this PokÃÂÃÂÃÂÃÂ©mon's Speed on Electric Terrain.",
     "modified_for_rpg": false
   },
   {
@@ -1256,7 +1256,7 @@
   {
     "id": 210,
     "name": "Battle bond",
-    "effect": "Transforms this PokÃÂÃÂ©mon into Ash-Greninja after fainting an opponent.  Water Shuriken's power is 20 and always hits three times.",
+    "effect": "Transforms this PokÃÂÃÂÃÂÃÂ©mon into Ash-Greninja after fainting an opponent.  Water Shuriken's power is 20 and always hits three times.",
     "modified_for_rpg": false
   },
   {
@@ -1268,37 +1268,37 @@
   {
     "id": 212,
     "name": "Corrosion",
-    "effect": "This PokÃÂÃÂ©mon can inflict poison on Poison and Steel PokÃÂÃÂ©mon.",
+    "effect": "This PokÃÂÃÂÃÂÃÂ©mon can inflict poison on Poison and Steel PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
     "id": 213,
     "name": "Comatose",
-    "effect": "This PokÃÂÃÂ©mon always  acts as though it were Asleep.",
+    "effect": "This PokÃÂÃÂÃÂÃÂ©mon always  acts as though it were Asleep.",
     "modified_for_rpg": false
   },
   {
     "id": 214,
     "name": "Queenly majesty",
-    "effect": "Opposing PokÃÂÃÂ©mon cannot use priority attacks.",
+    "effect": "Opposing PokÃÂÃÂÃÂÃÂ©mon cannot use priority attacks.",
     "modified_for_rpg": false
   },
   {
     "id": 215,
     "name": "Innards out",
-    "effect": "When this PokÃÂÃÂ©mon faints from an opponent's move, that opponent takes damage equal to the HP this PokÃÂÃÂ©mon had remaining.",
+    "effect": "When this PokÃÂÃÂÃÂÃÂ©mon faints from an opponent's move, that opponent takes damage equal to the HP this PokÃÂÃÂÃÂÃÂ©mon had remaining.",
     "modified_for_rpg": false
   },
   {
     "id": 216,
     "name": "Dancer",
-    "effect": "Whenever another PokÃÂÃÂ©mon uses a dance move, this PokÃÂÃÂ©mon will use the same move immediately afterwards.",
+    "effect": "Whenever another PokÃÂÃÂÃÂÃÂ©mon uses a dance move, this PokÃÂÃÂÃÂÃÂ©mon will use the same move immediately afterwards.",
     "modified_for_rpg": false
   },
   {
     "id": 217,
     "name": "Battery",
-    "effect": "Ally PokÃÂÃÂ©mon's moves have their power increased to 1.3ÃÂÃÂ.",
+    "effect": "Ally PokÃÂÃÂÃÂÃÂ©mon's moves have their power increased to 1.3ÃÂÃÂÃÂÃÂ.",
     "modified_for_rpg": false
   },
   {
@@ -1310,91 +1310,91 @@
   {
     "id": 219,
     "name": "Dazzling",
-    "effect": "Opposing PokÃÂÃÂ©mon cannot use priority attacks.",
+    "effect": "Opposing PokÃÂÃÂÃÂÃÂ©mon cannot use priority attacks.",
     "modified_for_rpg": false
   },
   {
     "id": 220,
     "name": "Soul heart",
-    "effect": "This PokÃÂÃÂ©mon's Special Attack rises by one stage every time any PokÃÂÃÂ©mon faints.",
+    "effect": "This PokÃÂÃÂÃÂÃÂ©mon's Special Attack rises by one stage every time any PokÃÂÃÂÃÂÃÂ©mon faints.",
     "modified_for_rpg": false
   },
   {
     "id": 221,
     "name": "Tangling hair",
-    "effect": "When this PokÃÂÃÂ©mon takes regular damage from a contact move, the attacking PokÃÂÃÂ©mon's Speed lowers by one stage.",
+    "effect": "When this PokÃÂÃÂÃÂÃÂ©mon takes regular damage from a contact move, the attacking PokÃÂÃÂÃÂÃÂ©mon's Speed lowers by one stage.",
     "modified_for_rpg": false
   },
   {
     "id": 222,
     "name": "Receiver",
-    "effect": "When an ally faints, this PokÃÂÃÂ©mon gains its Ability.",
+    "effect": "When an ally faints, this PokÃÂÃÂÃÂÃÂ©mon gains its Ability.",
     "modified_for_rpg": false
   },
   {
     "id": 223,
     "name": "Power of alchemy",
-    "effect": "When an ally faints, this PokÃÂÃÂ©mon gains its Ability.",
+    "effect": "When an ally faints, this PokÃÂÃÂÃÂÃÂ©mon gains its Ability.",
     "modified_for_rpg": false
   },
   {
     "id": 224,
     "name": "Beast boost",
-    "effect": "Raises this PokÃÂÃÂ©mon's highest stat by one stage when it faints another PokÃÂÃÂ©mon.",
+    "effect": "Raises this PokÃÂÃÂÃÂÃÂ©mon's highest stat by one stage when it faints another PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
     "id": 225,
     "name": "Rks system",
-    "effect": "Changes this PokÃÂÃÂ©mon's type to match its held Memory.",
+    "effect": "Changes this PokÃÂÃÂÃÂÃÂ©mon's type to match its held Memory.",
     "modified_for_rpg": false
   },
   {
     "id": 226,
     "name": "Electric surge",
-    "effect": "When this PokÃÂÃÂ©mon enters battle, it changes the terrain to Electric Terrain.",
+    "effect": "When this PokÃÂÃÂÃÂÃÂ©mon enters battle, it changes the terrain to Electric Terrain.",
     "modified_for_rpg": false
   },
   {
     "id": 227,
     "name": "Psychic surge",
-    "effect": "When this PokÃÂÃÂ©mon enters battle, it changes the terrain to Psychic Terrain.",
+    "effect": "When this PokÃÂÃÂÃÂÃÂ©mon enters battle, it changes the terrain to Psychic Terrain.",
     "modified_for_rpg": false
   },
   {
     "id": 228,
     "name": "Misty surge",
-    "effect": "When this PokÃÂÃÂ©mon enters battle, it changes the terrain to Misty Terrain.",
+    "effect": "When this PokÃÂÃÂÃÂÃÂ©mon enters battle, it changes the terrain to Misty Terrain.",
     "modified_for_rpg": false
   },
   {
     "id": 229,
     "name": "Grassy surge",
-    "effect": "When this PokÃÂÃÂ©mon enters battle, it changes the terrain to Grassy Terrain.",
+    "effect": "When this PokÃÂÃÂÃÂÃÂ©mon enters battle, it changes the terrain to Grassy Terrain.",
     "modified_for_rpg": false
   },
   {
     "id": 230,
     "name": "Full metal body",
-    "effect": "Other PokÃÂÃÂ©mon cannot lower this PokÃÂÃÂ©mon's stats.",
+    "effect": "Other PokÃÂÃÂÃÂÃÂ©mon cannot lower this PokÃÂÃÂÃÂÃÂ©mon's stats.",
     "modified_for_rpg": false
   },
   {
     "id": 231,
     "name": "Shadow shield",
-    "effect": "When this PokÃÂÃÂ©mon has full HP, regular damage from moves is halved.",
+    "effect": "When this PokÃÂÃÂÃÂÃÂ©mon has full HP, regular damage from moves is halved.",
     "modified_for_rpg": false
   },
   {
     "id": 232,
     "name": "Prism armor",
-    "effect": "Reduces super-effective damage to 0.75ÃÂÃÂ.",
+    "effect": "Reduces super-effective damage to 0.75ÃÂÃÂÃÂÃÂ.",
     "modified_for_rpg": false
   },
   {
     "id": 233,
     "name": "Neuroforce",
-    "effect": "Increases super-effective damage dealt to 1.25ÃÂÃÂ.",
+    "effect": "Increases super-effective damage dealt to 1.25ÃÂÃÂÃÂÃÂ.",
     "modified_for_rpg": false
   },
   {
@@ -1412,13 +1412,13 @@
   {
     "id": 236,
     "name": "Libero",
-    "effect": "Libero changes the PokÃÂÃÂ©mon's type to that of its previously used attack.",
+    "effect": "Libero changes the PokÃÂÃÂÃÂÃÂ©mon's type to that of its previously used attack.",
     "modified_for_rpg": false
   },
   {
     "id": 237,
     "name": "Ball fetch",
-    "effect": "If the PokÃÂÃÂ©mon is not holding an item, it will fetch the PokÃÂÃÂ© Ball from the first failed throw of the battle.",
+    "effect": "If the PokÃÂÃÂÃÂÃÂ©mon is not holding an item, it will fetch the PokÃÂÃÂÃÂÃÂ© Ball from the first failed throw of the battle.",
     "modified_for_rpg": false
   },
   {
@@ -1454,7 +1454,7 @@
   {
     "id": 243,
     "name": "Steam engine",
-    "effect": "Boosts the Speed stat drastically when the PokÃÂÃÂ©mon is hit by a Fire- or Water-type move.",
+    "effect": "Boosts the Speed stat drastically when the PokÃÂÃÂÃÂÃÂ©mon is hit by a Fire- or Water-type move.",
     "modified_for_rpg": false
   },
   {
@@ -1484,13 +1484,13 @@
   {
     "id": 248,
     "name": "Ice face",
-    "effect": "The PokÃÂÃÂ©monÃÂ¢ÃÂÃÂs ice head can take a physical attack as a substitute, but the attack also changes the PokÃÂÃÂ©monÃÂ¢ÃÂÃÂs appearance. The ice will be restored when it snows.",
+    "effect": "The PokÃÂÃÂÃÂÃÂ©monÃÂÃÂ¢ÃÂÃÂÃÂÃÂs ice head can take a physical attack as a substitute, but the attack also changes the PokÃÂÃÂÃÂÃÂ©monÃÂÃÂ¢ÃÂÃÂÃÂÃÂs appearance. The ice will be restored when it snows.",
     "modified_for_rpg": false
   },
   {
     "id": 249,
     "name": "Power spot",
-    "effect": "Just being next to the PokÃÂÃÂ©mon powers up moves.",
+    "effect": "Just being next to the PokÃÂÃÂÃÂÃÂ©mon powers up moves.",
     "modified_for_rpg": false
   },
   {
@@ -1508,13 +1508,13 @@
   {
     "id": 252,
     "name": "Steely spirit",
-    "effect": "Powers up ally PokÃÂÃÂ©mon's Steel-type moves.",
+    "effect": "Powers up ally PokÃÂÃÂÃÂÃÂ©mon's Steel-type moves.",
     "modified_for_rpg": false
   },
   {
     "id": 253,
     "name": "Perish body",
-    "effect": "When hit by a move that makes direct contact, the PokÃÂÃÂ©mon and the attacker will faint after three turns unless they switch out of battle.",
+    "effect": "When hit by a move that makes direct contact, the PokÃÂÃÂÃÂÃÂ©mon and the attacker will faint after three turns unless they switch out of battle.",
     "modified_for_rpg": false
   },
   {
@@ -1526,19 +1526,19 @@
   {
     "id": 255,
     "name": "Gorilla tactics",
-    "effect": "Boosts the PokÃÂÃÂ©mon's Attack stat but only allows the use of the first selected move.",
+    "effect": "Boosts the PokÃÂÃÂÃÂÃÂ©mon's Attack stat but only allows the use of the first selected move.",
     "modified_for_rpg": false
   },
   {
     "id": 256,
     "name": "Neutralizing gas",
-    "effect": "Neutralizes abilities of all PokÃÂÃÂ©mon in battle.",
+    "effect": "Neutralizes abilities of all PokÃÂÃÂÃÂÃÂ©mon in battle.",
     "modified_for_rpg": false
   },
   {
     "id": 257,
     "name": "Pastel veil",
-    "effect": "Prevents the PokÃÂÃÂ©mon and its allies from being poisoned.",
+    "effect": "Prevents the PokÃÂÃÂÃÂÃÂ©mon and its allies from being poisoned.",
     "modified_for_rpg": false
   },
   {
@@ -1550,7 +1550,7 @@
   {
     "id": 259,
     "name": "Quick draw",
-    "effect": "Enables the PokÃÂÃÂ©mon to move first occasionally.",
+    "effect": "Enables the PokÃÂÃÂÃÂÃÂ©mon to move first occasionally.",
     "modified_for_rpg": false
   },
   {
@@ -1580,13 +1580,13 @@
   {
     "id": 264,
     "name": "Chilling neigh",
-    "effect": "Boosts Attack after knocking out a PokÃÂÃÂ©mon.",
+    "effect": "Boosts Attack after knocking out a PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
     "id": 265,
     "name": "Grim neigh",
-    "effect": "Boosts Special Attack after knocking out a PokÃÂÃÂ©mon.",
+    "effect": "Boosts Special Attack after knocking out a PokÃÂÃÂÃÂÃÂ©mon.",
     "modified_for_rpg": false
   },
   {
@@ -1610,7 +1610,7 @@
   {
     "id": 269,
     "name": "Seed sower",
-    "effect": "Turns the ground into Grassy Terrain when the PokÃÂÃÂ©mon is hit by an attack.",
+    "effect": "Turns the ground into Grassy Terrain when the PokÃÂÃÂÃÂÃÂ©mon is hit by an attack.",
     "modified_for_rpg": false
   },
   {
@@ -1622,7 +1622,7 @@
   {
     "id": 271,
     "name": "Anger shell",
-    "effect": "When the PokÃÂÃÂ©mon's HP drops below half, Anger Shell lowers its Defense and Special Defense but its Attack, Special Attack and Speed are raised.",
+    "effect": "When the PokÃÂÃÂÃÂÃÂ©mon's HP drops below half, Anger Shell lowers its Defense and Special Defense but its Attack, Special Attack and Speed are raised.",
     "modified_for_rpg": false
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "id": 274,
     "name": "Wind rider",
-    "effect": "Gives immunity to wind moves, and causes the PokÃÂÃÂ©mon's Attack to increase by one stage when hit by one.",
+    "effect": "Gives immunity to wind moves, and causes the PokÃÂÃÂÃÂÃÂ©mon's Attack to increase by one stage when hit by one.",
     "modified_for_rpg": false
   },
   {
@@ -1700,25 +1700,25 @@
   {
     "id": 284,
     "name": "Vessel of ruin",
-    "effect": "Lowers Special Attack of all PokÃÂÃÂ©mon except itself.",
+    "effect": "Lowers Special Attack of all PokÃÂÃÂÃÂÃÂ©mon except itself.",
     "modified_for_rpg": false
   },
   {
     "id": 285,
     "name": "Sword of ruin",
-    "effect": "Lowers Defense of all PokÃÂÃÂ©mon except itself.",
+    "effect": "Lowers Defense of all PokÃÂÃÂÃÂÃÂ©mon except itself.",
     "modified_for_rpg": false
   },
   {
     "id": 286,
     "name": "Tablets of ruin",
-    "effect": "Lowers Attack of all PokÃÂÃÂ©mon except itself.",
+    "effect": "Lowers Attack of all PokÃÂÃÂÃÂÃÂ©mon except itself.",
     "modified_for_rpg": false
   },
   {
     "id": 287,
     "name": "Beads of ruin",
-    "effect": "Lowers Special Defense of all PokÃÂÃÂ©mon except itself.",
+    "effect": "Lowers Special Defense of all PokÃÂÃÂÃÂÃÂ©mon except itself.",
     "modified_for_rpg": false
   },
   {
@@ -1742,7 +1742,7 @@
   {
     "id": 291,
     "name": "Cud chew",
-    "effect": "Causes the PokÃÂÃÂ©mon to reuse an already consumed Berry at the end of the next turn.",
+    "effect": "Causes the PokÃÂÃÂÃÂÃÂ©mon to reuse an already consumed Berry at the end of the next turn.",
     "modified_for_rpg": false
   },
   {
@@ -1754,7 +1754,7 @@
   {
     "id": 293,
     "name": "Supreme overlord",
-    "effect": "Attack and Special Attack are boosted for each party PokÃÂÃÂ©mon that has been defeated.",
+    "effect": "Attack and Special Attack are boosted for each party PokÃÂÃÂÃÂÃÂ©mon that has been defeated.",
     "modified_for_rpg": false
   },
   {
@@ -1766,7 +1766,7 @@
   {
     "id": 295,
     "name": "Toxic debris",
-    "effect": "Scatters poison spikes at the feet of the opposing team when the PokÃÂÃÂ©mon takes damage from physical moves.",
+    "effect": "Scatters poison spikes at the feet of the opposing team when the PokÃÂÃÂÃÂÃÂ©mon takes damage from physical moves.",
     "modified_for_rpg": false
   },
   {
@@ -1790,25 +1790,25 @@
   {
     "id": 299,
     "name": "Minds eye",
-    "effect": "The PokÃÂÃÂ©mon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal- and Fighting-type moves.",
+    "effect": "The PokÃÂÃÂÃÂÃÂ©mon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal- and Fighting-type moves.",
     "modified_for_rpg": false
   },
   {
     "id": 300,
     "name": "Supersweet syrup",
-    "effect": "Once per battle, when a PokÃÂÃÂ©mon with Supersweet Syrup enters the battle, it lowers the evasion stat of all adjacent opponents by one stage.",
+    "effect": "Once per battle, when a PokÃÂÃÂÃÂÃÂ©mon with Supersweet Syrup enters the battle, it lowers the evasion stat of all adjacent opponents by one stage.",
     "modified_for_rpg": false
   },
   {
     "id": 301,
     "name": "Hospitality",
-    "effect": "When a PokÃÂÃÂ©mon with Hospitality enters a battle, it restores HP for an ally by 25%.",
+    "effect": "When a PokÃÂÃÂÃÂÃÂ©mon with Hospitality enters a battle, it restores HP for an ally by 25%.",
     "modified_for_rpg": false
   },
   {
     "id": 302,
     "name": "Toxic chain",
-    "effect": "May cause bad poisoning when the PokÃÂÃÂ©mon hits an opponent with a move.",
+    "effect": "May cause bad poisoning when the PokÃÂÃÂÃÂÃÂ©mon hits an opponent with a move.",
     "modified_for_rpg": false
   },
   {
@@ -1826,7 +1826,7 @@
   {
     "id": 305,
     "name": "Tera shell",
-    "effect": "All damage-dealing moves that hit the PokÃÂÃÂ©mon when its HP is full will not be very effective.",
+    "effect": "All damage-dealing moves that hit the PokÃÂÃÂÃÂÃÂ©mon when its HP is full will not be very effective.",
     "modified_for_rpg": false
   },
   {
@@ -1838,7 +1838,7 @@
   {
     "id": 307,
     "name": "Poison puppeteer",
-    "effect": "PokÃÂÃÂ©mon poisoned by Pecharunt's moves will also become confused.",
+    "effect": "PokÃÂÃÂÃÂÃÂ©mon poisoned by Pecharunt's moves will also become confused.",
     "modified_for_rpg": false
   }
 ]
