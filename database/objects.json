@@ -53,7 +53,7 @@
   {
     "id": "apricorn-tree-01",
     "type": "apricorn_tree",
-    "name": "Ãrvore de Apricorn",
+    "name": "Ãrvore de Apricorn",
     "description": "Uma Ã¡rvore rara que produz Apricorns coloridos.",
     "cooldown_hours": 48,
     "loot": [
@@ -108,7 +108,7 @@
   {
     "id": "playground",
     "type": "social_spot",
-    "name": "Playground PokÃ©mon",
+    "name": "Playground Pokémon",
     "description": "Um parque infantil colorido, perfeito para PokÃ©mon jovens brincarem.",
     "linked_pokemon": [
       172,
