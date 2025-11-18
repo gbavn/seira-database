@@ -4805,7 +4805,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A very bitter herb that revives a fainted POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/revival-herb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/revivalherb.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4853,7 +4853,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Fully restores the PP of a selected move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/max-ether.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/maxether.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4901,7 +4901,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Fully restores the PP of a POKéMON’s moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/max-elixir.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/maxelixir.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4949,7 +4949,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A 100% pure juice that restores HP by 20 points.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/berry-juice.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/berryjuice.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4999,7 +4999,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Raises the HP of one POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/hp-up.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/hpup.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -5119,7 +5119,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Raises the level of a POKéMON by one.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rare-candy.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rarecandy.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -5143,7 +5143,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Raises the maximum PP of a selected move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pp-up.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ppup.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -5191,7 +5191,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Raises the PP of a move to its maximum points.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pp-max.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ppmax.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -5215,7 +5215,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Old Chateau’s hidden specialty. It heals all the status problems of a single Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/old-gateau.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/oldgateau.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -5236,10 +5236,10 @@
   {
     "id": 146,
     "name": "Pomeg Berry",
-    "category": "medicine",
+    "category": "berry",
     "subcategory": null,
     "description": "A Berry to be consumed by Pokémon. Using it on a Pokémon makes it more friendly but lowers its base HP.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pomeg-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pomegberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -5260,10 +5260,10 @@
   {
     "id": 147,
     "name": "Kelpsy Berry",
-    "category": "medicine",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow KELPSY.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/kelpsy-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/kelpsyberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -5284,10 +5284,10 @@
   {
     "id": 148,
     "name": "Qualot Berry",
-    "category": "medicine",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow QUALOT.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/qualot-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/qualotberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -5308,10 +5308,10 @@
   {
     "id": 149,
     "name": "Hondew Berry",
-    "category": "medicine",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow HONDEW.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/hondew-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/hondewberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -5332,10 +5332,10 @@
   {
     "id": 150,
     "name": "Grepa Berry",
-    "category": "medicine",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow GREPA.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/grepa-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/grepaberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -5356,10 +5356,10 @@
   {
     "id": 151,
     "name": "Tamato Berry",
-    "category": "medicine",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow TAMATO.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tamato-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tamatoberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9952,10 +9952,10 @@
   {
     "id": 141,
     "name": "Razz Berry",
-    "category": "craft-material",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow RAZZ.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/razz-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/razzberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9975,10 +9975,10 @@
   {
     "id": 142,
     "name": "Bluk Berry",
-    "category": "craft-material",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow BLUK.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bluk-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blukberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9998,10 +9998,10 @@
   {
     "id": 143,
     "name": "Nanab Berry",
-    "category": "craft-material",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow NANAB.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/nanab-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/nanabberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -10021,10 +10021,10 @@
   {
     "id": 144,
     "name": "Wepear Berry",
-    "category": "craft-material",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow WEPEAR.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/wepear-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/wepearberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -10044,10 +10044,10 @@
   {
     "id": 145,
     "name": "Pinap Berry",
-    "category": "craft-material",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow PINAP.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pinap-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pinapberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -10067,10 +10067,10 @@
   {
     "id": 152,
     "name": "Cornn Berry",
-    "category": "craft-material",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow CORNN.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cornn-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cornnberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -10090,10 +10090,10 @@
   {
     "id": 153,
     "name": "Magost Berry",
-    "category": "craft-material",
+    "category": "berry",
     "subcategory": null,
     "description": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/magost-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/magostberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -10113,10 +10113,10 @@
   {
     "id": 154,
     "name": "Rabuta Berry",
-    "category": "craft-material",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow RABUTA.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rabuta-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rabutaberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -10136,10 +10136,10 @@
   {
     "id": 155,
     "name": "Nomel Berry",
-    "category": "craft-material",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow NOMEL.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/nomel-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/nomelberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -10159,10 +10159,10 @@
   {
     "id": 156,
     "name": "Spelon Berry",
-    "category": "craft-material",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow SPELON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/spelon-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/spelonberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -10182,10 +10182,10 @@
   {
     "id": 157,
     "name": "Pamtre Berry",
-    "category": "craft-material",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow PAMTRE.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pamtre-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pamtreberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -10205,10 +10205,10 @@
   {
     "id": 158,
     "name": "Watmel Berry",
-    "category": "craft-material",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow WATMEL.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/watmel-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/watmelberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -10228,10 +10228,10 @@
   {
     "id": 159,
     "name": "Durin Berry",
-    "category": "craft-material",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow DURIN.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/durin-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/durinberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -10251,10 +10251,10 @@
   {
     "id": 160,
     "name": "Belue Berry",
-    "category": "craft-material",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow BELUE.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/belue-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/belueberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18180,10 +18180,10 @@
   {
     "id": 1167,
     "name": "Strawberry Sweet",
-    "category": "evolution-item",
+    "category": "other",
     "subcategory": "evolution-trigger",
     "description": "A strawberry-shaped sweet. When a Milcery holds this, it will spin around happily.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/strawberry-sweet.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/strawberrysweet.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18228,10 +18228,10 @@
   {
     "id": 1169,
     "name": "Berry Sweet",
-    "category": "evolution-item",
+    "category": "other",
     "subcategory": "evolution-trigger",
     "description": "A berry-shaped sweet. When a Milcery holds this, it spins around happily.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/berry-sweet.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/berrysweet.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18859,10 +18859,10 @@
   {
     "id": 126,
     "name": "Cheri Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that heals paralysis in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cheri-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cheriberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18882,10 +18882,10 @@
   {
     "id": 127,
     "name": "Chesto Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that awakens POKéMON in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/chesto-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/chestoberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18905,10 +18905,10 @@
   {
     "id": 128,
     "name": "Pecha Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that heals poisoning in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pecha-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pechaberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18928,10 +18928,10 @@
   {
     "id": 129,
     "name": "Rawst Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that heals a burn in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rawst-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rawstberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18951,10 +18951,10 @@
   {
     "id": 130,
     "name": "Aspear Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that defrosts POKéMON in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/aspear-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/aspearberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18974,10 +18974,10 @@
   {
     "id": 131,
     "name": "Leppa Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that restores 10 PP in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/leppa-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/leppaberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18997,10 +18997,10 @@
   {
     "id": 132,
     "name": "Oran Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that restores 10 HP in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/oran-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/oranberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -19020,10 +19020,10 @@
   {
     "id": 133,
     "name": "Persim Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that heals confusion in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/persim-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/persimberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -19043,10 +19043,10 @@
   {
     "id": 134,
     "name": "Lum Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that heals status in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lum-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lumberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -19066,10 +19066,10 @@
   {
     "id": 135,
     "name": "Sitrus Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that restores 30 HP in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sitrus-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sitrusberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -19089,7 +19089,7 @@
   {
     "id": 136,
     "name": "Figy Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that restores HP but may confuse.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/figyberry.png",
@@ -19114,7 +19114,7 @@
   {
     "id": 137,
     "name": "Wiki Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that restores HP but may confuse.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/wikiberry.png",
@@ -19139,7 +19139,7 @@
   {
     "id": 138,
     "name": "Mago Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that restores HP but may confuse.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/magoberry.png",
@@ -19164,7 +19164,7 @@
   {
     "id": 139,
     "name": "Aguav Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that restores HP but may confuse.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/aguavberry.png",
@@ -19189,7 +19189,7 @@
   {
     "id": 140,
     "name": "Iapapa Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that restores HP but may confuse.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/iapapaberry.png",
@@ -19214,7 +19214,7 @@
   {
     "id": 161,
     "name": "Occa Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Fire-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/occaberry.png",
@@ -19239,7 +19239,7 @@
   {
     "id": 162,
     "name": "Passho Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Water-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/passhoberry.png",
@@ -19264,7 +19264,7 @@
   {
     "id": 163,
     "name": "Wacan Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Electric-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/wacanberry.png",
@@ -19289,7 +19289,7 @@
   {
     "id": 164,
     "name": "Rindo Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Grass-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rindoberry.png",
@@ -19314,7 +19314,7 @@
   {
     "id": 165,
     "name": "Yache Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Ice-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/yacheberry.png",
@@ -19339,7 +19339,7 @@
   {
     "id": 166,
     "name": "Chople Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Fighting-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/chopleberry.png",
@@ -19364,7 +19364,7 @@
   {
     "id": 167,
     "name": "Kebia Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Poison-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/kebiaberry.png",
@@ -19489,7 +19489,7 @@
   {
     "id": 172,
     "name": "Charti Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Rock-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/chartiberry.png",
@@ -19514,7 +19514,7 @@
   {
     "id": 173,
     "name": "Kasib Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Ghost-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/kasibberry.png",
@@ -19539,7 +19539,7 @@
   {
     "id": 174,
     "name": "Haban Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Dragon-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/habanberry.png",
@@ -19564,7 +19564,7 @@
   {
     "id": 175,
     "name": "Colbur Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Dark-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/colburberry.png",
@@ -19589,7 +19589,7 @@
   {
     "id": 176,
     "name": "Babiri Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Steel-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/babiriberry.png",
@@ -19614,7 +19614,7 @@
   {
     "id": 177,
     "name": "Chilan Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s Normal-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/chilanberry.png",
@@ -19639,7 +19639,7 @@
   {
     "id": 178,
     "name": "Liechi Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that raises ATTACK in a pinch.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/liechiberry.png",
@@ -19664,7 +19664,7 @@
   {
     "id": 179,
     "name": "Ganlon Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that raises DEFENSE in a pinch.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ganlonberry.png",
@@ -19689,7 +19689,7 @@
   {
     "id": 180,
     "name": "Salac Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that raises SPEED in a pinch.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/salacberry.png",
@@ -19714,7 +19714,7 @@
   {
     "id": 181,
     "name": "Petaya Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that raises SP. ATK in a pinch.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/petayaberry.png",
@@ -19739,7 +19739,7 @@
   {
     "id": 182,
     "name": "Apicot Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that raises SP. DEF in a pinch.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/apicotberry.png",
@@ -19762,7 +19762,7 @@
   {
     "id": 183,
     "name": "Lansat Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that ups the critical- hit rate in a pinch.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lansatberry.png",
@@ -19785,7 +19785,7 @@
   {
     "id": 184,
     "name": "Starf Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A hold item that sharply boosts a stat in a pinch.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/starfberry.png",
@@ -19808,7 +19808,7 @@
   {
     "id": 185,
     "name": "Enigma Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "POKéBLOCK ingredient. Plant in loamy soil to grow a mystery.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/enigmaberry.png",
@@ -19831,10 +19831,10 @@
   {
     "id": 186,
     "name": "Micle Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it raises the accuracy of a move just once in a pinch.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/micle-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/micleberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -19854,10 +19854,10 @@
   {
     "id": 187,
     "name": "Custap Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it gets to move first just once in a pinch.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/custap-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/custapberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -19877,10 +19877,10 @@
   {
     "id": 188,
     "name": "Jaboca Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, and if a foe’s physical attack lands, the foe also takes damage.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/jaboca-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/jabocaberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -19900,10 +19900,10 @@
   {
     "id": 189,
     "name": "Rowap Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, and if a foe’s special attack lands, the foe also takes damage.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rowap-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rowapberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20843,7 +20843,7 @@
   {
     "id": 447,
     "name": "Berry Pots",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "Handy containers for cultivating Berries wherever you go.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/berry-pots.png",
@@ -22621,10 +22621,10 @@
   {
     "id": 723,
     "name": "Roseli Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Fairy-type attack.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roseli-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roseliberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22644,10 +22644,10 @@
   {
     "id": 724,
     "name": "Kee Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "If held by a Pokémon, this Berry will increase the holder’s Defense if it’s hit with a physical move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/kee-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/keeberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22667,10 +22667,10 @@
   {
     "id": 725,
     "name": "Maranga Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "If held by a Pokémon, this Berry will increase the holder’s Sp. Def if it’s hit with a special move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/maranga-berry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/marangaberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -25758,144 +25758,6 @@
     "price": {
       "buy": false,
       "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1014,
-    "name": "Silver Razz Berry",
-    "category": "other",
-    "subcategory": null,
-    "description": "A Berry that makes it easier to catch Pokémon when given to them.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/silver-razz-berry.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 1000,
-      "sell": 500
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1015,
-    "name": "Golden Razz Berry",
-    "category": "other",
-    "subcategory": null,
-    "description": "A Berry that makes it drastically easier to catch Pokémon when given to them.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/golden-razz-berry.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 5000,
-      "sell": 2500
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1016,
-    "name": "Silver Nanab Berry",
-    "category": "other",
-    "subcategory": null,
-    "description": "A Berry that calms wild Pokémon you’re trying to catch when given to them.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/silver-nanab-berry.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 1000,
-      "sell": 500
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1017,
-    "name": "Golden Nanab Berry",
-    "category": "other",
-    "subcategory": null,
-    "description": "A Berry that calms wild Pokémon you’re trying to catch drastically when given to them.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/golden-nanab-berry.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 5000,
-      "sell": 2500
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1018,
-    "name": "Silver Pinap Berry",
-    "category": "other",
-    "subcategory": null,
-    "description": "A Berry that makes you more likely to get an item when given to Pokémon you’re trying to catch.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/silver-pinap-berry.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 1000,
-      "sell": 500
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1019,
-    "name": "Golden Pinap Berry",
-    "category": "other",
-    "subcategory": null,
-    "description": "A Berry that makes you drastically more likely to get an item when given to Pokémon you’re trying to catch.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/golden-pinap-berry.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 5000,
-      "sell": 2500
     },
     "shop_availability": {
       "pokemart": false,
