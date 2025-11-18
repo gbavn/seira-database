@@ -2035,9 +2035,9 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": "Selects any move at random and uses it.  Moves the user already knows are not eligible.  Assist, meta, protection, and reflection moves are also not eligible; specifically, assist, chatter, copycat, counter, covet, destiny bond, detect, endure, feint, focus punch, follow me, helping hand, me first, metronome, mimic, mirror coat, mirror move, protect, quick guard, sketch, sleep talk, snatch, struggle, switcheroo, thief, trick, and wide guard will not be selected by this move.  This move cannot be copied by mimic or mirror move, nor selected by assist, metronome, or sleep talk.",
+    "effect": "Canaliza energia instável, invocando movimentos com base na sorte através de uma rolagem 1d100:\n01–20: qualquer movimento de status do tipo sorteado.\n21–30: ofensivo ≤20 PWR.\n31–45: ofensivo ≤40 PWR.\n46–60: ofensivo ≤60 PWR.\n61–75: ofensivo ≤80 PWR.\n76–90: ofensivo ≤100 PWR.\n91–99: ofensivo ≤120 PWR.\n100: re-rolar o dado.",
     "description": "The user waggles a finger and stimulates its brain into randomly using nearly any move.",
-    "modified_for_rpg": false,
+    "modified_for_rpg": true,
     "target": "User"
   },
   {
@@ -3091,9 +3091,9 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": "Lowers the PP of the target’s last used move by 4.  If the target hasn’t used a move since entering the field, if it tried to use a move this turn and failed, or if its last used move has 0 PP remaining, this move will fail.",
-    "description": "The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.",
-    "modified_for_rpg": false,
+    "effect": "Diminui em 1 estágio a maior estatística ofensiva do oponente (Ataque ou Ataque Especial).",
+    "description": "Olhar rancoroso que amaldiçoa o poder ofensivo do adversário, corroendo sua força. Diminui em 1 estágio a maior estatística ofensiva do oponente (Ataque ou Ataque Especial).",
+    "modified_for_rpg": true,
     "target": "Selected pokemon"
   },
   {
@@ -4950,9 +4950,9 @@
     "accuracy": null,
     "pp": 5,
     "priority": 0,
-    "effect": "If the user faints before it next acts, the move that fainted it will have its PP dropped to 0.  End-of-turn damage does not trigger this effect.",
-    "description": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.",
-    "modified_for_rpg": false,
+    "effect": "Se nocauteado após usar, o último golpe do oponente fica desativado até o fim da batalha.",
+    "description": "Movido por ressentimento profundo, lança uma maldição ao ser derrotado, selando a técnica que o abateu.\nSe nocauteado após usar, o último golpe do oponente fica desativado até o fim da batalha.",
+    "modified_for_rpg": true,
     "target": "User"
   },
   {
@@ -6535,9 +6535,9 @@
     "accuracy": null,
     "pp": 5,
     "priority": 0,
-    "effect": "Inflicts regular damage.  Power is determined by the PP remaining for this move, after its PP cost is deducted.  Ignores accuracy and evasion modifiers.  PP remaining | Power ------------ | ----: 4 or more    |    40 3            |    50 2            |    60 1            |    80 0            |   200  If this move is activated by another move, the activating move’s PP is used to calculate power.",
-    "description": "This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered.",
-    "modified_for_rpg": false,
+    "effect": "O poder cresce conforme aliados caem:\n5 remanescentes: 60 de poder.\n4 remanescentes: 70 de poder.\n3 remanescentes: 80 de poder.\n2 remanescentes: 100 de poder.\n1 remanescente: 140 de poder.",
+    "description": "O poder cresce conforme aliados caem.",
+    "modified_for_rpg": true,
     "target": "Selected pokemon"
   },
   {
