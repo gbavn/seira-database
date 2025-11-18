@@ -6295,7 +6295,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A patch that allows a Pokémon with a regular Ability to have a rare Ability.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/abilitypatch.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/abilitypatch.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18447,7 +18447,7 @@
     "category": "other",
     "subcategory": null,
     "description": "Salt obtained from deep inside the SHOAL CAVE.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/shoal-salt.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/shoalsalt.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18470,7 +18470,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A seashell that you found inside Shoal Cave.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/shoal-shell.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/shoalshell.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18493,7 +18493,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A shard from an ancient item. Can be sold cheaply.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/red-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/redshard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18516,7 +18516,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A shard from an ancient item. Can be sold cheaply.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blue-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/blueshard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18539,7 +18539,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A shard from an ancient item. Can be sold cheaply.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/yellow-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/yellowshard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18562,7 +18562,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A shard from an ancient item. Can be sold cheaply.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/green-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/greenshard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18585,7 +18585,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A plain, ordinary mushroom. Can be sold cheaply.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tiny-mushroom.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tinymushroom.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18608,7 +18608,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A rare mushroom that would sell at a high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/big-mushroom.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bigmushroom.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18631,7 +18631,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A pretty pearl. Can be sold cheaply.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pearl.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/pearl.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18654,7 +18654,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A lovely large pearl that would sell at a high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/big-pearl.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bigpearl.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18700,7 +18700,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A red gem shard. It would sell for a very high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/star-piece.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/starpiece.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18746,7 +18746,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A lovely scale. It is coveted by collectors.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/heart-scale.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/heartscale.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18769,7 +18769,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A bone that is extremely valuable for Pokémon archaeology. It can be sold for a high price to shops.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rare-bone.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rarebone.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -18789,12 +18789,12 @@
   {
     "id": 112,
     "name": "Adamant Orb",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A brightly gleaming orb to be held by DIALGA. It boosts the power of Dragon-​ and Steel-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/adamant-orb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/adamantorb.png",
     "rarity": "comum",
-    "is_unique": false,
+    "is_unique": true,
     "price": {
       "buy": false,
       "sell": false
@@ -18812,12 +18812,12 @@
   {
     "id": 113,
     "name": "Lustrous Orb",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A beautifully glowing orb to be held by PALKIA. It boosts the power of Dragon-​ and Water-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lustrous-orb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lustrousorb.png",
     "rarity": "comum",
-    "is_unique": false,
+    "is_unique": true,
     "price": {
       "buy": false,
       "sell": false
@@ -19365,7 +19365,7 @@
   {
     "id": 168,
     "name": "Shuca Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Ground-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/shucaberry.png",
@@ -19390,7 +19390,7 @@
   {
     "id": 169,
     "name": "Coba Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Flying-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cobaberry.png",
@@ -19415,7 +19415,7 @@
   {
     "id": 170,
     "name": "Payapa Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Psychic-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/payapaberry.png",
@@ -19440,7 +19440,7 @@
   {
     "id": 171,
     "name": "Tanga Berry",
-    "category": "other",
+    "category": "berry",
     "subcategory": null,
     "description": "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Bug-type attack.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tangaberry.png",
@@ -19902,7 +19902,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A hold item that promotes growth, but reduces SPEED.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/macho-brace.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/machobrace.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -19925,7 +19925,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A hold item that gets EXP. points from battles.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp-share.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/expshare.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -19948,7 +19948,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A hold item that calms spirits and fosters friendship.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/soothe-bell.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/soothebell.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -19971,7 +19971,7 @@
     "category": "other",
     "subcategory": null,
     "description": "Doubles money in battle if the holder takes part.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/amulet-coin.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/amuletcoin.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -19994,7 +19994,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A hold item that helps repel wild POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cleanse-tag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cleansetag.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20014,12 +20014,12 @@
   {
     "id": 202,
     "name": "Soul Dew",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "Hold item: Raises SP. ATK & SP. DEF of LATIOS & LATIAS.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/soul-dew.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/souldew.png",
     "rarity": "comum",
-    "is_unique": false,
+    "is_unique": true,
     "price": {
       "buy": false,
       "sell": false
@@ -20040,7 +20040,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A hold item that raises the SP. ATK of CLAMPERL.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/deep-sea-tooth.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/deepseatooth.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20063,7 +20063,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A hold item that raises the SP. DEF of CLAMPERL.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/deep-sea-scale.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/deepseascale.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20109,7 +20109,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A hold item that boosts EXP. points earned in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lucky-egg.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/luckyegg.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20129,10 +20129,10 @@
   {
     "id": 213,
     "name": "Light Ball",
-    "category": "other",
+    "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the SP. ATK of PIKACHU.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/light-ball.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lightball.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20152,10 +20152,10 @@
   {
     "id": 233,
     "name": "Lucky Punch",
-    "category": "other",
+    "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises CHANSEY’s critical-hit rate.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lucky-punch.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/luckypunch.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20178,7 +20178,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A hold item that raises DEFENSE.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/metal-powder.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/metalpowder.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20201,7 +20201,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A bone of some sort. It can be sold cheaply.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/thick-club.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/thickclub.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20224,7 +20224,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A stick of leek. It can be sold cheaply.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/stick.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/stick.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20247,7 +20247,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A hold item that raises COOL in CONTESTS.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/red-scarf.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/redscarf.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20270,7 +20270,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A hold item that raises BEAUTY in CONTESTS.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blue-scarf.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/bluescarf.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20293,7 +20293,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A hold item that raises CUTE in CONTESTS.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pink-scarf.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/pinkscarf.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20316,7 +20316,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A hold item that raises SMART in CONTESTS.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/green-scarf.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/greenscarf.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20339,7 +20339,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A hold item that raises TOUGH in CONTESTS.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/yellow-scarf.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/yellowscarf.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20362,7 +20362,7 @@
     "category": "other",
     "subcategory": null,
     "description": "An item to be held by DITTO. Extremely fine yet hard, this odd powder boosts the Speed stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/quick-powder.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/quickpowder.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20385,7 +20385,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A Pokémon hold item that promotes Attack gain on leveling, but reduces the Speed stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/power-bracer.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerbracer.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20408,7 +20408,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A Pokémon hold item that promotes Defense gain on leveling, but reduces the Speed stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/power-belt.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerbelt.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20431,7 +20431,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A Pokémon hold item that promotes Sp. Atk gain on leveling, but reduces the Speed stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/power-lens.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerlens.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20454,7 +20454,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A Pokémon hold item that promotes Sp. Def gain on leveling, but reduces the Speed stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/power-band.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerband.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20477,7 +20477,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A Pokémon hold item that promotes Speed gain on leveling, but reduces the Speed stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/power-anklet.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/poweranklet.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20500,7 +20500,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A Pokémon hold item that promotes HP gain on leveling, but reduces the Speed stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/power-weight.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerweight.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20523,7 +20523,7 @@
     "category": "other",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It doubles a battle’s prize money if the holding Pokémon joins in.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/luck-incense.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/luckincense.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20546,7 +20546,7 @@
     "category": "other",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pure-incense.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pureincense.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -20566,7 +20566,7 @@
   {
     "id": 405,
     "name": "Explorer Kit",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A bag filled with convenient tools for exploring. It provides access to the Underground.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/explorer-kit.png",
@@ -20587,32 +20587,9 @@
     "posts_to_collect": 0
   },
   {
-    "id": 406,
-    "name": "Loot Sack",
-    "category": "other",
-    "subcategory": null,
-    "description": "A sturdy, spacious bag that is used to carry loot obtained in the coal mine.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/loot-sack.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
     "id": 412,
     "name": "Fashion Case",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A fancy case for the tidy and organized storage of colorful Pokémon Accessories.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/fashion-case.png",
@@ -20635,7 +20612,7 @@
   {
     "id": 413,
     "name": "Seal Bag",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A tiny bag that can hold ten Seals for decorating Poké Balls.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/seal-bag.png",
@@ -20656,55 +20633,9 @@
     "posts_to_collect": 0
   },
   {
-    "id": 422,
-    "name": "Old Rod",
-    "category": "other",
-    "subcategory": null,
-    "description": "Use by any body of water to fish for wild POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/old-rod.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 423,
-    "name": "Good Rod",
-    "category": "other",
-    "subcategory": null,
-    "description": "A decent fishing rod for catching wild POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/good-rod.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
     "id": 424,
-    "name": "Super Rod",
-    "category": "other",
+    "name": "Fishing Rod",
+    "category": "key-item",
     "subcategory": null,
     "description": "The best fishing rod for catching wild POKéMON.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/super-rod.png",
@@ -20727,7 +20658,7 @@
   {
     "id": 427,
     "name": "Bicycle",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A folding bicycle that is faster than the RUNNING SHOES.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bicycle.png",
@@ -20750,7 +20681,7 @@
   {
     "id": 434,
     "name": "Contest Pass",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "The pass required for entering POKéMON CONTESTS.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/contest-pass.png",
@@ -20773,12 +20704,12 @@
   {
     "id": 442,
     "name": "Griseous Orb",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A glowing orb to be held by GIRATINA. It boosts the power of Dragon- and Ghost-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/griseous-orb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/griseousorb.png",
     "rarity": "comum",
-    "is_unique": false,
+    "is_unique": true,
     "price": {
       "buy": false,
       "sell": false
@@ -21033,10 +20964,10 @@
   {
     "id": 458,
     "name": "Red Apricorn",
-    "category": "other",
+    "category": "craft-material",
     "subcategory": null,
     "description": "A red Apricorn. It assails your nostrils.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/red-apricorn.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/redapricorn.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21056,10 +20987,10 @@
   {
     "id": 459,
     "name": "Blue Apricorn",
-    "category": "other",
+    "category": "craft-material",
     "subcategory": null,
     "description": "A blue Apricorn. It smells a bit like grass.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blue-apricorn.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blueapricorn.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21079,10 +21010,10 @@
   {
     "id": 460,
     "name": "Yellow Apricorn",
-    "category": "other",
+    "category": "craft-material",
     "subcategory": null,
     "description": "A yellow Apricorn. It has an invigorating scent.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/yellow-apricorn.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/yellowapricorn.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21102,10 +21033,10 @@
   {
     "id": 461,
     "name": "Green Apricorn",
-    "category": "other",
+    "category": "craft-material",
     "subcategory": null,
     "description": "A green Apricorn. It has a mysterious, aromatic scent.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/green-apricorn.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/greenapricorn.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21125,10 +21056,10 @@
   {
     "id": 462,
     "name": "Pink Apricorn",
-    "category": "other",
+    "category": "craft-material",
     "subcategory": null,
     "description": "A pink Apricorn. It has a nice, sweet scent.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pink-apricorn.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pinkapricorn.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21148,10 +21079,10 @@
   {
     "id": 463,
     "name": "White Apricorn",
-    "category": "other",
+    "category": "craft-material",
     "subcategory": null,
     "description": "A white Apricorn. It doesn’t smell like anything.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/white-apricorn.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/whiteapricorn.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21171,10 +21102,10 @@
   {
     "id": 464,
     "name": "Black Apricorn",
-    "category": "other",
+    "category": "craft-material",
     "subcategory": null,
     "description": "A black Apricorn It has an indescribable scent.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/black-apricorn.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blackapricorn.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21217,7 +21148,7 @@
   {
     "id": 471,
     "name": "Unown Report",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A report of all the discovered kinds of UNOWN.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/unown-report.png",
@@ -21309,7 +21240,7 @@
   {
     "id": 527,
     "name": "Mach Bike",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A folding bicycle that more than doubles foot speed.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/mach-bike.png",
@@ -21332,33 +21263,10 @@
   {
     "id": 528,
     "name": "Acro Bike",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A folding bicycle capable of jumps and wheelies.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/acro-bike.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 529,
-    "name": "Wailmer Pail",
-    "category": "other",
-    "subcategory": null,
-    "description": "A tool used for watering BERRIES and plants.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/wailmer-pail.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21401,56 +21309,10 @@
   {
     "id": 536,
     "name": "Go-Goggles",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "Nifty goggles that protect eyes from desert sandstorms.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/go-goggles.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 542,
-    "name": "Devon Scope",
-    "category": "other",
-    "subcategory": null,
-    "description": "A device by DEVON that signals any unseeable POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/devon-scope.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 558,
-    "name": "Powder Jar",
-    "category": "other",
-    "subcategory": null,
-    "description": "Stores BERRY POWDER made using a BERRY CRUSHER.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/powder-jar.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/gogoggles.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21470,10 +21332,10 @@
   {
     "id": 563,
     "name": "Douse Drive",
-    "category": "other",
+    "category": "battle-item",
     "subcategory": null,
     "description": "A cassette to be held by Genesect. It changes Techno Blast to a Water-type move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/douse-drive.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/dousedrive.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21493,10 +21355,10 @@
   {
     "id": 564,
     "name": "Shock Drive",
-    "category": "other",
+    "category": "battle-item",
     "subcategory": null,
     "description": "A cassette to be held by Genesect. It changes Techno Blast to an Electric-type move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/shock-drive.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/shockdrive.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21516,10 +21378,10 @@
   {
     "id": 565,
     "name": "Burn Drive",
-    "category": "other",
+    "category": "battle-item",
     "subcategory": null,
     "description": "A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/burn-drive.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/burndrive.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21539,10 +21401,10 @@
   {
     "id": 566,
     "name": "Chill Drive",
-    "category": "other",
+    "category": "battle-item",
     "subcategory": null,
     "description": "A cassette to be held by Genesect. It changes Techno Blast to an Ice-type move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/chill-drive.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/chilldrive.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21565,7 +21427,7 @@
     "category": "other",
     "subcategory": null,
     "description": "Though this feather is beautiful, it’s just a regular feather and has no effect on Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pretty-wing.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/prettyfeather.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21585,7 +21447,7 @@
   {
     "id": 619,
     "name": "Prop Case",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A lovely case to store colorful Props for your Pokémon to wear in a musical.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/prop-case.png",
@@ -21611,7 +21473,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/balm-mushroom.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/balmmushroom.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21634,7 +21496,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/big-nugget.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bignugget.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21657,7 +21519,7 @@
     "category": "other",
     "subcategory": null,
     "description": "Very large pearls that sparkle in a pretty silver color. A maniac will buy them for a high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pearl-string.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pearlstring.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21680,7 +21542,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A shard which fell to the ground when a comet approached. A maniac will buy it for a high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/comet-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cometshard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21698,819 +21560,14 @@
     "posts_to_collect": 0
   },
   {
-    "id": 625,
-    "name": "Relic Copper",
-    "category": "other",
-    "subcategory": null,
-    "description": "A copper coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/relic-copper.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 626,
-    "name": "Relic Silver",
-    "category": "other",
-    "subcategory": null,
-    "description": "A silver coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/relic-silver.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 627,
-    "name": "Relic Gold",
-    "category": "other",
-    "subcategory": null,
-    "description": "A gold coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/relic-gold.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60000,
-      "sell": 30000
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 628,
-    "name": "Relic Vase",
-    "category": "other",
-    "subcategory": null,
-    "description": "A vase made in a civilization about 3,000 years ago. A maniac will buy it for a high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/relic-vase.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 629,
-    "name": "Relic Band",
-    "category": "other",
-    "subcategory": null,
-    "description": "A bracelet made in a civilization about 3,000 years ago. A maniac will buy it for a high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/relic-band.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 630,
-    "name": "Relic Statue",
-    "category": "other",
-    "subcategory": null,
-    "description": "A stone figure made in a civilization about 3,000 years ago. A maniac will buy it for a high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/relic-statue.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 631,
-    "name": "Relic Crown",
-    "category": "other",
-    "subcategory": null,
-    "description": "A crown made in a civilization about 3,000 years ago. A maniac will buy it for a high price.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/relic-crown.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 633,
-    "name": "Dire Hit 2",
-    "category": "other",
-    "subcategory": null,
-    "description": "It can be used many times to raise the critical-hit ratio of one Pokémon. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dire-hit-2.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 634,
-    "name": "X Speed 2",
-    "category": "other",
-    "subcategory": null,
-    "description": "It sharply raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-speed-2.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 635,
-    "name": "X Sp. Atk 2",
-    "category": "other",
-    "subcategory": null,
-    "description": "It sharply raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-sp-atk-2.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 636,
-    "name": "X Sp. Def 2",
-    "category": "other",
-    "subcategory": null,
-    "description": "It sharply raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-sp-def-2.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 637,
-    "name": "X Defense 2",
-    "category": "other",
-    "subcategory": null,
-    "description": "It sharply raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-defense-2.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 638,
-    "name": "X Attack 2",
-    "category": "other",
-    "subcategory": null,
-    "description": "It sharply raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-attack-2.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 639,
-    "name": "X Accuracy 2",
-    "category": "other",
-    "subcategory": null,
-    "description": "It sharply raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-accuracy-2.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 640,
-    "name": "X Speed 3",
-    "category": "other",
-    "subcategory": null,
-    "description": "It drastically raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-speed-3.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 641,
-    "name": "X Sp. Atk 3",
-    "category": "other",
-    "subcategory": null,
-    "description": "It drastically raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-sp-atk-3.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 642,
-    "name": "X Sp. Def 3",
-    "category": "other",
-    "subcategory": null,
-    "description": "It drastically raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-sp-def-3.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 643,
-    "name": "X Defense 3",
-    "category": "other",
-    "subcategory": null,
-    "description": "It drastically raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-defense-3.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 644,
-    "name": "X Attack 3",
-    "category": "other",
-    "subcategory": null,
-    "description": "It drastically raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-attack-3.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 645,
-    "name": "X Accuracy 3",
-    "category": "other",
-    "subcategory": null,
-    "description": "It drastically raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-accuracy-3.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 646,
-    "name": "X Speed 6",
-    "category": "other",
-    "subcategory": null,
-    "description": "It raises the Speed stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-speed-6.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 647,
-    "name": "X Sp. Atk 6",
-    "category": "other",
-    "subcategory": null,
-    "description": "It raises the Sp. Atk stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-sp-atk-6.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 648,
-    "name": "X Sp. Def 6",
-    "category": "other",
-    "subcategory": null,
-    "description": "It raises the Sp. Def stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-sp-def-6.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 649,
-    "name": "X Defense 6",
-    "category": "other",
-    "subcategory": null,
-    "description": "It raises the Defense stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-defense-6.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 650,
-    "name": "X Attack 6",
-    "category": "other",
-    "subcategory": null,
-    "description": "It raises the Attack stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-attack-6.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 651,
-    "name": "X Accuracy 6",
-    "category": "other",
-    "subcategory": null,
-    "description": "It raises the accuracy of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-accuracy-6.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 652,
-    "name": "Ability Urge",
-    "category": "other",
-    "subcategory": null,
-    "description": "When used, it activates the Ability of an ally Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ability-urge.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 653,
-    "name": "Item Drop",
-    "category": "other",
-    "subcategory": null,
-    "description": "When used, it causes an ally Pokémon to drop a held item.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/item-drop.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 654,
-    "name": "Item Urge",
-    "category": "other",
-    "subcategory": null,
-    "description": "When used, it causes an ally Pokémon to use its held item.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/item-urge.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 655,
-    "name": "Reset Urge",
-    "category": "other",
-    "subcategory": null,
-    "description": "When used, it restores any stat changes of an ally Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/reset-urge.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 656,
-    "name": "Dire Hit 3",
-    "category": "other",
-    "subcategory": null,
-    "description": "It can be used many times to greatly raise a Pokémon’s critical-hit ratio. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dire-hit-3.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 662,
-    "name": "Xtransceiver",
-    "category": "other",
-    "subcategory": null,
-    "description": "A high-tech transceiver with a camera function. It allows up to four-way calls.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/xtransceiver.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 663,
-    "name": "god stone",
-    "category": "other",
-    "subcategory": null,
-    "description": "A rare stone.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/god-stone.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 670,
-    "name": "Medal Box",
-    "category": "other",
-    "subcategory": null,
-    "description": "A box-shaped machine that stores Medals and Medal information.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/medal-box.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
     "id": 671,
     "name": "DNA Splicers",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dna-splicers.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dnasplicers.png",
     "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 673,
-    "name": "Permit",
-    "category": "other",
-    "subcategory": null,
-    "description": "A permit needed to enter the Nature Preserve. Only a few know about this place.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/permit.png",
-    "rarity": "comum",
-    "is_unique": false,
+    "is_unique": true,
     "price": {
       "buy": false,
       "sell": false
@@ -22528,10 +21585,10 @@
   {
     "id": 674,
     "name": "Oval Charm",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "An oval charm said to increase the chance of Eggs being found at the Day Care.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/oval-charm.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ovalcharm.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22551,10 +21608,10 @@
   {
     "id": 675,
     "name": "Shiny Charm",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A shiny charm said to increase the chance of finding a Shiny Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/shiny-charm.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/shinycharm.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22574,10 +21631,10 @@
   {
     "id": 681,
     "name": "Reveal Glass",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A glass that reveals the truth. It is a mysterious glass that returns a Pokémon back to its original shape.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/reveal-glass.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/revealglass.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22664,351 +21721,6 @@
     "posts_to_collect": 0
   },
   {
-    "id": 726,
-    "name": "Discount Coupon",
-    "category": "other",
-    "subcategory": null,
-    "description": "This special coupon allows you to buy items at a discount when you are shopping at a boutique.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/discount-coupon.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 727,
-    "name": "Strange Souvenir",
-    "category": "other",
-    "subcategory": null,
-    "description": "An ornament depicting a Pokémon that is venerated as a protector in some region far from Kalos.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/strange-souvenir.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 3000,
-      "sell": 1500
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 732,
-    "name": "Adventure Guide",
-    "category": "other",
-    "subcategory": null,
-    "description": "This book contains all the points a new Trainer needs to know on a journey. It was handmade by a kind friend.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/adventure-rules.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 734,
-    "name": "Holo Caster",
-    "category": "other",
-    "subcategory": null,
-    "description": "A device that allows users to receive and view hologram clips at any time. It is also used to chat with others.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/holo-caster.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 737,
-    "name": "Lens Case",
-    "category": "other",
-    "subcategory": null,
-    "description": "A rather chic-looking case for carrying contact lenses.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lens-case.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 739,
-    "name": "Mega Ring",
-    "category": "other",
-    "subcategory": null,
-    "description": "This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mega-ring.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 742,
-    "name": "Roller Skates",
-    "category": "other",
-    "subcategory": null,
-    "description": "Attaches roller skates to the bottom of your shoes, allowing you to glide quickly around and perform tricks.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roller-skates.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 743,
-    "name": "Sprinklotad",
-    "category": "other",
-    "subcategory": null,
-    "description": "A watering can shaped like a Lotad. It helps promote the healthy growth of any Berries planted in good, soft soil.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sprinklotad.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 744,
-    "name": "TMV Pass",
-    "category": "other",
-    "subcategory": null,
-    "description": "A commuter pass that allows the holder to ride the TMV between Lumiose City and Kiloude City at any time.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tmv-pass.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 762,
-    "name": "Common Stone",
-    "category": "other",
-    "subcategory": null,
-    "description": "A perfectly normal stone that might appear to be valuable to some. It’s all in the eye of the beholder.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/common-stone.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 763,
-    "name": "Makeup Bag",
-    "category": "other",
-    "subcategory": null,
-    "description": "A rather chic-looking case for carrying lipsticks.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/makeup-bag.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 764,
-    "name": "Travel Trunk",
-    "category": "other",
-    "subcategory": null,
-    "description": "A light and yet incredibly effective trunk, which can contain every last piece of clothing that can be bought.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/travel-trunk.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 768,
-    "name": "Mega Charm",
-    "category": "other",
-    "subcategory": null,
-    "description": "This charm contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mega-charm.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 769,
-    "name": "Mega Glove",
-    "category": "other",
-    "subcategory": null,
-    "description": "This glove contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mega-glove.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 772,
-    "name": "Pokéblock Kit",
-    "category": "other",
-    "subcategory": null,
-    "description": "A set containing a Berry Blender for making Pokéblocks and a Pokéblock Case for storing Pokéblocks.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pokeblock-kit.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
     "id": 780,
     "name": "Contest Costume",
     "category": "other",
@@ -23032,198 +21744,14 @@
     "posts_to_collect": 0
   },
   {
-    "id": 785,
-    "name": "Mega Bracelet",
-    "category": "other",
-    "subcategory": null,
-    "description": "This cuff contains an untold power that somehow enables Pokémon carrying a Mega Stone to Mega Evolve in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mega-bracelet.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 786,
-    "name": "Mega Pendant",
-    "category": "other",
-    "subcategory": null,
-    "description": "This necklace contains an untold power that somehow enables Pokémon carrying a Mega Stone to Mega Evolve in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mega-pendant.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 787,
-    "name": "Mega Glasses",
-    "category": "other",
-    "subcategory": null,
-    "description": "These glasses contain an untold power that somehow enables Pokémon carrying a Mega Stone to Mega Evolve in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mega-glasses.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 788,
-    "name": "Mega Anchor",
-    "category": "other",
-    "subcategory": null,
-    "description": "This anchor contains an untold power that somehow enables Pokémon carrying a Mega Stone to Mega Evolve in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mega-anchor.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 789,
-    "name": "Mega Stickpin",
-    "category": "other",
-    "subcategory": null,
-    "description": "This stickpin contains an untold power that somehow enables Pokémon carrying a Mega Stone to Mega Evolve in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mega-stickpin.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 790,
-    "name": "Mega Tiara",
-    "category": "other",
-    "subcategory": null,
-    "description": "This tiara contains an untold power that somehow enables Pokémon carrying a Mega Stone to Mega Evolve in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mega-tiara.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 791,
-    "name": "Mega Anklet",
-    "category": "other",
-    "subcategory": null,
-    "description": "This anklet contains an untold power that somehow enables Pokémon carrying a Mega Stone to Mega Evolve in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mega-anklet.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
     "id": 806,
     "name": "Prison Bottle",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/prison-bottle.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/prisonbottle.png",
     "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 807,
-    "name": "Mega Cuff",
-    "category": "other",
-    "subcategory": null,
-    "description": "This bracelet contains an untold power that somehow enables Pokémon carrying a Mega Stone to Mega Evolve in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mega-cuff.png",
-    "rarity": "comum",
-    "is_unique": false,
+    "is_unique": true,
     "price": {
       "buy": false,
       "sell": false
@@ -23262,35 +21790,12 @@
     "posts_to_collect": 0
   },
   {
-    "id": 816,
-    "name": "Eon Flute",
-    "category": "other",
-    "subcategory": null,
-    "description": "A flute that can be used to summon Latios or Latias no matter where you are.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/eon-flute.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
     "id": 836,
     "name": "Bottle Cap",
     "category": "other",
     "subcategory": null,
     "description": "A beautiful bottle cap that gives off a silver gleam. Some people are happy to receive one.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bottle-cap.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bottlecap.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23313,7 +21818,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A beautiful bottle cap that gives off a golden gleam. Some people are happy to receive one.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/gold-bottle-cap.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/goldbottlecap.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23331,150 +21836,12 @@
     "posts_to_collect": 0
   },
   {
-    "id": 838,
-    "name": "Z-Ring",
-    "category": "other",
-    "subcategory": null,
-    "description": "A mysterious ring that enables Pokémon to use Z-Power. It requires both the willpower and the physical power of the Trainer wearing it.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/z-ring.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 878,
-    "name": "Forage Bag",
-    "category": "other",
-    "subcategory": null,
-    "description": "A bag to carry ingredients gathered during Mallow’s trial in the jungle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/forage-bag.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 879,
-    "name": "Fishing Rod",
-    "category": "other",
-    "subcategory": null,
-    "description": "A Fishing Rod made by Captain Lana. Cast a line over piles of underwater rocks to fish for wild aquatic Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fishing-rod.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 881,
-    "name": "Festival Ticket",
-    "category": "other",
-    "subcategory": null,
-    "description": "A ticket that allows you to host a mission in Festival Plaza.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/festival-ticket.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 10,
-      "sell": 5
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 884,
-    "name": "Zygarde Cube",
-    "category": "other",
-    "subcategory": null,
-    "description": "An item to store Zygarde Cores and Cells. You can also use it to teach Zygarde moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/zygarde-cube.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 886,
-    "name": "Ride Pager",
-    "category": "other",
-    "subcategory": null,
-    "description": "By entering certain numbers on this pager, you can summon Ride Pokémon in an instant.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ride-pager.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
     "id": 889,
     "name": "Red Nectar",
     "category": "other",
     "subcategory": null,
     "description": "A flower nectar obtained at Ula’ula Meadow. It changes the form of certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/red-nectar.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rednectar.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23497,7 +21864,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A flower nectar obtained at Melemele Meadow. It changes the form of certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/yellow-nectar.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/yellownectar.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23520,7 +21887,7 @@
     "category": "other",
     "subcategory": null,
     "description": "The flower nectar obtained at the flowering shrubs on Royal Avenue. It changes the form of certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pink-nectar.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pinknectar.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23543,7 +21910,7 @@
     "category": "other",
     "subcategory": null,
     "description": "A flower nectar obtained at Poni Meadow. It changes the form of certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/purple-nectar.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/purplenectar.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23561,449 +21928,12 @@
     "posts_to_collect": 0
   },
   {
-    "id": 919,
-    "name": "Bike",
-    "category": "other",
-    "subcategory": null,
-    "description": "A folding Bike that enables a rider to get around much faster than with Running Shoes.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bike--green.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 920,
-    "name": "Storage Key",
-    "category": "other",
-    "subcategory": null,
-    "description": "The key to Team Galactic’s sinister warehouse located at the edge of Veilstone City.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/storage-key--galactic-warehouse.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 921,
-    "name": "Basement Key",
-    "category": "other",
-    "subcategory": null,
-    "description": "A key that opens a door in the Goldenrod Tunnel.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/basement-key--goldenrod.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 922,
-    "name": "Xtransceiver",
-    "category": "other",
-    "subcategory": null,
-    "description": "A high-tech transceiver with a camera function. It allows up to four-way calls.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/xtransceiver--red.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 923,
-    "name": "Xtransceiver",
-    "category": "other",
-    "subcategory": null,
-    "description": "A high-tech transceiver with a camera function. It allows up to four-way calls.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/xtransceiver--yellow.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 924,
-    "name": "DNA Splicers",
-    "category": "other",
-    "subcategory": null,
-    "description": "A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dna-splicers--merge.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 925,
-    "name": "DNA Splicers",
-    "category": "other",
-    "subcategory": null,
-    "description": "A splicer that separates Kyurem and a certain Pokémon when they have been fused.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dna-splicers--split.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 926,
-    "name": "Dropped Item",
-    "category": "other",
-    "subcategory": null,
-    "description": "The Xtransceiver found at the Nimbasa City amusement park. It seems it belongs to a boy.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dropped-item--red.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 927,
-    "name": "Dropped Item",
-    "category": "other",
-    "subcategory": null,
-    "description": "The Xtransceiver found at the Nimbasa City amusement park. It seems it belongs to a girl.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dropped-item--yellow.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 928,
-    "name": "Holo Caster",
-    "category": "other",
-    "subcategory": null,
-    "description": "A device that allows users to receive and view hologram clips at any time. It’s also used to chat with others.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/holo-caster--green.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 929,
-    "name": "Bike",
-    "category": "other",
-    "subcategory": null,
-    "description": "A folding bike that enables a rider to get around much faster than with Running Shoes.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bike--yellow.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 930,
-    "name": "Holo Caster",
-    "category": "other",
-    "subcategory": null,
-    "description": "A device that allows users to receive and view hologram clips at any time. It’s also used to chat with others.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/holo-caster--red.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 931,
-    "name": "Basement Key",
-    "category": "other",
-    "subcategory": null,
-    "description": "The key to New Mauville, which was constructed beneath Mauville City.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/basement-key--new-mauville.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 932,
-    "name": "Storage Key",
-    "category": "other",
-    "subcategory": null,
-    "description": "A key that opens the storage hold inside Sea Mauville.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/storage-key--sea-mauville.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 933,
-    "name": "S.S. Ticket",
-    "category": "other",
-    "subcategory": null,
-    "description": "Ticket required for sailing on a ferry.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ss-ticket--hoenn.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 934,
-    "name": "Contest Costume",
-    "category": "other",
-    "subcategory": null,
-    "description": "A very cute dress to be worn during the Contest Spectacular.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/contest-costume--dress.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 935,
-    "name": "Meteorite",
-    "category": "other",
-    "subcategory": null,
-    "description": "A Meteorite that you got at Mt. Chimney. It gives off a faint glow.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/meteorite--2.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 936,
-    "name": "Meteorite",
-    "category": "other",
-    "subcategory": null,
-    "description": "A Meteorite that you got at Mt. Chimney. It continues to give off a faint glow and is slightly warm to the touch.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/meteorite--3.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 937,
-    "name": "Meteorite",
-    "category": "other",
-    "subcategory": null,
-    "description": "A Meteorite that you got at Mt. Chimney. Some sort of pattern has risen to the surface, and it’s shining with seven colors of light.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/meteorite--4.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
     "id": 938,
     "name": "Normalium Z",
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Normal-type moves to Normal-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/normalium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/normaliumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24026,7 +21956,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Fire-type moves to Fire-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/firium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/firiumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24049,7 +21979,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Water-type moves to Water-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/waterium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/wateriumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24072,7 +22002,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Electric-type moves to Electric-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/electrium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/electriumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24095,7 +22025,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Grass-type moves to Grass-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/grassium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/grassiumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24118,7 +22048,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Ice-type moves to Ice-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/icium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/iciumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24141,7 +22071,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Fighting-type moves to Fighting-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fightinium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fightiniumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24164,7 +22094,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Poison-type moves to Poison-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/poisonium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/poisoniumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24187,7 +22117,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Ground-type moves to Ground-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/groundium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/groundiumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24210,7 +22140,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Flying-type moves to Flying-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/flyinium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/flyiniumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24233,7 +22163,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Psychic-type moves to Psychic-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/psychium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/psychiumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24256,7 +22186,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Bug-type moves to Bug-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/buginium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/buginiumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24279,7 +22209,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Rock-type moves to Rock-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rockium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/rockiumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24302,7 +22232,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Ghost-type moves to Ghost-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ghostium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/ghostiumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24325,7 +22255,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Dragon-type moves to Dragon-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dragonium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/dragoniumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24348,7 +22278,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Dark-type moves to Dark-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/darkinium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/darkiniumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24371,7 +22301,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Steel-type moves to Steel-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/steelium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/steeliumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24394,7 +22324,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Fairy-type moves to Fairy-type Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fairium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fairiumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24417,7 +22347,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Pikachu’s Volt Tackle to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pikanium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/pikaniumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24440,7 +22370,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Decidueye’s Spirit Shackle to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/decidium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/decidiumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24463,7 +22393,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Incineroar’s Darkest Lariat to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/incinium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/inciniumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24486,7 +22416,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Primarina’s Sparkling Aria to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/primarium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/primariumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24509,7 +22439,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade the tapu’s Nature’s Madness to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tapunium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/tapuniumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24532,7 +22462,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Marshadow’s Spectral Thief to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/marshadium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/marshadiumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24555,7 +22485,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Alolan Raichu’s Thunderbolt to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/aloraichium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/aloraichiumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24578,7 +22508,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Snorlax’s Giga Impact to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/snorlium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/snorliumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24601,7 +22531,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Eevee’s Last Resort to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/eevium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/eeviumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24624,7 +22554,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade Mew’s Psychic to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mewnium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/mewniumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24647,7 +22577,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It converts Z-Power into crystals that upgrade a Thunderbolt by Pikachu in a cap to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pikashunium-z--bag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/pikashuniumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24670,7 +22600,7 @@
     "category": "other",
     "subcategory": null,
     "description": "This is a crystallized form of Z-Power. It upgrades Solgaleo’s Sunsteel Strike to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/solganium-z--held.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/solganiumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24693,7 +22623,7 @@
     "category": "other",
     "subcategory": null,
     "description": "This is a crystallized form of Z-Power. It upgrades Lunala’s Moongeist Beam to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lunalium-z--held.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/lunaliumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24716,7 +22646,7 @@
     "category": "other",
     "subcategory": null,
     "description": "This is a crystallized form of Z-Power. It upgrades Necrozma’s Photon Geyser to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ultranecrozium-z--held.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/ultranecroziumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24739,7 +22669,7 @@
     "category": "other",
     "subcategory": null,
     "description": "This is a crystallized form of Z-Power. It upgrades Mimikyu’s Play Rough to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mimikium-z--held.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/mimikiumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24762,7 +22692,7 @@
     "category": "other",
     "subcategory": null,
     "description": "This is a crystallized form of Z-Power. It upgrades Lycanroc’s Stone Edge to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lycanium-z--held.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/lycaniumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24785,375 +22715,7 @@
     "category": "other",
     "subcategory": null,
     "description": "This is a crystallized form of Z-Power. It upgrades Kommo-o’s Clanging Scales to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/kommonium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 973,
-    "name": "Solganium Z",
-    "category": "other",
-    "subcategory": null,
-    "description": "It converts Z-Power into crystals that upgrade Solgaleo’s Sunsteel Strike to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/solganium-z--bag.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 974,
-    "name": "Lunalium Z",
-    "category": "other",
-    "subcategory": null,
-    "description": "It converts Z-Power into crystals that upgrade Lunala’s Moongeist Beam to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lunalium-z--bag.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 975,
-    "name": "Ultranecrozium Z",
-    "category": "other",
-    "subcategory": null,
-    "description": "It’s a crystal that turns Necrozma fused with Solgaleo or Lunala into a new form.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ultranecrozium-z--bag.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 976,
-    "name": "Mimikium Z",
-    "category": "other",
-    "subcategory": null,
-    "description": "It converts Z-Power into crystals that upgrade Mimikyu’s Play Rough to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mimikium-z--bag.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 977,
-    "name": "Lycanium Z",
-    "category": "other",
-    "subcategory": null,
-    "description": "It converts Z-Power into crystals that upgrade Lycanroc’s Stone Edge to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lycanium-z--bag.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 978,
-    "name": "Kommonium Z",
-    "category": "other",
-    "subcategory": null,
-    "description": "It converts Z-Power into crystals that upgrade Kommo-o’s Clanging Scales to an exclusive Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/kommonium-z--bag.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 979,
-    "name": "Z-Power Ring",
-    "category": "other",
-    "subcategory": null,
-    "description": "A mysterious ring that enables Pokémon to use Z-Power. It requires both the willpower and the physical power of the Trainer wearing it.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/z-power-ring.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 980,
-    "name": "Pink Petal",
-    "category": "other",
-    "subcategory": null,
-    "description": "A pressed flower petal you receive from Mina during Mina’s trial. The goal is to collect seven different kinds of petals.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pink-petal.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 981,
-    "name": "Orange Petal",
-    "category": "other",
-    "subcategory": null,
-    "description": "A pressed flower petal you receive from Ilima during Mina’s trial. The goal is to collect seven different kinds of petals.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/orange-petal.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 982,
-    "name": "Blue Petal",
-    "category": "other",
-    "subcategory": null,
-    "description": "A pressed flower petal you receive from Lana during Mina’s trial. The goal is to collect seven different kinds of petals.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blue-petal.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 983,
-    "name": "Red Petal",
-    "category": "other",
-    "subcategory": null,
-    "description": "A pressed flower petal you receive from Kiawe during Mina’s trial. The goal is to collect seven different kinds of petals.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/red-petal.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 984,
-    "name": "Green Petal",
-    "category": "other",
-    "subcategory": null,
-    "description": "A pressed flower petal you receive from Mallow during Mina’s trial. The goal is to collect seven different kinds of petals.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/green-petal.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 985,
-    "name": "Yellow Petal",
-    "category": "other",
-    "subcategory": null,
-    "description": "A pressed flower petal you receive from Sophocles during Mina’s trial. The goal is to collect seven different kinds of petals.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/yellow-petal.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 986,
-    "name": "Purple Petal",
-    "category": "other",
-    "subcategory": null,
-    "description": "A pressed flower petal you receive from Nanu during Mina’s trial. The goal is to collect seven different kinds of petals.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/purple-petal.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 987,
-    "name": "Rainbow Flower",
-    "category": "other",
-    "subcategory": null,
-    "description": "A flower made of the petals you received from captains. It’s proof that your growth has been recognized by them.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rainbow-flower.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 988,
-    "name": "Surge Badge",
-    "category": "other",
-    "subcategory": null,
-    "description": "A novelty badge that you can receive at the Kantonian Gym. Rumor has it that it imitates the Badge of a Gym somewhere.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/surge-badge.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/kommoniumz.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -25173,12 +22735,12 @@
   {
     "id": 989,
     "name": "N-Solarizer",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A machine to fuse Necrozma, which needs light, and Solgaleo.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/n-solarizer--merge.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/n-solarizer.png",
     "rarity": "comum",
-    "is_unique": false,
+    "is_unique": true,
     "price": {
       "buy": false,
       "sell": false
@@ -25196,541 +22758,12 @@
   {
     "id": 990,
     "name": "N-Lunarizer",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "A machine to fuse Necrozma, which needs light, and Lunala.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/n-lunarizer--merge.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/n-lunarizer.png",
     "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 991,
-    "name": "N-Solarizer",
-    "category": "other",
-    "subcategory": null,
-    "description": "A machine to separate Necrozma, which needed light, from Solgaleo.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/n-solarizer--split.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 992,
-    "name": "N-Lunarizer",
-    "category": "other",
-    "subcategory": null,
-    "description": "A machine to separate Necrozma, which needed light, from Lunala.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/n-lunarizer--split.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 993,
-    "name": "Ilima Normalium Z",
-    "category": "other",
-    "subcategory": null,
-    "description": "The Normalium Z you were entrusted with by Ilima. You were asked to place it on the pedestal at the back of Verdant Cavern.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ilimas-normalium-z.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 994,
-    "name": "Left Poké Ball",
-    "category": "other",
-    "subcategory": null,
-    "description": "A Poké Ball with a Pokémon that lost its Trainer inside. It seems to be from Ula’ula Island.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/left-poke-ball.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 995,
-    "name": "Roto Hatch",
-    "category": "other",
-    "subcategory": null,
-    "description": "One of the Rotom Powers. It helps Eggs hatch faster.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roto-hatch.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 996,
-    "name": "Roto Bargain",
-    "category": "other",
-    "subcategory": null,
-    "description": "One of the Rotom Powers. It reduces the prices of products at Poké Marts by half.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roto-bargain.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 997,
-    "name": "Roto Prize Money",
-    "category": "other",
-    "subcategory": null,
-    "description": "One of the Rotom Powers. It triples the prize money you receive after battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roto-prize-money.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 998,
-    "name": "Roto Exp. Points",
-    "category": "other",
-    "subcategory": null,
-    "description": "One of the Rotom Powers. It increases the Exp. Points your Pokémon receive after battle a little.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roto-exp-points.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 999,
-    "name": "Roto Friendship",
-    "category": "other",
-    "subcategory": null,
-    "description": "One of the Rotom Powers. It helps Pokémon in your party grow friendly faster.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roto-friendship.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1000,
-    "name": "Roto Encounter",
-    "category": "other",
-    "subcategory": null,
-    "description": "One of the Rotom Powers. It increases the chance of encountering high-level wild Pokémon a lot for a certain period of time.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roto-encounter.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1001,
-    "name": "Roto Stealth",
-    "category": "other",
-    "subcategory": null,
-    "description": "One of the Rotom Powers. It prevents you from encountering wild Pokémon for a certain period of time.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roto-stealth.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1002,
-    "name": "Roto HP Restore",
-    "category": "other",
-    "subcategory": null,
-    "description": "One of the Rotom Powers. It fully restores the HP of your battling Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roto-hp-restore.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1003,
-    "name": "Roto PP Restore",
-    "category": "other",
-    "subcategory": null,
-    "description": "One of the Rotom Powers. It fully restores the PP of your battling Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roto-pp-restore.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1004,
-    "name": "Roto Boost",
-    "category": "other",
-    "subcategory": null,
-    "description": "One of the Rotom Powers. It raises all stats of your battling Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roto-boost.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1005,
-    "name": "Roto Catch",
-    "category": "other",
-    "subcategory": null,
-    "description": "One of the Rotom Powers. It increases the chance to catch Pokémon a lot.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roto-catch.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1006,
-    "name": "Autograph",
-    "category": "other",
-    "subcategory": null,
-    "description": "The autograph you got from the Vermilion City Gym Leader, Lt. Surge. He wrote, “Good luck!”",
-    "sprite": "https://www.serebii.net/itemdex/sprites/autograph.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1007,
-    "name": "Pokémon Box Link",
-    "category": "other",
-    "subcategory": null,
-    "description": "- - -",
-    "sprite": "https://www.serebii.net/itemdex/sprites/pokemon-box.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1008,
-    "name": "Medicine Pocket",
-    "category": "other",
-    "subcategory": null,
-    "description": "- - -",
-    "sprite": "https://www.serebii.net/itemdex/sprites/medicine-pocket.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1009,
-    "name": "Candy Jar",
-    "category": "other",
-    "subcategory": null,
-    "description": "- - -",
-    "sprite": "https://www.serebii.net/itemdex/sprites/candy-jar.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1010,
-    "name": "Power-Up Pocket",
-    "category": "other",
-    "subcategory": null,
-    "description": "- - -",
-    "sprite": "https://www.serebii.net/itemdex/sprites/power-up-pocket.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1011,
-    "name": "Clothing Trunk",
-    "category": "other",
-    "subcategory": null,
-    "description": "A very light trunk that can carry clothing for you and your Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/clothing-trunk.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1012,
-    "name": "Catching Pocket",
-    "category": "other",
-    "subcategory": null,
-    "description": "- - -",
-    "sprite": "https://www.serebii.net/itemdex/sprites/catching-pocket.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1013,
-    "name": "Battle Pocket",
-    "category": "other",
-    "subcategory": null,
-    "description": "- - -",
-    "sprite": "https://www.serebii.net/itemdex/sprites/battle-pocket.png",
-    "rarity": "comum",
-    "is_unique": false,
+    "is_unique": true,
     "price": {
       "buy": false,
       "sell": false
