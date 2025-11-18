@@ -2,10 +2,10 @@
   {
     "id": 63,
     "name": "Poké Doll",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "Use to flee from any battle with a wild POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/poke-doll.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pokedoll.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -27,10 +27,10 @@
   {
     "id": 64,
     "name": "Fluffy Tail",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "Use to flee from any battle with a wild POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fluffy-tail.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fluffytail.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -55,7 +55,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A glass flute that awakens sleeping POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blue-flute.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/blueflute.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -80,7 +80,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A glass flute that snaps POKéMON out of confusion.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/yellow-flute.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/yellowflute.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -105,7 +105,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A glass flute that snaps POKéMON out of attraction.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/red-flute.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/redflute.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -130,7 +130,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A glass flute that keeps away wild POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/black-flute.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/blackflute.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -155,7 +155,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A glass flute that lures wild POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/white-flute.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/whiteflute.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -177,10 +177,10 @@
   {
     "id": 76,
     "name": "Super Repel",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "Repels weak wild POKéMON for 200 steps.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/super-repel.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/superrepel.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -202,10 +202,10 @@
   {
     "id": 77,
     "name": "Max Repel",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "Repels weak wild POKéMON for 250 steps.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/max-repel.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/maxrepel.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -227,10 +227,10 @@
   {
     "id": 78,
     "name": "Escape Rope",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "Use to escape instantly from a cave or a dungeon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/escape-rope.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/escaperope.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -302,10 +302,10 @@
   {
     "id": 99,
     "name": "Root Fossil",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "A fossil of an ancient, seafloor- dwelling POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/root-fossil.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/rootfossil.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -327,10 +327,10 @@
   {
     "id": 100,
     "name": "Claw Fossil",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "A fossil of an ancient, seafloor- dwelling POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/claw-fossil.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/clawfossil.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -352,10 +352,10 @@
   {
     "id": 101,
     "name": "Helix Fossil",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "A piece of an ancient marine POKéMON’s seashell.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/helix-fossil.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/helixfossil.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -377,10 +377,10 @@
   {
     "id": 102,
     "name": "Dome Fossil",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "A piece of an ancient marine POKéMON’s shell.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dome-fossil.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/domefossil.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -402,10 +402,10 @@
   {
     "id": 103,
     "name": "Old Amber",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "A stone containing the genes of an ancient POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/old-amber.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/oldamber.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -427,10 +427,10 @@
   {
     "id": 104,
     "name": "Armor Fossil",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/armor-fossil.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/armorfossil.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -452,10 +452,10 @@
   {
     "id": 105,
     "name": "Skull Fossil",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a head.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/skull-fossil.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/skullfossil.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -477,10 +477,10 @@
   {
     "id": 111,
     "name": "Odd Keystone",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/odd-keystone.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/oddkeystone.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -502,10 +502,10 @@
   {
     "id": 275,
     "name": "Flame Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fire-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/flame-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/flameplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -527,10 +527,10 @@
   {
     "id": 276,
     "name": "Splash Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Water-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/splash-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/splashplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -552,10 +552,10 @@
   {
     "id": 277,
     "name": "Zap Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Electric-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/zap-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/zapplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -577,10 +577,10 @@
   {
     "id": 278,
     "name": "Meadow Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Grass-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/meadow-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/meadowplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -602,10 +602,10 @@
   {
     "id": 279,
     "name": "Icicle Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ice-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/icicle-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/icicleplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -627,10 +627,10 @@
   {
     "id": 280,
     "name": "Fist Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fighting-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fist-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fistplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -652,10 +652,10 @@
   {
     "id": 281,
     "name": "Toxic Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Poison-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/toxic-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/toxicplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -677,10 +677,10 @@
   {
     "id": 282,
     "name": "Earth Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ground-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/earth-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/earthplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -702,10 +702,10 @@
   {
     "id": 283,
     "name": "Sky Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Flying-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sky-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/skyplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -727,10 +727,10 @@
   {
     "id": 284,
     "name": "Mind Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Psychic-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mind-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mindplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -752,10 +752,10 @@
   {
     "id": 285,
     "name": "Insect Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Bug-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/insect-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/insectplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -777,10 +777,10 @@
   {
     "id": 286,
     "name": "Stone Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Rock-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/stone-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/stoneplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -802,10 +802,10 @@
   {
     "id": 287,
     "name": "Spooky Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ghost-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/spooky-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/spookyplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -827,10 +827,10 @@
   {
     "id": 288,
     "name": "Draco Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Dragon-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/draco-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dracoplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -852,10 +852,10 @@
   {
     "id": 289,
     "name": "Dread Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Dark-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dread-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dreadplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -877,115 +877,15 @@
   {
     "id": 290,
     "name": "Iron Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Steel-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/iron-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ironplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
       "buy": 1000,
       "sell": 500
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 430,
-    "name": "Lunar Wing",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "A feather that glows like the moon. It is said to possess the power to dispel nightmares.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lunar-wing.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 432,
-    "name": "Azure Flute",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "A flute that puts out echoing sounds that do not seem to be of this world. It is unknown who made it.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/azure-flute.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 435,
-    "name": "Magma Stone",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "A stone formed when boulders melted in intensely hot magma, then hardened. Magma remains sealed inside.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/magma-stone.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 437,
-    "name": "Coupon 1",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "A coupon to be exchanged for a Pokémon Watch (Pokétch for short). Three coupons are needed.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/coupon-1.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -1030,7 +930,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A red, glowing orb said to contain an ancient power.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/red-orb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/redorb.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1055,132 +955,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A blue, glowing orb said to contain an ancient power.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blue-orb.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 469,
-    "name": "Jade Orb",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "A shiny green orb that is said to have a legend and has a deep connection with the Hoenn region.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/jade-orb.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 470,
-    "name": "Enigma Stone",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "A crystal ball that was excavated from the ground. A very beautiful stone that is covered with bits of rock and earth.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/enigma-stone.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 474,
-    "name": "Clear Bell",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "A very old-fashioned bell that makes a gentle ringing.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/clear-bell.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 481,
-    "name": "Silver Wing",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "A strange, silvery feather that sparkles.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/silver-wing.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 482,
-    "name": "Rainbow Wing",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "A mystical, rainbow feather that sparkles.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rainbow-wing.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/blueorb.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1225,31 +1000,6 @@
     "is_book": false
   },
   {
-    "id": 485,
-    "name": "Tidal Bell",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "An old-fashioned bell with a gentle, soothing sound.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tidal-bell.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
     "id": 537,
     "name": "Meteorite",
     "category": "key-item",
@@ -1275,44 +1025,12 @@
     "is_book": false
   },
   {
-    "id": 543,
-    "name": "Receitas de Pokebolas",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "Um livro que ensina receitas",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/oaks-parcel.png",
-    "rarity": "raro",
-    "is_unique": false,
-    "price": {
-      "buy": 7999,
-      "sell": false,
-      "casino": false,
-      "mile": false
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": true,
-    "book_category": "crafting",
-    "unlocks_recipes": [
-      449,
-      454
-    ]
-  },
-  {
     "id": 613,
     "name": "Cover Fossil",
     "category": "key-item",
     "subcategory": null,
     "description": "A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its back.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cover-fossil.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/coverfossil.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1337,7 +1055,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A fossil of an ancient Pokémon that flew in the sky in ancient times. It appears to be part of its wing.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/plume-fossil.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/plumefossil.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1362,7 +1080,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/poke-toy.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/poketoy.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1382,112 +1100,12 @@
     "is_book": false
   },
   {
-    "id": 620,
-    "name": "Dragon Skull",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "A skull of a Pokémon which was said to have braved the angry waters to fly around the world.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dragon-skull.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 657,
-    "name": "Light Stone",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "Reshiram’s body was destroyed and changed into this stone. It is said to be waiting for the emergence of a hero.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/light-stone.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 658,
-    "name": "Dark Stone",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "Zekrom’s body was destroyed and changed into this stone. It is said to be waiting for the emergence of a hero.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dark-stone.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 678,
-    "name": "Colress Machine",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "A special device that wrings out the potential of Pokémon. It is an imperfect prototype.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/colress-machine.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
     "id": 684,
     "name": "Pixie Plate",
-    "category": "key-item",
+    "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fairy-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pixie-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pixieplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1512,7 +1130,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Gengar hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/gengarite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/gengarite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1538,7 +1156,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Gardevoir hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/gardevoirite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/gardevoirite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1564,7 +1182,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Ampharos hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ampharosite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/ampharosite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1590,7 +1208,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Venusaur hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/venusaurite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/venusaurite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1616,7 +1234,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/charizardite-x.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/charizarditex.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1642,7 +1260,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Blastoise hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blastoisinite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/blastoisinite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1668,7 +1286,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mewtwonite-x.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/mewtwonitex.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1694,7 +1312,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mewtwonite-y.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/mewtwonitey.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1720,7 +1338,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Blaziken hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blazikenite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/blazikenite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1746,7 +1364,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Medicham hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/medichamite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/medichamite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1772,7 +1390,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Houndoom hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/houndoominite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/houndoominite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1798,7 +1416,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Aggron hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/aggronite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/aggronite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1824,7 +1442,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Banette hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/banettite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/banettite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1850,7 +1468,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Tyranitar hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tyranitarite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/tyranitarite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1876,7 +1494,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Scizor hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/scizorite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/scizorite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1902,7 +1520,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Pinsir hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pinsirite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/pinsirite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1928,7 +1546,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Aerodactyl hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/aerodactylite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/aerodactylite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1954,7 +1572,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Lucario hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lucarionite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/lucarionite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -1980,7 +1598,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Abomasnow hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/abomasite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/abomasite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2006,7 +1624,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Kangaskhan hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/kangaskhanite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/kangaskhanite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2032,7 +1650,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Gyarados hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/gyaradosite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/gyaradosite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2058,7 +1676,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Absol hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/absolite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/absolite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2084,7 +1702,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/charizardite-y.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/charizarditey.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2110,7 +1728,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Alakazam hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/alakazite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/alakazite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2136,7 +1754,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Heracross hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/heracronite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/heracronite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2162,7 +1780,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Mawile hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mawilite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/mawilite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2188,7 +1806,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Manectric hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/manectite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/manectite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2214,7 +1832,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One variety of the mysterious Mega Stones. Have Garchomp hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/garchompite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/garchompite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2237,10 +1855,10 @@
   {
     "id": 729,
     "name": "Jaw Fossil",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "A fossil from a prehistoric Pokémon that once lived on the land. It looks as if it could be a piece of a large jaw.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/jaw-fossil.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/jawfossil.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2262,10 +1880,10 @@
   {
     "id": 730,
     "name": "Sail Fossil",
-    "category": "key-item",
+    "category": "other",
     "subcategory": null,
     "description": "A fossil from a prehistoric Pokémon that once lived on the land. It looks like the impression from a skin sail.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sail-fossil.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/sailfossil.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2290,7 +1908,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Latias hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/latiasite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/latiasite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2316,7 +1934,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Latios hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/latiosite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/latiosite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2342,7 +1960,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Swampert hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/swampertite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/swampertite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2368,7 +1986,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Sceptile hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sceptilite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/sceptilite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2394,7 +2012,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Sableye hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sablenite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/sablenite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2420,7 +2038,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Altaria hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/altarianite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/altarianite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2446,7 +2064,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Gallade hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/galladite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/galladite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2472,7 +2090,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Audino hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/audinite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/audinite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2498,7 +2116,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Metagross hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/metagrossite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/metagrossite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2524,7 +2142,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Sharpedo hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sharpedonite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/sharpedonite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2550,7 +2168,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Slowbro hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/slowbronite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/slowbronite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2576,7 +2194,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Steelix hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/steelixite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/steelixite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2602,7 +2220,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Pidgeot hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pidgeotite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/pidgeotite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2628,7 +2246,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Glalie hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/glalitite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/glalitite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2654,7 +2272,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Diancie hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/diancite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/diancite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2680,7 +2298,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Camerupt hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cameruptite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/cameruptite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2706,7 +2324,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Lopunny hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lopunnite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/lopunnite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2732,7 +2350,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Salamence hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/salamencite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/salamencite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2758,7 +2376,7 @@
     "category": "key-item",
     "subcategory": "mega-stone",
     "description": "One of a variety of mysterious Mega Stones. Have Beedrill hold it, and this stone will enable it to Mega Evolve during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/beedrillite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/beedrillite.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -2779,737 +2397,12 @@
     "is_book": false
   },
   {
-    "id": 817,
-    "name": "Normalium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Normal-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/normalium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 818,
-    "name": "Firium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Fire-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/firium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 819,
-    "name": "Waterium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Water-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/waterium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 820,
-    "name": "Electrium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Electric-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/electrium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 821,
-    "name": "Grassium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Grass-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/grassium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 822,
-    "name": "Icium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Ice-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/icium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 823,
-    "name": "Fightinium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Fighting-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fightinium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 824,
-    "name": "Poisonium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Poison-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/poisonium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 825,
-    "name": "Groundium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Ground-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/groundium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 826,
-    "name": "Flyinium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Flying-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/flyinium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 827,
-    "name": "Psychium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Psychic-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/psychium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 828,
-    "name": "Buginium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Bug-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/buginium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 829,
-    "name": "Rockium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Rock-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rockium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 830,
-    "name": "Ghostium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Ghost-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ghostium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 831,
-    "name": "Dragonium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Dragon-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dragonium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 832,
-    "name": "Darkinium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Dark-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/darkinium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 833,
-    "name": "Steelium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Steel-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/steelium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 834,
-    "name": "Fairium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Fairy-type moves to Z-Moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fairium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 835,
-    "name": "Pikanium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Pikachu’s Volt Tackle to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pikanium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 839,
-    "name": "Decidium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Decidueye’s Spirit Shackle to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/decidium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 840,
-    "name": "Incinium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Incineroar’s Darkest Lariat to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/incinium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 841,
-    "name": "Primarium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Primarina’s Sparkling Aria to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/primarium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 842,
-    "name": "Tapunium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades the tapu’s Nature’s Madness to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tapunium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 843,
-    "name": "Marshadium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Marshadow’s Spectral Thief to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/marshadium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 844,
-    "name": "Aloraichium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Alolan Raichu’s Thunderbolt to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/aloraichium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 845,
-    "name": "Snorlium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Snorlax’s Giga Impact to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/snorlium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 846,
-    "name": "Eevium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Eevee’s Last Resort to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/eevium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 847,
-    "name": "Mewnium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades Mew’s Psychic to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mewnium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 877,
-    "name": "Pikashunium Z",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "This is a crystallized form of Z-Power. It upgrades a Thunderbolt by Pikachu in a cap to a Z-Move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pikashunium-z--held.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
     "id": 902,
     "name": "Fighting Memory",
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Fighting-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fighting-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fightingmemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3534,7 +2427,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Flying-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/flying-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/flyingmemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3559,7 +2452,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Poison-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/poison-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/poisonmemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3584,7 +2477,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Ground-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ground-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/groundmemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3609,7 +2502,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Rock-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rock-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/rockmemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3634,7 +2527,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Bug-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bug-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/bugmemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3659,7 +2552,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Ghost-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ghost-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/ghostmemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3684,7 +2577,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Steel-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/steel-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/steelmemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3709,7 +2602,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Fire-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fire-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/firememory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3734,7 +2627,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Water-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/water-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/watermemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3759,7 +2652,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Grass-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/grass-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/grassmemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3784,7 +2677,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Electric-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/electric-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/electricmemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3809,7 +2702,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Psychic-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/psychic-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/psychicmemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3834,7 +2727,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Ice-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ice-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/icememory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3859,7 +2752,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Dragon-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dragon-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/dragonmemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3884,7 +2777,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Dark-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dark-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/darkmemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3909,7 +2802,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "A memory disc that contains Fairy-type data. It changes the type of the holder if held by a certain species of Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fairy-memory.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fairymemory.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3929,87 +2822,12 @@
     "is_book": false
   },
   {
-    "id": 1036,
-    "name": "Lure",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "A glass bottle of perfume that makes rare Pokémon more likely to appear.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/lure.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 400,
-      "sell": 200
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 1037,
-    "name": "Super Lure",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "A glass bottle of perfume that makes rare Pokémon more likely to appear. It lasts longer than a Lure.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/super-lure.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 700,
-      "sell": 350
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 1038,
-    "name": "Max Lure",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "A glass bottle of perfume that makes rare Pokémon more likely to appear. It lasts longer than a Super Lure.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/max-lure.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 900,
-      "sell": 450
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
     "id": 1163,
     "name": "Fossilized Bird",
     "category": "key-item",
     "subcategory": null,
     "description": "The fossil of an ancient Pokémon that once soared through the sky. What it looked like is a mystery.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/fossilized-bird.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/fossilizedbird.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4034,7 +2852,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/fossilized-fish.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/fossilizedfish.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4059,7 +2877,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "The fossil of an ancient Pokémon that once roamed the land. What it looked like is a mystery.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/fossilized-drake.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/fossilizeddrake.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4084,7 +2902,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": "The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/fossilized-dino.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/fossilizeddino.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4104,89 +2922,12 @@
     "is_book": false
   },
   {
-    "id": 1651,
-    "name": "White Mane Hair",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "Mane hair that belonged to the King of Bountiful Harvests’ beloved steed, Glastrier. The hair is strong and very flexible.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/white-mane-hair.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 1652,
-    "name": "Black Mane Hair",
-    "category": "key-item",
-    "subcategory": null,
-    "description": "Mane hair that belonged to the King of Bountiful Harvests’ beloved steed, Spectrier. The hair is very smooth to the touch.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/black-mane-hair.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
-    "id": 1656,
-    "name": "Carrot Seeds",
-    "category": "craft-material",
-    "subcategory": null,
-    "description": "Seeds to plant in a field. The kind of carrot you’ll get is determined by which field you plant the seeds in.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/carrot-seeds.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false,
-      "casino": false,
-      "mile": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": true,
-    "posts_to_collect": 5,
-    "has_skins": false,
-    "is_book": false
-  },
-  {
     "id": 1658,
     "name": "Reins of Unity",
     "category": "key-item",
     "subcategory": null,
     "description": "Cords that shine when you hold them up to the light. The people of old times presented these to the King of Bountiful Harvests to express their gratitude.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/reins-of-unity.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/reinsofunity.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4211,7 +2952,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/blank-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blankplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4263,7 +3004,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/legend-plate.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/legendplate.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4288,7 +3029,7 @@
     "category": "key-item",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/rotom-phone.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rotomphone.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
