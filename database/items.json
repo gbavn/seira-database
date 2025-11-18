@@ -4363,7 +4363,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Heals POKéMON of a burn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/burn-heal.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/burnheal.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4387,7 +4387,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Defrosts a frozen POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ice-heal.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/iceheal.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4435,7 +4435,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Heals a paralyzed POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/paralyze-heal.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/paralyzeheal.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4613,7 +4613,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Revives a fainted POKéMON with all its HP.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/max-revive.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/maxrevive.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4637,7 +4637,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A mineral water that restores HP by 50 points.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fresh-water.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/freshwater.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4661,7 +4661,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A fizzy soda drink that restores HP by 60 points.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/soda-pop.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sodapop.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4709,7 +4709,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A nutritious milk that restores HP by 100 points.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/moomoo-milk.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/moomoomilk.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4733,7 +4733,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A bitter powder that restores HP by 50 points.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/energy-powder.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/energypowder.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4757,7 +4757,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A bitter root that restores HP by 200 points.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/energy-root.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/energyroot.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4781,7 +4781,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A bitter powder that heals all status problems.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/heal-powder.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/healpowder.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -5407,7 +5407,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "An item for use on a Pokémon. It slightly increases the base HP of a single Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/health-wing.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/healthwing.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -6292,10 +6292,10 @@
   {
     "id": 1657,
     "name": "Ability Patch",
-    "category": "medicine",
+    "category": "other",
     "subcategory": null,
     "description": "A patch that allows a Pokémon with a regular Ability to have a rare Ability.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/ability-patch.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/abilitypatch.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -6839,7 +6839,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "Prevents stat reduction when used in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/guard-spec.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/guardspec..png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -6863,7 +6863,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "Raises the critical-hit ratio during one battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dire-hit.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/direhit.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -6887,7 +6887,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "Raises the stat ATTACK during one battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-attack.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/xattack.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -6911,7 +6911,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "Raises the stat DEFENSE during one battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-defense.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/xdefense.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -6935,7 +6935,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "Raises the stat SPEED during one battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-speed.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/xspeed.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -6959,7 +6959,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "Raises accuracy of attack moves during one battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-accuracy.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/xaccuracy.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -6983,7 +6983,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "Raises the stat SP. ATK during one battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-sp-atk.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/xsp.atk.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7007,7 +7007,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item that raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/x-sp-def.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/xsp.def.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7031,7 +7031,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that casts a glare to reduce accuracy.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bright-powder.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/brightpowder.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7055,7 +7055,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that restores any lowered stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/white-herb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/whiteherb.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7079,7 +7079,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that occasionally allows the first strike.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/quick-claw.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/quickclaw.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7103,7 +7103,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that snaps POKéMON out of infatuation.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mental-herb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mentalherb.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7127,7 +7127,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "Raises a move’s power, but permits only that move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/choice-band.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/choiceband.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7151,7 +7151,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that may cause flinching when the foe is hit.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/kings-rock.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/king'srock.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7175,7 +7175,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the power of BUG-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/silver-powder.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/silverpowder.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7199,7 +7199,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that can be used to flee from a wild POKéMON.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/smoke-ball.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/smokeball.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7223,7 +7223,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that occasionally prevents fainting.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/focus-band.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/focusband.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7247,7 +7247,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the critical- hit rate.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/scope-lens.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/scopelens.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7271,7 +7271,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the power of STEEL-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/metal-coat.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/metalcoat.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7319,7 +7319,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the power of GROUND-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/soft-sand.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/softsand.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7343,7 +7343,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the power of ROCK-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/hard-stone.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/hardstone.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7367,7 +7367,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the power of GRASS-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/miracle-seed.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/miracleseed.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7391,7 +7391,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the power of DARK-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/black-glasses.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blackglasses.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7415,7 +7415,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that boosts FIGHTING- type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/black-belt.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blackbelt.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7463,7 +7463,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the power of WATER-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mystic-water.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mysticwater.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7487,7 +7487,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the power of FLYING-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sharp-beak.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sharpbeak.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7511,7 +7511,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the power of POISON-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/poison-barb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/poisonbarb.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7535,7 +7535,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the power of ICE-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/never-melt-ice.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/never-meltice.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7559,7 +7559,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the power of GHOST-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/spell-tag.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/spelltag.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7583,7 +7583,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that boosts PSYCHIC- type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/twisted-spoon.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/twistedspoon.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7631,7 +7631,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the power of DRAGON-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dragon-fang.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dragonfang.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7655,7 +7655,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that raises the power of NORMAL-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/silk-scarf.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/silkscarf.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7679,7 +7679,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that restores HP upon striking the foe.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/shell-bell.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/shellbell.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7703,7 +7703,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that slightly boosts WATER-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sea-incense.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/seaincense.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7727,7 +7727,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that slightly lowers the foe’s accuracy.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lax-incense.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/laxincense.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7751,7 +7751,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/wide-lens.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/widelens.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7775,7 +7775,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a headband that slightly boosts the power of physical moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/muscle-band.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/muscleband.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7799,7 +7799,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a thick pair of glasses that slightly boosts the power of special moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/wise-glasses.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/wiseglasses.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7823,7 +7823,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a well-worn belt that slightly boosts the power of supereffective moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/expert-belt.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/expertbelt.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7847,7 +7847,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A Pokémon hold item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/light-clay.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lightclay.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7871,7 +7871,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/life-orb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lifeorb.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7895,7 +7895,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/power-herb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerherb.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7919,7 +7919,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/toxic-orb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/toxicorb.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7943,7 +7943,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/flame-orb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/flameorb.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7967,7 +7967,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/focus-sash.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/focussash.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -7991,7 +7991,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. If the holder moves after the foe, its critical-hit ratio will be boosted.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/zoom-lens.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/zoomlens.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8039,7 +8039,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A Pokémon hold item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/iron-ball.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ironball.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8063,7 +8063,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lagging-tail.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/laggingtail.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8087,7 +8087,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A long, thin, bright red string to be held by a Pokémon. If the holder becomes infatuated, the foe does too.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/destiny-knot.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/destinyknot.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8111,7 +8111,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/black-sludge.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blacksludge.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8135,7 +8135,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A Pokémon hold item that extends the duration of the move Hail used by the holder.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/icy-rock.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/icyrock.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8159,7 +8159,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A Pokémon hold item that extends the duration of the move Sandstorm used by the holder.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/smooth-rock.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/smoothrock.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8183,7 +8183,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A Pokémon hold item that extends the duration of the move Sunny Day used by the holder.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/heat-rock.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/heatrock.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8207,7 +8207,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A Pokémon hold item that extends the duration of the move Rain Dance used by the holder.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/damp-rock.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/damprock.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8231,7 +8231,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A Pokémon hold item that extends the duration of multiturn attacks like Bind and Wrap.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/grip-claw.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/gripclaw.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8255,7 +8255,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. This scarf boosts Speed, but allows the use of only one kind of move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/choice-scarf.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/choicescarf.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8279,7 +8279,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A hold item that damages the holder on every turn. It may latch on to foes that touch the holder.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sticky-barb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/stickybarb.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8303,7 +8303,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/shed-shell.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/shedshell.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8327,7 +8327,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A Pokémon hold item that boosts the power of HP-stealing moves to let the holder recover more HP.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/big-root.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bigroot.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8351,7 +8351,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. These distinctive glasses boost Sp. Atk, but allow only one kind of move to be used.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/choice-specs.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/choicespecs.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8375,7 +8375,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Psychic-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/odd-incense.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/oddincense.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8399,7 +8399,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Rock-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rock-incense.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rockincense.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8423,7 +8423,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is an exotic-smelling incense that makes the holder bloated and slow moving.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/full-incense.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fullincense.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8447,7 +8447,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Water-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/wave-incense.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/waveincense.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8471,7 +8471,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Grass-type moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rose-incense.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roseincense.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8495,7 +8495,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It is a sharply hooked claw that ups the holder’s critical-hit ratio.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/razor-claw.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/razorclaw.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8519,7 +8519,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/razor-fang.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/razorfang.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8567,7 +8567,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A very light stone. It reduces the weight of a Pokémon when held.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/float-stone.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/floatstone.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8591,7 +8591,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "If the holder of this item takes damage, the attacker will also be damaged upon contact.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rocky-helmet.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rockyhelmet.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8615,7 +8615,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "When held by a Pokémon, the Pokémon will float into the air. When the holder is attacked, this item will burst.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/air-balloon.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/airballoon.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8639,7 +8639,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/red-card.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/redcard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8663,7 +8663,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "Moves that would otherwise have no effect will land on the Pokémon that holds it.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ring-target.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ringtarget.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8687,7 +8687,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A band that increases the power of binding moves when held.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/binding-band.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bindingband.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8711,7 +8711,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/absorb-bulb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/absorbbulb.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8735,7 +8735,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cell-battery.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cellbattery.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8759,7 +8759,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "If the holder is hit by an attack, it will switch with another Pokémon in your party.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/eject-button.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ejectbutton.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8783,7 +8783,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an essence of fire. When held, it strengthens the power of a Fire-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fire-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/firegem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8807,7 +8807,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an essence of water. When held, it strengthens the power of a Water-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/water-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/watergem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8831,7 +8831,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an essence of electricity. When held, it strengthens the power of an Electric-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/electric-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/electricgem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8855,7 +8855,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an essence of nature. When held, it strengthens the power of a Grass-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/grass-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/grassgem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8879,7 +8879,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an essence of ice. When held, it strengthens the power of an Ice-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ice-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/icegem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8903,7 +8903,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an essence of combat. When held, it strengthens the power of a Fighting-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fighting-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fightinggem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8927,7 +8927,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an essence of poison. When held, it strengthens the power of a Poison-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/poison-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/poisongem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8951,7 +8951,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an essence of land. When held, it strengthens the power of a Ground-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ground-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/groundgem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8975,7 +8975,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an essence of air. When held, it strengthens the power of a Flying-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/flying-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/flyinggem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8999,7 +8999,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an essence of the mind. When held, it strengthens the power of a Psychic-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/psychic-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/psychicgem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9023,7 +9023,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an insect-like essence. When held, it strengthens the power of a Bug-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bug-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/buggem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9047,7 +9047,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an essence of rock. When held, it strengthens the power of a Rock-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rock-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/rockgem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9071,7 +9071,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with a spectral essence. When held, it strengthens the power of a Ghost-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ghost-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/ghostgem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9095,7 +9095,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an essence of darkness. When held, it strengthens the power of a Dark-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dark-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/darkgem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9119,7 +9119,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an essence of steel. When held, it strengthens the power of a Steel-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/steel-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/steelgem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9138,36 +9138,12 @@
     "effect": "Held: When the holder uses a damaging steel-type move, the move has 1.5× power and this item is consumed."
   },
   {
-    "id": 616,
-    "name": "Pass Orb",
-    "category": "battle-item",
-    "subcategory": null,
-    "description": "A mysterious orb containing the power of the Unova region, to be used when generating Pass Power.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pass-orb.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": "Activates Pass Powers."
-  },
-  {
     "id": 668,
     "name": "Dragon Gem",
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dragon-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/dragongem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9191,7 +9167,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/normal-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/normalgem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9215,7 +9191,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. Attack and Sp. Atk sharply increase if the holder is hit with a move it’s weak to.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/weakness-policy.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/weaknesspolicy.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9239,7 +9215,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/assault-vest.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/assaultvest.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9263,7 +9239,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It boosts Sp. Def if hit with a Water- type attack. It can only be used once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/luminous-moss.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/luminousmoss.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9311,7 +9287,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. These goggles protect the holder from both weather-related damage and powder.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/safety-goggles.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/safetygoggles.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9335,7 +9311,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "A gem with an essence of the fey. When held, it strengthens the power of a Fairy-type move one time.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fairy-gem.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fairygem.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9359,7 +9335,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "Using it makes wild Pokémon more likely to call for help. If held by a Pokémon, it boosts Speed when intimidated. It can be used only once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/adrenaline-orb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/adrenalineorb.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9383,7 +9359,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It extends the duration of the terrain caused by the holder’s move or Ability.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/terrain-extender.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/terrainextender.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9407,7 +9383,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. These pads protect the holder from effects caused by making direct contact with the target.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/protective-pads.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/protectivepads.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9431,7 +9407,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/electric-seed.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/electricseed.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9455,7 +9431,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It boosts Sp. Def on Psychic Terrain. It can only be used once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/psychic-seed.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/psychicseed.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9479,7 +9455,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It boosts Sp. Def on Misty Terrain. It can only be used once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/misty-seed.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mistyseed.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9503,7 +9479,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. It boosts Defense on Grassy Terrain. It can only be used once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/grassy-seed.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/grassyseed.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9527,7 +9503,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "Raises Sp. Atk when a Pokémon uses a sound-based move.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/throat-spray.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/throatspray.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9551,7 +9527,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. When the holder’s stats are lowered, it will be switched out of battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/eject-pack.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ejectpack.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9575,7 +9551,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "These boots prevent the effects of traps set on the battlefield.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/heavy-duty-boots.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/heavy-dutyboots.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9599,7 +9575,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "Raises Speed sharply when a Pokémon misses with a move because of accuracy.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/blunder-policy.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/blunderpolicy.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9623,7 +9599,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. Lowers Speed when Trick Room takes effect.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/room-service.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/roomservice.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9647,7 +9623,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of rain and harsh sunlight.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/utility-umbrella.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/utilityumbrella.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9695,7 +9671,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/booster-energy.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/boosterenergy.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9719,7 +9695,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/ability-shield.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/abilityshield.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9743,7 +9719,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/clear-amulet.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/clearamulet.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9767,7 +9743,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/mirror-herb.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mirrorherb.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9791,7 +9767,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/punching-glove.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/punchingglove.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9815,7 +9791,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/covert-cloak.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/covertcloak.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9839,7 +9815,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/loaded-dice.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/loadeddice.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
