@@ -236,8 +236,8 @@
   {
     "id": 40,
     "name": "Magma armor",
-    "effect": "Prevents freezing.",
-    "modified_for_rpg": false
+    "effect": "O corpo do Pokémon é coberto por uma crosta incandescente que impede qualquer tentativa de congelamento. Além disso, ao portador carregar um ovo (estando fora da Pokébola), o calor constante reduz em -1 a contagem necessária para chocá-lo.",
+    "modified_for_rpg": true
   },
   {
     "id": 41,
@@ -272,8 +272,8 @@
   {
     "id": 46,
     "name": "Pressure",
-    "effect": "Increases the PP cost of moves targetting the Pokémon by one.",
-    "modified_for_rpg": false
+    "effect": "Ao surgir no campo de batalha, a presença intensa do Pokémon cria uma tensão invisível no ar, tornando difícil para os inimigos manterem o foco em seus ataques energéticos, reduzindo o Ataque Especial dos oponentes em 1 estágio.",
+    "modified_for_rpg": true
   },
   {
     "id": 47,
@@ -296,8 +296,8 @@
   {
     "id": 50,
     "name": "Run away",
-    "effect": "Ensures success fleeing from wild battles.",
-    "modified_for_rpg": false
+    "effect": "Ágil e sempre atento, o Pokémon entra em campo com reflexos afiados, ganhando +1 de Evasão e tornando-se mais difícil de ser atingido. Além disso, é sempre capaz de escapar ou ser trocado, mesmo sob efeitos que normalmente impediriam sua fuga.",
+    "modified_for_rpg": true
   },
   {
     "id": 51,
@@ -710,8 +710,8 @@
   {
     "id": 119,
     "name": "Frisk",
-    "effect": "Reveals an opponent's held item upon entering battle.",
-    "modified_for_rpg": false
+    "effect": "Com um olhar analítico e preciso, o Pokémon examina rapidamente seu adversário, identificando com exatidão o item que ele carrega e anulando seu efeito no combate.",
+    "modified_for_rpg": true
   },
   {
     "id": 120,
@@ -890,8 +890,8 @@
   {
     "id": 149,
     "name": "Illusion",
-    "effect": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move.",
-    "modified_for_rpg": false
+    "effect": "Envolto por uma aura misteriosa, o Pokémon assume a aparência de um aliado da equipe, enganando o adversário até o momento em que sofre dano, revelando sua verdadeira forma.",
+    "modified_for_rpg": true
   },
   {
     "id": 150,
