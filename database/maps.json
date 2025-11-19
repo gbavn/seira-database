@@ -21,7 +21,7 @@
     },
     "points_of_interest": [
       {
-        "id": "veld01",
+        "id": "VelkovaLab",
         "name": "Laboratório do Professor Velkova",
         "type": "other",
         "description": "Às margens de um canal tranquilo, ergue-se uma casa de madeira antiga adaptada para a pesquisa, com estufas de vidro e jardins ao redor. O interior mistura rusticidade com ciência, onde livros, mapas e equipamentos se espalham em meio ao cheiro de madeira e ervas frescas.",
@@ -29,10 +29,10 @@
         "shop_data": null
       },
       {
-        "id": "veld02",
-        "name": "Ginásio - Ponte da Virtude",
+        "id": "GymNormal",
+        "name": "Ginásio Vazio (Normal)",
         "type": "gym",
-        "description": "Inspirada na arquitetura lacustre, a arena foi construída sobre plataformas flutuantes ligadas por pontes de madeira, com telhados inclinados e arquibancadas discretas. Entre o som da água e o vento que passa pelos canais, o local transmite tanto tradição quanto espírito competitivo.",
+        "description": "O ginásio está aberto, mas sem um líder para comandá-lo. A arena permanece silenciosa e organizada, com equipamentos guardados e nenhum desafio oficial acontecendo. Treinadores que passam ali encontram apenas o eco dos próprios passos, como se o lugar estivesse em pausa, aguardando alguém para assumir seu posto.",
         "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn-02",
         "shop_data": null
       },
@@ -125,11 +125,11 @@
     },
     "points_of_interest": [
       {
-        "id": "rota06-1",
+        "id": "TravelersCamp",
         "name": "Acampamento dos Viajantes",
         "type": "facility",
         "description": "Um espaço acolhedor para viajantes descansarem, com fogueiras acesas, mesas rústicas e um pequeno comércio de snacks. O acampamento oferece abrigo e conforto para treinadores e aventureiros antes de continuar a jornada pela rota, em meio à natureza que cerca o local.",
-        "forum_link": "n/a",
+        "forum_link": "",
         "shop_data": null
       }
     ],
@@ -158,13 +158,13 @@
         669
       ],
       "rare": [
-        878,
-        529,
-        837
+        325,
+        588,
+        200
       ],
       "epic": [
         203,
-        621,
+        234,
         816
       ]
     },
@@ -189,7 +189,50 @@
       ],
       "based_on": "Seoul, Coreia do Sul"
     },
-    "biome": "Urbano"
+    "biome": "Urbano",
+    "spawns": {
+      "common": [
+        835,
+        940,
+        819
+      ],
+      "rare": [
+        100,
+        677,
+        827
+      ],
+      "epic": [
+        741,
+        877,
+        906
+      ]
+    },
+    "points_of_interest": [
+      {
+        "id": "BanyanLab",
+        "name": "Laboratório Banyan",
+        "type": "other",
+        "description": "Localizado no topo da Colina Prisma, o Laboratório Banyan é o epicentro científico de Hyperia e o núcleo da Rede Helix. Estruturas translúcidas, jardins energéticos e drones assistentes fazem do lugar uma extensão da própria IA, onde a Professora Banyan coordena pesquisas avançadas em ecossistemas, dados e Pokémon.",
+        "forum_link": "",
+        "shop_data": null
+      },
+      {
+        "id": "VibeDome",
+        "name": "Estúdio V!be Dome",
+        "type": "other",
+        "description": "O V!be Dome é a arena mais famosa de Seira, onde batalhas Pokémon se transformam em performances coreografadas. Telas holográficas, luzes pulsantes e plateias digitais criam uma experiência imersiva, e muitos ídolos locais começaram suas carreiras como treinadores nesse palco icônico.",
+        "forum_link": "",
+        "shop_data": null
+      },
+      {
+        "id": "GymElectric",
+        "name": "Ginásio Vazio (Elétrico)",
+        "type": "gym",
+        "description": "O ginásio está aberto, mas sem um líder para comandá-lo. A arena permanece silenciosa e organizada, com equipamentos guardados e nenhum desafio oficial acontecendo. Treinadores que passam ali encontram apenas o eco dos próprios passos, como se o lugar estivesse em pausa, aguardando alguém para assumir seu posto.",
+        "forum_link": "",
+        "shop_data": null
+      }
+    ]
   },
   {
     "id": "HSR",
@@ -207,6 +250,48 @@
         "comércio local e pequenas indústrias alimentícias"
       ],
       "based_on": "Tuscany, Itália"
+    },
+    "points_of_interest": [
+      {
+        "id": "GymGrass",
+        "name": "Ginásio Vazio (Grama)",
+        "type": "gym",
+        "description": "O ginásio está aberto, mas sem um líder para comandá-lo. A arena permanece silenciosa e organizada, com equipamentos guardados e nenhum desafio oficial acontecendo. Treinadores que passam ali encontram apenas o eco dos próprios passos, como se o lugar estivesse em pausa, aguardando alguém para assumir seu posto.",
+        "forum_link": "",
+        "shop_data": null
+      },
+      {
+        "id": "HillMuseum",
+        "name": "Museu Botânico de Hillshire",
+        "type": "other",
+        "description": "O Museu Botânico apresenta exposições detalhadas sobre a flora local e técnicas de cultivo sustentável. Espaços interativos permitem observar Pokémon do tipo Planta em habitats simulados, tornando o local educativo e encantador para visitantes de todas as idades.",
+        "forum_link": "",
+        "shop_data": null
+      },
+      {
+        "id": "DoratiVine",
+        "name": "Vinhedos Dorati",
+        "type": "other",
+        "description": "Grandes plantações de uvas e oliveiras se estendem pelos Vinhedos Dorati, onde trilhas sinuosas permitem que turistas e treinadores pratiquem batalhas em meio à paisagem dourada. O cenário combina tradição agrícola com a beleza natural da região.",
+        "forum_link": "",
+        "shop_data": null
+      }
+    ],
+    "spawns": {
+      "common": [
+        919,
+        928
+      ],
+      "rare": [
+        511,
+        433,
+        710
+      ],
+      "epic": [
+        127,
+        775,
+        1
+      ]
     }
   },
   {
@@ -224,6 +309,41 @@
         "arte urbana e entretenimento"
       ],
       "based_on": "Chongqing, China"
+    },
+    "points_of_interest": [
+      {
+        "id": "GymDark",
+        "name": "Ginásio Vazio (Noturno)",
+        "type": "gym",
+        "description": "O ginásio está aberto, mas sem um líder para comandá-lo. A arena permanece silenciosa e organizada, com equipamentos guardados e nenhum desafio oficial acontecendo. Treinadores que passam ali encontram apenas o eco dos próprios passos, como se o lugar estivesse em pausa, aguardando alguém para assumir seu posto.",
+        "forum_link": "",
+        "shop_data": null
+      },
+      {
+        "id": "HackAlley",
+        "name": "Beco dos Hackers",
+        "type": "other",
+        "description": "No limite periférico de Astralton, o Beco dos Hackers abriga oficinas clandestinas e exposições de arte digital. Grafites interativos, telas holográficas e instalações tecnológicas transformam o local em um centro cultural alternativo, onde jovens engenheiros e artistas de rua desafiam o convencional.",
+        "forum_link": "",
+        "shop_data": null
+      }
+    ],
+    "spawns": {
+      "common": [
+        66,
+        41,
+        436
+      ],
+      "rare": [
+        198,
+        559,
+        679
+      ],
+      "epic": [
+        924,
+        870,
+        725
+      ]
     }
   },
   {
@@ -242,6 +362,49 @@
         "turismo contemplativo"
       ],
       "based_on": "Hokkaido, Japão"
+    },
+    "points_of_interest": [
+      {
+        "id": "GymGhost",
+        "name": "Ginásio Vazio (Fantasma)",
+        "type": "gym",
+        "description": "O ginásio está aberto, mas sem um líder para comandá-lo. A arena permanece silenciosa e organizada, com equipamentos guardados e nenhum desafio oficial acontecendo. Treinadores que passam ali encontram apenas o eco dos próprios passos, como se o lugar estivesse em pausa, aguardando alguém para assumir seu posto.",
+        "forum_link": "",
+        "shop_data": null
+      },
+      {
+        "id": "ArtisanHouse",
+        "name": "Casa do Artesão de Névoa",
+        "type": "other",
+        "description": "Oficina de esculturas, lanternas e obras que capturam a atmosfera etérea da cidade. Cada peça reflete a neblina e o silêncio de Misthollow, transformando o cotidiano em arte e mantendo vivas as tradições artesanais locais.",
+        "forum_link": "",
+        "shop_data": null
+      },
+      {
+        "id": "PhantomLake",
+        "name": "Lago Phantom",
+        "type": "other",
+        "description": "Cercado por florestas densas e encostas montanhosas, o Lago Phantom é envolto por névoa constante, onde se diz que Pokémon desaparecem entre as brumas. O reflexo suave da água e o som silencioso do vento entre as árvores criam um ambiente místico e contemplativo.",
+        "forum_link": "",
+        "shop_data": null
+      }
+    ],
+    "spawns": {
+      "common": [
+        163,
+        92,
+        562
+      ],
+      "rare": [
+        198,
+        708,
+        624
+      ],
+      "epic": [
+        83,
+        741,
+        155
+      ]
     }
   },
   {
@@ -253,6 +416,41 @@
     "map_image": "https://2img.net/i.imgur.com/ME9dF3D.png",
     "metadata": {
       "population": ""
+    },
+    "points_of_interest": [
+      {
+        "id": "MiniFarm",
+        "name": "Mini-Fazendas",
+        "type": "facility",
+        "description": "As mini fazendas oferecem pequenos espaços organizados onde os jogadores podem deixar seus Pokémon produtores. Cada área possui estruturas simples e bem cuidadas, permitindo que os Pokémon trabalhem, descansem e gerem recursos com tranquilidade. O ambiente é calmo e funcional, sempre pronto para receber novos parceiros e manter a produção ativa.",
+        "forum_link": "https://seira.forumeiros.com/f62-fazenda-mcdonnie",
+        "shop_data": null
+      },
+      {
+        "id": "DayCareMC",
+        "name": "Creche McDonnie",
+        "type": "facility",
+        "description": "Localizada no coração da Rota 04, a Creche McDonnie cuida de Pokémon enquanto seus treinadores exploram a região. Cercada por campos de trigo e flores silvestres, oferece áreas de recreação, trilhas para caminhada e exercícios leves, promovendo crescimento saudável e aprendizado para os Pokémon.",
+        "forum_link": "https://seira.forumeiros.com/t242-local-creche-mcdonnie",
+        "shop_data": null
+      }
+    ],
+    "spawns": {
+      "common": [
+        659,
+        506,
+        928
+      ],
+      "rare": [
+        710,
+        850,
+        831
+      ],
+      "epic": [
+        241,
+        128,
+        498
+      ]
     }
   },
   {
@@ -266,6 +464,33 @@
       "population": "150–300 viajantes por dia",
       "economy": [
         "Corredor de transporte e exploração mineral; comércio rústico de suprimentos e guias locais."
+      ]
+    },
+    "points_of_interest": [
+      {
+        "id": "MinerHut",
+        "name": "Cabanas dos Mineradores",
+        "type": "facility",
+        "description": "Pequenas construções de madeira que servem de abrigo para mineradores e viajantes. Algumas oferecem suprimentos improvisados, proporcionando descanso e recursos básicos em meio à rotina das colinas e trilhas da rota.",
+        "forum_link": "",
+        "shop_data": null
+      }
+    ],
+    "spawns": {
+      "common": [
+        220,
+        821,
+        436
+      ],
+      "rare": [
+        529,
+        744,
+        739
+      ],
+      "epic": [
+        621,
+        874,
+        390
       ]
     }
   },
@@ -281,7 +506,50 @@
         "Extração mineral supervisionada; turismo subterrâneo (visitas guiadas e exposições); pesquisa geológica e bioluminescência; ponto logístico entre a Rota 05 e Misthollow"
       ],
       "based_on": "Gwangmyeong Cave (Coreia do Sul), Naica Mine (México) e na Ikuno Silver Mine (Japão)"
-    }
+    },
+    "spawns": {
+      "common": [
+        41,
+        50,
+        524
+      ],
+      "rare": [
+        111,
+        529,
+        610
+      ],
+      "epic": [
+        968,
+        703,
+        650
+      ]
+    },
+    "points_of_interest": [
+      {
+        "id": "MineEntrance",
+        "name": "Entrada da Mina Dourada",
+        "type": "other",
+        "description": "O acesso principal ao complexo subterrâneo, com portas reforçadas, lanternas antigas e painéis digitais de segurança. É o ponto de partida para visitantes, pesquisadores e treinadores que exploram os túneis e veios minerais da mina.",
+        "forum_link": "",
+        "shop_data": null
+      },
+      {
+        "id": "AbandHalls",
+        "name": "Galerias Abandonadas",
+        "type": "other",
+        "description": "Túneis lacrados e antigos, conhecidos por ruídos misteriosos e ecos metálicos. Embora fechados ao público, há relatos de treinadores e exploradores sobre Pokémon que se movimentam nas sombras, reforçando o mistério da mina.",
+        "forum_link": "",
+        "shop_data": null
+      },
+      {
+        "id": "GeoObserv",
+        "name": "Observatório Geológico",
+        "type": "other",
+        "description": "Área equipada com painéis informativos, amostras minerais e espaços de estudo, onde visitantes e pesquisadores aprendem sobre geologia, bioluminescência e a história da extração mineral na Mina Dourada.",
+        "forum_link": "",
+        "shop_data": null
+      }
+    ]
   },
   {
     "id": "RRHS",
@@ -314,19 +582,18 @@
     ],
     "spawns": {
       "common": [
-        24,
-        3,
-        4
+        201,
+        562
       ],
       "rare": [
-        19,
-        27,
-        49
+        198,
+        957,
+        177
       ],
       "epic": [
-        49,
-        3,
-        50
+        561,
+        774,
+        280
       ]
     },
     "interaction_objects": [
