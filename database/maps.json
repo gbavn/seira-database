@@ -1,6 +1,6 @@
 [
   {
-    "id": "veldhavn",
+    "id": "VDH",
     "type": "city",
     "name": "Veldhavn",
     "biome": "Lacustre",
@@ -97,7 +97,7 @@
     }
   },
   {
-    "id": "rota06",
+    "id": "R06",
     "type": "route",
     "name": "Rota 06",
     "biome": "Florestal",
@@ -175,7 +175,7 @@
     ]
   },
   {
-    "id": "003",
+    "id": "RDR",
     "type": "landmark",
     "name": "Ruinas de Rhisis",
     "biome": "Ruinoso",
