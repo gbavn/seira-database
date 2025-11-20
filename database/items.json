@@ -16466,5 +16466,189 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0
+  },
+  {
+    "id": 2047,
+    "name": "Shiny Ball",
+    "category": "pokeball",
+    "rarity": "especial"
+  },
+  {
+    "id": 2048,
+    "name": "Medicinal Leek",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/O2EatNd.png"
+  },
+  {
+    "id": 2049,
+    "name": "Vivichoke",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/VFNznQb.png"
+  },
+  {
+    "id": 2050,
+    "name": "King's Leaf",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/y5fgneH.png"
+  },
+  {
+    "id": 2051,
+    "name": "Bugwort",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/7LNa8sM.png"
+  },
+  {
+    "id": 2052,
+    "name": "Pep-Up Plant",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/9JRkkXP.png"
+  },
+  {
+    "id": 2053,
+    "name": "Candy Truffle",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/axwlje1.png"
+  },
+  {
+    "id": 2054,
+    "name": "Springy Mushroom",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/nciahpJ.png"
+  },
+  {
+    "id": 2055,
+    "name": "Hearty Grains",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/l0L73a0.png"
+  },
+  {
+    "id": 2056,
+    "name": "Plump Beans",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/9h317IN.png"
+  },
+  {
+    "id": 2057,
+    "name": "Dazzling Honey",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/EyhCseO.png"
+  },
+  {
+    "id": 2058,
+    "name": "Crunchy Salt",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/KsySVk7.png"
+  },
+  {
+    "id": 2059,
+    "name": "Caster Fern",
+    "category": "craft-material"
+  },
+  {
+    "id": 2060,
+    "name": "Sootfoot Root",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/WisKXUm.png"
+  },
+  {
+    "id": 2061,
+    "name": "Sand Raddish",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/TFk0E2N.png"
+  },
+  {
+    "id": 2062,
+    "name": "Spoiled Apricorn",
+    "category": "craft-material"
+  },
+  {
+    "id": 2063,
+    "name": "Ball of Mud",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/Y1BKjP8.png"
+  },
+  {
+    "id": 2064,
+    "name": "Sticky Goo",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/5yK4Tzr.png"
+  },
+  {
+    "id": 2065,
+    "name": "Silk Thread",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/Hv4ta0c.png"
+  },
+  {
+    "id": 2066,
+    "name": "Wool",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/0pJ9qxp.png"
+  },
+  {
+    "id": 2067,
+    "name": "Shiny Wool",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/s1pt7YC.png"
+  },
+  {
+    "id": 2068,
+    "name": "Cotton",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/BfSjxG2.png"
+  },
+  {
+    "id": 2069,
+    "name": "Shiny Cotton",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/UsKkxjH.png"
+  },
+  {
+    "id": 2070,
+    "name": "Iron Ore",
+    "category": "craft-material"
+  },
+  {
+    "id": 2071,
+    "name": "Copper Ore",
+    "category": "craft-material"
+  },
+  {
+    "id": 2072,
+    "name": "Silver Ore",
+    "category": "craft-material"
+  },
+  {
+    "id": 2073,
+    "name": "Golden Ore",
+    "category": "craft-material"
+  },
+  {
+    "id": 2074,
+    "name": "Flour",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/8RP31iS.png"
+  },
+  {
+    "id": 2075,
+    "name": "Sugar",
+    "category": "craft-material",
+    "sprite": "https://2img.net/i.imgur.com/KhzS48H.png"
+  },
+  {
+    "id": 2076,
+    "name": "Cocoa",
+    "category": "craft-material"
+  },
+  {
+    "id": 2077,
+    "name": "Oil",
+    "category": "craft-material"
+  },
+  {
+    "id": 2078,
+    "name": "Googoo Milk",
+    "category": "medicine",
+    "sprite": "https://2img.net/i.imgur.com/ciRtfcF.png"
   }
 ]
