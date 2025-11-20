@@ -21990,7 +21990,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/water-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/waterterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22013,7 +22013,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/electric-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/electricterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22036,7 +22036,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/grass-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/grassterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22059,7 +22059,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/ice-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/iceterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22082,7 +22082,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/fighting-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fightingterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22105,7 +22105,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/poison-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/poisonterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22128,7 +22128,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/ground-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/groundterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22151,7 +22151,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/flying-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/flyingterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22174,7 +22174,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/psychic-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/psychicterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22197,7 +22197,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/bug-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bugterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22220,7 +22220,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/rock-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rockterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22243,7 +22243,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/ghost-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ghostterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22266,7 +22266,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/dragon-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dragonterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22289,7 +22289,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/dark-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/darkterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22312,7 +22312,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/steel-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/steelterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22335,7 +22335,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/fairy-tera-shard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fairyterashard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22358,7 +22358,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/baguette.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/baguette.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22381,7 +22381,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/mayonnaise.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mayonnaise.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22404,7 +22404,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/ketchup.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ketchup.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22427,7 +22427,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/mustard.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/mustard.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22450,7 +22450,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/butter.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/butter.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22473,7 +22473,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/peanut-butter.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/peanutbutter.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22496,7 +22496,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/chili-sauce.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/chilisauce.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22519,7 +22519,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/salt.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/salt.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22542,7 +22542,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/pepper.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pepper.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22565,7 +22565,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/yogurt.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/yogurt.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22588,7 +22588,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/whipped-cream.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/whippedcream.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22611,7 +22611,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/cream-cheese.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/creamcheese.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22634,7 +22634,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/jam.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/jam.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22657,7 +22657,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/marmalade.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/marmalade.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22680,7 +22680,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/olive-oil.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/oliveoil.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22703,7 +22703,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/vinegar.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/vinegar.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22726,7 +22726,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/sweet-herba-mystica.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sweetherbamystica.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22749,7 +22749,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/salty-herba-mystica.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/saltyherbamystica.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22772,7 +22772,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/sour-herba-mystica.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sourherbamystica.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22795,7 +22795,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/bitter-herba-mystica.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bitterherbamystica.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22818,7 +22818,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/spicy-herba-mystica.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/spicyherbamystica.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22841,7 +22841,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/lettuce.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lettuce.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22864,7 +22864,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/tomato.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tomato.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22887,7 +22887,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/cherry-tomatoes.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cherrytomatoes.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22910,7 +22910,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/cucumber.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cucumber.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22933,7 +22933,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/pickle.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pickle.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22956,7 +22956,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/onion.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/onion.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -22979,7 +22979,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/red-onion.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/redonion.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23002,7 +23002,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/green-bell-pepper.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/greenbellpepper.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23025,7 +23025,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/red-bell-pepper.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/redbellpepper.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23048,7 +23048,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/yellow-bell-pepper.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/yellowbellpepper.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23071,7 +23071,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/avocado.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/avocado.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23094,7 +23094,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/bacon.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/bacon.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23117,7 +23117,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/ham.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ham.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23140,7 +23140,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/prosciutto.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/prosciutto.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23163,7 +23163,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/chorizo.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/chorizo.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23186,7 +23186,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/herbed-sausage.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/herbedsausage.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23209,7 +23209,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/hamburger.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/hamburger.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23232,7 +23232,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/klawf-stick.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/klawfstick.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23255,7 +23255,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/smoked-fillet.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/smokedfillet.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23278,7 +23278,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/fried-fillet.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/friedfillet.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23301,7 +23301,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/egg.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/egg.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23324,7 +23324,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/potato-tortilla.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/potatotortilla.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23347,7 +23347,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/tofu.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tofu.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23370,7 +23370,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/rice.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rice.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23393,7 +23393,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/noodles.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/noodles.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23416,7 +23416,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/potato-salad.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/potatosalad.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23439,7 +23439,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/cheese.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cheese.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23462,7 +23462,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/banana.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/banana.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23485,7 +23485,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/strawberry.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/strawberry.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23508,7 +23508,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/apple.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/apple.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23531,7 +23531,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/kiwi.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/kiwi.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23554,7 +23554,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/pineapple.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/pineapple.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23577,7 +23577,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/jalapeño.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/jalapeno.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23600,7 +23600,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/horseradish.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/horseradish.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23623,7 +23623,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/curry-powder.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/currypowder.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23646,7 +23646,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/wasabi.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/wasabi.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23669,7 +23669,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/watercress.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/watercress.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23692,7 +23692,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/basil.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/basil.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23710,4157 +23710,17 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1762,
-    "name": "Venonat Fang",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/venonat-fang.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1763,
-    "name": "Diglett Dirt",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/diglett-dirt.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1764,
-    "name": "Meowth Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/meowth-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1765,
-    "name": "Psyduck Down",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/psyduck-down.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1766,
-    "name": "Mankey Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/mankey-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1767,
-    "name": "Growlithe Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/growlithe-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1768,
-    "name": "Slowpoke Claw",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/slowpoke-claw.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1769,
-    "name": "Magnemite Screw",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/magnemite-screw.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1770,
-    "name": "Grimer Toxin",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/grimer-toxin.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1771,
-    "name": "Shellder Pearl",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/shellder-pearl.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 140,
-      "sell": 70
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1772,
-    "name": "Gastly Gas",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/gastly-gas.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1773,
-    "name": "Drowzee Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/drowzee-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1774,
-    "name": "Voltorb Sparks",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/voltorb-sparks.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1775,
-    "name": "Scyther Claw",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/scyther-claw.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1776,
-    "name": "Tauros Hair",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/tauros-hair.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1777,
-    "name": "Magikarp Scales",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/magikarp-scales.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 40,
-      "sell": 20
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1778,
-    "name": "Ditto Goo",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/ditto-goo.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 300,
-      "sell": 150
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1779,
-    "name": "Eevee Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/eevee-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1780,
-    "name": "Dratini Scales",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/dratini-scales.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1781,
-    "name": "Pichu Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/pichu-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1782,
-    "name": "Igglybuff Fluff",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/igglybuff-fluff.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1783,
-    "name": "Mareep Wool",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/mareep-wool.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1784,
-    "name": "Hoppip Leaf",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/hoppip-leaf.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1785,
-    "name": "Sunkern Leaf",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/sunkern-leaf.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1786,
-    "name": "Murkrow Bauble",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/murkrow-bauble.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1787,
-    "name": "Misdreavus Tears",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/misdreavus-tears.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1788,
-    "name": "Girafarig Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/girafarig-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1789,
-    "name": "Pineco Husk",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/pineco-husk.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1790,
-    "name": "Dunsparce Scales",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/dunsparce-scales.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1791,
-    "name": "Qwilfish Spines",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/qwilfish-spines.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1792,
-    "name": "Heracross Claw",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/heracross-claw.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1793,
-    "name": "Sneasel Claw",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/sneasel-claw.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1794,
-    "name": "Teddiursa Claw",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/teddiursa-claw.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1795,
-    "name": "Delibird Parcel",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/delibird-parcel.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 240,
-      "sell": 120
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1796,
-    "name": "Houndour Fang",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/houndour-fang.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1797,
-    "name": "Phanpy Nail",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/phanpy-nail.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1798,
-    "name": "Stantler Hair",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/stantler-hair.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1799,
-    "name": "Larvitar Claw",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/larvitar-claw.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1800,
-    "name": "Wingull Feather",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/wingull-feather.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1801,
-    "name": "Ralts Dust",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/ralts-dust.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1802,
-    "name": "Surskit Syrup",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/surskit-syrup.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1803,
-    "name": "Shroomish Spores",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/shroomish-spores.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1804,
-    "name": "Slakoth Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/slakoth-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1805,
-    "name": "Makuhita Sweat",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/makuhita-sweat.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1806,
-    "name": "Azurill Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/azurill-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1807,
-    "name": "Sableye Gem",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/sableye-gem.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1808,
-    "name": "Meditite Sweat",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/meditite-sweat.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1809,
-    "name": "Gulpin Mucus",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/gulpin-mucus.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1810,
-    "name": "Numel Lava",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/numel-lava.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1811,
-    "name": "Torkoal Coal",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/torkoal-coal.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 140,
-      "sell": 70
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1812,
-    "name": "Spoink Pearl",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/spoink-pearl.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 140,
-      "sell": 70
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1813,
-    "name": "Cacnea Needle",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/cacnea-needle.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1814,
-    "name": "Swablu Fluff",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/swablu-fluff.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1815,
-    "name": "Zangoose Claw",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/zangoose-claw.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1816,
-    "name": "Seviper Fang",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/seviper-fang.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1817,
-    "name": "Barboach Slime",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/barboach-slime.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1818,
-    "name": "Shuppet Scrap",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/shuppet-scrap.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1819,
-    "name": "Tropius Leaf",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/tropius-leaf.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 140,
-      "sell": 70
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1820,
-    "name": "Snorunt Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/snorunt-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1821,
-    "name": "Luvdisc Scales",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/luvdisc-scales.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 160,
-      "sell": 80
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1822,
-    "name": "Bagon Scales",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/bagon-scales.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1823,
-    "name": "Starly Feather",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/starly-feather.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1824,
-    "name": "Kricketot Shell",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/kricketot-shell.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 40,
-      "sell": 20
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1825,
-    "name": "Shinx Fang",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/shinx-fang.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1826,
-    "name": "Combee Honey",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/combee-honey.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1827,
-    "name": "Pachirisu Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/pachirisu-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1828,
-    "name": "Buizel Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/buizel-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1829,
-    "name": "Shellos Mucus",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/shellos-mucus.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1830,
-    "name": "Drifloon Gas",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/drifloon-gas.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1831,
-    "name": "Stunky Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/stunky-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1832,
-    "name": "Bronzor Fragment",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/bronzor-fragment.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1833,
-    "name": "Bonsly Tears",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/bonsly-tears.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1834,
-    "name": "Happiny Dust",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/happiny-dust.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 300,
-      "sell": 150
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1835,
-    "name": "Spiritomb Fragment",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/spiritomb-fragment.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 240,
-      "sell": 120
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1836,
-    "name": "Gible Scales",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/gible-scales.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1837,
-    "name": "Riolu Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/riolu-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 160,
-      "sell": 80
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1838,
-    "name": "Hippopotas Sand",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/hippopotas-sand.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1839,
-    "name": "Croagunk Poison",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/croagunk-poison.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1840,
-    "name": "Finneon Scales",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/finneon-scales.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1841,
-    "name": "Snover Berries",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/snover-berries.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1842,
-    "name": "Rotom Sparks",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/rotom-sparks.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1843,
-    "name": "Petilil Leaf",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/petilil-leaf.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1844,
-    "name": "Basculin Fang",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/basculin-fang.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1845,
-    "name": "Sandile Claw",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/sandile-claw.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1846,
-    "name": "Zorua Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/zorua-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 140,
-      "sell": 70
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1847,
-    "name": "Gothita Eyelash",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/gothita-eyelash.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1848,
-    "name": "Deerling Hair",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/deerling-hair.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1849,
-    "name": "Foongus Spores",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/foongus-spores.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1850,
-    "name": "Alomomola Mucus",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/alomomola-mucus.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1851,
-    "name": "Tynamo Slime",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/tynamo-slime.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1852,
-    "name": "Axew Scales",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/axew-scales.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1853,
-    "name": "Cubchoo Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/cubchoo-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1854,
-    "name": "Cryogonal Ice",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/cryogonal-ice.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1855,
-    "name": "Pawniard Blade",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/pawniard-blade.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1856,
-    "name": "Rufflet Feather",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/rufflet-feather.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1857,
-    "name": "Deino Scales",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/deino-scales.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1858,
-    "name": "Larvesta Fuzz",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/larvesta-fuzz.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1859,
-    "name": "Fletchling Feather",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/fletchling-feather.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1860,
-    "name": "Scatterbug Powder",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/scatterbug-powder.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 40,
-      "sell": 20
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1861,
-    "name": "Litleo Tuft",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/litleo-tuft.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1862,
-    "name": "Flabébé Pollen",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/flabébé-pollen.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1863,
-    "name": "Skiddo Leaf",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/skiddo-leaf.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1864,
-    "name": "Skrelp Kelp",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/skrelp-kelp.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1865,
-    "name": "Clauncher Claw",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/clauncher-claw.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1866,
-    "name": "Hawlucha Down",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/hawlucha-down.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1867,
-    "name": "Dedenne Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/dedenne-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1868,
-    "name": "Goomy Goo",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/goomy-goo.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 140,
-      "sell": 70
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1869,
-    "name": "Klefki Key",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/klefki-key.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1870,
-    "name": "Bergmite Ice",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/bergmite-ice.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1871,
-    "name": "Noibat Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/noibat-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1872,
-    "name": "Yungoos Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/yungoos-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1873,
-    "name": "Crabrawler Shell",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/crabrawler-shell.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1874,
-    "name": "Oricorio Feather",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/oricorio-feather.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1875,
-    "name": "Rockruff Rock",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/rockruff-rock.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1876,
-    "name": "Mareanie Spike",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/mareanie-spike.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1877,
-    "name": "Mudbray Mud",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/mudbray-mud.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1878,
-    "name": "Fomantis Leaf",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/fomantis-leaf.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1879,
-    "name": "Salandit Gas",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/salandit-gas.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1880,
-    "name": "Bounsweet Sweat",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/bounsweet-sweat.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1881,
-    "name": "Oranguru Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/oranguru-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1882,
-    "name": "Passimian Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/passimian-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1883,
-    "name": "Sandygast Sand",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/sandygast-sand.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1884,
-    "name": "Komala Claw",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/komala-claw.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1885,
-    "name": "Mimikyu Scrap",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/mimikyu-scrap.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 40,
-      "sell": 20
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1886,
-    "name": "Bruxish Tooth",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/bruxish-tooth.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1887,
-    "name": "Chewtle Claw",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/chewtle-claw.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1888,
-    "name": "Skwovet Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/skwovet-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1889,
-    "name": "Arrokuda Scales",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/arrokuda-scales.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1890,
-    "name": "Rookidee Feather",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/rookidee-feather.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1891,
-    "name": "Toxel Sparks",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/toxel-sparks.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1892,
-    "name": "Falinks Sweat",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/falinks-sweat.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1893,
-    "name": "Cufant Tarnish",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/cufant-tarnish.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1894,
-    "name": "Rolycoly Coal",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/rolycoly-coal.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1895,
-    "name": "Silicobra Sand",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/silicobra-sand.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1896,
-    "name": "Indeedee Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/indeedee-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1897,
-    "name": "Pincurchin Spines",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/pincurchin-spines.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1898,
-    "name": "Snom Thread",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/snom-thread.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1899,
-    "name": "Impidimp Hair",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/impidimp-hair.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1900,
-    "name": "Applin Juice",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/applin-juice.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1901,
-    "name": "Sinistea Chip",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/sinistea-chip.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1902,
-    "name": "Hatenna Dust",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/hatenna-dust.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1903,
-    "name": "Stonjourner Stone",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/stonjourner-stone.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1904,
-    "name": "Eiscue Down",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/eiscue-down.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1905,
-    "name": "Dreepy Powder",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/dreepy-powder.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1906,
-    "name": "Lechonk Hair",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/lechonk-hair.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1907,
-    "name": "Tarountula Thread",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/tarountula-thread.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1908,
-    "name": "Nymble Claw",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/nymble-claw.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1909,
-    "name": "Rellor Mud",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/rellor-mud.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1910,
-    "name": "Greavard Wax",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/greavard-wax.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1911,
-    "name": "Flittle Down",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/flittle-down.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1912,
-    "name": "Wiglett Sand",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/wiglett-sand.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1913,
-    "name": "Dondozo Whisker",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/dondozo-whisker.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 160,
-      "sell": 80
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1914,
-    "name": "Veluza Fillet",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/veluza-fillet.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 140,
-      "sell": 70
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1915,
-    "name": "Finizen Mucus",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/finizen-mucus.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1916,
-    "name": "Smoliv Oil",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/smoliv-oil.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1917,
-    "name": "Capsakid Seed",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/capsakid-seed.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1918,
-    "name": "Tadbulb Mucus",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/tadbulb-mucus.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1919,
-    "name": "Varoom Fume",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/varoom-fume.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1920,
-    "name": "Orthworm Tarnish",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/orthworm-tarnish.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1921,
-    "name": "Tandemaus Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/tandemaus-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1922,
-    "name": "Cetoddle Grease",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/cetoddle-grease.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1923,
-    "name": "Frigibax Scales",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/frigibax-scales.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1924,
-    "name": "Tatsugiri Scales",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/tatsugiri-scales.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1925,
-    "name": "Cyclizar Scales",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/cyclizar-scales.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1926,
-    "name": "Pawmi Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/pawmi-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1927,
-    "name": "Wattrel Feather",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/wattrel-feather.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1928,
-    "name": "Bombirdier Feather",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/bombirdier-feather.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1929,
-    "name": "Squawkabilly Feather",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/squawkabilly-feather.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1930,
-    "name": "Flamigo Down",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/flamigo-down.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1931,
-    "name": "Klawf Claw",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/klawf-claw.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1932,
-    "name": "Nacli Salt",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/nacli-salt.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1933,
-    "name": "Glimmet Crystal",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/glimmet-crystal.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1934,
-    "name": "Shroodle Ink",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/shroodle-ink.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1935,
-    "name": "Fidough Fur",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/fidough-fur.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1936,
-    "name": "Maschiff Fang",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/maschiff-fang.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1937,
-    "name": "Bramblin Twig",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/bramblin-twig.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
     "id": 1938,
     "name": "Gimmighoul Coin",
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/gimmighoul-coin.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/gimmighoulcoin.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
       "buy": 800,
       "sell": 400
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1939,
-    "name": "Tinkatink Hair",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/tinkatink-hair.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 80,
-      "sell": 40
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1940,
-    "name": "Charcadet Soot",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/charcadet-soot.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 160,
-      "sell": 80
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1941,
-    "name": "Toedscool Flaps",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/toedscool-flaps.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 100,
-      "sell": 50
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1942,
-    "name": "Wooper Slime",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/wooper-slime.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
     },
     "shop_availability": {
       "pokemart": false,
@@ -27878,679 +23738,12 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/picnic-set.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/picnicset.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
       "buy": false,
       "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2016,
-    "name": "Academy Bottle",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/academy-bottle.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2017,
-    "name": "Academy Bottle",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/academy-bottle.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2018,
-    "name": "Polka-Dot Bottle",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/polka-dot-bottle.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 1000,
-      "sell": 500
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2019,
-    "name": "Striped Bottle",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/striped-bottle.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 1000,
-      "sell": 500
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2020,
-    "name": "Diamond Bottle",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/diamond-bottle.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 1000,
-      "sell": 500
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2021,
-    "name": "Academy Cup",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/academy-cup.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2022,
-    "name": "Academy Cup",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/academy-cup.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2023,
-    "name": "Striped Cup",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/striped-cup.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 800,
-      "sell": 400
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2024,
-    "name": "Polka-Dot Cup",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/polka-dot-cup.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 800,
-      "sell": 400
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2025,
-    "name": "Flower Pattern Cup",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/flower-pattern-cup.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 800,
-      "sell": 400
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2026,
-    "name": "Academy Tablecloth",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/academy-tablecloth.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2027,
-    "name": "Academy Tablecloth",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/academy-tablecloth.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2028,
-    "name": "Whimsical Tablecloth",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/whimsical-tablecloth.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 2000,
-      "sell": 1000
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2029,
-    "name": "Leafy Tablecloth",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/leafy-tablecloth.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 2000,
-      "sell": 1000
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2030,
-    "name": "Spooky Tablecloth",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/spooky-tablecloth.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 4000,
-      "sell": 2000
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2031,
-    "name": "Academy Ball",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/academy-ball.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2032,
-    "name": "Academy Ball",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/academy-ball.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2033,
-    "name": "Marill Ball",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/marill-ball.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 2000,
-      "sell": 1000
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2034,
-    "name": "Yarn Ball",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/yarn-ball.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 1000,
-      "sell": 500
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2035,
-    "name": "Cyber Ball",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/cyber-ball.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 2000,
-      "sell": 1000
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2036,
-    "name": "Gold Pick",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/gold-pick.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 400,
-      "sell": 200
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2037,
-    "name": "Silver Pick",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/silver-pick.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 40,
-      "sell": 20
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2038,
-    "name": "Red-Flag Pick",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/red-flag-pick.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2039,
-    "name": "Blue-Flag Pick",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/blue-flag-pick.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 120,
-      "sell": 60
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2040,
-    "name": "Pika-Pika Pick",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/pika-pika-pick.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 480,
-      "sell": 240
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2041,
-    "name": "Winking Pika Pick",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/winking-pika-pick.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 1200,
-      "sell": 600
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2042,
-    "name": "Vee-Vee Pick",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/vee-vee-pick.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 480,
-      "sell": 240
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2043,
-    "name": "Smiling Vee Pick",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/smiling-vee-pick.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 1200,
-      "sell": 600
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2044,
-    "name": "Blue Poké Ball Pick",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/blue-poké-ball-pick.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
     },
     "shop_availability": {
       "pokemart": false,
@@ -28568,7 +23761,7 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/auspicious-armor.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/auspiciousarmor.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -28591,104 +23784,12 @@
     "category": "other",
     "subcategory": null,
     "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/leader’s-crest.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/leader'screst.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2047,
-    "name": "Pink Bottle",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/pink-bottle.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 2000,
-      "sell": 1000
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2048,
-    "name": "Blue Bottle",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/blue-bottle.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 2000,
-      "sell": 1000
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2049,
-    "name": "Yellow Bottle",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/yellow-bottle.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 2000,
-      "sell": 1000
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 2050,
-    "name": "Steel Bottle (R)",
-    "category": "other",
-    "subcategory": null,
-    "description": null,
-    "sprite": "https://www.serebii.net/itemdex/sprites/steel-bottle-(r).png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 1500,
-      "sell": 750
     },
     "shop_availability": {
       "pokemart": false,
