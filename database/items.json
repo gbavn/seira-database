@@ -3666,7 +3666,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A local specialty that heals all status problems.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lava-cookie.png",
+    "sprite": "https://2img.net/i.imgur.com/nANx92g.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -3956,7 +3956,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Old Chateau’s hidden specialty. It heals all the status problems of a single Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/oldgateau.png",
+    "sprite": "https://2img.net/i.imgur.com/KCEvzpR.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4124,7 +4124,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Very sweet chocolate. It restores the HP of one Pokémon by only 20 points.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sweet-heart.png",
+    "sprite": "https://2img.net/i.imgur.com/VDQllsx.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4148,7 +4148,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "An item for use on a Pokémon. It slightly increases the base HP of a single Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/healthwing.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/healthfeather.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4172,7 +4172,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "An item for use on a Pokémon. It slightly increases the base Attack stat of a single Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/muscle-wing.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/musclefeather.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4196,7 +4196,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "An item for use on a Pokémon. It slightly increases the base Defense stat of a single Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/resist-wing.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/resistfeather.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4220,7 +4220,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "An item for use on a Pokémon. It slightly increases the base Sp. Atk stat of a single Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/genius-wing.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/geniusfeather.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4244,7 +4244,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "An item for use on a Pokémon. It slightly increases the base Sp. Def stat of a single Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/clever-wing.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cleverfeather.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4268,7 +4268,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "An item for use on a Pokémon. It slightly increases the base Speed stat of a single Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/swift-wing.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/swiftfeather.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4292,7 +4292,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Castelia City’s specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/casteliacone.png",
+    "sprite": "https://2img.net/i.imgur.com/qPv9TcH.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4316,7 +4316,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ability-capsule.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/abilitycapsule.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4340,7 +4340,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lumiose-galette.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lumiosegalette.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4364,7 +4364,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Shalour City’s famous shortbread. It can be used once to heal all the status conditions of a Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/shalour-sable.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/shaloursable.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4388,7 +4388,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "The Alola region’s local specialty—fried bread. It can be used once to heal all the status conditions of a Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/big-malasada.png",
+    "sprite": "https://2img.net/i.imgur.com/OdqOhRu.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4412,7 +4412,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Pewter City’s famous crunchy snack. They can be used to heal all status conditions of a single Pokémon.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/pewter-crunchies.png",
+    "sprite": "https://2img.net/i.imgur.com/rrvPbIY.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4431,444 +4431,12 @@
     "effect": null
   },
   {
-    "id": 1040,
-    "name": "Health Candy",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon’s HP.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/health-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1041,
-    "name": "Mighty Candy",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon’s Attack stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/mighty-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1042,
-    "name": "Tough Candy",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon’s Defense stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/tough-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1043,
-    "name": "Smart Candy",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon’s Sp. Atk stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/smart-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1044,
-    "name": "Courage Candy",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon’s Sp. Def stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/courage-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1045,
-    "name": "Quick Candy",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon’s Speed stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/quick-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1046,
-    "name": "Health Candy L",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A big candy that is packed with energy. When given to a Pokémon at Lv. 30 or higher, it will increase that Pokémon’s HP.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/health-candy-l.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1047,
-    "name": "Mighty Candy L",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A big candy that is packed with energy. When given to a Pokémon at Lv. 30 or higher, it will increase that Pokémon’s Attack stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/mighty-candy-l.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1048,
-    "name": "Tough Candy L",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A big candy that is packed with energy. When given to a Pokémon at Lv. 30 or higher, it will increase that Pokémon’s Defense stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/tough-candy-l.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1049,
-    "name": "Smart Candy L",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A big candy that is packed with energy. When given to a Pokémon at Lv. 30 or higher, it will increase that Pokémon’s Sp. Atk stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/smart-candy-l.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1050,
-    "name": "Courage Candy L",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A big candy that is packed with energy. When given to a Pokémon at Lv. 30 or higher, it will increase that Pokémon’s Sp. Def stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/courage-candy-l.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1051,
-    "name": "Quick Candy L",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A big candy that is packed with energy. When given to a Pokémon at Lv. 30 or higher, it will increase that Pokémon’s Speed stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/quick-candy-l.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1052,
-    "name": "Health Candy XL",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A huge candy that is packed with energy. When given to a Pokémon at Lv. 60 or higher, it will increase that Pokémon’s HP.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/health-candy-xl.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1053,
-    "name": "Mighty Candy XL",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A huge candy that is packed with energy. When given to a Pokémon at Lv. 60 or higher, it will increase that Pokémon’s Attack stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/mighty-candy-xl.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1054,
-    "name": "Tough Candy XL",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A huge candy that is packed with energy. When given to a Pokémon at Lv. 60 or higher, it will increase that Pokémon’s Defense stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/tough-candy-xl.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1055,
-    "name": "Smart Candy XL",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A huge candy that is packed with energy. When given to a Pokémon at Lv. 60 or higher, it will increase that Pokémon’s Sp. Atk stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/smart-candy-xl.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1056,
-    "name": "Courage Candy XL",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A huge candy that is packed with energy. When given to a Pokémon at Lv. 60 or higher, it will increase that Pokémon’s Sp. Def stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/courage-candy-xl.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
-    "id": 1057,
-    "name": "Quick Candy XL",
-    "category": "medicine",
-    "subcategory": null,
-    "description": "A huge candy that is packed with energy. When given to a Pokémon at Lv. 60 or higher, it will increase that Pokémon’s Speed stat.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/quick-candy-xl.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "effect": null
-  },
-  {
     "id": 1182,
     "name": "Exp. Candy XS",
     "category": "medicine",
     "subcategory": null,
     "description": "A candy that is packed with energy. When consumed, it will grant a single Pokémon a very small amount of Exp. Points.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/exp-candy-xs.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candyxs.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4892,7 +4460,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A candy that is packed with energy. When consumed, it will grant a single Pokémon a small amount of Exp. Points.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/exp-candy-s.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candys.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4916,7 +4484,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A candy that is packed with energy. When consumed, it will grant a single Pokémon a moderate amount of Exp. Points.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/exp-candy-m.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candym.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4940,7 +4508,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A candy that is packed with energy. When consumed, it will grant a single Pokémon a large amount of Exp. Points.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/exp-candy-l.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candyl.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4964,7 +4532,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A candy that is packed with energy. When consumed, it will grant a single Pokémon a very large amount of Exp. Points.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/exp-candy-xl.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candyxl.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -4988,7 +4556,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "A candy that is packed with energy. When consumed, it will raise the Dynamax Level of a single Pokémon by one. A higher level means higher HP when Dynamaxed.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/dynamax-candy.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/dynamaxcandy.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -5012,7 +4580,7 @@
     "category": "medicine",
     "subcategory": null,
     "description": "Honey that Dynamax Vespiquen produces. Adding this honey to Max Soup makes the taste very smooth. It also has the same effect as a Max Revive.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/max-honey.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/maxhoney.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8388,7 +7956,7 @@
     "category": "battle-item",
     "subcategory": null,
     "description": "Mushrooms that have the power of changing Dynamax forms. They boost all stats of a Pokémon during battle.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/max-mushrooms.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/maxmushrooms.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -8573,98 +8141,6 @@
     "forageable": false,
     "posts_to_collect": 0,
     "effect": null
-  },
-  {
-    "id": 95,
-    "name": "Growth Mulch",
-    "category": "craft-material",
-    "subcategory": null,
-    "description": "A plant fertilizer spread on soft soil. It speeds up the growth of Berries. However, it also dries the soil faster.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/growth-mulch.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 96,
-    "name": "Damp Mulch",
-    "category": "craft-material",
-    "subcategory": null,
-    "description": "A plant fertilizer spread on soft soil. It slows the growth of Berries and causes the soil to dry slower.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/damp-mulch.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 97,
-    "name": "Stable Mulch",
-    "category": "craft-material",
-    "subcategory": null,
-    "description": "A plant fertilizer spread on soft soil. It extends the time ripened Berries remain on their plants before falling.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/stable-mulch.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 98,
-    "name": "Gooey Mulch",
-    "category": "craft-material",
-    "subcategory": null,
-    "description": "A plant fertilizer spread on soft soil. It ups the number of times new plants grow where mature plants withered.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/gooey-mulch.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 200,
-      "sell": 100
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
   },
   {
     "id": 141,
@@ -8994,7 +8470,7 @@
     "category": "craft-material",
     "subcategory": null,
     "description": "Mulch to be used in a Berry field. It increases the Berry harvest without the need for particularly diligent care.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rich-mulch.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/richmulch.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9017,7 +8493,7 @@
     "category": "craft-material",
     "subcategory": null,
     "description": "Mulch to be used in a Berry field. It causes strange, sudden mutations based on the combination of Berries.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/surprise-mulch.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/surprisemulch.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9040,7 +8516,7 @@
     "category": "craft-material",
     "subcategory": null,
     "description": "Mulch to be used in a Berry field. It increases the Berry harvest that can be grown by diligent watering.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/boost-mulch.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/boostmulch.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -9063,7 +8539,7 @@
     "category": "craft-material",
     "subcategory": null,
     "description": "Mulch to be used in a Berry field. An amazing Mulch with the effects of Rich, Surprise, and Boost Mulch.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/amaze-mulch.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/amazemulch.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -21520,2122 +20996,6 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1024,
-    "name": "Stretchy Spring",
-    "category": "other",
-    "subcategory": null,
-    "description": "A thin small spring. It’s totally stretched out, and what it’s used for is unknown.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/stretchy-spring.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1025,
-    "name": "Chalky Stone",
-    "category": "other",
-    "subcategory": null,
-    "description": "A small whitish stone picked up at the edge of the road.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/chalky-stone.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 60,
-      "sell": 30
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1026,
-    "name": "Marble",
-    "category": "other",
-    "subcategory": null,
-    "description": "A round glass marble. You can see colored glass inside the transparent marble.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/marble.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 300,
-      "sell": 150
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1027,
-    "name": "Lone Earring",
-    "category": "other",
-    "subcategory": null,
-    "description": "A single earring that somebody dropped.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/lone-earring.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 600,
-      "sell": 300
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1028,
-    "name": "Beach Glass",
-    "category": "other",
-    "subcategory": null,
-    "description": "A piece of colored glass. Waves have rounded its edges. It’s slightly rough to the touch.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/beach-glass.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 800,
-      "sell": 400
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1029,
-    "name": "Gold Leaf",
-    "category": "other",
-    "subcategory": null,
-    "description": "A mysterious gold leaf. No trees with this leaf have been found yet.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/gold-leaf.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 1000,
-      "sell": 500
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1030,
-    "name": "Silver Leaf",
-    "category": "other",
-    "subcategory": null,
-    "description": "A mysterious silver leaf. No trees with this leaf have been found yet.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/silver-leaf.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 1000,
-      "sell": 500
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1031,
-    "name": "Polished Mud Ball",
-    "category": "other",
-    "subcategory": null,
-    "description": "A ball made of mud. It had been polished for such a long time that the surface is very shiny.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/polished-mud-ball.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 1200,
-      "sell": 600
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1032,
-    "name": "Tropical Shell",
-    "category": "other",
-    "subcategory": null,
-    "description": "A beautiful white shell that may have drifted from a sea in a warm region.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/tropical-shell.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 2000,
-      "sell": 1000
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1033,
-    "name": "Leaf Letter",
-    "category": "other",
-    "subcategory": null,
-    "description": "A letter written on a leaf. Something is written using Pikachu’s footprints.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/leaf-letter--pikachu.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1034,
-    "name": "Leaf Letter",
-    "category": "other",
-    "subcategory": null,
-    "description": "A letter written on a leaf. Something is written using Eevee’s footprints.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/leaf-letter--eevee.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1035,
-    "name": "Small Bouquet",
-    "category": "other",
-    "subcategory": null,
-    "description": "A small bouquet that was made with heart and soul for a single Trainer.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/small-bouquet.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1058,
-    "name": "Bulbasaur Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/bulbasaur-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1059,
-    "name": "Charmander Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/charmander-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1060,
-    "name": "Squirtle Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/squirtle-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1061,
-    "name": "Caterpie Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/caterpie-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1062,
-    "name": "Weedle Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/weedle-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1063,
-    "name": "Pidgey Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/pidgey-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1064,
-    "name": "Rattata Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/rattata-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1065,
-    "name": "Spearow Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/spearow-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1066,
-    "name": "Ekans Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/ekans-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1067,
-    "name": "Pikachu Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/pikachu-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1068,
-    "name": "Sandshrew Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sandshrew-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1069,
-    "name": "Nidoran♀ Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/nidoran-f-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1070,
-    "name": "Nidoran♂ Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/nidoran-m-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1071,
-    "name": "Clefairy Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/clefairy-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1072,
-    "name": "Vulpix Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/vulpix-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1073,
-    "name": "Jigglypuff Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/jigglypuff-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1074,
-    "name": "Zubat Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/zubat-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1075,
-    "name": "Oddish Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/oddish-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1076,
-    "name": "Paras Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/paras-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1077,
-    "name": "Venonat Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/venonat-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1078,
-    "name": "Diglett Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/diglett-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1079,
-    "name": "Meowth Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/meowth-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1080,
-    "name": "Psyduck Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/psyduck-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1081,
-    "name": "Mankey Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/mankey-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1082,
-    "name": "Growlithe Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/growlithe-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1083,
-    "name": "Poliwag Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/poliwag-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1084,
-    "name": "Abra Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/abra-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1085,
-    "name": "Machop Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/machop-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1086,
-    "name": "Bellsprout Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/bellsprout-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1087,
-    "name": "Tentacool Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/tentacool-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1088,
-    "name": "Geodude Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/geodude-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1089,
-    "name": "Ponyta Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/ponyta-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1090,
-    "name": "Slowpoke Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/slowpoke-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1091,
-    "name": "Magnemite Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/magnemite-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1092,
-    "name": "Farfetch’d Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/farfetchd-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1093,
-    "name": "Doduo Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/doduo-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1094,
-    "name": "Seel Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/seel-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1095,
-    "name": "Grimer Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/grimer-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1096,
-    "name": "Shellder Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/shellder-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1097,
-    "name": "Gastly Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/gastly-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1098,
-    "name": "Onix Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/onix-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1099,
-    "name": "Drowzee Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/drowzee-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1100,
-    "name": "Krabby Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/krabby-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1101,
-    "name": "Voltorb Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/voltorb-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1102,
-    "name": "Exeggcute Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/exeggcute-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1103,
-    "name": "Cubone Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/cubone-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1104,
-    "name": "Hitmonlee Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/hitmonlee-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1105,
-    "name": "Hitmonchan Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/hitmonchan-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1106,
-    "name": "Lickitung Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/lickitung-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1107,
-    "name": "Koffing Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/koffing-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1108,
-    "name": "Rhyhorn Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/rhyhorn-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1109,
-    "name": "Chansey Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/chansey-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1110,
-    "name": "Tangela Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/tangela-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1111,
-    "name": "Kangaskhan Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/kangaskhan-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1112,
-    "name": "Horsea Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/horsea-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1113,
-    "name": "Goldeen Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/goldeen-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1114,
-    "name": "Staryu Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/staryu-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1115,
-    "name": "Mr. Mime Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/mr-mime-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1116,
-    "name": "Scyther Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/scyther-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1117,
-    "name": "Jynx Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/jynx-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1118,
-    "name": "Electabuzz Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/electabuzz-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1119,
-    "name": "Pinsir Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/pinsir-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1120,
-    "name": "Tauros Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/tauros-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1121,
-    "name": "Magikarp Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/magikarp-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1122,
-    "name": "Lapras Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/lapras-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1123,
-    "name": "Ditto Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/ditto-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1124,
-    "name": "Eevee Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/eevee-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1125,
-    "name": "Porygon Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/porygon-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1126,
-    "name": "Omanyte Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/omanyte-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1127,
-    "name": "Kabuto Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/kabuto-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1128,
-    "name": "Aerodactyl Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/aerodactyl-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1129,
-    "name": "Snorlax Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/snorlax-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1130,
-    "name": "Articuno Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/articuno-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1131,
-    "name": "Zapdos Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/zapdos-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1132,
-    "name": "Moltres Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/moltres-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1133,
-    "name": "Dratini Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/dratini-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1134,
-    "name": "Mewtwo Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/mewtwo-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1135,
-    "name": "Mew Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/mew-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1136,
-    "name": "Meltan Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/meltan-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1137,
-    "name": "Magmar Candy",
-    "category": "other",
-    "subcategory": null,
-    "description": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/magmar-candy.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": 20,
-      "sell": 10
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
     "id": 1139,
     "name": "Pokémon Box Link",
     "category": "other",
@@ -23682,29 +21042,6 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1143,
-    "name": "Rotom Bike",
-    "category": "other",
-    "subcategory": null,
-    "description": "This bike can be combined with the Pokémon Rotom to use a turbo boost.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/rotom-bike.png",
-    "rarity": "comum",
-    "is_unique": false,
-    "price": {
-      "buy": false,
-      "sell": false
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_craftable": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
     "id": 1144,
     "name": "Sausages",
     "category": "other",
@@ -23733,7 +21070,7 @@
     "category": "other",
     "subcategory": null,
     "description": "One of the many ingredients that can be used for cooking at your camp. The tinned food that Bob sells is curiously popular in Galar.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/bobs-food-tin.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/bob'sfoodtin.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23756,7 +21093,7 @@
     "category": "other",
     "subcategory": null,
     "description": "One of the many ingredients that can be used for cooking at your camp. The tinned food that Bach sells is curiously popular in Galar.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/bachs-food-tin.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/bach'sfoodtin.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23779,7 +21116,7 @@
     "category": "other",
     "subcategory": null,
     "description": "One of the many ingredients that can be used for cooking at your camp. When simmered, the beans suffuse a dish with their mild flavor.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/tin-of-beans.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/tinofbeans.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23848,7 +21185,7 @@
     "category": "other",
     "subcategory": null,
     "description": "One of the many ingredients that can be used for cooking at your camp. The chewy texture of the mushrooms transforms any dish they’re added to.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/mixed-mushrooms.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/mixedmushrooms.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23871,7 +21208,7 @@
     "category": "other",
     "subcategory": null,
     "description": "One of the many ingredients that can be used for cooking at your camp. When a Slowpoke’s tail falls off, it grows back quickly.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/smoke-poke-tail.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/smoke-poketail.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23894,7 +21231,7 @@
     "category": "other",
     "subcategory": null,
     "description": "One of the many ingredients that can be used for cooking at your camp. Whether this is the kind of vegetable stalk that Farfetch’d like is unknown.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/large-leek.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/largeleek.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23917,7 +21254,7 @@
     "category": "other",
     "subcategory": null,
     "description": "One of the many ingredients that can be used for cooking at your camp. An apple chosen above others. It has spectacular form and a brilliant sheen.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/fancy-apple.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/fancyapple.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23940,7 +21277,7 @@
     "category": "other",
     "subcategory": null,
     "description": "One of the many ingredients that can be used for cooking at your camp. The taste boiled off from the bones is sure to give a dish a light umami taste.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/brittle-bones.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/brittlebones.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23963,7 +21300,7 @@
     "category": "other",
     "subcategory": null,
     "description": "One of the many ingredients that can be used for cooking at your camp. Potatoes help mellow out a spicy taste, to make a dish more mild.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/pack-of-potatoes.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/packofpotatoes.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -23986,7 +21323,7 @@
     "category": "other",
     "subcategory": null,
     "description": "One of the many ingredients that can be used for cooking at your camp. Though carelessly picked, these herbs can add a fragrant accent to a dish.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/pungent-root.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pungentroot.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24009,7 +21346,7 @@
     "category": "other",
     "subcategory": null,
     "description": "One of the many ingredients that can be used for cooking at your camp. The assortment of vegetables looks quite appealing and healthy.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/salad-mix.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/saladmix.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24032,7 +21369,7 @@
     "category": "other",
     "subcategory": null,
     "description": "One of the many ingredients that can be used for cooking at your camp. It’s been a while since it was fried, so it’s gotten greasy.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/fried-food.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/friedfood.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24055,7 +21392,7 @@
     "category": "other",
     "subcategory": null,
     "description": "One of the many ingredients that can be used for cooking at your camp. Even just one boiled egg can really enhance a dish.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/boiled-egg.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/boiledegg.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24075,7 +21412,7 @@
   {
     "id": 1160,
     "name": "Camping Gear",
-    "category": "other",
+    "category": "key-item",
     "subcategory": null,
     "description": "Everything you need to set up a tent and get cooking in a Wild Area or at a camping spot.",
     "sprite": "https://www.serebii.net/itemdex/sprites/camping-gear.png",
@@ -24101,7 +21438,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It is said that a hero used this sword to halt a terrible disaster in ancient times. But it’s grown rusty and worn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/rusted-sword.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rustedsword.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -24124,7 +21461,7 @@
     "category": "other",
     "subcategory": null,
     "description": "It is said that a hero used this shield to halt a terrible disaster in ancient times. But it’s grown rusty and worn.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/rusted-shield.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/rustedshield.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
