@@ -3031,7 +3031,7 @@
     "description": null,
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rotomphone.png",
     "rarity": "comum",
-    "is_unique": false,
+    "is_unique": true,
     "price": {
       "buy": false,
       "sell": false
