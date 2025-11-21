@@ -7,7 +7,7 @@
     "description": "Veldhavn é uma cidade que parece flutuar sobre a água. Canais estreitos serpenteiam entre casas de arquitetura contemporânea e fachadas de madeira pintadas em tons pastéis, lembrando pequenas joias refletidas na superfície calma. Conectada por pontes delicadas, algumas apenas para pedestres e bicicletas, a cidade mantém uma estética limpa e organizada, evocando uma sensação de tranquilidade quase surreal.\n\nHistoricamente, Veldhavn começou como uma vila de pescadores, mas com o tempo cresceu em torno do turismo e do comércio de produtos locais, sem perder a harmonia com seus canais e lagoas. Pequenos cafés e boutiques se alinham às margens da água, e barcos silenciosos deslizam pelos canais, substituindo estradas convencionais em algumas áreas. O contraste surge na modernidade urbana do centro, onde edifícios de vidro e tecnologia de ponta se integram com a estética lacustre, criando um charme que é ao mesmo tempo antigo e futurista.\n\nCulturalmente, a cidade celebra festivais de luzes sobre a água e feiras de arte que ocupam as margens dos canais, atraindo visitantes de toda Seira. A população mantém forte senso de comunidade: vizinhos ajudam-se mutuamente durante enchentes sazonais ou para preservar a beleza natural. Entretanto, o excesso de turistas em certos períodos causa tensão entre o comércio local e residentes mais tradicionais, gerando uma mistura curiosa de hospitalidade e ligeira impaciência.",
     "map_image": "https://2img.net/i.imgur.com/4AlliMd.png",
     "coordinates": {
-      "x": 75.8948,
+      "x": 76,
       "y": 84.8432
     },
     "metadata": {
@@ -104,7 +104,7 @@
     "description": "A Rota 06 é uma longa estrada sinuosa que corta um mar de vegetação densa e bem preservada, cercada por colinas verdejantes e árvores de copas amplas. O asfalto escuro e recém-pavimentado contrasta com o verde vibrante das margens, onde a natureza parece tocar a estrada sem cerimônia, invadindo seus limites com raízes, folhas e flores. À medida que os viajantes deixam Veldhavn para trás, o canto dos pássaros e o farfalhar das folhas acompanham cada passo — mas ao longe, já é possível ver a luz fria de letreiros digitais piscando nas encostas montanhosas que anunciam a chegada de Astralton.\n\nApesar da tranquilidade aparente, a Rota 06 é um ponto de transição simbólico entre dois mundos. Treinadores a percorrem em busca de um momento de respiro entre a rusticidade de Veldhavn e o frenesi tecnológico de Astralton. Há relatos de que a estrada possui sensores embutidos e sinalizações inteligentes, legados da influência tecnológica do norte, mas eles coexistem com postes simples de madeira e placas feitas à mão, ainda mantidas pelos moradores do sul. O contraste entre o natural e o artificial está por toda parte, e a estrada se tornou não apenas um caminho, mas uma metáfora viva da convivência (e tensão) entre tradição e progresso.",
     "coordinates": {
       "x": 76,
-      "y": 74
+      "y": 74.06645
     },
     "map_image": "https://2img.net/i.imgur.com/Xhrbstg.png",
     "metadata": {
@@ -298,8 +298,8 @@
       ]
     },
     "coordinates": {
-      "x": 61,
-      "y": 28
+      "x": 61.2554,
+      "y": 28.99231
     }
   },
   {
@@ -355,7 +355,7 @@
     },
     "coordinates": {
       "x": 76,
-      "y": 64
+      "y": 63.7759
     }
   },
   {
@@ -420,7 +420,7 @@
     },
     "coordinates": {
       "x": 76,
-      "y": 25
+      "y": 25.68817
     }
   },
   {
@@ -469,7 +469,7 @@
       ]
     },
     "coordinates": {
-      "x": 61,
+      "x": 61.3,
       "y": 38
     }
   },
@@ -515,7 +515,7 @@
     },
     "coordinates": {
       "x": 76,
-      "y": 43
+      "y": 43.5
     }
   },
   {
