@@ -234,7 +234,7 @@
       }
     ],
     "coordinates": {
-      "x": 61,
+      "x": 61.2554,
       "y": 51
     }
   },
@@ -469,8 +469,8 @@
       ]
     },
     "coordinates": {
-      "x": 61.3,
-      "y": 38
+      "x": 61.2554,
+      "y": 38.18975
     }
   },
   {
@@ -515,7 +515,7 @@
     },
     "coordinates": {
       "x": 76,
-      "y": 43.5
+      "y": 43.54744
     }
   },
   {
@@ -586,7 +586,7 @@
     "biome": "Ruinoso",
     "description": "Entre colinas suaves e campos floridos, repousam as Ruínas de Rhisis, vestígios de uma antiga civilização que marcou a história de Seira. Colunas partidas e blocos de pedra espalhados pelo terreno formam corredores abertos e plataformas irregulares, enquanto o vento percorre os espaços vazios, criando um sussurro contínuo que parece narrar histórias antigas. O terreno é irregular, com desníveis que desafiam os viajantes e blocos de pedra instáveis que exigem cuidado ao atravessar.\n\nApesar da antiguidade, a região é integrada ao mundo moderno: trilhas de caminhada e pequenos mirantes foram instalados por exploradores e estudiosos, e placas informativas digitais fornecem dados históricos, contrastando com a sensação de abandono das ruínas. Treinadores aproveitam o local para treinos, exploração e estudos arqueológicos, enquanto pequenos Pokémon habitam frestas e blocos caídos, criando um ecossistema próprio entre pedras e musgo.",
     "coordinates": {
-      "x": 73,
+      "x": 76,
       "y": 53
     },
     "map_image": "https://2img.net/i.imgur.com/IV51npg.png",
