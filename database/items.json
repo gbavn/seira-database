@@ -3100,7 +3100,7 @@
     "is_book": false
   },
   {
-    "id": 99,
+    "id": 95,
     "name": "Root Fossil",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/rootfossil.png",
@@ -3134,7 +3134,7 @@
     "is_book": false
   },
   {
-    "id": 100,
+    "id": 96,
     "name": "Claw Fossil",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/clawfossil.png",
@@ -3168,7 +3168,7 @@
     "is_book": false
   },
   {
-    "id": 101,
+    "id": 97,
     "name": "Helix Fossil",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/helixfossil.png",
@@ -3202,7 +3202,7 @@
     "is_book": false
   },
   {
-    "id": 102,
+    "id": 98,
     "name": "Dome Fossil",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/domefossil.png",
@@ -3236,7 +3236,7 @@
     "is_book": false
   },
   {
-    "id": 103,
+    "id": 99,
     "name": "Old Amber",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/oldamber.png",
@@ -3270,7 +3270,7 @@
     "is_book": false
   },
   {
-    "id": 104,
+    "id": 100,
     "name": "Armor Fossil",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/armorfossil.png",
@@ -3304,7 +3304,7 @@
     "is_book": false
   },
   {
-    "id": 105,
+    "id": 101,
     "name": "Skull Fossil",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/skullfossil.png",
@@ -3338,7 +3338,7 @@
     "is_book": false
   },
   {
-    "id": 106,
+    "id": 102,
     "name": "Rare Bone",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rarebone.png",
@@ -3370,7 +3370,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 107,
+    "id": 103,
     "name": "Shiny Stone",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/shiny-stone.png",
@@ -3403,7 +3403,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 108,
+    "id": 104,
     "name": "Dusk Stone",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/dusk-stone.png",
@@ -3436,7 +3436,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 109,
+    "id": 105,
     "name": "Dawn Stone",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/dawn-stone.png",
@@ -3473,7 +3473,7 @@
     ]
   },
   {
-    "id": 110,
+    "id": 106,
     "name": "Oval Stone",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/oval-stone.png",
@@ -3506,7 +3506,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 111,
+    "id": 107,
     "name": "Odd Keystone",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/oddkeystone.png",
@@ -3540,7 +3540,7 @@
     "is_book": false
   },
   {
-    "id": 112,
+    "id": 108,
     "name": "Adamant Orb",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/adamantorb.png",
@@ -3572,7 +3572,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 113,
+    "id": 109,
     "name": "Lustrous Orb",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lustrousorb.png",
@@ -3604,7 +3604,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 126,
+    "id": 110,
     "name": "Cheri Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cheriberry.png",
@@ -3636,7 +3636,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 127,
+    "id": 111,
     "name": "Chesto Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/chestoberry.png",
@@ -3668,7 +3668,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 128,
+    "id": 112,
     "name": "Pecha Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pechaberry.png",
@@ -3700,7 +3700,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 129,
+    "id": 113,
     "name": "Rawst Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rawstberry.png",
@@ -3732,7 +3732,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 130,
+    "id": 114,
     "name": "Aspear Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/aspearberry.png",
@@ -3764,7 +3764,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 131,
+    "id": 115,
     "name": "Leppa Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/leppaberry.png",
@@ -3796,7 +3796,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 132,
+    "id": 116,
     "name": "Oran Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/oranberry.png",
@@ -3828,7 +3828,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 133,
+    "id": 117,
     "name": "Persim Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/persimberry.png",
@@ -3860,7 +3860,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 134,
+    "id": 118,
     "name": "Lum Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lumberry.png",
@@ -3892,7 +3892,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 135,
+    "id": 119,
     "name": "Sitrus Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/sitrusberry.png",
@@ -3924,7 +3924,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 136,
+    "id": 120,
     "name": "Figy Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/figyberry.png",
@@ -3958,7 +3958,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 137,
+    "id": 121,
     "name": "Wiki Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/wikiberry.png",
@@ -3992,7 +3992,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 138,
+    "id": 122,
     "name": "Mago Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/magoberry.png",
@@ -4026,7 +4026,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 139,
+    "id": 123,
     "name": "Aguav Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/aguavberry.png",
@@ -4060,7 +4060,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 140,
+    "id": 124,
     "name": "Iapapa Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/iapapaberry.png",
@@ -4094,7 +4094,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 141,
+    "id": 125,
     "name": "Razz Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/razzberry.png",
@@ -4126,7 +4126,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 142,
+    "id": 126,
     "name": "Bluk Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/blukberry.png",
@@ -4158,7 +4158,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 143,
+    "id": 127,
     "name": "Nanab Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/nanabberry.png",
@@ -4190,7 +4190,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 144,
+    "id": 128,
     "name": "Wepear Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/wepearberry.png",
@@ -4222,7 +4222,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 145,
+    "id": 129,
     "name": "Pinap Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pinapberry.png",
@@ -4254,7 +4254,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 146,
+    "id": 130,
     "name": "Pomeg Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pomegberry.png",
@@ -4286,7 +4286,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 147,
+    "id": 131,
     "name": "Kelpsy Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/kelpsyberry.png",
@@ -4318,7 +4318,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 148,
+    "id": 132,
     "name": "Qualot Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/qualotberry.png",
@@ -4350,7 +4350,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 149,
+    "id": 133,
     "name": "Hondew Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/hondewberry.png",
@@ -4382,7 +4382,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 150,
+    "id": 134,
     "name": "Grepa Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/grepaberry.png",
@@ -4414,7 +4414,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 151,
+    "id": 135,
     "name": "Tamato Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tamatoberry.png",
@@ -4446,7 +4446,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 152,
+    "id": 136,
     "name": "Cornn Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cornnberry.png",
@@ -4478,7 +4478,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 153,
+    "id": 137,
     "name": "Magost Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/magostberry.png",
@@ -4510,7 +4510,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 154,
+    "id": 138,
     "name": "Rabuta Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rabutaberry.png",
@@ -4542,7 +4542,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 155,
+    "id": 139,
     "name": "Nomel Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/nomelberry.png",
@@ -4574,7 +4574,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 156,
+    "id": 140,
     "name": "Spelon Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/spelonberry.png",
@@ -4606,7 +4606,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 157,
+    "id": 141,
     "name": "Pamtre Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pamtreberry.png",
@@ -4638,7 +4638,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 158,
+    "id": 142,
     "name": "Watmel Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/watmelberry.png",
@@ -4670,7 +4670,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 159,
+    "id": 143,
     "name": "Durin Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/durinberry.png",
@@ -4702,7 +4702,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 160,
+    "id": 144,
     "name": "Belue Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/belueberry.png",
@@ -4734,7 +4734,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 161,
+    "id": 145,
     "name": "Occa Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/occaberry.png",
@@ -4768,7 +4768,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 162,
+    "id": 146,
     "name": "Passho Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/passhoberry.png",
@@ -4802,7 +4802,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 163,
+    "id": 147,
     "name": "Wacan Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/wacanberry.png",
@@ -4836,7 +4836,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 164,
+    "id": 148,
     "name": "Rindo Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rindoberry.png",
@@ -4870,7 +4870,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 165,
+    "id": 149,
     "name": "Yache Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/yacheberry.png",
@@ -4904,7 +4904,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 166,
+    "id": 150,
     "name": "Chople Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/chopleberry.png",
@@ -4938,7 +4938,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 167,
+    "id": 151,
     "name": "Kebia Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/kebiaberry.png",
@@ -4972,7 +4972,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 168,
+    "id": 152,
     "name": "Shuca Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/shucaberry.png",
@@ -5006,7 +5006,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 169,
+    "id": 153,
     "name": "Coba Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cobaberry.png",
@@ -5040,7 +5040,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 170,
+    "id": 154,
     "name": "Payapa Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/payapaberry.png",
@@ -5074,7 +5074,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 171,
+    "id": 155,
     "name": "Tanga Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tangaberry.png",
@@ -5108,7 +5108,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 172,
+    "id": 156,
     "name": "Charti Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/chartiberry.png",
@@ -5142,7 +5142,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 173,
+    "id": 157,
     "name": "Kasib Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/kasibberry.png",
@@ -5176,7 +5176,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 174,
+    "id": 158,
     "name": "Haban Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/habanberry.png",
@@ -5210,7 +5210,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 175,
+    "id": 159,
     "name": "Colbur Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/colburberry.png",
@@ -5244,7 +5244,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 176,
+    "id": 160,
     "name": "Babiri Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/babiriberry.png",
@@ -5278,7 +5278,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 177,
+    "id": 161,
     "name": "Chilan Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/chilanberry.png",
@@ -5312,7 +5312,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 178,
+    "id": 162,
     "name": "Liechi Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/liechiberry.png",
@@ -5346,7 +5346,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 179,
+    "id": 163,
     "name": "Ganlon Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ganlonberry.png",
@@ -5380,7 +5380,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 180,
+    "id": 164,
     "name": "Salac Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/salacberry.png",
@@ -5414,7 +5414,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 181,
+    "id": 165,
     "name": "Petaya Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/petayaberry.png",
@@ -5448,7 +5448,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 182,
+    "id": 166,
     "name": "Apicot Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/apicotberry.png",
@@ -5480,7 +5480,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 183,
+    "id": 167,
     "name": "Lansat Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lansatberry.png",
@@ -5512,7 +5512,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 184,
+    "id": 168,
     "name": "Starf Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/starfberry.png",
@@ -5544,7 +5544,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 185,
+    "id": 169,
     "name": "Enigma Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/enigmaberry.png",
@@ -5576,7 +5576,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 186,
+    "id": 170,
     "name": "Micle Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/micleberry.png",
@@ -5608,7 +5608,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 187,
+    "id": 171,
     "name": "Custap Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/custapberry.png",
@@ -5640,7 +5640,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 188,
+    "id": 172,
     "name": "Jaboca Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/jabocaberry.png",
@@ -5672,7 +5672,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 189,
+    "id": 173,
     "name": "Rowap Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rowapberry.png",
@@ -5704,7 +5704,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 190,
+    "id": 174,
     "name": "Bright Powder",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/brightpowder.png",
@@ -5736,7 +5736,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 191,
+    "id": 175,
     "name": "White Herb",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/whiteherb.png",
@@ -5768,7 +5768,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 192,
+    "id": 176,
     "name": "Macho Brace",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/machobrace.png",
@@ -5800,7 +5800,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 193,
+    "id": 177,
     "name": "Exp. Share",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/expshare.png",
@@ -5832,7 +5832,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 194,
+    "id": 178,
     "name": "Quick Claw",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/quickclaw.png",
@@ -5864,7 +5864,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 195,
+    "id": 179,
     "name": "Soothe Bell",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/soothebell.png",
@@ -5896,7 +5896,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 196,
+    "id": 180,
     "name": "Mental Herb",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/mentalherb.png",
@@ -5928,7 +5928,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 197,
+    "id": 181,
     "name": "Choice Band",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/choiceband.png",
@@ -5960,7 +5960,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 198,
+    "id": 182,
     "name": "King’s Rock",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/king'srock.png",
@@ -5992,7 +5992,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 199,
+    "id": 183,
     "name": "Silver Powder",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/silverpowder.png",
@@ -6024,7 +6024,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 200,
+    "id": 184,
     "name": "Amulet Coin",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/amuletcoin.png",
@@ -6056,7 +6056,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 201,
+    "id": 185,
     "name": "Cleanse Tag",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cleansetag.png",
@@ -6088,7 +6088,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 202,
+    "id": 186,
     "name": "Soul Dew",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/souldew.png",
@@ -6120,7 +6120,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 203,
+    "id": 187,
     "name": "Deep Sea Tooth",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/deepseatooth.png",
@@ -6152,7 +6152,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 204,
+    "id": 188,
     "name": "Deep Sea Scale",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/deepseascale.png",
@@ -6184,7 +6184,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 205,
+    "id": 189,
     "name": "Smoke Ball",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/smokeball.png",
@@ -6216,7 +6216,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 206,
+    "id": 190,
     "name": "Everstone",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/everstone.png",
@@ -6248,7 +6248,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 207,
+    "id": 191,
     "name": "Focus Band",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/focusband.png",
@@ -6280,7 +6280,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 208,
+    "id": 192,
     "name": "Lucky Egg",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/luckyegg.png",
@@ -6312,7 +6312,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 209,
+    "id": 193,
     "name": "Scope Lens",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/scopelens.png",
@@ -6344,7 +6344,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 210,
+    "id": 194,
     "name": "Metal Coat",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/metalcoat.png",
@@ -6376,7 +6376,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 211,
+    "id": 195,
     "name": "Leftovers",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/leftovers.png",
@@ -6408,7 +6408,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 212,
+    "id": 196,
     "name": "Dragon Scale",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/dragon-scale.png",
@@ -6441,7 +6441,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 213,
+    "id": 197,
     "name": "Light Ball",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lightball.png",
@@ -6473,7 +6473,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 214,
+    "id": 198,
     "name": "Soft Sand",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/softsand.png",
@@ -6505,7 +6505,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 215,
+    "id": 199,
     "name": "Hard Stone",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/hardstone.png",
@@ -6537,7 +6537,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 216,
+    "id": 200,
     "name": "Miracle Seed",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/miracleseed.png",
@@ -6569,7 +6569,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 217,
+    "id": 201,
     "name": "Black Glasses",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/blackglasses.png",
@@ -6601,7 +6601,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 218,
+    "id": 202,
     "name": "Black Belt",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/blackbelt.png",
@@ -6633,7 +6633,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 219,
+    "id": 203,
     "name": "Magnet",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/magnet.png",
@@ -6665,7 +6665,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 220,
+    "id": 204,
     "name": "Mystic Water",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/mysticwater.png",
@@ -6697,7 +6697,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 221,
+    "id": 205,
     "name": "Sharp Beak",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/sharpbeak.png",
@@ -6729,7 +6729,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 222,
+    "id": 206,
     "name": "Poison Barb",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/poisonbarb.png",
@@ -6761,7 +6761,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 223,
+    "id": 207,
     "name": "Never-Melt Ice",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/never-meltice.png",
@@ -6793,7 +6793,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 224,
+    "id": 208,
     "name": "Spell Tag",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/spelltag.png",
@@ -6825,7 +6825,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 225,
+    "id": 209,
     "name": "Twisted Spoon",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/twistedspoon.png",
@@ -6857,7 +6857,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 226,
+    "id": 210,
     "name": "Charcoal",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/charcoal.png",
@@ -6889,7 +6889,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 227,
+    "id": 211,
     "name": "Dragon Fang",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/dragonfang.png",
@@ -6921,7 +6921,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 228,
+    "id": 212,
     "name": "Silk Scarf",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/silkscarf.png",
@@ -6953,7 +6953,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 229,
+    "id": 213,
     "name": "Upgrade",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/up-grade.png",
@@ -6986,7 +6986,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 230,
+    "id": 214,
     "name": "Shell Bell",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/shellbell.png",
@@ -7018,7 +7018,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 231,
+    "id": 215,
     "name": "Sea Incense",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/seaincense.png",
@@ -7050,7 +7050,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 232,
+    "id": 216,
     "name": "Lax Incense",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/laxincense.png",
@@ -7082,7 +7082,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 233,
+    "id": 217,
     "name": "Lucky Punch",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/luckypunch.png",
@@ -7114,7 +7114,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 234,
+    "id": 218,
     "name": "Metal Powder",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/metalpowder.png",
@@ -7146,7 +7146,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 235,
+    "id": 219,
     "name": "Thick Club",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/thickclub.png",
@@ -7178,7 +7178,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 236,
+    "id": 220,
     "name": "Leek",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/stick.png",
@@ -7210,7 +7210,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 237,
+    "id": 221,
     "name": "Red Scarf",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/redscarf.png",
@@ -7242,7 +7242,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 238,
+    "id": 222,
     "name": "Blue Scarf",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/bluescarf.png",
@@ -7274,7 +7274,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 239,
+    "id": 223,
     "name": "Pink Scarf",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/pinkscarf.png",
@@ -7306,7 +7306,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 240,
+    "id": 224,
     "name": "Green Scarf",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/greenscarf.png",
@@ -7338,7 +7338,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 241,
+    "id": 225,
     "name": "Yellow Scarf",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/yellowscarf.png",
@@ -7370,7 +7370,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 242,
+    "id": 226,
     "name": "Wide Lens",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/widelens.png",
@@ -7402,7 +7402,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 243,
+    "id": 227,
     "name": "Muscle Band",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/muscleband.png",
@@ -7434,7 +7434,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 244,
+    "id": 228,
     "name": "Wise Glasses",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/wiseglasses.png",
@@ -7466,7 +7466,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 245,
+    "id": 229,
     "name": "Expert Belt",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/expertbelt.png",
@@ -7498,7 +7498,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 246,
+    "id": 230,
     "name": "Light Clay",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lightclay.png",
@@ -7530,7 +7530,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 247,
+    "id": 231,
     "name": "Life Orb",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lifeorb.png",
@@ -7562,7 +7562,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 248,
+    "id": 232,
     "name": "Power Herb",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerherb.png",
@@ -7594,7 +7594,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 249,
+    "id": 233,
     "name": "Toxic Orb",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/toxicorb.png",
@@ -7626,7 +7626,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 250,
+    "id": 234,
     "name": "Flame Orb",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/flameorb.png",
@@ -7658,7 +7658,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 251,
+    "id": 235,
     "name": "Quick Powder",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/quickpowder.png",
@@ -7690,7 +7690,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 252,
+    "id": 236,
     "name": "Focus Sash",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/focussash.png",
@@ -7722,7 +7722,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 253,
+    "id": 237,
     "name": "Zoom Lens",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/zoomlens.png",
@@ -7754,7 +7754,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 254,
+    "id": 238,
     "name": "Metronome",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/metronome.png",
@@ -7786,7 +7786,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 255,
+    "id": 239,
     "name": "Iron Ball",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ironball.png",
@@ -7818,7 +7818,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 256,
+    "id": 240,
     "name": "Lagging Tail",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/laggingtail.png",
@@ -7850,7 +7850,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 257,
+    "id": 241,
     "name": "Destiny Knot",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/destinyknot.png",
@@ -7882,7 +7882,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 258,
+    "id": 242,
     "name": "Black Sludge",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/blacksludge.png",
@@ -7914,7 +7914,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 259,
+    "id": 243,
     "name": "Icy Rock",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/icyrock.png",
@@ -7946,7 +7946,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 260,
+    "id": 244,
     "name": "Smooth Rock",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/smoothrock.png",
@@ -7978,7 +7978,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 261,
+    "id": 245,
     "name": "Heat Rock",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/heatrock.png",
@@ -8010,7 +8010,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 262,
+    "id": 246,
     "name": "Damp Rock",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/damprock.png",
@@ -8042,7 +8042,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 263,
+    "id": 247,
     "name": "Grip Claw",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/gripclaw.png",
@@ -8074,7 +8074,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 264,
+    "id": 248,
     "name": "Choice Scarf",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/choicescarf.png",
@@ -8106,7 +8106,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 265,
+    "id": 249,
     "name": "Sticky Barb",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/stickybarb.png",
@@ -8138,7 +8138,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 266,
+    "id": 250,
     "name": "Power Bracer",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerbracer.png",
@@ -8170,7 +8170,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 267,
+    "id": 251,
     "name": "Power Belt",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerbelt.png",
@@ -8202,7 +8202,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 268,
+    "id": 252,
     "name": "Power Lens",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerlens.png",
@@ -8234,7 +8234,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 269,
+    "id": 253,
     "name": "Power Band",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerband.png",
@@ -8266,7 +8266,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 270,
+    "id": 254,
     "name": "Power Anklet",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/poweranklet.png",
@@ -8298,7 +8298,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 271,
+    "id": 255,
     "name": "Power Weight",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerweight.png",
@@ -8330,7 +8330,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 272,
+    "id": 256,
     "name": "Shed Shell",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/shedshell.png",
@@ -8362,7 +8362,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 273,
+    "id": 257,
     "name": "Big Root",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bigroot.png",
@@ -8394,7 +8394,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 274,
+    "id": 258,
     "name": "Choice Specs",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/choicespecs.png",
@@ -8426,7 +8426,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 275,
+    "id": 259,
     "name": "Flame Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/flameplate.png",
@@ -8460,7 +8460,7 @@
     "is_book": false
   },
   {
-    "id": 276,
+    "id": 260,
     "name": "Splash Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/splashplate.png",
@@ -8494,7 +8494,7 @@
     "is_book": false
   },
   {
-    "id": 277,
+    "id": 261,
     "name": "Zap Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/zapplate.png",
@@ -8528,7 +8528,7 @@
     "is_book": false
   },
   {
-    "id": 278,
+    "id": 262,
     "name": "Meadow Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/meadowplate.png",
@@ -8562,7 +8562,7 @@
     "is_book": false
   },
   {
-    "id": 279,
+    "id": 263,
     "name": "Icicle Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/icicleplate.png",
@@ -8596,7 +8596,7 @@
     "is_book": false
   },
   {
-    "id": 280,
+    "id": 264,
     "name": "Fist Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/fistplate.png",
@@ -8630,7 +8630,7 @@
     "is_book": false
   },
   {
-    "id": 281,
+    "id": 265,
     "name": "Toxic Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/toxicplate.png",
@@ -8664,7 +8664,7 @@
     "is_book": false
   },
   {
-    "id": 282,
+    "id": 266,
     "name": "Earth Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/earthplate.png",
@@ -8698,7 +8698,7 @@
     "is_book": false
   },
   {
-    "id": 283,
+    "id": 267,
     "name": "Sky Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/skyplate.png",
@@ -8732,7 +8732,7 @@
     "is_book": false
   },
   {
-    "id": 284,
+    "id": 268,
     "name": "Mind Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/mindplate.png",
@@ -8766,7 +8766,7 @@
     "is_book": false
   },
   {
-    "id": 285,
+    "id": 269,
     "name": "Insect Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/insectplate.png",
@@ -8800,7 +8800,7 @@
     "is_book": false
   },
   {
-    "id": 286,
+    "id": 270,
     "name": "Stone Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/stoneplate.png",
@@ -8834,7 +8834,7 @@
     "is_book": false
   },
   {
-    "id": 287,
+    "id": 271,
     "name": "Spooky Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/spookyplate.png",
@@ -8868,7 +8868,7 @@
     "is_book": false
   },
   {
-    "id": 288,
+    "id": 272,
     "name": "Draco Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/dracoplate.png",
@@ -8902,7 +8902,7 @@
     "is_book": false
   },
   {
-    "id": 289,
+    "id": 273,
     "name": "Dread Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/dreadplate.png",
@@ -8936,7 +8936,7 @@
     "is_book": false
   },
   {
-    "id": 290,
+    "id": 274,
     "name": "Iron Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ironplate.png",
@@ -8970,7 +8970,7 @@
     "is_book": false
   },
   {
-    "id": 291,
+    "id": 275,
     "name": "Odd Incense",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/oddincense.png",
@@ -9002,7 +9002,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 292,
+    "id": 276,
     "name": "Rock Incense",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rockincense.png",
@@ -9034,7 +9034,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 293,
+    "id": 277,
     "name": "Full Incense",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/fullincense.png",
@@ -9066,7 +9066,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 294,
+    "id": 278,
     "name": "Wave Incense",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/waveincense.png",
@@ -9098,7 +9098,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 295,
+    "id": 279,
     "name": "Rose Incense",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/roseincense.png",
@@ -9130,7 +9130,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 296,
+    "id": 280,
     "name": "Luck Incense",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/luckincense.png",
@@ -9162,7 +9162,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 297,
+    "id": 281,
     "name": "Pure Incense",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pureincense.png",
@@ -9194,7 +9194,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 298,
+    "id": 282,
     "name": "Protector",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/protector.png",
@@ -9227,7 +9227,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 299,
+    "id": 283,
     "name": "Electirizer",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/electirizer.png",
@@ -9260,7 +9260,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 300,
+    "id": 284,
     "name": "Magmarizer",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/magmarizer.png",
@@ -9293,7 +9293,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 301,
+    "id": 285,
     "name": "Dubious Disc",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/dubious-disc.png",
@@ -9326,7 +9326,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 302,
+    "id": 286,
     "name": "Reaper Cloth",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/reaper-cloth.png",
@@ -9359,7 +9359,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 303,
+    "id": 287,
     "name": "Razor Claw",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/razorclaw.png",
@@ -9391,7 +9391,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 304,
+    "id": 288,
     "name": "Razor Fang",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/razorfang.png",
@@ -9423,7 +9423,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 305,
+    "id": 289,
     "name": "TM01",
     "category": "tm",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm224.png",
@@ -9458,7 +9458,7 @@
     "move_type": null
   },
   {
-    "id": 341,
+    "id": 290,
     "name": "TM37: Sandstorm",
     "category": "tm",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-rock.png",
@@ -9493,7 +9493,7 @@
     "move_type": "Rock"
   },
   {
-    "id": 405,
+    "id": 291,
     "name": "Explorer Kit",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/explorer-kit.png",
@@ -9525,7 +9525,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 412,
+    "id": 292,
     "name": "Fashion Case",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/fashion-case.png",
@@ -9557,7 +9557,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 413,
+    "id": 293,
     "name": "Seal Bag",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/seal-bag.png",
@@ -9589,7 +9589,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 424,
+    "id": 294,
     "name": "Fishing Rod",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/super-rod.png",
@@ -9621,7 +9621,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 427,
+    "id": 295,
     "name": "Bicycle",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bicycle.png",
@@ -9653,7 +9653,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 434,
+    "id": 296,
     "name": "Contest Pass",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/contest-pass.png",
@@ -9685,7 +9685,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 442,
+    "id": 297,
     "name": "Griseous Orb",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/griseousorb.png",
@@ -9717,7 +9717,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 444,
+    "id": 298,
     "name": "Gracidea",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/gracidea.png",
@@ -9751,7 +9751,7 @@
     "is_book": false
   },
   {
-    "id": 446,
+    "id": 299,
     "name": "Apricorn Box",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/apricorn-box.png",
@@ -9783,7 +9783,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 447,
+    "id": 300,
     "name": "Berry Pots",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/berry-pots.png",
@@ -9815,7 +9815,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 449,
+    "id": 301,
     "name": "Lure Ball",
     "category": "pokeball",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lureball.png",
@@ -9858,7 +9858,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 450,
+    "id": 302,
     "name": "Level Ball",
     "category": "pokeball",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/levelball.png",
@@ -9892,7 +9892,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 451,
+    "id": 303,
     "name": "Moon Ball",
     "category": "pokeball",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/moonball.png",
@@ -9926,7 +9926,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 452,
+    "id": 304,
     "name": "Heavy Ball",
     "category": "pokeball",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/heavyball.png",
@@ -9958,7 +9958,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 453,
+    "id": 305,
     "name": "Fast Ball",
     "category": "pokeball",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/fastball.png",
@@ -9992,7 +9992,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 454,
+    "id": 306,
     "name": "Friend Ball",
     "category": "pokeball",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/friendball.png",
@@ -10035,7 +10035,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 455,
+    "id": 307,
     "name": "Love Ball",
     "category": "pokeball",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/loveball.png",
@@ -10069,7 +10069,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 456,
+    "id": 308,
     "name": "Park Ball",
     "category": "pokeball",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//parkball.png",
@@ -10104,7 +10104,7 @@
     "catch_rate": 1
   },
   {
-    "id": 457,
+    "id": 309,
     "name": "Sport Ball",
     "category": "pokeball",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//sportball.png",
@@ -10139,7 +10139,7 @@
     "catch_rate": 1
   },
   {
-    "id": 458,
+    "id": 310,
     "name": "Red Apricorn",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/redapricorn.png",
@@ -10171,7 +10171,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 459,
+    "id": 311,
     "name": "Blue Apricorn",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/blueapricorn.png",
@@ -10203,7 +10203,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 460,
+    "id": 312,
     "name": "Yellow Apricorn",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/yellowapricorn.png",
@@ -10235,7 +10235,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 461,
+    "id": 313,
     "name": "Green Apricorn",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/greenapricorn.png",
@@ -10267,7 +10267,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 462,
+    "id": 314,
     "name": "Pink Apricorn",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pinkapricorn.png",
@@ -10299,7 +10299,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 463,
+    "id": 315,
     "name": "White Apricorn",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/whiteapricorn.png",
@@ -10331,7 +10331,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 464,
+    "id": 316,
     "name": "Black Apricorn",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/blackapricorn.png",
@@ -10363,7 +10363,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 466,
+    "id": 317,
     "name": "Rage Candy Bar",
     "category": "medicine",
     "sprite": "https://2img.net/i.imgur.com/EKdr5ij.png",
@@ -10395,7 +10395,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 467,
+    "id": 318,
     "name": "Red Orb",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/redorb.png",
@@ -10429,7 +10429,7 @@
     "is_book": false
   },
   {
-    "id": 468,
+    "id": 319,
     "name": "Blue Orb",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/blueorb.png",
@@ -10463,7 +10463,7 @@
     "is_book": false
   },
   {
-    "id": 471,
+    "id": 320,
     "name": "Unown Report",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/unown-report.png",
@@ -10495,7 +10495,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 473,
+    "id": 321,
     "name": "Slowpoke Tail",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/slowpoke-tail.png",
@@ -10527,7 +10527,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 483,
+    "id": 322,
     "name": "Mystery Egg",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/mystery-egg.png",
@@ -10561,7 +10561,7 @@
     "is_book": false
   },
   {
-    "id": 527,
+    "id": 323,
     "name": "Mach Bike",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/mach-bike.png",
@@ -10593,7 +10593,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 528,
+    "id": 324,
     "name": "Acro Bike",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/acro-bike.png",
@@ -10625,7 +10625,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 536,
+    "id": 325,
     "name": "Go-Goggles",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/gogoggles.png",
@@ -10657,7 +10657,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 537,
+    "id": 326,
     "name": "Meteorite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/meteorite.png",
@@ -10691,7 +10691,7 @@
     "is_book": false
   },
   {
-    "id": 563,
+    "id": 327,
     "name": "Douse Drive",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/dousedrive.png",
@@ -10723,7 +10723,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 564,
+    "id": 328,
     "name": "Shock Drive",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/shockdrive.png",
@@ -10755,7 +10755,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 565,
+    "id": 329,
     "name": "Burn Drive",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/burndrive.png",
@@ -10787,7 +10787,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 566,
+    "id": 330,
     "name": "Chill Drive",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/chilldrive.png",
@@ -10819,7 +10819,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 567,
+    "id": 331,
     "name": "Sweet Heart",
     "category": "medicine",
     "sprite": "https://2img.net/i.imgur.com/VDQllsx.png",
@@ -10851,7 +10851,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 580,
+    "id": 332,
     "name": "Prism Scale",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/prism-scale.png",
@@ -10884,7 +10884,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 581,
+    "id": 333,
     "name": "Eviolite",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/eviolite.png",
@@ -10916,7 +10916,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 582,
+    "id": 334,
     "name": "Float Stone",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/floatstone.png",
@@ -10948,7 +10948,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 583,
+    "id": 335,
     "name": "Rocky Helmet",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rockyhelmet.png",
@@ -10980,7 +10980,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 584,
+    "id": 336,
     "name": "Air Balloon",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/airballoon.png",
@@ -11012,7 +11012,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 585,
+    "id": 337,
     "name": "Red Card",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/redcard.png",
@@ -11044,7 +11044,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 586,
+    "id": 338,
     "name": "Ring Target",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ringtarget.png",
@@ -11076,7 +11076,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 587,
+    "id": 339,
     "name": "Binding Band",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bindingband.png",
@@ -11108,7 +11108,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 588,
+    "id": 340,
     "name": "Absorb Bulb",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/absorbbulb.png",
@@ -11140,7 +11140,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 589,
+    "id": 341,
     "name": "Cell Battery",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cellbattery.png",
@@ -11172,7 +11172,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 590,
+    "id": 342,
     "name": "Eject Button",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ejectbutton.png",
@@ -11204,7 +11204,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 591,
+    "id": 343,
     "name": "Fire Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/firegem.png",
@@ -11236,7 +11236,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 592,
+    "id": 344,
     "name": "Water Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/watergem.png",
@@ -11268,7 +11268,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 593,
+    "id": 345,
     "name": "Electric Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/electricgem.png",
@@ -11300,7 +11300,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 594,
+    "id": 346,
     "name": "Grass Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/grassgem.png",
@@ -11332,7 +11332,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 595,
+    "id": 347,
     "name": "Ice Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/icegem.png",
@@ -11364,7 +11364,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 596,
+    "id": 348,
     "name": "Fighting Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fightinggem.png",
@@ -11396,7 +11396,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 597,
+    "id": 349,
     "name": "Poison Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/poisongem.png",
@@ -11428,7 +11428,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 598,
+    "id": 350,
     "name": "Ground Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/groundgem.png",
@@ -11460,7 +11460,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 599,
+    "id": 351,
     "name": "Flying Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/flyinggem.png",
@@ -11492,7 +11492,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 600,
+    "id": 352,
     "name": "Psychic Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/psychicgem.png",
@@ -11524,7 +11524,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 601,
+    "id": 353,
     "name": "Bug Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/buggem.png",
@@ -11556,7 +11556,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 602,
+    "id": 354,
     "name": "Rock Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/rockgem.png",
@@ -11588,7 +11588,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 603,
+    "id": 355,
     "name": "Ghost Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/ghostgem.png",
@@ -11620,7 +11620,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 604,
+    "id": 356,
     "name": "Dark Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/darkgem.png",
@@ -11652,7 +11652,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 605,
+    "id": 357,
     "name": "Steel Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/steelgem.png",
@@ -11684,7 +11684,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 606,
+    "id": 358,
     "name": "Health Feather",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/healthfeather.png",
@@ -11716,7 +11716,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 607,
+    "id": 359,
     "name": "Muscle Feather",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/musclefeather.png",
@@ -11748,7 +11748,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 608,
+    "id": 360,
     "name": "Resist Feather",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/resistfeather.png",
@@ -11780,7 +11780,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 609,
+    "id": 361,
     "name": "Genius Feather",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/geniusfeather.png",
@@ -11812,7 +11812,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 610,
+    "id": 362,
     "name": "Clever Feather",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cleverfeather.png",
@@ -11844,7 +11844,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 611,
+    "id": 363,
     "name": "Swift Feather",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/swiftfeather.png",
@@ -11876,7 +11876,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 612,
+    "id": 364,
     "name": "Pretty Feather",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/prettyfeather.png",
@@ -11908,7 +11908,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 613,
+    "id": 365,
     "name": "Cover Fossil",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/coverfossil.png",
@@ -11942,7 +11942,7 @@
     "is_book": false
   },
   {
-    "id": 614,
+    "id": 366,
     "name": "Plume Fossil",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/plumefossil.png",
@@ -11976,7 +11976,7 @@
     "is_book": false
   },
   {
-    "id": 617,
+    "id": 367,
     "name": "Dream Ball",
     "category": "pokeball",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//dreamball.png",
@@ -12011,7 +12011,7 @@
     "catch_rate": 1
   },
   {
-    "id": 618,
+    "id": 368,
     "name": "Poké Toy",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/poketoy.png",
@@ -12045,7 +12045,7 @@
     "is_book": false
   },
   {
-    "id": 619,
+    "id": 369,
     "name": "Prop Case",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/prop-case.png",
@@ -12077,7 +12077,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 621,
+    "id": 370,
     "name": "Balm Mushroom",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/balmmushroom.png",
@@ -12109,7 +12109,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 622,
+    "id": 371,
     "name": "Big Nugget",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bignugget.png",
@@ -12141,7 +12141,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 623,
+    "id": 372,
     "name": "Pearl String",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pearlstring.png",
@@ -12173,7 +12173,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 624,
+    "id": 373,
     "name": "Comet Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cometshard.png",
@@ -12205,7 +12205,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 632,
+    "id": 374,
     "name": "Casteliacone",
     "category": "medicine",
     "sprite": "https://2img.net/i.imgur.com/qPv9TcH.png",
@@ -12237,7 +12237,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 668,
+    "id": 375,
     "name": "Dragon Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/dragongem.png",
@@ -12269,7 +12269,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 669,
+    "id": 376,
     "name": "Normal Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/normalgem.png",
@@ -12301,7 +12301,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 671,
+    "id": 377,
     "name": "DNA Splicers",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/dnasplicers.png",
@@ -12333,7 +12333,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 674,
+    "id": 378,
     "name": "Oval Charm",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ovalcharm.png",
@@ -12365,7 +12365,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 675,
+    "id": 379,
     "name": "Shiny Charm",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/shinycharm.png",
@@ -12397,7 +12397,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 681,
+    "id": 380,
     "name": "Reveal Glass",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/revealglass.png",
@@ -12429,7 +12429,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 682,
+    "id": 381,
     "name": "Weakness Policy",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/weaknesspolicy.png",
@@ -12461,7 +12461,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 683,
+    "id": 382,
     "name": "Assault Vest",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/assaultvest.png",
@@ -12493,7 +12493,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 684,
+    "id": 383,
     "name": "Pixie Plate",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pixieplate.png",
@@ -12527,7 +12527,7 @@
     "is_book": false
   },
   {
-    "id": 685,
+    "id": 384,
     "name": "Ability Capsule",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/abilitycapsule.png",
@@ -12559,7 +12559,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 686,
+    "id": 385,
     "name": "Whipped Dream",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/whipped-dream.png",
@@ -12592,7 +12592,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 687,
+    "id": 386,
     "name": "Sachet",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/sachet.png",
@@ -12625,7 +12625,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 688,
+    "id": 387,
     "name": "Luminous Moss",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/luminousmoss.png",
@@ -12657,7 +12657,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 689,
+    "id": 388,
     "name": "Snowball",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/snowball.png",
@@ -12689,7 +12689,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 690,
+    "id": 389,
     "name": "Safety Goggles",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/safetygoggles.png",
@@ -12721,7 +12721,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 691,
+    "id": 390,
     "name": "Rich Mulch",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/richmulch.png",
@@ -12753,7 +12753,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 692,
+    "id": 391,
     "name": "Surprise Mulch",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/surprisemulch.png",
@@ -12785,7 +12785,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 693,
+    "id": 392,
     "name": "Boost Mulch",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/boostmulch.png",
@@ -12817,7 +12817,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 694,
+    "id": 393,
     "name": "Amaze Mulch",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/amazemulch.png",
@@ -12849,7 +12849,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 695,
+    "id": 394,
     "name": "Gengarite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/gengarite.png",
@@ -12884,7 +12884,7 @@
     "is_book": false
   },
   {
-    "id": 696,
+    "id": 395,
     "name": "Gardevoirite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/gardevoirite.png",
@@ -12919,7 +12919,7 @@
     "is_book": false
   },
   {
-    "id": 697,
+    "id": 396,
     "name": "Ampharosite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/ampharosite.png",
@@ -12954,7 +12954,7 @@
     "is_book": false
   },
   {
-    "id": 698,
+    "id": 397,
     "name": "Venusaurite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/venusaurite.png",
@@ -12989,7 +12989,7 @@
     "is_book": false
   },
   {
-    "id": 699,
+    "id": 398,
     "name": "Charizardite X",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/charizarditex.png",
@@ -13024,7 +13024,7 @@
     "is_book": false
   },
   {
-    "id": 700,
+    "id": 399,
     "name": "Blastoisinite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/blastoisinite.png",
@@ -13059,7 +13059,7 @@
     "is_book": false
   },
   {
-    "id": 701,
+    "id": 400,
     "name": "Mewtwonite X",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/mewtwonitex.png",
@@ -13094,7 +13094,7 @@
     "is_book": false
   },
   {
-    "id": 702,
+    "id": 401,
     "name": "Mewtwonite Y",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/mewtwonitey.png",
@@ -13129,7 +13129,7 @@
     "is_book": false
   },
   {
-    "id": 703,
+    "id": 402,
     "name": "Blazikenite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/blazikenite.png",
@@ -13164,7 +13164,7 @@
     "is_book": false
   },
   {
-    "id": 704,
+    "id": 403,
     "name": "Medichamite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/medichamite.png",
@@ -13199,7 +13199,7 @@
     "is_book": false
   },
   {
-    "id": 705,
+    "id": 404,
     "name": "Houndoominite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/houndoominite.png",
@@ -13234,7 +13234,7 @@
     "is_book": false
   },
   {
-    "id": 706,
+    "id": 405,
     "name": "Aggronite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/aggronite.png",
@@ -13269,7 +13269,7 @@
     "is_book": false
   },
   {
-    "id": 707,
+    "id": 406,
     "name": "Banettite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/banettite.png",
@@ -13304,7 +13304,7 @@
     "is_book": false
   },
   {
-    "id": 708,
+    "id": 407,
     "name": "Tyranitarite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/tyranitarite.png",
@@ -13339,7 +13339,7 @@
     "is_book": false
   },
   {
-    "id": 709,
+    "id": 408,
     "name": "Scizorite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/scizorite.png",
@@ -13374,7 +13374,7 @@
     "is_book": false
   },
   {
-    "id": 710,
+    "id": 409,
     "name": "Pinsirite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/pinsirite.png",
@@ -13409,7 +13409,7 @@
     "is_book": false
   },
   {
-    "id": 711,
+    "id": 410,
     "name": "Aerodactylite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/aerodactylite.png",
@@ -13444,7 +13444,7 @@
     "is_book": false
   },
   {
-    "id": 712,
+    "id": 411,
     "name": "Lucarionite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/lucarionite.png",
@@ -13479,7 +13479,7 @@
     "is_book": false
   },
   {
-    "id": 713,
+    "id": 412,
     "name": "Abomasite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/abomasite.png",
@@ -13514,7 +13514,7 @@
     "is_book": false
   },
   {
-    "id": 714,
+    "id": 413,
     "name": "Kangaskhanite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/kangaskhanite.png",
@@ -13549,7 +13549,7 @@
     "is_book": false
   },
   {
-    "id": 715,
+    "id": 414,
     "name": "Gyaradosite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/gyaradosite.png",
@@ -13584,7 +13584,7 @@
     "is_book": false
   },
   {
-    "id": 716,
+    "id": 415,
     "name": "Absolite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/absolite.png",
@@ -13619,7 +13619,7 @@
     "is_book": false
   },
   {
-    "id": 717,
+    "id": 416,
     "name": "Charizardite Y",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/charizarditey.png",
@@ -13654,7 +13654,7 @@
     "is_book": false
   },
   {
-    "id": 718,
+    "id": 417,
     "name": "Alakazite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/alakazite.png",
@@ -13689,7 +13689,7 @@
     "is_book": false
   },
   {
-    "id": 719,
+    "id": 418,
     "name": "Heracronite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/heracronite.png",
@@ -13724,7 +13724,7 @@
     "is_book": false
   },
   {
-    "id": 720,
+    "id": 419,
     "name": "Mawilite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/mawilite.png",
@@ -13759,7 +13759,7 @@
     "is_book": false
   },
   {
-    "id": 721,
+    "id": 420,
     "name": "Manectite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/manectite.png",
@@ -13794,7 +13794,7 @@
     "is_book": false
   },
   {
-    "id": 722,
+    "id": 421,
     "name": "Garchompite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/garchompite.png",
@@ -13829,7 +13829,7 @@
     "is_book": false
   },
   {
-    "id": 723,
+    "id": 422,
     "name": "Roseli Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/roseliberry.png",
@@ -13861,7 +13861,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 724,
+    "id": 423,
     "name": "Kee Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/keeberry.png",
@@ -13893,7 +13893,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 725,
+    "id": 424,
     "name": "Maranga Berry",
     "category": "berry",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/marangaberry.png",
@@ -13925,7 +13925,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 728,
+    "id": 425,
     "name": "Lumiose Galette",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lumiosegalette.png",
@@ -13957,7 +13957,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 729,
+    "id": 426,
     "name": "Jaw Fossil",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/jawfossil.png",
@@ -13991,7 +13991,7 @@
     "is_book": false
   },
   {
-    "id": 730,
+    "id": 427,
     "name": "Sail Fossil",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/sailfossil.png",
@@ -14025,7 +14025,7 @@
     "is_book": false
   },
   {
-    "id": 731,
+    "id": 428,
     "name": "Fairy Gem",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fairygem.png",
@@ -14057,7 +14057,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 760,
+    "id": 429,
     "name": "Latiasite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/latiasite.png",
@@ -14092,7 +14092,7 @@
     "is_book": false
   },
   {
-    "id": 761,
+    "id": 430,
     "name": "Latiosite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/latiosite.png",
@@ -14127,7 +14127,7 @@
     "is_book": false
   },
   {
-    "id": 765,
+    "id": 431,
     "name": "Shalour Sable",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/shaloursable.png",
@@ -14159,7 +14159,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 780,
+    "id": 432,
     "name": "Contest Costume",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/contest-costume--jacket.png",
@@ -14191,7 +14191,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 793,
+    "id": 433,
     "name": "Swampertite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/swampertite.png",
@@ -14226,7 +14226,7 @@
     "is_book": false
   },
   {
-    "id": 794,
+    "id": 434,
     "name": "Sceptilite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/sceptilite.png",
@@ -14261,7 +14261,7 @@
     "is_book": false
   },
   {
-    "id": 795,
+    "id": 435,
     "name": "Sablenite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/sablenite.png",
@@ -14296,7 +14296,7 @@
     "is_book": false
   },
   {
-    "id": 796,
+    "id": 436,
     "name": "Altarianite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/altarianite.png",
@@ -14331,7 +14331,7 @@
     "is_book": false
   },
   {
-    "id": 797,
+    "id": 437,
     "name": "Galladite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/galladite.png",
@@ -14366,7 +14366,7 @@
     "is_book": false
   },
   {
-    "id": 798,
+    "id": 438,
     "name": "Audinite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/audinite.png",
@@ -14401,7 +14401,7 @@
     "is_book": false
   },
   {
-    "id": 799,
+    "id": 439,
     "name": "Metagrossite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/metagrossite.png",
@@ -14436,7 +14436,7 @@
     "is_book": false
   },
   {
-    "id": 800,
+    "id": 440,
     "name": "Sharpedonite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/sharpedonite.png",
@@ -14471,7 +14471,7 @@
     "is_book": false
   },
   {
-    "id": 801,
+    "id": 441,
     "name": "Slowbronite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/slowbronite.png",
@@ -14506,7 +14506,7 @@
     "is_book": false
   },
   {
-    "id": 802,
+    "id": 442,
     "name": "Steelixite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/steelixite.png",
@@ -14541,7 +14541,7 @@
     "is_book": false
   },
   {
-    "id": 803,
+    "id": 443,
     "name": "Pidgeotite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/pidgeotite.png",
@@ -14576,7 +14576,7 @@
     "is_book": false
   },
   {
-    "id": 804,
+    "id": 444,
     "name": "Glalitite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/glalitite.png",
@@ -14611,7 +14611,7 @@
     "is_book": false
   },
   {
-    "id": 805,
+    "id": 445,
     "name": "Diancite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/diancite.png",
@@ -14646,7 +14646,7 @@
     "is_book": false
   },
   {
-    "id": 806,
+    "id": 446,
     "name": "Prison Bottle",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/prisonbottle.png",
@@ -14678,7 +14678,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 808,
+    "id": 447,
     "name": "Cameruptite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/cameruptite.png",
@@ -14713,7 +14713,7 @@
     "is_book": false
   },
   {
-    "id": 809,
+    "id": 448,
     "name": "Lopunnite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/lopunnite.png",
@@ -14748,7 +14748,7 @@
     "is_book": false
   },
   {
-    "id": 810,
+    "id": 449,
     "name": "Salamencite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/salamencite.png",
@@ -14783,7 +14783,7 @@
     "is_book": false
   },
   {
-    "id": 811,
+    "id": 450,
     "name": "Beedrillite",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/beedrillite.png",
@@ -14818,7 +14818,7 @@
     "is_book": false
   },
   {
-    "id": 814,
+    "id": 451,
     "name": "Key Stone",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/key-stone.png",
@@ -14850,7 +14850,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 836,
+    "id": 452,
     "name": "Bottle Cap",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bottlecap.png",
@@ -14882,7 +14882,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 837,
+    "id": 453,
     "name": "Gold Bottle Cap",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/goldbottlecap.png",
@@ -14914,7 +14914,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 883,
+    "id": 454,
     "name": "Adrenaline Orb",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/adrenalineorb.png",
@@ -14946,7 +14946,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 885,
+    "id": 455,
     "name": "Ice Stone",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ice-stone.png",
@@ -14979,7 +14979,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 887,
+    "id": 456,
     "name": "Beast Ball",
     "category": "pokeball",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//beastball.png",
@@ -15014,7 +15014,7 @@
     "catch_rate": 1
   },
   {
-    "id": 888,
+    "id": 457,
     "name": "Big Malasada",
     "category": "medicine",
     "sprite": "https://2img.net/i.imgur.com/OdqOhRu.png",
@@ -15046,7 +15046,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 889,
+    "id": 458,
     "name": "Red Nectar",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rednectar.png",
@@ -15078,7 +15078,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 890,
+    "id": 459,
     "name": "Yellow Nectar",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/yellownectar.png",
@@ -15110,7 +15110,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 891,
+    "id": 460,
     "name": "Pink Nectar",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pinknectar.png",
@@ -15142,7 +15142,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 892,
+    "id": 461,
     "name": "Purple Nectar",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/purplenectar.png",
@@ -15174,7 +15174,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 896,
+    "id": 462,
     "name": "Terrain Extender",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/terrainextender.png",
@@ -15206,7 +15206,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 897,
+    "id": 463,
     "name": "Protective Pads",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/protectivepads.png",
@@ -15238,7 +15238,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 898,
+    "id": 464,
     "name": "Electric Seed",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/electricseed.png",
@@ -15270,7 +15270,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 899,
+    "id": 465,
     "name": "Psychic Seed",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/psychicseed.png",
@@ -15302,7 +15302,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 900,
+    "id": 466,
     "name": "Misty Seed",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/mistyseed.png",
@@ -15334,7 +15334,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 901,
+    "id": 467,
     "name": "Grassy Seed",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/grassyseed.png",
@@ -15366,7 +15366,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 902,
+    "id": 468,
     "name": "Fighting Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fightingmemory.png",
@@ -15400,7 +15400,7 @@
     "is_book": false
   },
   {
-    "id": 903,
+    "id": 469,
     "name": "Flying Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/flyingmemory.png",
@@ -15434,7 +15434,7 @@
     "is_book": false
   },
   {
-    "id": 904,
+    "id": 470,
     "name": "Poison Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/poisonmemory.png",
@@ -15468,7 +15468,7 @@
     "is_book": false
   },
   {
-    "id": 905,
+    "id": 471,
     "name": "Ground Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/groundmemory.png",
@@ -15502,7 +15502,7 @@
     "is_book": false
   },
   {
-    "id": 906,
+    "id": 472,
     "name": "Rock Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/rockmemory.png",
@@ -15536,7 +15536,7 @@
     "is_book": false
   },
   {
-    "id": 907,
+    "id": 473,
     "name": "Bug Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/bugmemory.png",
@@ -15570,7 +15570,7 @@
     "is_book": false
   },
   {
-    "id": 908,
+    "id": 474,
     "name": "Ghost Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/ghostmemory.png",
@@ -15604,7 +15604,7 @@
     "is_book": false
   },
   {
-    "id": 909,
+    "id": 475,
     "name": "Steel Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/steelmemory.png",
@@ -15638,7 +15638,7 @@
     "is_book": false
   },
   {
-    "id": 910,
+    "id": 476,
     "name": "Fire Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/firememory.png",
@@ -15672,7 +15672,7 @@
     "is_book": false
   },
   {
-    "id": 911,
+    "id": 477,
     "name": "Water Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/watermemory.png",
@@ -15706,7 +15706,7 @@
     "is_book": false
   },
   {
-    "id": 912,
+    "id": 478,
     "name": "Grass Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/grassmemory.png",
@@ -15740,7 +15740,7 @@
     "is_book": false
   },
   {
-    "id": 913,
+    "id": 479,
     "name": "Electric Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/electricmemory.png",
@@ -15774,7 +15774,7 @@
     "is_book": false
   },
   {
-    "id": 914,
+    "id": 480,
     "name": "Psychic Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/psychicmemory.png",
@@ -15808,7 +15808,7 @@
     "is_book": false
   },
   {
-    "id": 915,
+    "id": 481,
     "name": "Ice Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/icememory.png",
@@ -15842,7 +15842,7 @@
     "is_book": false
   },
   {
-    "id": 916,
+    "id": 482,
     "name": "Dragon Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/dragonmemory.png",
@@ -15876,7 +15876,7 @@
     "is_book": false
   },
   {
-    "id": 917,
+    "id": 483,
     "name": "Dark Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/darkmemory.png",
@@ -15910,7 +15910,7 @@
     "is_book": false
   },
   {
-    "id": 918,
+    "id": 484,
     "name": "Fairy Memory",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fairymemory.png",
@@ -15944,7 +15944,7 @@
     "is_book": false
   },
   {
-    "id": 938,
+    "id": 485,
     "name": "Normalium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/normaliumz.png",
@@ -15976,7 +15976,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 939,
+    "id": 486,
     "name": "Firium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/firiumz.png",
@@ -16008,7 +16008,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 940,
+    "id": 487,
     "name": "Waterium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/wateriumz.png",
@@ -16040,7 +16040,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 941,
+    "id": 488,
     "name": "Electrium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/electriumz.png",
@@ -16072,7 +16072,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 942,
+    "id": 489,
     "name": "Grassium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/grassiumz.png",
@@ -16104,7 +16104,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 943,
+    "id": 490,
     "name": "Icium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/iciumz.png",
@@ -16136,7 +16136,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 944,
+    "id": 491,
     "name": "Fightinium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fightiniumz.png",
@@ -16168,7 +16168,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 945,
+    "id": 492,
     "name": "Poisonium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/poisoniumz.png",
@@ -16200,7 +16200,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 946,
+    "id": 493,
     "name": "Groundium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/groundiumz.png",
@@ -16232,7 +16232,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 947,
+    "id": 494,
     "name": "Flyinium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/flyiniumz.png",
@@ -16264,7 +16264,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 948,
+    "id": 495,
     "name": "Psychium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/psychiumz.png",
@@ -16296,7 +16296,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 949,
+    "id": 496,
     "name": "Buginium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/buginiumz.png",
@@ -16328,7 +16328,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 950,
+    "id": 497,
     "name": "Rockium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/rockiumz.png",
@@ -16360,7 +16360,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 951,
+    "id": 498,
     "name": "Ghostium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/ghostiumz.png",
@@ -16392,7 +16392,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 952,
+    "id": 499,
     "name": "Dragonium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/dragoniumz.png",
@@ -16424,7 +16424,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 953,
+    "id": 500,
     "name": "Darkinium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/darkiniumz.png",
@@ -16456,7 +16456,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 954,
+    "id": 501,
     "name": "Steelium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/steeliumz.png",
@@ -16488,7 +16488,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 955,
+    "id": 502,
     "name": "Fairium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fairiumz.png",
@@ -16520,7 +16520,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 956,
+    "id": 503,
     "name": "Pikanium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/pikaniumz.png",
@@ -16555,7 +16555,7 @@
     ]
   },
   {
-    "id": 957,
+    "id": 504,
     "name": "Decidium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/decidiumz.png",
@@ -16590,7 +16590,7 @@
     ]
   },
   {
-    "id": 958,
+    "id": 505,
     "name": "Incinium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/inciniumz.png",
@@ -16622,7 +16622,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 959,
+    "id": 506,
     "name": "Primarium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/primariumz.png",
@@ -16654,7 +16654,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 960,
+    "id": 507,
     "name": "Tapunium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/tapuniumz.png",
@@ -16686,7 +16686,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 961,
+    "id": 508,
     "name": "Marshadium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/marshadiumz.png",
@@ -16718,7 +16718,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 962,
+    "id": 509,
     "name": "Aloraichium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/aloraichiumz.png",
@@ -16750,7 +16750,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 963,
+    "id": 510,
     "name": "Snorlium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/snorliumz.png",
@@ -16782,7 +16782,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 964,
+    "id": 511,
     "name": "Eevium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/eeviumz.png",
@@ -16814,7 +16814,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 965,
+    "id": 512,
     "name": "Mewnium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/mewniumz.png",
@@ -16846,7 +16846,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 966,
+    "id": 513,
     "name": "Pikashunium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/pikashuniumz.png",
@@ -16878,7 +16878,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 967,
+    "id": 514,
     "name": "Solganium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/solganiumz.png",
@@ -16910,7 +16910,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 968,
+    "id": 515,
     "name": "Lunalium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/lunaliumz.png",
@@ -16942,7 +16942,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 969,
+    "id": 516,
     "name": "Ultranecrozium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/ultranecroziumz.png",
@@ -16974,7 +16974,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 970,
+    "id": 517,
     "name": "Mimikium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/mimikiumz.png",
@@ -17006,7 +17006,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 971,
+    "id": 518,
     "name": "Lycanium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/lycaniumz.png",
@@ -17038,7 +17038,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 972,
+    "id": 519,
     "name": "Kommonium Z",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/kommoniumz.png",
@@ -17070,7 +17070,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 989,
+    "id": 520,
     "name": "N-Solarizer",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/n-solarizer.png",
@@ -17102,7 +17102,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 990,
+    "id": 521,
     "name": "N-Lunarizer",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/n-lunarizer.png",
@@ -17134,7 +17134,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1039,
+    "id": 522,
     "name": "Pewter Crunchies",
     "category": "medicine",
     "sprite": "https://2img.net/i.imgur.com/rrvPbIY.png",
@@ -17166,7 +17166,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1139,
+    "id": 523,
     "name": "Pokémon Box Link",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/pokemon-box-link.png",
@@ -17198,7 +17198,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1142,
+    "id": 524,
     "name": "Fishing Rod",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/fishing-rod--galar.png",
@@ -17230,7 +17230,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1144,
+    "id": 525,
     "name": "Sausages",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sausages.png",
@@ -17262,7 +17262,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1145,
+    "id": 526,
     "name": "Bob’s Food Tin",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/bob'sfoodtin.png",
@@ -17294,7 +17294,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1146,
+    "id": 527,
     "name": "Bach’s Food Tin",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/bach'sfoodtin.png",
@@ -17326,7 +17326,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1147,
+    "id": 528,
     "name": "Tin of Beans",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/tinofbeans.png",
@@ -17358,7 +17358,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1148,
+    "id": 529,
     "name": "Bread",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/bread.png",
@@ -17390,7 +17390,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1149,
+    "id": 530,
     "name": "Pasta",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/pasta.png",
@@ -17422,7 +17422,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1150,
+    "id": 531,
     "name": "Mixed Mushrooms",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/mixedmushrooms.png",
@@ -17454,7 +17454,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1151,
+    "id": 532,
     "name": "Smoke-Poke Tail",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/smoke-poketail.png",
@@ -17486,7 +17486,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1152,
+    "id": 533,
     "name": "Large Leek",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/largeleek.png",
@@ -17518,7 +17518,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1153,
+    "id": 534,
     "name": "Fancy Apple",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/fancyapple.png",
@@ -17550,7 +17550,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1154,
+    "id": 535,
     "name": "Brittle Bones",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/brittlebones.png",
@@ -17582,7 +17582,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1155,
+    "id": 536,
     "name": "Pack of Potatoes",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/packofpotatoes.png",
@@ -17614,7 +17614,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1156,
+    "id": 537,
     "name": "Pungent Root",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/pungentroot.png",
@@ -17646,7 +17646,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1157,
+    "id": 538,
     "name": "Salad Mix",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/saladmix.png",
@@ -17678,7 +17678,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1158,
+    "id": 539,
     "name": "Fried Food",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/friedfood.png",
@@ -17710,7 +17710,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1159,
+    "id": 540,
     "name": "Boiled Egg",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/boiledegg.png",
@@ -17742,7 +17742,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1160,
+    "id": 541,
     "name": "Camping Gear",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/camping-gear.png",
@@ -17774,7 +17774,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1161,
+    "id": 542,
     "name": "Rusted Sword",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rustedsword.png",
@@ -17806,7 +17806,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1162,
+    "id": 543,
     "name": "Rusted Shield",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rustedshield.png",
@@ -17838,7 +17838,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1163,
+    "id": 544,
     "name": "Fossilized Bird",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/fossilizedbird.png",
@@ -17872,7 +17872,7 @@
     "is_book": false
   },
   {
-    "id": 1164,
+    "id": 545,
     "name": "Fossilized Fish",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/fossilizedfish.png",
@@ -17906,7 +17906,7 @@
     "is_book": false
   },
   {
-    "id": 1165,
+    "id": 546,
     "name": "Fossilized Drake",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/fossilizeddrake.png",
@@ -17940,7 +17940,7 @@
     "is_book": false
   },
   {
-    "id": 1166,
+    "id": 547,
     "name": "Fossilized Dino",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/fossilizeddino.png",
@@ -17974,7 +17974,7 @@
     "is_book": false
   },
   {
-    "id": 1167,
+    "id": 548,
     "name": "Strawberry Sweet",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/strawberrysweet.png",
@@ -18007,7 +18007,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 1168,
+    "id": 549,
     "name": "Love Sweet",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/love-sweet.png",
@@ -18040,7 +18040,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 1169,
+    "id": 550,
     "name": "Berry Sweet",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/berrysweet.png",
@@ -18073,7 +18073,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 1170,
+    "id": 551,
     "name": "Clover Sweet",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/clover-sweet.png",
@@ -18106,7 +18106,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 1171,
+    "id": 552,
     "name": "Flower Sweet",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/flower-sweet.png",
@@ -18139,7 +18139,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 1172,
+    "id": 553,
     "name": "Star Sweet",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/star-sweet.png",
@@ -18172,7 +18172,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 1173,
+    "id": 554,
     "name": "Ribbon Sweet",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/ribbon-sweet.png",
@@ -18205,7 +18205,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 1174,
+    "id": 555,
     "name": "Sweet Apple",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sweet-apple.png",
@@ -18238,7 +18238,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 1175,
+    "id": 556,
     "name": "Tart Apple",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/tart-apple.png",
@@ -18271,7 +18271,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 1176,
+    "id": 557,
     "name": "Throat Spray",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/throatspray.png",
@@ -18303,7 +18303,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1177,
+    "id": 558,
     "name": "Eject Pack",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ejectpack.png",
@@ -18335,7 +18335,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1178,
+    "id": 559,
     "name": "Heavy-Duty Boots",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/heavy-dutyboots.png",
@@ -18367,7 +18367,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1179,
+    "id": 560,
     "name": "Blunder Policy",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/blunderpolicy.png",
@@ -18399,7 +18399,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1180,
+    "id": 561,
     "name": "Room Service",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/roomservice.png",
@@ -18431,7 +18431,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1181,
+    "id": 562,
     "name": "Utility Umbrella",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/utilityumbrella.png",
@@ -18463,7 +18463,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1182,
+    "id": 563,
     "name": "Exp. Candy XS",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candyxs.png",
@@ -18495,7 +18495,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1183,
+    "id": 564,
     "name": "Exp. Candy S",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candys.png",
@@ -18527,7 +18527,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1184,
+    "id": 565,
     "name": "Exp. Candy M",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candym.png",
@@ -18559,7 +18559,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1185,
+    "id": 566,
     "name": "Exp. Candy L",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candyl.png",
@@ -18591,7 +18591,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1186,
+    "id": 567,
     "name": "Exp. Candy XL",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candyxl.png",
@@ -18623,7 +18623,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1187,
+    "id": 568,
     "name": "Dynamax Candy",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/dynamaxcandy.png",
@@ -18655,7 +18655,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1311,
+    "id": 569,
     "name": "Cracked Pot",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/cracked-pot.png",
@@ -18688,7 +18688,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 1312,
+    "id": 570,
     "name": "Chipped Pot",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/chipped-pot.png",
@@ -18721,7 +18721,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 1314,
+    "id": 571,
     "name": "Fruit Bunch",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/fruitbunch.png",
@@ -18753,7 +18753,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1315,
+    "id": 572,
     "name": "Moomoo Cheese",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/moomoocheese.png",
@@ -18785,7 +18785,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1316,
+    "id": 573,
     "name": "Spice Mix",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/spicemix.png",
@@ -18817,7 +18817,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1317,
+    "id": 574,
     "name": "Fresh Cream",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/freshcream.png",
@@ -18849,7 +18849,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1318,
+    "id": 575,
     "name": "Packaged Curry",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/packagedcurry.png",
@@ -18881,7 +18881,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1319,
+    "id": 576,
     "name": "Coconut Milk",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/coconutmilk.png",
@@ -18913,7 +18913,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1320,
+    "id": 577,
     "name": "Instant Noodles",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/instantnoodles.png",
@@ -18945,7 +18945,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1321,
+    "id": 578,
     "name": "Precooked Burger",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/precookedburger.png",
@@ -18977,7 +18977,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1322,
+    "id": 579,
     "name": "Gigantamix",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/gigantamix.png",
@@ -19009,7 +19009,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1325,
+    "id": 580,
     "name": "Catching Charm",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/catchingcharm.png",
@@ -19041,7 +19041,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1630,
+    "id": 581,
     "name": "Max Honey",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/maxhoney.png",
@@ -19073,7 +19073,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1631,
+    "id": 582,
     "name": "Max Mushrooms",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/maxmushrooms.png",
@@ -19105,7 +19105,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1632,
+    "id": 583,
     "name": "Galarica Twig",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/galaricatwig.png",
@@ -19137,7 +19137,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1633,
+    "id": 584,
     "name": "Galarica Cuff",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/galaricacuff.png",
@@ -19169,7 +19169,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1638,
+    "id": 585,
     "name": "Exp. Charm",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.charm.png",
@@ -19201,7 +19201,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1640,
+    "id": 586,
     "name": "Mark Charm",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/markcharm.png",
@@ -19233,7 +19233,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1643,
+    "id": 587,
     "name": "Galarica Wreath",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/galaricawreath.png",
@@ -19265,7 +19265,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1657,
+    "id": 588,
     "name": "Ability Patch",
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/abilitypatch.png",
@@ -19297,7 +19297,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1658,
+    "id": 589,
     "name": "Reins of Unity",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/reinsofunity.png",
@@ -19331,7 +19331,7 @@
     "is_book": false
   },
   {
-    "id": 1662,
+    "id": 590,
     "name": "Blank Plate",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/blankplate.png",
@@ -19365,7 +19365,7 @@
     "is_book": false
   },
   {
-    "id": 1663,
+    "id": 591,
     "name": "Strange Ball",
     "category": "pokeball",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//strangeball.png",
@@ -19401,7 +19401,7 @@
     "is_book": false
   },
   {
-    "id": 1664,
+    "id": 592,
     "name": "Legend Plate",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/legendplate.png",
@@ -19435,7 +19435,7 @@
     "is_book": false
   },
   {
-    "id": 1665,
+    "id": 593,
     "name": "Rotom Phone",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rotomphone.png",
@@ -19469,7 +19469,7 @@
     "is_book": false
   },
   {
-    "id": 1673,
+    "id": 594,
     "name": "Tiny Bamboo Shoot",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tinybambooshoot.png",
@@ -19501,7 +19501,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1674,
+    "id": 595,
     "name": "Big Bamboo Shoot",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bigbambooshoot.png",
@@ -19533,7 +19533,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1675,
+    "id": 596,
     "name": "Scroll of Darkness",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/scrollofdarkness.png",
@@ -19568,7 +19568,7 @@
     ]
   },
   {
-    "id": 1676,
+    "id": 597,
     "name": "Scroll of Waters",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/scrollofwaters.png",
@@ -19603,7 +19603,7 @@
     ]
   },
   {
-    "id": 1677,
+    "id": 598,
     "name": "Malicious Armor",
     "category": "evolution-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/malicious-armor.png",
@@ -19636,7 +19636,7 @@
     "linked_pokemon": []
   },
   {
-    "id": 1678,
+    "id": 599,
     "name": "Normal Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/normalterashard.png",
@@ -19668,7 +19668,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1679,
+    "id": 600,
     "name": "Fire Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/fireterashard.png",
@@ -19700,7 +19700,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1680,
+    "id": 601,
     "name": "Water Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/waterterashard.png",
@@ -19732,7 +19732,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1681,
+    "id": 602,
     "name": "Electric Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/electricterashard.png",
@@ -19764,7 +19764,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1682,
+    "id": 603,
     "name": "Grass Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/grassterashard.png",
@@ -19796,7 +19796,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1683,
+    "id": 604,
     "name": "Ice Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/iceterashard.png",
@@ -19828,7 +19828,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1684,
+    "id": 605,
     "name": "Fighting Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/fightingterashard.png",
@@ -19860,7 +19860,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1685,
+    "id": 606,
     "name": "Poison Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/poisonterashard.png",
@@ -19892,7 +19892,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1686,
+    "id": 607,
     "name": "Ground Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/groundterashard.png",
@@ -19924,7 +19924,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1687,
+    "id": 608,
     "name": "Flying Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/flyingterashard.png",
@@ -19956,7 +19956,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1688,
+    "id": 609,
     "name": "Psychic Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/psychicterashard.png",
@@ -19988,7 +19988,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1689,
+    "id": 610,
     "name": "Bug Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bugterashard.png",
@@ -20020,7 +20020,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1690,
+    "id": 611,
     "name": "Rock Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rockterashard.png",
@@ -20052,7 +20052,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1691,
+    "id": 612,
     "name": "Ghost Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ghostterashard.png",
@@ -20084,7 +20084,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1692,
+    "id": 613,
     "name": "Dragon Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/dragonterashard.png",
@@ -20116,7 +20116,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1693,
+    "id": 614,
     "name": "Dark Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/darkterashard.png",
@@ -20148,7 +20148,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1694,
+    "id": 615,
     "name": "Steel Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/steelterashard.png",
@@ -20180,7 +20180,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1695,
+    "id": 616,
     "name": "Fairy Tera Shard",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/fairyterashard.png",
@@ -20212,7 +20212,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1696,
+    "id": 617,
     "name": "Booster Energy",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/boosterenergy.png",
@@ -20244,7 +20244,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1697,
+    "id": 618,
     "name": "Ability Shield",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/abilityshield.png",
@@ -20276,7 +20276,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1698,
+    "id": 619,
     "name": "Clear Amulet",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/clearamulet.png",
@@ -20308,7 +20308,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1699,
+    "id": 620,
     "name": "Mirror Herb",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/mirrorherb.png",
@@ -20340,7 +20340,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1700,
+    "id": 621,
     "name": "Punching Glove",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/punchingglove.png",
@@ -20372,7 +20372,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1701,
+    "id": 622,
     "name": "Covert Cloak",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/covertcloak.png",
@@ -20404,7 +20404,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1702,
+    "id": 623,
     "name": "Loaded Dice",
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/loadeddice.png",
@@ -20436,7 +20436,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1703,
+    "id": 624,
     "name": "Baguette",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/baguette.png",
@@ -20468,7 +20468,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1704,
+    "id": 625,
     "name": "Mayonnaise",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/mayonnaise.png",
@@ -20500,7 +20500,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1705,
+    "id": 626,
     "name": "Ketchup",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ketchup.png",
@@ -20532,7 +20532,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1706,
+    "id": 627,
     "name": "Mustard",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/mustard.png",
@@ -20564,7 +20564,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1707,
+    "id": 628,
     "name": "Butter",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/butter.png",
@@ -20596,7 +20596,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1708,
+    "id": 629,
     "name": "Peanut Butter",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/peanutbutter.png",
@@ -20628,7 +20628,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1709,
+    "id": 630,
     "name": "Chili Sauce",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/chilisauce.png",
@@ -20660,7 +20660,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1710,
+    "id": 631,
     "name": "Salt",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/salt.png",
@@ -20692,7 +20692,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1711,
+    "id": 632,
     "name": "Pepper",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pepper.png",
@@ -20724,7 +20724,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1712,
+    "id": 633,
     "name": "Yogurt",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/yogurt.png",
@@ -20756,7 +20756,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1713,
+    "id": 634,
     "name": "Whipped Cream",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/whippedcream.png",
@@ -20788,7 +20788,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1714,
+    "id": 635,
     "name": "Cream Cheese",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/creamcheese.png",
@@ -20820,7 +20820,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1715,
+    "id": 636,
     "name": "Jam",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/jam.png",
@@ -20852,7 +20852,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1716,
+    "id": 637,
     "name": "Marmalade",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/marmalade.png",
@@ -20884,7 +20884,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1717,
+    "id": 638,
     "name": "Olive Oil",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/oliveoil.png",
@@ -20916,7 +20916,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1718,
+    "id": 639,
     "name": "Vinegar",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/vinegar.png",
@@ -20948,7 +20948,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1719,
+    "id": 640,
     "name": "Sweet Herba Mystica",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/sweetherbamystica.png",
@@ -20980,7 +20980,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1720,
+    "id": 641,
     "name": "Salty Herba Mystica",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/saltyherbamystica.png",
@@ -21012,7 +21012,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1721,
+    "id": 642,
     "name": "Sour Herba Mystica",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/sourherbamystica.png",
@@ -21044,7 +21044,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1722,
+    "id": 643,
     "name": "Bitter Herba Mystica",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bitterherbamystica.png",
@@ -21076,7 +21076,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1723,
+    "id": 644,
     "name": "Spicy Herba Mystica",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/spicyherbamystica.png",
@@ -21108,7 +21108,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1724,
+    "id": 645,
     "name": "Lettuce",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lettuce.png",
@@ -21140,7 +21140,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1725,
+    "id": 646,
     "name": "Tomato",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tomato.png",
@@ -21172,7 +21172,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1726,
+    "id": 647,
     "name": "Cherry Tomatoes",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cherrytomatoes.png",
@@ -21204,7 +21204,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1727,
+    "id": 648,
     "name": "Cucumber",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cucumber.png",
@@ -21236,7 +21236,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1728,
+    "id": 649,
     "name": "Pickle",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pickle.png",
@@ -21268,7 +21268,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1729,
+    "id": 650,
     "name": "Onion",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/onion.png",
@@ -21300,7 +21300,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1730,
+    "id": 651,
     "name": "Red Onion",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/redonion.png",
@@ -21332,7 +21332,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1731,
+    "id": 652,
     "name": "Green Bell Pepper",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/greenbellpepper.png",
@@ -21364,7 +21364,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1732,
+    "id": 653,
     "name": "Red Bell Pepper",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/redbellpepper.png",
@@ -21396,7 +21396,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1733,
+    "id": 654,
     "name": "Yellow Bell Pepper",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/yellowbellpepper.png",
@@ -21428,7 +21428,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1734,
+    "id": 655,
     "name": "Avocado",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/avocado.png",
@@ -21460,7 +21460,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1735,
+    "id": 656,
     "name": "Bacon",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bacon.png",
@@ -21492,7 +21492,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1736,
+    "id": 657,
     "name": "Ham",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ham.png",
@@ -21524,7 +21524,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1737,
+    "id": 658,
     "name": "Prosciutto",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/prosciutto.png",
@@ -21556,7 +21556,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1738,
+    "id": 659,
     "name": "Chorizo",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/chorizo.png",
@@ -21588,7 +21588,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1739,
+    "id": 660,
     "name": "Herbed Sausage",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/herbedsausage.png",
@@ -21620,7 +21620,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1740,
+    "id": 661,
     "name": "Hamburger",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/hamburger.png",
@@ -21652,7 +21652,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1741,
+    "id": 662,
     "name": "Klawf Stick",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/klawfstick.png",
@@ -21684,7 +21684,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1742,
+    "id": 663,
     "name": "Smoked Fillet",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/smokedfillet.png",
@@ -21716,7 +21716,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1743,
+    "id": 664,
     "name": "Fried Fillet",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/friedfillet.png",
@@ -21748,7 +21748,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1744,
+    "id": 665,
     "name": "Egg",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/egg.png",
@@ -21780,7 +21780,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1745,
+    "id": 666,
     "name": "Potato Tortilla",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/potatotortilla.png",
@@ -21812,7 +21812,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1746,
+    "id": 667,
     "name": "Tofu",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tofu.png",
@@ -21844,7 +21844,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1747,
+    "id": 668,
     "name": "Rice",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rice.png",
@@ -21876,7 +21876,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1748,
+    "id": 669,
     "name": "Noodles",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/noodles.png",
@@ -21908,7 +21908,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1749,
+    "id": 670,
     "name": "Potato Salad",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/potatosalad.png",
@@ -21940,7 +21940,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1750,
+    "id": 671,
     "name": "Cheese",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cheese.png",
@@ -21972,7 +21972,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1751,
+    "id": 672,
     "name": "Banana",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/banana.png",
@@ -22004,7 +22004,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1752,
+    "id": 673,
     "name": "Strawberry",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/strawberry.png",
@@ -22036,7 +22036,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1753,
+    "id": 674,
     "name": "Apple",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/apple.png",
@@ -22068,7 +22068,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1754,
+    "id": 675,
     "name": "Kiwi",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/kiwi.png",
@@ -22100,7 +22100,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1755,
+    "id": 676,
     "name": "Pineapple",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pineapple.png",
@@ -22132,7 +22132,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1756,
+    "id": 677,
     "name": "Jalapeño",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/jalapeno.png",
@@ -22164,7 +22164,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1757,
+    "id": 678,
     "name": "Horseradish",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/horseradish.png",
@@ -22196,7 +22196,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1758,
+    "id": 679,
     "name": "Curry Powder",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/currypowder.png",
@@ -22228,7 +22228,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1759,
+    "id": 680,
     "name": "Wasabi",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/wasabi.png",
@@ -22260,7 +22260,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1760,
+    "id": 681,
     "name": "Watercress",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/watercress.png",
@@ -22292,7 +22292,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1761,
+    "id": 682,
     "name": "Basil",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/basil.png",
@@ -22324,7 +22324,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1938,
+    "id": 683,
     "name": "Gimmighoul Coin",
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/gimmighoulcoin.png",
@@ -22356,7 +22356,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 2015,
+    "id": 684,
     "name": "Picnic Set",
     "category": "key-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/picnicset.png",
@@ -22388,7 +22388,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 2045,
+    "id": 685,
     "name": "Auspicious Armor",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/auspiciousarmor.png",
@@ -22420,7 +22420,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 2046,
+    "id": 686,
     "name": "Leader’s Crest",
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/leader'screst.png",
@@ -22452,7 +22452,7 @@
     "posts_to_collect": 0
   },
   {
-    "id": 2047,
+    "id": 687,
     "name": "Shiny Ball",
     "category": "pokeball",
     "sprite": "",
@@ -22478,7 +22478,7 @@
     "rarity": "especial"
   },
   {
-    "id": 2048,
+    "id": 688,
     "name": "Medicinal Leek",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/O2EatNd.png",
@@ -22503,7 +22503,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2049,
+    "id": 689,
     "name": "Vivichoke",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/VFNznQb.png",
@@ -22528,7 +22528,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2050,
+    "id": 690,
     "name": "King's Leaf",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/y5fgneH.png",
@@ -22553,7 +22553,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2051,
+    "id": 691,
     "name": "Bugwort",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/7LNa8sM.png",
@@ -22578,7 +22578,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2052,
+    "id": 692,
     "name": "Pep-Up Plant",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/9JRkkXP.png",
@@ -22603,7 +22603,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2053,
+    "id": 693,
     "name": "Candy Truffle",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/axwlje1.png",
@@ -22628,7 +22628,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2054,
+    "id": 694,
     "name": "Springy Mushroom",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/nciahpJ.png",
@@ -22653,7 +22653,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2055,
+    "id": 695,
     "name": "Hearty Grains",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/l0L73a0.png",
@@ -22678,7 +22678,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2056,
+    "id": 696,
     "name": "Plump Beans",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/9h317IN.png",
@@ -22703,7 +22703,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2057,
+    "id": 697,
     "name": "Dazzling Honey",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/EyhCseO.png",
@@ -22728,7 +22728,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2058,
+    "id": 698,
     "name": "Crunchy Salt",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/KsySVk7.png",
@@ -22753,7 +22753,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2059,
+    "id": 699,
     "name": "Caster Fern",
     "category": "craft-material",
     "sprite": "",
@@ -22778,7 +22778,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2060,
+    "id": 700,
     "name": "Sootfoot Root",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/WisKXUm.png",
@@ -22803,7 +22803,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2061,
+    "id": 701,
     "name": "Sand Raddish",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/TFk0E2N.png",
@@ -22828,7 +22828,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2062,
+    "id": 702,
     "name": "Spoiled Apricorn",
     "category": "craft-material",
     "sprite": "",
@@ -22853,7 +22853,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2063,
+    "id": 703,
     "name": "Ball of Mud",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/Y1BKjP8.png",
@@ -22878,7 +22878,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2064,
+    "id": 704,
     "name": "Sticky Goo",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/5yK4Tzr.png",
@@ -22903,7 +22903,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2065,
+    "id": 705,
     "name": "Silk Thread",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/Hv4ta0c.png",
@@ -22928,7 +22928,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2066,
+    "id": 706,
     "name": "Wool",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/0pJ9qxp.png",
@@ -22953,7 +22953,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2067,
+    "id": 707,
     "name": "Shiny Wool",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/s1pt7YC.png",
@@ -22978,7 +22978,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2068,
+    "id": 708,
     "name": "Cotton",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/BfSjxG2.png",
@@ -23003,7 +23003,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2069,
+    "id": 709,
     "name": "Shiny Cotton",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/UsKkxjH.png",
@@ -23028,7 +23028,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2070,
+    "id": 710,
     "name": "Iron Ore",
     "category": "craft-material",
     "sprite": "",
@@ -23053,7 +23053,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2071,
+    "id": 711,
     "name": "Copper Ore",
     "category": "craft-material",
     "sprite": "",
@@ -23078,7 +23078,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2072,
+    "id": 712,
     "name": "Silver Ore",
     "category": "craft-material",
     "sprite": "",
@@ -23103,7 +23103,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2073,
+    "id": 713,
     "name": "Golden Ore",
     "category": "craft-material",
     "sprite": "",
@@ -23128,7 +23128,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2074,
+    "id": 714,
     "name": "Flour",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/8RP31iS.png",
@@ -23153,7 +23153,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2075,
+    "id": 715,
     "name": "Sugar",
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/KhzS48H.png",
@@ -23178,7 +23178,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2076,
+    "id": 716,
     "name": "Cocoa",
     "category": "craft-material",
     "sprite": "",
@@ -23203,7 +23203,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2077,
+    "id": 717,
     "name": "Oil",
     "category": "craft-material",
     "sprite": "",
@@ -23228,7 +23228,7 @@
     "modified_for_rpg": false
   },
   {
-    "id": 2078,
+    "id": 718,
     "name": "Googoo Milk",
     "category": "medicine",
     "sprite": "https://2img.net/i.imgur.com/ciRtfcF.png",
