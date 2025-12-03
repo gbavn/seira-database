@@ -102,26 +102,19 @@
     "name": "Rota 06",
     "biome": "Florestal",
     "description": "A Rota 06 é uma longa estrada sinuosa que corta um mar de vegetação densa e bem preservada, cercada por colinas verdejantes e árvores de copas amplas. O asfalto escuro e recém-pavimentado contrasta com o verde vibrante das margens, onde a natureza parece tocar a estrada sem cerimônia, invadindo seus limites com raízes, folhas e flores. À medida que os viajantes deixam Veldhavn para trás, o canto dos pássaros e o farfalhar das folhas acompanham cada passo — mas ao longe, já é possível ver a luz fria de letreiros digitais piscando nas encostas montanhosas que anunciam a chegada de Astralton.\n\nApesar da tranquilidade aparente, a Rota 06 é um ponto de transição simbólico entre dois mundos. Treinadores a percorrem em busca de um momento de respiro entre a rusticidade de Veldhavn e o frenesi tecnológico de Astralton. Há relatos de que a estrada possui sensores embutidos e sinalizações inteligentes, legados da influência tecnológica do norte, mas eles coexistem com postes simples de madeira e placas feitas à mão, ainda mantidas pelos moradores do sul. O contraste entre o natural e o artificial está por toda parte, e a estrada se tornou não apenas um caminho, mas uma metáfora viva da convivência (e tensão) entre tradição e progresso.",
+    "map_image": "https://2img.net/i.imgur.com/Xhrbstg.png",
     "coordinates": {
       "x": 76,
       "y": 74
     },
-    "map_image": "https://2img.net/i.imgur.com/Xhrbstg.png",
     "metadata": {
       "population": "Aproximadamente 350 a 500 viajantes diários, entre treinadores, moradores locais e comerciantes itinerantes.",
       "economy": [
         "Principal corredor entre Veldhavn e Astralton",
         "servindo ao transporte de mercadorias",
         "turismo ecológico e circulação de treinadores. Pequenos negócios ao longo da estrada dependem do fluxo diário."
-      ]
-    },
-    "accesses": {
-      "south": {
-        "id": "veldhavan",
-        "name": "Veldhavn",
-        "posts_required": 2,
-        "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn"
-      }
+      ],
+      "based_on": ""
     },
     "points_of_interest": [
       {
@@ -172,14 +165,27 @@
       "berry-tree-01",
       "apricorn-tree-01",
       "moss-stone"
-    ]
+    ],
+    "accesses": {
+      "south": {
+        "id": "veldhavan",
+        "name": "Veldhavn",
+        "posts_required": 2,
+        "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn"
+      }
+    }
   },
   {
     "id": "HYP",
     "type": "city",
     "name": "Hyperia",
+    "biome": "Urbano",
     "description": "Construída sobre os antigos vales do norte de Hando, Hyperia é o maior símbolo da união entre tradição e progresso em Seira. Onde antes existiam templos e jardins silenciosos, hoje erguem-se torres de vidro que refletem o céu em tons elétricos. As ruas brilham com o fluxo contínuo de energia, drones cruzam avenidas como se fossem bandos de Pidove metálicos, e o som das multidões se mistura ao zumbido constante da rede elétrica que nunca dorme.\n\nFundada após a unificação, Hyperia foi escolhida como capital de Seira não apenas por sua localização estratégica, mas por representar o ponto de equilíbrio entre os valores de Hando e Nassael. O norte ofereceu sabedoria e estabilidade; o sul trouxe inovação e comércio. A fusão dessas forças deu origem à cidade que se tornaria o centro da Rede Helix — o grande sistema neural que conecta toda a região.\n\nNo topo da Colina Prisma ergue-se o Laboratório Banyan, coração científico da cidade e marco de uma nova era. Foi ali que a Professora Banyan e sua equipe criaram a Helix, unindo ecossistemas, dados e Pokémon em uma mesma rede inteligente. A presença constante da Helix é sentida em todos os cantos: luzes que se ajustam sozinhas, trens que deslizam sem condutores, telas públicas que transmitem notícias em tempo real sobre o clima, a economia — ou sobre os recentes distúrbios energéticos que preocupam a população.\n\nMas a energia de Hyperia não flui apenas pelos cabos. Ela pulsa nas pessoas. Em meio aos prédios espelhados e praças digitais, multidões se reúnem para assistir ao V!be Showdown, o maior espetáculo cultural de Seira. Parte torneio, parte show, o evento combina batalhas Pokémon, música e performance em apresentações sincronizadas com os batimentos da Helix. Treinadores se tornam estrelas, seus Pokémon dançam entre luzes e hologramas, e o público vota em tempo real, transformando cada duelo em um fenômeno coletivo.\nEm Hyperia, vencer é importante — mas vibrar mais alto que os outros é o verdadeiro triunfo.\n\nNo entanto, nem tudo brilha igualmente na cidade do néon eterno. Sob as camadas de luxo e espetáculo, há bairros antigos que ainda guardam a arquitetura de Hando — ruas estreitas, templos abandonados e comunidades que resistem ao ritmo acelerado do progresso. Enquanto o alto da cidade celebra a conectividade e o entretenimento, os distritos baixos sofrem com falhas de energia, quedas de sistema e boatos sobre aparências estranhas ligadas à instabilidade da Helix.",
     "map_image": "https://2img.net/i.imgur.com/ZiLFurO.png",
+    "coordinates": {
+      "x": 61,
+      "y": 51
+    },
     "metadata": {
       "population": "2.000.000",
       "economy": [
@@ -188,24 +194,6 @@
         "entretenimento e pesquisa científica"
       ],
       "based_on": "Seoul, Coreia do Sul"
-    },
-    "biome": "Urbano",
-    "spawns": {
-      "common": [
-        835,
-        940,
-        819
-      ],
-      "rare": [
-        100,
-        677,
-        827
-      ],
-      "epic": [
-        741,
-        877,
-        906
-      ]
     },
     "points_of_interest": [
       {
@@ -233,18 +221,38 @@
         "shop_data": null
       }
     ],
-    "coordinates": {
-      "x": 61,
-      "y": 51
-    }
+    "forageable_items": [],
+    "spawns": {
+      "common": [
+        835,
+        940,
+        819
+      ],
+      "rare": [
+        100,
+        677,
+        827
+      ],
+      "epic": [
+        741,
+        877,
+        906
+      ]
+    },
+    "interaction_objects": [],
+    "accesses": {}
   },
   {
     "id": "HSR",
     "type": "city",
     "name": "Hillshire",
-    "description": "Entre colinas suaves e vinhedos dourados, Hillshire floresce como o coração verde de Seira. Suas origens estão fincadas nos vales do antigo Reino de Hando, mas a cidade recebeu forte influência externa, dando-lhe um charme cosmopolita que muitos associam a Nassael. É uma cidade que celebra a natureza em cada detalhe: casarões de pedra cobertos de hera, pomares aromáticos, praças floridas e cafés ao ar livre que exalam o aroma de vinho local e pão recém-assado.\n\nAs ruas serpenteiam pelos campos, seguindo trilhas antigas que conectam fazendas, jardins botânicos e pequenas vinícolas. Apesar da aparência pastoral, Hillshire não é uma cidade isolada: estradas bem conservadas, pequenos centros comerciais e mercados conectam a cidade às demais regiões de Seira, permitindo que produtos agrícolas e artesanais ganhem fama continental.\n\nO ritmo em Hillshire é diferente do acelerado das metrópoles como Hyperia. Aqui, o tempo parece desacelerar: moradores conversam à sombra das oliveiras, artistas pintam murais nas paredes antigas e treinadores de Pokémon do tipo Planta utilizam os vastos campos para treinar e realizar competições sazonais. A cidade possui uma forte tradição ecológica, com jardins verticais, hortas comunitárias e reservas naturais que convivem com o espaço urbano, evidenciando a harmonização entre progresso e preservação.\n\nApesar do clima sereno, Hillshire tem seus contrastes: áreas turísticas e vinícolas prosperam com turistas e visitantes, enquanto pequenas comunidades rurais enfrentam dificuldades com tecnologia limitada e infraestrutura precária. Essa dualidade cria uma atmosfera única, em que o passado e o presente se encontram e se complementam.",
     "biome": "Campestre",
+    "description": "Entre colinas suaves e vinhedos dourados, Hillshire floresce como o coração verde de Seira. Suas origens estão fincadas nos vales do antigo Reino de Hando, mas a cidade recebeu forte influência externa, dando-lhe um charme cosmopolita que muitos associam a Nassael. É uma cidade que celebra a natureza em cada detalhe: casarões de pedra cobertos de hera, pomares aromáticos, praças floridas e cafés ao ar livre que exalam o aroma de vinho local e pão recém-assado.\n\nAs ruas serpenteiam pelos campos, seguindo trilhas antigas que conectam fazendas, jardins botânicos e pequenas vinícolas. Apesar da aparência pastoral, Hillshire não é uma cidade isolada: estradas bem conservadas, pequenos centros comerciais e mercados conectam a cidade às demais regiões de Seira, permitindo que produtos agrícolas e artesanais ganhem fama continental.\n\nO ritmo em Hillshire é diferente do acelerado das metrópoles como Hyperia. Aqui, o tempo parece desacelerar: moradores conversam à sombra das oliveiras, artistas pintam murais nas paredes antigas e treinadores de Pokémon do tipo Planta utilizam os vastos campos para treinar e realizar competições sazonais. A cidade possui uma forte tradição ecológica, com jardins verticais, hortas comunitárias e reservas naturais que convivem com o espaço urbano, evidenciando a harmonização entre progresso e preservação.\n\nApesar do clima sereno, Hillshire tem seus contrastes: áreas turísticas e vinícolas prosperam com turistas e visitantes, enquanto pequenas comunidades rurais enfrentam dificuldades com tecnologia limitada e infraestrutura precária. Essa dualidade cria uma atmosfera única, em que o passado e o presente se encontram e se complementam.",
     "map_image": "https://2img.net/i.imgur.com/WHB7ssW.png",
+    "coordinates": {
+      "x": 61,
+      "y": 28
+    },
     "metadata": {
       "population": "450.000",
       "economy": [
@@ -281,6 +289,7 @@
         "shop_data": null
       }
     ],
+    "forageable_items": [],
     "spawns": {
       "common": [
         919,
@@ -297,17 +306,19 @@
         1
       ]
     },
-    "coordinates": {
-      "x": 61,
-      "y": 28
-    }
+    "interaction_objects": [],
+    "accesses": {}
   },
   {
     "id": "AST",
     "type": "city",
     "name": "Astralton",
-    "description": "Astralton se ergue entre colinas e rios sinuosos, uma metrópole vertiginosa onde o céu é um mosaico de néon e o reflexo das luzes se confunde com a neblina constante. Construída sobre antigas rotas comerciais, a cidade manteve um emaranhado de passagens, pontes suspensas e becos estreitos que se entrelaçam com arranha-céus futuristas. Elevadores externos escalam fachadas de vidro, enquanto túneis subterrâneos abrigam mercados clandestinos e arenas improvisadas, onde Pokémon e pessoas testam limites longe do olhar da lei.\n\nO contraste entre riqueza e precariedade é visível a cada esquina: áreas centrais ostentam torres iluminadas, shopping centers verticais e cafés panorâmicos, enquanto bairros periféricos vivem à sombra de grafites, anúncios holográficos piscando e pequenos laboratórios independentes. Jovens engenheiros, hackers e artistas de rua transformam o caos em expressão urbana, criando festivais de luzes, performances e invenções que florescem na escuridão. A influência do tipo Noturno é sentida na arquitetura que abraça sombras, no ritmo da cidade e nas histórias de enigmas e furtos que circulam pelos becos.\n\nO clima constante de movimentação cria uma cidade que nunca dorme, mas também nunca relaxa: sirenes, drones de entrega e anúncios luminosos se misturam com o murmúrio dos rios e o eco das passarelas, formando uma sinfonia caótica que define Astralton. Apesar do perigo percebido, existe um sentimento de pertencimento para aqueles que sabem navegar suas luzes e sombras — um convite à aventura, ao risco e à criatividade sem limites.",
     "biome": "Urbano",
+    "description": "Astralton se ergue entre colinas e rios sinuosos, uma metrópole vertiginosa onde o céu é um mosaico de néon e o reflexo das luzes se confunde com a neblina constante. Construída sobre antigas rotas comerciais, a cidade manteve um emaranhado de passagens, pontes suspensas e becos estreitos que se entrelaçam com arranha-céus futuristas. Elevadores externos escalam fachadas de vidro, enquanto túneis subterrâneos abrigam mercados clandestinos e arenas improvisadas, onde Pokémon e pessoas testam limites longe do olhar da lei.\n\nO contraste entre riqueza e precariedade é visível a cada esquina: áreas centrais ostentam torres iluminadas, shopping centers verticais e cafés panorâmicos, enquanto bairros periféricos vivem à sombra de grafites, anúncios holográficos piscando e pequenos laboratórios independentes. Jovens engenheiros, hackers e artistas de rua transformam o caos em expressão urbana, criando festivais de luzes, performances e invenções que florescem na escuridão. A influência do tipo Noturno é sentida na arquitetura que abraça sombras, no ritmo da cidade e nas histórias de enigmas e furtos que circulam pelos becos.\n\nO clima constante de movimentação cria uma cidade que nunca dorme, mas também nunca relaxa: sirenes, drones de entrega e anúncios luminosos se misturam com o murmúrio dos rios e o eco das passarelas, formando uma sinfonia caótica que define Astralton. Apesar do perigo percebido, existe um sentimento de pertencimento para aqueles que sabem navegar suas luzes e sombras — um convite à aventura, ao risco e à criatividade sem limites.",
+    "coordinates": {
+      "x": 76,
+      "y": 64
+    },
     "metadata": {
       "population": "1.050.000",
       "economy": [
@@ -336,6 +347,7 @@
         "shop_data": null
       }
     ],
+    "forageable_items": [],
     "spawns": {
       "common": [
         66,
@@ -353,18 +365,20 @@
         725
       ]
     },
-    "coordinates": {
-      "x": 76,
-      "y": 64
-    }
+    "interaction_objects": [],
+    "accesses": {}
   },
   {
     "id": "MHL",
     "type": "city",
     "name": "Misthollow",
-    "description": "Envolta em névoas densas que descem das montanhas ao redor, Misthollow se ergue como um enclave isolado no norte de Seira. A cidade se espalha ao longo de vales úmidos, ladeados por coníferas e florestas mistas que parecem engolir as construções modernas. Casas de madeira escura, muitas vezes envelhecidas pela umidade, se misturam a prédios contemporâneos de concreto e vidro fosco, criando um contraste entre tradição e modernidade.\n\nO ritmo da cidade é lento e introspectivo: ruas estreitas serpenteiam por colinas cobertas de neblina, pontes de pedra conectam bairros e pequenas praças são iluminadas por lanternas amarelas, que brilham através da bruma como guias para os moradores e visitantes. A economia local gira em torno da pesca em lagos e rios gelados, produtos de madeira e cereais cultivados nas encostas, além de um turismo contemplativo que busca a paz e o silêncio que Misthollow oferece.\n\nApesar da aparência tranquila, a cidade abriga segredos antigos. Locais abandonados no alto das montanhas e trilhas escondidas atraem exploradores e pesquisadores, que relatam encontros com Pokémon que parecem observar de longe, surgindo e desaparecendo com a névoa. Essa presença constante cria uma aura de mistério que permeia a vida cotidiana: crianças correm pelas ruas com lanternas, idosos caminham lentamente entre templos e mercados, e artistas capturam a neblina em pinturas e fotografias, celebrando a beleza efêmera do lugar.",
     "biome": "Florestal",
+    "description": "Envolta em névoas densas que descem das montanhas ao redor, Misthollow se ergue como um enclave isolado no norte de Seira. A cidade se espalha ao longo de vales úmidos, ladeados por coníferas e florestas mistas que parecem engolir as construções modernas. Casas de madeira escura, muitas vezes envelhecidas pela umidade, se misturam a prédios contemporâneos de concreto e vidro fosco, criando um contraste entre tradição e modernidade.\n\nO ritmo da cidade é lento e introspectivo: ruas estreitas serpenteiam por colinas cobertas de neblina, pontes de pedra conectam bairros e pequenas praças são iluminadas por lanternas amarelas, que brilham através da bruma como guias para os moradores e visitantes. A economia local gira em torno da pesca em lagos e rios gelados, produtos de madeira e cereais cultivados nas encostas, além de um turismo contemplativo que busca a paz e o silêncio que Misthollow oferece.\n\nApesar da aparência tranquila, a cidade abriga segredos antigos. Locais abandonados no alto das montanhas e trilhas escondidas atraem exploradores e pesquisadores, que relatam encontros com Pokémon que parecem observar de longe, surgindo e desaparecendo com a névoa. Essa presença constante cria uma aura de mistério que permeia a vida cotidiana: crianças correm pelas ruas com lanternas, idosos caminham lentamente entre templos e mercados, e artistas capturam a neblina em pinturas e fotografias, celebrando a beleza efêmera do lugar.",
     "map_image": "https://2img.net/i.imgur.com/bMADkSG.png",
+    "coordinates": {
+      "x": 76,
+      "y": 25
+    },
     "metadata": {
       "population": "300.000",
       "economy": [
@@ -401,6 +415,7 @@
         "shop_data": null
       }
     ],
+    "forageable_items": [],
     "spawns": {
       "common": [
         163,
@@ -418,20 +433,24 @@
         155
       ]
     },
-    "coordinates": {
-      "x": 76,
-      "y": 25
-    }
+    "interaction_objects": [],
+    "accesses": {}
   },
   {
     "id": "R04",
     "type": "route",
     "name": "Rota 04",
-    "description": "A Rota 04 se estende como um vasto tapete dourado acima da cidade de Hyperia, onde campos de trigo balançam ao vento sob um céu azul radiante, pontilhado por nuvens suaves como algodão. No coração dessa paisagem bucólica, velhos moinhos de vento giram lentamente, testemunhas silenciosas de gerações de agricultores e criadores que moldaram a região. Pequenas trilhas de terra cortam os campos, conectando diferentes propriedades rurais, cercadas por cercas de madeira e florais silvestres que crescem livremente nas beiradas do caminho.\n\nA atmosfera é serena, mas ativa. A presença de fazendas torna a Rota 04 um ponto estratégico e muito procurado por treinadores em busca de experiência prática, seja trabalhando com Pokémon de campo, seja testando suas habilidades em um ambiente semi-controlado. Alguns estabelecimentos oferecem abrigo e pequenas tarefas em troca de batalhas ou ajuda no cuidado com os Pokémon locais. A rotina aqui é marcada por um equilíbrio entre esforço físico e contemplação, onde os visitantes aprendem que a força também nasce da paciência e do convívio com a terra.",
     "biome": "Campestre",
+    "description": "A Rota 04 se estende como um vasto tapete dourado acima da cidade de Hyperia, onde campos de trigo balançam ao vento sob um céu azul radiante, pontilhado por nuvens suaves como algodão. No coração dessa paisagem bucólica, velhos moinhos de vento giram lentamente, testemunhas silenciosas de gerações de agricultores e criadores que moldaram a região. Pequenas trilhas de terra cortam os campos, conectando diferentes propriedades rurais, cercadas por cercas de madeira e florais silvestres que crescem livremente nas beiradas do caminho.\n\nA atmosfera é serena, mas ativa. A presença de fazendas torna a Rota 04 um ponto estratégico e muito procurado por treinadores em busca de experiência prática, seja trabalhando com Pokémon de campo, seja testando suas habilidades em um ambiente semi-controlado. Alguns estabelecimentos oferecem abrigo e pequenas tarefas em troca de batalhas ou ajuda no cuidado com os Pokémon locais. A rotina aqui é marcada por um equilíbrio entre esforço físico e contemplação, onde os visitantes aprendem que a força também nasce da paciência e do convívio com a terra.",
     "map_image": "https://2img.net/i.imgur.com/ME9dF3D.png",
+    "coordinates": {
+      "x": 61,
+      "y": 38
+    },
     "metadata": {
-      "population": ""
+      "population": 0,
+      "economy": [],
+      "based_on": ""
     },
     "points_of_interest": [
       {
@@ -451,6 +470,7 @@
         "shop_data": null
       }
     ],
+    "forageable_items": [],
     "spawns": {
       "common": [
         659,
@@ -468,23 +488,26 @@
         498
       ]
     },
-    "coordinates": {
-      "x": 61,
-      "y": 38
-    }
+    "interaction_objects": [],
+    "accesses": {}
   },
   {
     "id": "R05",
     "type": "route",
     "name": "Rota 05",
-    "description": "A Rota 05 é um corredor montanhoso que serpenteia entre encostas íngremes e vales estreitos, conectando a vibrante cidade de Astralton à misteriosa Mina Dourada, antes de seguir rumo a Misthollow. A paisagem é marcada por rochas cinza-esverdeadas, pontes de madeira suspensas sobre desfiladeiros e trilhas estreitas esculpidas pela passagem constante de exploradores e mineradores. Pequenos riachos de águas cristalinas descem das montanhas, formando cascatas que refletem a luz do sol, criando um espetáculo de brilhos que fascina qualquer visitante.\n\nApesar do terreno aparentemente inóspito, a rota possui sinais claros de atividade humana contemporânea: cabos elétricos pendem entre postes improvisados, pequenas cabanas de mineração armazenam suprimentos e o ruído distante de veículos todo-terreno ecoa pelas paredes rochosas. A atmosfera é uma mistura de aventura e tensão; viajantes devem estar preparados para terrenos escorregadios, ventos fortes e encontros inesperados com Pokémon locais. Ao mesmo tempo, há um certo charme rústico: placas de madeira com avisos pitorescos, trilhas de pedra com inscrições antigas de mineradores e áreas de descanso com fogueiras improvisadas revelam que a rota é tanto uma passagem quanto um ponto de convivência.\n\nA Rota 05 também apresenta contrastes marcantes: a robustez da rocha e a suavidade das nuvens que passam rente ao topo das montanhas; a presença tecnológica da energia elétrica e a rusticidade das cabanas de madeira; o perigo das encostas e a beleza tranquila de pequenas clareiras onde a fauna se reúne. É uma rota que recompensa atenção, curiosidade e coragem, atraindo tanto treinadores em busca de desafios quanto turistas em busca de fotografias inesquecíveis.",
     "biome": "Montanhoso",
+    "description": "A Rota 05 é um corredor montanhoso que serpenteia entre encostas íngremes e vales estreitos, conectando a vibrante cidade de Astralton à misteriosa Mina Dourada, antes de seguir rumo a Misthollow. A paisagem é marcada por rochas cinza-esverdeadas, pontes de madeira suspensas sobre desfiladeiros e trilhas estreitas esculpidas pela passagem constante de exploradores e mineradores. Pequenos riachos de águas cristalinas descem das montanhas, formando cascatas que refletem a luz do sol, criando um espetáculo de brilhos que fascina qualquer visitante.\n\nApesar do terreno aparentemente inóspito, a rota possui sinais claros de atividade humana contemporânea: cabos elétricos pendem entre postes improvisados, pequenas cabanas de mineração armazenam suprimentos e o ruído distante de veículos todo-terreno ecoa pelas paredes rochosas. A atmosfera é uma mistura de aventura e tensão; viajantes devem estar preparados para terrenos escorregadios, ventos fortes e encontros inesperados com Pokémon locais. Ao mesmo tempo, há um certo charme rústico: placas de madeira com avisos pitorescos, trilhas de pedra com inscrições antigas de mineradores e áreas de descanso com fogueiras improvisadas revelam que a rota é tanto uma passagem quanto um ponto de convivência.\n\nA Rota 05 também apresenta contrastes marcantes: a robustez da rocha e a suavidade das nuvens que passam rente ao topo das montanhas; a presença tecnológica da energia elétrica e a rusticidade das cabanas de madeira; o perigo das encostas e a beleza tranquila de pequenas clareiras onde a fauna se reúne. É uma rota que recompensa atenção, curiosidade e coragem, atraindo tanto treinadores em busca de desafios quanto turistas em busca de fotografias inesquecíveis.",
     "map_image": "https://2img.net/i.imgur.com/SUnoupj.png",
+    "coordinates": {
+      "x": 76,
+      "y": 43
+    },
     "metadata": {
       "population": "150–300 viajantes por dia",
       "economy": [
         "Corredor de transporte e exploração mineral; comércio rústico de suprimentos e guias locais."
-      ]
+      ],
+      "based_on": ""
     },
     "points_of_interest": [
       {
@@ -496,6 +519,7 @@
         "shop_data": null
       }
     ],
+    "forageable_items": [],
     "spawns": {
       "common": [
         220,
@@ -513,40 +537,25 @@
         390
       ]
     },
-    "coordinates": {
-      "x": 76,
-      "y": 43
-    }
+    "interaction_objects": [],
+    "accesses": {}
   },
   {
     "id": "MDRD",
     "type": "landmark",
     "name": "Mina Dourada",
-    "description": "A Mina Dourada é um extenso complexo subterrâneo de túneis, veios minerais e galerias abandonadas que se estendem por baixo das encostas entre a Rota 05 e a cidade de Misthollow. Originalmente explorada por mineradores durante o auge da corrida do ouro na região de Seira, o local foi parcialmente reaberto nas últimas décadas como atração turística e ponto de pesquisa geológica.\n\nA estrutura combina o antigo com o moderno: trilhos enferrujados e lanternas antigas convivem com painéis de segurança digitais e sensores de gás. O ar é denso e úmido, iluminado por reflexos amarelados que dançam sobre as paredes metálicas, como se o ouro ainda pulsasse por baixo da rocha. Grupos de engenheiros e pesquisadores se misturam a turistas curiosos e treinadores aventureiros, todos atraídos pelo mistério e pelo brilho que ainda emana das profundezas.\n\nOs Pokémons locais se adaptaram à constante presença humana — alguns auxiliam em pequenas escavações, outros preferem se esconder nas fendas escuras, onde o som das picaretas foi substituído pelo eco de passos e o zumbido das máquinas de ventilação. Apesar da aparência industrial, há um certo encanto natural na forma como musgos dourados e formações minerais cintilam sob a luz artificial. O clima aqui é mais frio e seco, com correntes de ar inesperadas que fazem o som viajar pelos túneis, confundindo viajantes e assustando os desavisados.\n\nA mina é considerada segura — ao menos nos andares abertos ao público. Já as galerias antigas, lacradas por segurança, são conhecidas por emitir ruídos metálicos misteriosos à noite, que muitos juram ser ecos de antigas explosões... ou algo ainda vivo, lá embaixo.",
     "biome": "Cavernoso",
+    "description": "A Mina Dourada é um extenso complexo subterrâneo de túneis, veios minerais e galerias abandonadas que se estendem por baixo das encostas entre a Rota 05 e a cidade de Misthollow. Originalmente explorada por mineradores durante o auge da corrida do ouro na região de Seira, o local foi parcialmente reaberto nas últimas décadas como atração turística e ponto de pesquisa geológica.\n\nA estrutura combina o antigo com o moderno: trilhos enferrujados e lanternas antigas convivem com painéis de segurança digitais e sensores de gás. O ar é denso e úmido, iluminado por reflexos amarelados que dançam sobre as paredes metálicas, como se o ouro ainda pulsasse por baixo da rocha. Grupos de engenheiros e pesquisadores se misturam a turistas curiosos e treinadores aventureiros, todos atraídos pelo mistério e pelo brilho que ainda emana das profundezas.\n\nOs Pokémons locais se adaptaram à constante presença humana — alguns auxiliam em pequenas escavações, outros preferem se esconder nas fendas escuras, onde o som das picaretas foi substituído pelo eco de passos e o zumbido das máquinas de ventilação. Apesar da aparência industrial, há um certo encanto natural na forma como musgos dourados e formações minerais cintilam sob a luz artificial. O clima aqui é mais frio e seco, com correntes de ar inesperadas que fazem o som viajar pelos túneis, confundindo viajantes e assustando os desavisados.\n\nA mina é considerada segura — ao menos nos andares abertos ao público. Já as galerias antigas, lacradas por segurança, são conhecidas por emitir ruídos metálicos misteriosos à noite, que muitos juram ser ecos de antigas explosões... ou algo ainda vivo, lá embaixo.",
+    "coordinates": {
+      "x": 76,
+      "y": 34
+    },
     "metadata": {
       "population": "90 visitantes diários",
       "economy": [
         "Extração mineral supervisionada; turismo subterrâneo (visitas guiadas e exposições); pesquisa geológica e bioluminescência; ponto logístico entre a Rota 05 e Misthollow"
       ],
       "based_on": "Gwangmyeong Cave (Coreia do Sul), Naica Mine (México) e na Ikuno Silver Mine (Japão)"
-    },
-    "spawns": {
-      "common": [
-        41,
-        50,
-        524
-      ],
-      "rare": [
-        111,
-        529,
-        610
-      ],
-      "epic": [
-        968,
-        703,
-        650
-      ]
     },
     "points_of_interest": [
       {
@@ -574,10 +583,26 @@
         "shop_data": null
       }
     ],
-    "coordinates": {
-      "x": 76,
-      "y": 34
-    }
+    "forageable_items": [],
+    "spawns": {
+      "common": [
+        41,
+        50,
+        524
+      ],
+      "rare": [
+        111,
+        529,
+        610
+      ],
+      "epic": [
+        968,
+        703,
+        650
+      ]
+    },
+    "interaction_objects": [],
+    "accesses": {}
   },
   {
     "id": "RRHS",
@@ -585,18 +610,10 @@
     "name": "Ruinas de Rhisis",
     "biome": "Ruinoso",
     "description": "Entre colinas suaves e campos floridos, repousam as Ruínas de Rhisis, vestígios de uma antiga civilização que marcou a história de Seira. Colunas partidas e blocos de pedra espalhados pelo terreno formam corredores abertos e plataformas irregulares, enquanto o vento percorre os espaços vazios, criando um sussurro contínuo que parece narrar histórias antigas. O terreno é irregular, com desníveis que desafiam os viajantes e blocos de pedra instáveis que exigem cuidado ao atravessar.\n\nApesar da antiguidade, a região é integrada ao mundo moderno: trilhas de caminhada e pequenos mirantes foram instalados por exploradores e estudiosos, e placas informativas digitais fornecem dados históricos, contrastando com a sensação de abandono das ruínas. Treinadores aproveitam o local para treinos, exploração e estudos arqueológicos, enquanto pequenos Pokémon habitam frestas e blocos caídos, criando um ecossistema próprio entre pedras e musgo.",
+    "map_image": "https://2img.net/i.imgur.com/IV51npg.png",
     "coordinates": {
       "x": 73,
       "y": 53
-    },
-    "map_image": "https://2img.net/i.imgur.com/IV51npg.png",
-    "accesses": {
-      "south": {
-        "id": "004",
-        "name": "Astralton",
-        "posts_required": 4,
-        "forum_link": "https://seira.forumeiros.com/t118-descricao-ruinas-de-rhisis"
-      }
     },
     "points_of_interest": [
       {
@@ -608,6 +625,7 @@
         "shop_data": null
       }
     ],
+    "forageable_items": [],
     "spawns": {
       "common": [
         201,
@@ -627,6 +645,14 @@
     "interaction_objects": [
       "playground",
       "apricorn-tree-01"
-    ]
+    ],
+    "accesses": {
+      "south": {
+        "id": "004",
+        "name": "Astralton",
+        "posts_required": 4,
+        "forum_link": "https://seira.forumeiros.com/t118-descricao-ruinas-de-rhisis"
+      }
+    }
   }
 ]
