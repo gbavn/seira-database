@@ -1512,7 +1512,10 @@
     "id": 45,
     "name": "HP Up",
     "category": "medicine",
+    "description": "Raises the HP of one POKéMON.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/hpup.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 10000,
       "sell": 5000
@@ -1522,29 +1525,47 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Raises the HP of one POKéMON.",
-    "effect": "Raises HP effort and happiness.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 727,
+        "quantity": 10
+      },
+      {
+        "item_id": 728,
+        "quantity": 10
+      },
+      {
+        "item_id": 729,
+        "quantity": 10
+      },
+      {
+        "item_id": 730,
+        "quantity": 10
+      },
+      {
+        "item_id": 731,
+        "quantity": 9
+      },
+      {
+        "item_id": 690,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Raises HP effort and happiness."
   },
   {
     "id": 46,
     "name": "Protein",
     "category": "medicine",
+    "description": "Raises the stat ATTACK of one POKéMON.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/protein.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 10000,
       "sell": 5000
@@ -1554,29 +1575,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Raises the stat ATTACK of one POKéMON.",
-    "effect": "Raises Attack effort and happiness.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 727,
+        "quantity": 50
+      },
+      {
+        "item_id": 690,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Raises Attack effort and happiness."
   },
   {
     "id": 47,
     "name": "Iron",
     "category": "medicine",
+    "description": "Raises the stat DEFENSE of one POKéMON.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/iron.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 10000,
       "sell": 5000
@@ -1586,29 +1609,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Raises the stat DEFENSE of one POKéMON.",
-    "effect": "Raises Defense effort and happiness.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 728,
+        "quantity": 50
+      },
+      {
+        "item_id": 690,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Raises Defense effort and happiness."
   },
   {
     "id": 48,
     "name": "Carbos",
     "category": "medicine",
+    "description": "Raises the stat SPEED of one POKéMON.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/carbos.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 10000,
       "sell": 5000
@@ -1618,29 +1643,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Raises the stat SPEED of one POKéMON.",
-    "effect": "Raises Speed effort and happiness.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 731,
+        "quantity": 50
+      },
+      {
+        "item_id": 690,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Raises Speed effort and happiness."
   },
   {
     "id": 49,
     "name": "Calcium",
     "category": "medicine",
+    "description": "Raises the stat SP. ATK of one POKéMON.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/calcium.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 10000,
       "sell": 5000
@@ -1650,23 +1677,22 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Raises the stat SP. ATK of one POKéMON.",
-    "effect": "Raises Special Attack effort and happiness.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 729,
+        "quantity": 50
+      },
+      {
+        "item_id": 690,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Raises Special Attack effort and happiness."
   },
   {
     "id": 50,
@@ -1736,7 +1762,10 @@
     "id": 52,
     "name": "Zinc",
     "category": "medicine",
+    "description": "Raises the base SP. DEF stat of one POKéMON.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/zinc.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 10000,
       "sell": 5000
@@ -1746,23 +1775,22 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Raises the base SP. DEF stat of one POKéMON.",
-    "effect": "Raises Special Defense and happiness.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 730,
+        "quantity": 50
+      },
+      {
+        "item_id": 690,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Raises Special Defense and happiness."
   },
   {
     "id": 53,
