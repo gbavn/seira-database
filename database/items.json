@@ -1414,7 +1414,10 @@
     "id": 42,
     "name": "Lava Cookie",
     "category": "medicine",
+    "description": "A local specialty that heals all status problems.",
     "sprite": "https://2img.net/i.imgur.com/nANx92g.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 350,
       "sell": 175
@@ -1424,23 +1427,26 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A local specialty that heals all status problems.",
-    "effect": "Cures any status ailment and confusion.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 714,
+        "quantity": 1
+      },
+      {
+        "item_id": 749,
+        "quantity": 5
+      },
+      {
+        "item_id": 698,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Cures any status ailment and confusion."
   },
   {
     "id": 43,
@@ -1828,7 +1834,10 @@
     "id": 54,
     "name": "Old Gateau",
     "category": "medicine",
+    "description": "Old Chateau’s hidden specialty. It heals all the status problems of a single Pokémon.",
     "sprite": "https://2img.net/i.imgur.com/KCEvzpR.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 350,
       "sell": 175
@@ -1838,23 +1847,30 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Old Chateau’s hidden specialty. It heals all the status problems of a single Pokémon.",
-    "effect": "Cures any status ailment and confusion.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 714,
+        "quantity": 1
+      },
+      {
+        "item_id": 696,
+        "quantity": 3
+      },
+      {
+        "item_id": 697,
+        "quantity": 3
+      },
+      {
+        "item_id": 33,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Cures any status ailment and confusion."
   },
   {
     "id": 55,
@@ -10450,7 +10466,10 @@
     "id": 317,
     "name": "Rage Candy Bar",
     "category": "medicine",
+    "description": "A famous candy in Mahogany Town. Many tourists like to buy them to take home.",
     "sprite": "https://2img.net/i.imgur.com/EKdr5ij.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 350,
       "sell": 175
@@ -10460,23 +10479,25 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A famous candy in Mahogany Town. Many tourists like to buy them to take home.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 714,
+        "quantity": 1
+      },
+      {
+        "item_id": 697,
+        "quantity": 2
+      },
+      {
+        "item_id": 749,
+        "quantity": 5
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 318,
@@ -10906,7 +10927,10 @@
     "id": 331,
     "name": "Sweet Heart",
     "category": "medicine",
+    "description": "Very sweet chocolate. It restores the HP of one Pokémon by only 20 points.",
     "sprite": "https://2img.net/i.imgur.com/VDQllsx.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -10916,23 +10940,30 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Very sweet chocolate. It restores the HP of one Pokémon by only 20 points.",
-    "effect": "Restores 20 HP.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 716,
+        "quantity": 3
+      },
+      {
+        "item_id": 628,
+        "quantity": 2
+      },
+      {
+        "item_id": 33,
+        "quantity": 2
+      },
+      {
+        "item_id": 715,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Restores 20 HP."
   },
   {
     "id": 332,
@@ -12293,7 +12324,10 @@
     "id": 374,
     "name": "Casteliacone",
     "category": "medicine",
+    "description": "Castelia City’s specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon.",
     "sprite": "https://2img.net/i.imgur.com/qPv9TcH.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 350,
       "sell": 175
@@ -12303,23 +12337,26 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Castelia City’s specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon.",
-    "effect": "Cures any status ailment and confusion.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 33,
+        "quantity": 3
+      },
+      {
+        "item_id": 715,
+        "quantity": 1
+      },
+      {
+        "item_id": 574,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Cures any status ailment and confusion."
   },
   {
     "id": 375,
@@ -14013,7 +14050,10 @@
     "id": 425,
     "name": "Lumiose Galette",
     "category": "medicine",
+    "description": "A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lumiosegalette.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 350,
       "sell": 175
@@ -14023,23 +14063,26 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon.",
-    "effect": "Cures all major status ailments and confusion.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 714,
+        "quantity": 2
+      },
+      {
+        "item_id": 715,
+        "quantity": 1
+      },
+      {
+        "item_id": 695,
+        "quantity": 4
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Cures all major status ailments and confusion."
   },
   {
     "id": 426,
@@ -14215,7 +14258,10 @@
     "id": 431,
     "name": "Shalour Sable",
     "category": "medicine",
+    "description": "Shalour City’s famous shortbread. It can be used once to heal all the status conditions of a Pokémon.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/shaloursable.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 350,
       "sell": 175
@@ -14225,23 +14271,30 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Shalour City’s famous shortbread. It can be used once to heal all the status conditions of a Pokémon.",
-    "effect": "Cures any major status ailment and confusion.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 714,
+        "quantity": 1
+      },
+      {
+        "item_id": 628,
+        "quantity": 3
+      },
+      {
+        "item_id": 753,
+        "quantity": 3
+      },
+      {
+        "item_id": 715,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Cures any major status ailment and confusion."
   },
   {
     "id": 432,
@@ -15102,7 +15155,10 @@
     "id": 457,
     "name": "Big Malasada",
     "category": "medicine",
+    "description": "The Alola region’s local specialty—fried bread. It can be used once to heal all the status conditions of a Pokémon.",
     "sprite": "https://2img.net/i.imgur.com/OdqOhRu.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 350,
       "sell": 175
@@ -15112,23 +15168,34 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "The Alola region’s local specialty—fried bread. It can be used once to heal all the status conditions of a Pokémon.",
-    "effect": "Cures major status ailments and confusion.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 33,
+        "quantity": 2
+      },
+      {
+        "item_id": 714,
+        "quantity": 1
+      },
+      {
+        "item_id": 717,
+        "quantity": 1
+      },
+      {
+        "item_id": 697,
+        "quantity": 2
+      },
+      {
+        "item_id": 574,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Cures major status ailments and confusion."
   },
   {
     "id": 458,
@@ -17222,7 +17289,10 @@
     "id": 522,
     "name": "Pewter Crunchies",
     "category": "medicine",
+    "description": "Pewter City’s famous crunchy snack. They can be used to heal all status conditions of a single Pokémon.",
     "sprite": "https://2img.net/i.imgur.com/rrvPbIY.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 250,
       "sell": 125
@@ -17232,23 +17302,29 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Pewter City’s famous crunchy snack. They can be used to heal all status conditions of a single Pokémon.",
-    "effect": null,
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 714,
+        "quantity": 1
+      },
+      {
+        "item_id": 717,
+        "quantity": 1
+      },
+      {
+        "item_id": 698,
+        "quantity": 4
+      },
+      {
+        "item_id": 695,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 523,
@@ -23683,6 +23759,578 @@
     "category": "other",
     "description": "",
     "sprite": "https://2img.net/i.imgur.com/nfJxWkV.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 732,
+    "name": "Cake-Lure Base",
+    "category": "other",
+    "description": "",
+    "sprite": "https://2img.net/i.imgur.com/kuMF3hv.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 733,
+    "name": "Mushroom Cake",
+    "category": "other",
+    "description": "",
+    "sprite": "https://2img.net/i.imgur.com/MDsWMlu.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 734,
+    "name": "Grain Cake",
+    "category": "other",
+    "description": "",
+    "sprite": "https://2img.net/i.imgur.com/QagLhIV.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 735,
+    "name": "Bean Cake",
+    "category": "other",
+    "description": "",
+    "sprite": "https://2img.net/i.imgur.com/2bE2sJ6.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 736,
+    "name": "Honey Cake",
+    "category": "other",
+    "description": "",
+    "sprite": "https://2img.net/i.imgur.com/YDmIzfT.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 737,
+    "name": "Salt Cake",
+    "category": "other",
+    "description": "",
+    "sprite": "https://2img.net/i.imgur.com/EqsgvfY.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 738,
+    "name": "Fresh-Start Mochi",
+    "category": "other",
+    "description": "",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fresh-startmochi.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 739,
+    "name": "Health Mochi",
+    "category": "other",
+    "description": "",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/healthmochi.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 740,
+    "name": "Muscle Mochi",
+    "category": "other",
+    "description": "",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/musclemochi.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 741,
+    "name": "Resist Mochi",
+    "category": "other",
+    "description": "",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/resistmochi.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 742,
+    "name": "Genius Mochi",
+    "category": "other",
+    "description": "",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/geniusmochi.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 743,
+    "name": "Clever Mochi",
+    "category": "other",
+    "description": "",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/clevermochi.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 744,
+    "name": "Swift Mochi",
+    "category": "other",
+    "description": "",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/swiftmochi.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 745,
+    "name": "Jubilife Muffin",
+    "category": "other",
+    "description": "",
+    "sprite": "https://2img.net/i.imgur.com/PwJdrJz.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 746,
+    "name": "Choice Dumpling",
+    "category": "other",
+    "description": "",
+    "sprite": "https://2img.net/i.imgur.com/edw4nvD.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 747,
+    "name": "Swap Snack",
+    "category": "other",
+    "description": "",
+    "sprite": "https://2img.net/i.imgur.com/OGboqyp.png",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 748,
+    "name": "Twice-Spiced Raddish",
+    "category": "other",
+    "description": "",
+    "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 749,
+    "name": "Berry Picante Rara",
+    "category": "other",
+    "description": "",
+    "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 750,
+    "name": "Berry Azeda Rara",
+    "category": "other",
+    "description": "",
+    "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 751,
+    "name": "Berry Seca Rara",
+    "category": "other",
+    "description": "",
+    "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 752,
+    "name": "Berry Amarga Rara",
+    "category": "other",
+    "description": "",
+    "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 753,
+    "name": "Berry Doce Rara",
+    "category": "other",
+    "description": "",
+    "sprite": "",
     "rarity": "comum",
     "is_unique": false,
     "price": {
