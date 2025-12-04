@@ -2948,7 +2948,7 @@
     "id": 94,
     "name": "Honey",
     "category": "craft-material",
-    "description": "Mel doce coletado de colmeias, aproveitado em diferentes aplicações naturais.",
+    "description": "Mel doce coletado de colmeias naturais. Usado em receitas, misturas aromáticas e diversas aplicações de culinária.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/honey.png",
     "rarity": "comum",
     "is_unique": false,
@@ -18603,7 +18603,10 @@
     "id": 583,
     "name": "Galarica Twig",
     "category": "craft-material",
+    "description": "Um galho fino proveniente de uma espécie de árvore chamada Galarica, que cresce em áreas específicas da região de Galar. Possui fibras leves e resistentes, sendo um material especial usado na criação de certos acessórios.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/galaricatwig.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 20,
       "sell": 10
@@ -18613,23 +18616,12 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A twig from a species of tree called Galarica that grows in certain areas around the Galar region. It’s a material for an accessory for a certain Pokémon.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 584,
@@ -21981,7 +21973,10 @@
     "id": 688,
     "name": "Medicinal Leek",
     "category": "craft-material",
+    "description": "Alho-poró de coloração intensa e fibras resistentes. Seu aroma forte e herbal é facilmente reconhecido à distância.",
     "sprite": "https://2img.net/i.imgur.com/O2EatNd.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -21990,23 +21985,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 689,
     "name": "Vivichoke",
     "category": "craft-material",
+    "description": "Uma flor rara de formato marcante. Coletada em regiões específicas e usada como material especial em receitas e farmacêutica natural.",
     "sprite": "https://2img.net/i.imgur.com/VFNznQb.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22015,23 +22008,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 690,
     "name": "King's Leaf",
     "category": "craft-material",
+    "description": "Folha de bordas largas e coloração amarelada. Emana um aroma marcante e possui veios robustos e bem definidos.",
     "sprite": "https://2img.net/i.imgur.com/y5fgneH.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22040,23 +22031,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 691,
     "name": "Bugwort",
     "category": "craft-material",
+    "description": "Uma planta silvestre de aroma terroso com uso tradicional em remédios. Coletada para infusões e extratos medicinais; pode também entrar como aditivo em receitas específicas.",
     "sprite": "https://2img.net/i.imgur.com/7LNa8sM.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22065,23 +22054,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 692,
     "name": "Pep-Up Plant",
     "category": "craft-material",
+    "description": "Uma planta comum, porém muito versátil. Aproveitada em diferentes práticas de criação e como componente natural em receitas.",
     "sprite": "https://2img.net/i.imgur.com/9JRkkXP.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22090,23 +22077,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 693,
     "name": "Candy Truffle",
     "category": "craft-material",
+    "description": "Trufa rara de perfume açucarado e cor terrosa profunda. Seu interior macio libera um sabor adocicado característico.",
     "sprite": "https://2img.net/i.imgur.com/axwlje1.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22115,23 +22100,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 694,
     "name": "Springy Mushroom",
     "category": "craft-material",
+    "description": "Cogumelo de textura elástica e coloração vibrante. Sua superfície ligeiramente úmida revela um aroma fresco de floresta.",
     "sprite": "https://2img.net/i.imgur.com/nciahpJ.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22140,23 +22123,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 695,
     "name": "Hearty Grains",
     "category": "craft-material",
+    "description": "Grãos robustos de casca firme e tonalidade dourada. Conhecidos por sua consistência marcante e sabor natural acentuado.",
     "sprite": "https://2img.net/i.imgur.com/l0L73a0.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22165,23 +22146,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 696,
     "name": "Plump Beans",
     "category": "craft-material",
+    "description": "Feijões graúdos de aparência brilhante e formato arredondado. Exalam um aroma terroso suave e possuem grande concentração de nutrientes.",
     "sprite": "https://2img.net/i.imgur.com/9h317IN.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22190,23 +22169,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 697,
     "name": "Dazzling Honey",
     "category": "craft-material",
+    "description": "Um mel cintilante de aroma intenso. Sua coloração dourada vibrante e fragrância marcante o tornam facilmente distinguível de outros tipos de mel.",
     "sprite": "https://2img.net/i.imgur.com/EyhCseO.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22215,23 +22192,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 698,
     "name": "Crunchy Salt",
     "category": "craft-material",
+    "description": "Cristais de sal de formação natural, irregulares e crocantes. Apresentam tom pálido e textura firme ao toque.",
     "sprite": "https://2img.net/i.imgur.com/KsySVk7.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22240,23 +22215,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 699,
     "name": "Caster Fern",
     "category": "craft-material",
+    "description": "Samambaia de folhas longas e delicadamente onduladas. Possui coloração verde suave e cresce em áreas úmidas e sombreadas.",
     "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22265,23 +22238,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 700,
     "name": "Sootfoot Root",
     "category": "craft-material",
+    "description": "Raiz robusta de coloração escura e superfície enrugada. Libera um aroma terroso intenso quando partida.",
     "sprite": "https://2img.net/i.imgur.com/WisKXUm.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22290,23 +22261,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 701,
     "name": "Sand Raddish",
     "category": "craft-material",
+    "description": "Rabanete de casca áspera e coloração clara, cultivado em solos arenosos. Seu interior é firme, com leve nuance mineral no aroma.",
     "sprite": "https://2img.net/i.imgur.com/TFk0E2N.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22315,17 +22284,12 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 702,
