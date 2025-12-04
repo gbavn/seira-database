@@ -44,14 +44,12 @@
         "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn-03",
         "shop_data": {
           "sells": [
-            567,
-            1168,
-            1169
+            567
           ],
           "buys": [
             567,
-            1172,
-            728
+            550,
+            551
           ]
         }
       }
