@@ -178,7 +178,10 @@
     "id": 6,
     "name": "Net Ball",
     "category": "pokeball",
+    "description": "A BALL that works well on WATER- and BUG-type POKéMON.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//netball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": 500,
@@ -190,30 +193,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A BALL that works well on WATER- and BUG-type POKéMON.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 311,
+        "quantity": 1
+      },
+      {
+        "item_id": 711,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
     "catch_rate": 1
   },
   {
     "id": 7,
     "name": "Dive Ball",
     "category": "pokeball",
+    "description": "A BALL that works better on POKéMON on the ocean floor.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/diveball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": 500,
@@ -225,30 +229,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A BALL that works better on POKéMON on the ocean floor.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 311,
+        "quantity": 1
+      },
+      {
+        "item_id": 712,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
     "catch_rate": 1
   },
   {
     "id": 8,
     "name": "Nest Ball",
     "category": "pokeball",
+    "description": "A BALL that works better on weaker POKéMON.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/nestball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": 500,
@@ -260,30 +265,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A BALL that works better on weaker POKéMON.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 313,
+        "quantity": 1
+      },
+      {
+        "item_id": 711,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
     "catch_rate": 1
   },
   {
     "id": 9,
     "name": "Repeat Ball",
     "category": "pokeball",
+    "description": "A BALL that works better on POKéMON caught before.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//repeatball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": 500,
@@ -295,30 +301,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A BALL that works better on POKéMON caught before.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 310,
+        "quantity": 1
+      },
+      {
+        "item_id": 711,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
     "catch_rate": 1
   },
   {
     "id": 10,
     "name": "Timer Ball",
     "category": "pokeball",
+    "description": "More effective as more turns are taken in battle.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//timerball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": 500,
@@ -330,30 +337,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "More effective as more turns are taken in battle.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 315,
+        "quantity": 1
+      },
+      {
+        "item_id": 711,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
     "catch_rate": 1
   },
   {
     "id": 11,
     "name": "Luxury Ball",
     "category": "pokeball",
+    "description": "A cozy BALL that makes POKéMON more friendly.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//luxuryball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": 1500,
@@ -365,23 +373,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A cozy BALL that makes POKéMON more friendly.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 316,
+        "quantity": 1
+      },
+      {
+        "item_id": 712,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
     "catch_rate": 1
   },
   {
@@ -423,7 +429,10 @@
     "id": 13,
     "name": "Dusk Ball",
     "category": "pokeball",
+    "description": "A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places like caves.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//duskball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": 500,
@@ -435,30 +444,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places like caves.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 313,
+        "quantity": 1
+      },
+      {
+        "item_id": 712,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
     "catch_rate": 1
   },
   {
     "id": 14,
     "name": "Heal Ball",
     "category": "pokeball",
+    "description": "A remedial Poké Ball that restores the caught Pokémon’s HP and eliminates any status problem.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//healball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": 150,
@@ -470,30 +480,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A remedial Poké Ball that restores the caught Pokémon’s HP and eliminates any status problem.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 314,
+        "quantity": 1
+      },
+      {
+        "item_id": 712,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
     "catch_rate": 1
   },
   {
     "id": 15,
     "name": "Quick Ball",
     "category": "pokeball",
+    "description": "A somewhat different Poké Ball that provides a better catch rate if it is used at the start of a wild encounter.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//quickball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": 500,
@@ -505,23 +516,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A somewhat different Poké Ball that provides a better catch rate if it is used at the start of a wild encounter.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 312,
+        "quantity": 1
+      },
+      {
+        "item_id": 712,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
     "catch_rate": 1
   },
   {
@@ -9818,7 +9827,10 @@
     "id": 301,
     "name": "Lure Ball",
     "category": "pokeball",
+    "description": "A Poké Ball for catching Pokémon hooked by a Rod when fishing.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lureball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": 0,
@@ -9830,38 +9842,30 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": true,
-    "description": "A Poké Ball for catching Pokémon hooked by a Rod when fishing.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
     "craft_recipe": [
       {
-        "item_id": 459,
+        "item_id": 311,
         "quantity": 1
       },
       {
-        "item_id": 47,
-        "quantity": 3
+        "item_id": 710,
+        "quantity": 2
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 302,
     "name": "Level Ball",
     "category": "pokeball",
+    "description": "A Poké Ball for catching Pokémon that are a lower level than your own.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/levelball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": 0,
@@ -9873,29 +9877,30 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A Poké Ball for catching Pokémon that are a lower level than your own.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 310,
+        "quantity": 1
+      },
+      {
+        "item_id": 710,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 303,
     "name": "Moon Ball",
     "category": "pokeball",
+    "description": "A Poké Ball for catching Pokémon that evolve using the Moon Stone.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/moonball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": 0,
@@ -9907,29 +9912,30 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A Poké Ball for catching Pokémon that evolve using the Moon Stone.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 312,
+        "quantity": 1
+      },
+      {
+        "item_id": 710,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 304,
     "name": "Heavy Ball",
     "category": "pokeball",
+    "description": "A Poké Ball for catching very heavy Pokémon.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/heavyball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": false
@@ -9939,29 +9945,30 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A Poké Ball for catching very heavy Pokémon.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 316,
+        "quantity": 1
+      },
+      {
+        "item_id": 710,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 305,
     "name": "Fast Ball",
     "category": "pokeball",
+    "description": "A Poké Ball that makes it easier to catch fast Pokémon.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/fastball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": false,
@@ -9973,29 +9980,30 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A Poké Ball that makes it easier to catch fast Pokémon.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 315,
+        "quantity": 1
+      },
+      {
+        "item_id": 710,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 306,
     "name": "Friend Ball",
     "category": "pokeball",
+    "description": "A Poké Ball that makes caught Pokémon more friendly.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/friendball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": false,
@@ -10007,38 +10015,30 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": true,
-    "description": "A Poké Ball that makes caught Pokémon more friendly.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
     "craft_recipe": [
       {
-        "item_id": 461,
+        "item_id": 313,
         "quantity": 1
       },
       {
-        "item_id": 47,
-        "quantity": 3
+        "item_id": 710,
+        "quantity": 2
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 307,
     "name": "Love Ball",
     "category": "pokeball",
+    "description": "Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/loveball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": false,
@@ -10050,23 +10050,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 314,
+        "quantity": 1
+      },
+      {
+        "item_id": 710,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 308,
@@ -11979,7 +11977,10 @@
     "id": 367,
     "name": "Dream Ball",
     "category": "pokeball",
+    "description": "A special Poké Ball that appears out of nowhere in a bag at the Entree Forest. It can catch any Pokémon.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//dreamball.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": 0,
@@ -11991,23 +11992,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "A special Poké Ball that appears out of nowhere in a bag at the Entree Forest. It can catch any Pokémon.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "raro",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 314,
+        "quantity": 1
+      },
+      {
+        "item_id": 711,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
     "catch_rate": 1
   },
   {
@@ -22455,7 +22454,10 @@
     "id": 687,
     "name": "Shiny Ball",
     "category": "pokeball",
+    "description": "",
     "sprite": "",
+    "rarity": "especial",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22464,18 +22466,45 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "especial"
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 313,
+        "quantity": 15
+      },
+      {
+        "item_id": 310,
+        "quantity": 15
+      },
+      {
+        "item_id": 311,
+        "quantity": 15
+      },
+      {
+        "item_id": 312,
+        "quantity": 15
+      },
+      {
+        "item_id": 314,
+        "quantity": 15
+      },
+      {
+        "item_id": 316,
+        "quantity": 15
+      },
+      {
+        "item_id": 315,
+        "quantity": 15
+      },
+      {
+        "item_id": 713,
+        "quantity": 8
+      }
+    ],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 688,
@@ -23104,9 +23133,12 @@
   },
   {
     "id": 713,
-    "name": "Golden Ore",
+    "name": "Gold Ore",
     "category": "craft-material",
+    "description": "",
     "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -23115,17 +23147,12 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 714,
@@ -23385,6 +23412,32 @@
   {
     "id": 724,
     "name": "Item Aleatório",
+    "category": "other",
+    "description": "",
+    "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 725,
+    "name": "Erva Aleatória",
     "category": "other",
     "description": "",
     "sprite": "",
