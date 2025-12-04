@@ -904,7 +904,7 @@
     "category": "medicine",
     "description": "Revive um Pokémon desmaiado e restaura 25% dos seus HP.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/revive.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 2000,
@@ -942,7 +942,7 @@
     "category": "medicine",
     "description": "Revive um Pokémon desmaiado e restaura todos os seus HP.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/maxrevive.png",
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "price": {
       "buy": 4000,
@@ -1151,7 +1151,7 @@
     "category": "medicine",
     "description": "Uma erva rara de aroma forte capaz de trazer um Pokémon desmaiado de volta à vida. Ela revive o Pokémon com HP totalmente restaurado, mas provoca uma queda de 20 pontos de felicidade.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/revivalherb.png",
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "price": {
       "buy": 2800,
@@ -1366,7 +1366,7 @@
     "category": "medicine",
     "description": "Uma vitamina que aumenta o HP do Pokémon. Aumenta em +10 o SP de HP permanentemente.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/hpup.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 10000,
@@ -1416,7 +1416,7 @@
     "category": "medicine",
     "description": "Uma vitamina que aumenta o Ataque do Pokémon. Aumenta em +10 o SP de Ataque permanentemente.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/protein.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 10000,
@@ -1450,7 +1450,7 @@
     "category": "medicine",
     "description": "Uma vitamina que aumenta a Defesa do Pokémon. Aumenta em +10 o SP de Defesa permanentemente.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/iron.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 10000,
@@ -1484,7 +1484,7 @@
     "category": "medicine",
     "description": "Uma vitamina que aumenta a Velocidade do Pokémon. Aumenta em +10 o SP de Velocidade permanentemente.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/carbos.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 10000,
@@ -1518,7 +1518,7 @@
     "category": "medicine",
     "description": "Uma vitamina que aumenta o Ataque Especial do Pokémon. Aumenta em +10 o SP de Ataque Especial permanentemente.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/calcium.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 10000,
@@ -1577,7 +1577,7 @@
     "category": "medicine",
     "description": "[EFEITO BLOQUEADO]",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ppup.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 10000,
@@ -1602,7 +1602,7 @@
     "category": "medicine",
     "description": "Uma vitamina que aumenta a Defesa Especial do Pokémon. Aumenta em +10 o SP de Defesa Especial permanentemente.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/zinc.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 10000,
@@ -1636,7 +1636,7 @@
     "category": "medicine",
     "description": "[EFEITO BLOQUEADO]",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ppmax.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 10000,
@@ -2323,7 +2323,7 @@
     "category": "medicine",
     "description": "[EFEITO BLOQUEADO]",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/maxrepel.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 900,
@@ -2616,7 +2616,7 @@
     "category": "other",
     "description": "Um cogumelo grande e extremamente aromático. Muito procurado para receitas culinárias refinadas ou como ingrediente de alto valor em pratos especiais.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bigmushroom.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 5000,
@@ -2664,7 +2664,7 @@
     "category": "other",
     "description": "Uma pérola grande de brilho intenso. Muito apreciada em artesanato especial e frequentemente vendida por ótimo valor.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bigpearl.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 8000,
@@ -2712,7 +2712,7 @@
     "category": "other",
     "description": "Um fragmento brilhante de origem estelar. Usado em artesanato refinado ou vendido por bom valor.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/starpiece.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 12000,
@@ -2808,7 +2808,7 @@
     "category": "other",
     "description": "Um fóssil que lembra a raiz petrificada de uma planta pré-histórica. Contém traços de um Pokémon antigo especializado em absorção.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/rootfossil.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 7000,
@@ -2835,7 +2835,7 @@
     "category": "other",
     "description": "Um fóssil afiado que preserva a garra de um predador primordial. Mantém resquícios da agressividade de seu antigo dono.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/clawfossil.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 7000,
@@ -2862,7 +2862,7 @@
     "category": "other",
     "description": "Um fóssil em espiral de uma antiga criatura marinha. Seu formato retorcido guarda memórias de oceanos extintos.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/helixfossil.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 7000,
@@ -2889,7 +2889,7 @@
     "category": "other",
     "description": "Um fóssil rígido que lembra o casco de um Pokémon pré-histórico. Testemunho sólido de eras passadas.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/domefossil.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 7000,
@@ -2916,7 +2916,7 @@
     "category": "other",
     "description": "Um âmbar ancestral contendo material genético perfeitamente preservado de um Pokémon alado. Leve e valioso, como um inseto preso no tempo.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/oldamber.png",
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "price": {
       "buy": 10000,
@@ -2943,7 +2943,7 @@
     "category": "other",
     "description": "Uma placa fossilizada de armadura corporal pertencente a um Pokémon resistente. Sua superfície irregular conta histórias de batalhas antigas.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/armorfossil.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 7000,
@@ -11049,7 +11049,10 @@
     "id": 370,
     "name": "Balm Mushroom",
     "category": "other",
+    "description": "A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/balmmushroom.png",
+    "rarity": "epico",
+    "is_unique": false,
     "price": {
       "buy": 15000,
       "sell": 7500
@@ -11059,23 +11062,12 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 371,
@@ -11107,7 +11099,7 @@
     "category": "other",
     "description": "Um colar composto por várias pérolas perfeitamente alinhadas. Utilizado na criação de acessórios nobres ou como material especial de alto valor.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pearlstring.png",
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "price": {
       "buy": 20000,
@@ -11131,7 +11123,7 @@
     "category": "other",
     "description": "Um fragmento cristalizado de um antigo cometa. Extremamente valioso, ideal para venda ou para compor itens raros em crafting.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cometshard.png",
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "price": {
       "buy": 25000,
@@ -16628,7 +16620,7 @@
     "category": "other",
     "description": "Um fóssil que parece parte do corpo de um Pokémon aviário primitivo. Leve, porém rochoso, símbolo de criaturas ágeis de eras remotas.",
     "sprite": "https://www.serebii.net/itemdex/sprites/fossilizedbird.png",
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "price": {
       "buy": 5000,
@@ -16656,7 +16648,7 @@
     "category": "other",
     "description": "Um fóssil aquático repleto de minerais brilhantes. Mostra a silhueta de um peixe ancestral robusto.",
     "sprite": "https://www.serebii.net/itemdex/sprites/fossilizedfish.png",
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "price": {
       "buy": 5000,
@@ -16684,7 +16676,7 @@
     "category": "other",
     "description": "Fragmentos ósseos pesados que lembram um dragão bípede primitivo. Emana uma aura imponente mesmo petrificado.",
     "sprite": "https://www.serebii.net/itemdex/sprites/fossilizeddrake.png",
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "price": {
       "buy": 5000,
@@ -16712,7 +16704,7 @@
     "category": "other",
     "description": "Um fóssil com características de um grande réptil jurássico. Cada rachadura conta a história de um gigante ancestral.",
     "sprite": "https://www.serebii.net/itemdex/sprites/fossilizeddino.png",
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "price": {
       "buy": 5000,
@@ -16770,8 +16762,12 @@
   {
     "id": 549,
     "name": "Love Sweet",
-    "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/love-sweet.png",
+    "category": "other",
+    "subcategory": "evolution-trigger",
+    "description": "A heart-shaped sweet. When a Milcery holds this, it spins around happily.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/lovesweet.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 500,
       "sell": 250
@@ -16781,24 +16777,12 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A heart-shaped sweet. When a Milcery holds this, it spins around happily.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "evolution-trigger",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 550,
@@ -16836,8 +16820,12 @@
   {
     "id": 551,
     "name": "Clover Sweet",
-    "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/clover-sweet.png",
+    "category": "other",
+    "subcategory": "evolution-trigger",
+    "description": "A clover-shaped sweet. When a Milcery holds this, it spins around happily.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/cloversweet.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 500,
       "sell": 250
@@ -16847,30 +16835,22 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A clover-shaped sweet. When a Milcery holds this, it spins around happily.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "evolution-trigger",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 552,
     "name": "Flower Sweet",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/flower-sweet.png",
+    "subcategory": "evolution-trigger",
+    "description": "A flower-shaped sweet. When a Milcery holds this, it spins around happily.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/flowersweet.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 500,
       "sell": 250
@@ -16880,30 +16860,22 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A flower-shaped sweet. When a Milcery holds this, it spins around happily.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "evolution-trigger",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 553,
     "name": "Star Sweet",
-    "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/star-sweet.png",
+    "category": "other",
+    "subcategory": "evolution-trigger",
+    "description": "A star-shaped sweet. When a Milcery holds this, it spins around happily.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/starsweet.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 500,
       "sell": 250
@@ -16913,30 +16885,22 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A star-shaped sweet. When a Milcery holds this, it spins around happily.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "evolution-trigger",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 554,
     "name": "Ribbon Sweet",
-    "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/ribbon-sweet.png",
+    "category": "other",
+    "subcategory": "evolution-trigger",
+    "description": "A ribbon-shaped sweet. When a Milcery holds this, it spins around happily.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ribbonsweet.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 500,
       "sell": 250
@@ -16946,30 +16910,22 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A ribbon-shaped sweet. When a Milcery holds this, it spins around happily.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "evolution-trigger",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 555,
     "name": "Sweet Apple",
-    "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sweet-apple.png",
+    "category": "other",
+    "subcategory": "evolution-trigger",
+    "description": "A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally sweet.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sweetapple.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 2200,
       "sell": 1100
@@ -16979,30 +16935,22 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally sweet.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "evolution-trigger",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 556,
     "name": "Tart Apple",
-    "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/tart-apple.png",
+    "category": "other",
+    "subcategory": "evolution-trigger",
+    "description": "A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally tart.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tartapple.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 2200,
       "sell": 1100
@@ -17012,24 +16960,12 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally tart.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "evolution-trigger",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 557,
@@ -17821,7 +17757,10 @@
     "id": 584,
     "name": "Galarica Cuff",
     "category": "other",
+    "description": "A cuff made from woven-together Galarica Twigs. Giving it to Galarian Slowpoke makes the Pokémon very happy.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/galaricacuff.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -17831,23 +17770,12 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A cuff made from woven-together Galarica Twigs. Giving it to Galarian Slowpoke makes the Pokémon very happy.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 585,
@@ -17917,7 +17845,10 @@
     "id": 587,
     "name": "Galarica Wreath",
     "category": "other",
+    "description": "A wreath made from woven-together Galarica Twigs. Placing it on the head of a Galarian Slowpoke makes the Pokémon very happy.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/galaricawreath.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -17927,23 +17858,12 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A wreath made from woven-together Galarica Twigs. Placing it on the head of a Galarian Slowpoke makes the Pokémon very happy.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 588,
@@ -22312,7 +22232,7 @@
     "category": "other",
     "description": "Um cordão antigo trançado com fios condutores especiais. Reproduz o fluxo energético de uma troca entre treinadores, permitindo evoluções que normalmente exigiriam esse processo.",
     "sprite": "",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": false,
@@ -22348,7 +22268,7 @@
     "category": "other",
     "description": "Um saco reforçado abarrotado de moedas antigas. Cada movimento faz ecoar o som de dezenas de Gimmighoul Coins, revelando um estoque considerável desse material raro e cobiçado.",
     "sprite": "",
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "price": {
       "buy": false,
