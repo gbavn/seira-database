@@ -3004,7 +3004,10 @@
     "id": 94,
     "name": "Honey",
     "category": "craft-material",
+    "description": "Mel doce coletado de colmeias, aproveitado em diferentes aplicações naturais.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/honey.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 900,
       "sell": 450
@@ -3014,20 +3017,7 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
@@ -7974,7 +7964,10 @@
     "id": 250,
     "name": "Power Bracer",
     "category": "battle-item",
+    "description": "Braçadeiras pesadas projetadas para fortalecer os músculos dos braços, impulsionando ataques físicos. Aumenta em +2 os SPs obtidos em Ataque durante os treinamentos.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerbracer.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -7984,29 +7977,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A Pokémon hold item that promotes Attack gain on leveling, but reduces the Speed stat.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 251,
     "name": "Power Belt",
     "category": "battle-item",
+    "description": "Um cinto firme e bem ajustado que melhora a sustentação do corpo, intensificando a capacidade defensiva do usuário. Aumenta em +2 os SPs obtidos em Defesa durante os treinamentos.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerbelt.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -8016,29 +8001,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A Pokémon hold item that promotes Defense gain on leveling, but reduces the Speed stat.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 252,
     "name": "Power Lens",
     "category": "battle-item",
+    "description": "Lentes de foco aprimorado que exigem maior concentração e percepção, refinando o potencial energético do usuário. Aumenta em +2 os SPs obtidos em Ataque Especial durante os treinamentos.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerlens.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -8048,29 +8025,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A Pokémon hold item that promotes Sp. Atk gain on leveling, but reduces the Speed stat.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 253,
     "name": "Power Band",
     "category": "battle-item",
+    "description": "Uma faixa reforçada que estabiliza a postura e aprimora o controle corporal, fortalecendo a resistência mística do usuário. Aumenta em +2 os SPs obtidos em Defesa Especial durante os treinamentos.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerband.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -8080,29 +8049,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A Pokémon hold item that promotes Sp. Def gain on leveling, but reduces the Speed stat.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 254,
     "name": "Power Anklet",
     "category": "battle-item",
+    "description": "Um equipamento de treino especializado que restringe levemente os movimentos das pernas, focando o esforço muscular. Aumenta em +2 os SPs obtidos em Velocidade durante os treinamentos.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/poweranklet.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -8112,29 +8073,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A Pokémon hold item that promotes Speed gain on leveling, but reduces the Speed stat.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 255,
     "name": "Power Weight",
     "category": "battle-item",
+    "description": "Um peso abdominal resistente que intensifica o esforço corporal geral, promovendo maior vigor físico. Aumenta em +2 os SPs obtidos em HP durante os treinamentos.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/powerweight.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -8144,23 +8097,12 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A Pokémon hold item that promotes HP gain on leveling, but reduces the Speed stat.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 256,
@@ -9897,7 +9839,10 @@
     "id": 310,
     "name": "Red Apricorn",
     "category": "craft-material",
+    "description": "Uma Apricorn vermelha que libera um aroma forte e penetrante, capaz de dominar rapidamente os arredores. É intensa e marcante, não passando despercebida.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/redapricorn.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 200,
       "sell": 100
@@ -9907,29 +9852,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A red Apricorn. It assails your nostrils.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 311,
     "name": "Blue Apricorn",
     "category": "craft-material",
+    "description": "Uma Apricorn azul com um cheiro suave e terroso, lembrando grama molhada após chuva. Sua fragrância é discreta, porém refrescante.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/blueapricorn.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 200,
       "sell": 100
@@ -9939,29 +9876,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A blue Apricorn. It smells a bit like grass.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 312,
     "name": "Yellow Apricorn",
     "category": "craft-material",
+    "description": "Uma Apricorn amarela com um perfume leve e animador, semelhante a cítricos suaves. Seu cheiro transmite vitalidade e clareza.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/yellowapricorn.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 200,
       "sell": 100
@@ -9971,29 +9900,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A yellow Apricorn. It has an invigorating scent.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 313,
     "name": "Green Apricorn",
     "category": "craft-material",
+    "description": "Uma Apricorn verde com um aroma misterioso e profundamente herbal, como folhas recém-amassadas. Sua fragrância parece mudar levemente conforme é manipulada.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/greenapricorn.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 200,
       "sell": 100
@@ -10003,29 +9924,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A green Apricorn. It has a mysterious, aromatic scent.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 314,
     "name": "Pink Apricorn",
     "category": "craft-material",
+    "description": "Uma Apricorn rosada exalando um perfume doce e convidativo, semelhante ao de frutas maduras. Seu aroma leve transmite uma sensação de conforto.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pinkapricorn.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 200,
       "sell": 100
@@ -10035,29 +9948,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A pink Apricorn. It has a nice, sweet scent.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 315,
     "name": "White Apricorn",
     "category": "craft-material",
+    "description": "Uma Apricorn branca de perfume neutro, quase inexistente. Sua ausência de cheiro a torna intrigante, como se ocultasse seu verdadeiro potencial.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/whiteapricorn.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 200,
       "sell": 100
@@ -10067,29 +9972,21 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A white Apricorn. It doesn’t smell like anything.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 316,
     "name": "Black Apricorn",
     "category": "craft-material",
+    "description": "Uma Apricorn negra com um odor difícil de definir, nem agradável, nem desagradável, apenas enigmático. Parece absorver o aroma do ambiente ao redor.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/blackapricorn.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 200,
       "sell": 100
@@ -10099,23 +9996,12 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A black Apricorn It has an indescribable scent.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 317,
@@ -15015,7 +14901,10 @@
     "id": 464,
     "name": "Electric Seed",
     "category": "battle-item",
+    "description": "Uma semente energizada que vibra com eletricidade latente. Quando o terreno elétrico está ativo, desperta imediatamente seu poder, aumentando a Defesa em 1 estágio.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/electricseed.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 4000,
       "sell": 2000
@@ -15025,29 +14914,22 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once.",
-    "effect": "Held: Consumed on Electric Terrain and raises the holder’s Defense by one stage.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Held: Consumed on Electric Terrain and raises the holder’s Defense by one stage."
   },
   {
     "id": 465,
     "name": "Psychic Seed",
     "category": "battle-item",
+    "description": "Uma semente impregnada por energia psíquica suave e concentrada. Ao entrar em contato com um terreno psíquico ativo, libera sua força oculta, aumentando a Defesa Especial em 1 estágio.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/psychicseed.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 4000,
       "sell": 2000
@@ -15057,29 +14939,22 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "An item to be held by a Pokémon. It boosts Sp. Def on Psychic Terrain. It can only be used once.",
-    "effect": "Held: Consumed on Psychic Terrain and raises the holder’s Special Defense by one stage.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Held: Consumed on Psychic Terrain and raises the holder’s Special Defense by one stage."
   },
   {
     "id": 466,
     "name": "Misty Seed",
     "category": "battle-item",
+    "description": "Uma semente envolta por um véu etéreo de energia nebulosa. Sob a influência de um terreno de névoa, reage ao ambiente mágico ao redor, aumentando a Defesa Especial em 1 estágio.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/mistyseed.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 4000,
       "sell": 2000
@@ -15089,29 +14964,22 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "An item to be held by a Pokémon. It boosts Sp. Def on Misty Terrain. It can only be used once.",
-    "effect": "Held: Consumed on Misty Terrain and raises the holder’s Special Defense by one stage.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Held: Consumed on Misty Terrain and raises the holder’s Special Defense by one stage."
   },
   {
     "id": 467,
     "name": "Grassy Seed",
     "category": "battle-item",
+    "description": "Uma semente repleta de vitalidade natural. Quando ativada por um terreno de grama, absorve a energia viva do solo, aumentando a Defesa em 1 estágio.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/grassyseed.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 4000,
       "sell": 2000
@@ -15121,23 +14989,13 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "An item to be held by a Pokémon. It boosts Defense on Grassy Terrain. It can only be used once.",
-    "effect": "Held: Consumed on Grassy Terrain and raises the holder’s Defense by one stage.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Held: Consumed on Grassy Terrain and raises the holder’s Defense by one stage."
   },
   {
     "id": 468,
@@ -22619,7 +22477,10 @@
     "id": 702,
     "name": "Spoiled Apricorn",
     "category": "craft-material",
+    "description": "Uma Apricorn deteriorada cujo aroma azedo e fermentado denuncia seu estado. A casca amolecida e irregular indica que já passou muito do seu auge, restando apenas seu cheiro desagradável.",
     "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22628,23 +22489,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 703,
     "name": "Ball of Mud",
     "category": "craft-material",
+    "description": "Uma bola de lama densa e aderente. Usada para reduzir a mobilidade de oponentes em batalha ou como ingrediente espessante em diversas receitas.",
     "sprite": "https://2img.net/i.imgur.com/Y1BKjP8.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22653,23 +22512,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 704,
     "name": "Sticky Goo",
     "category": "craft-material",
+    "description": "Uma substância viscosa de forte aderência. Frequentemente utilizada para criar efeitos pegajosos em combate ou como base em receitas especializadas.",
     "sprite": "https://2img.net/i.imgur.com/5yK4Tzr.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22678,23 +22535,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 705,
     "name": "Silk Thread",
     "category": "craft-material",
+    "description": "Uma fibra macia e leve produzida por Pokémon inseto. Ideal para confecção de roupas refinadas e para itens especiais usados em batalhas.",
     "sprite": "https://2img.net/i.imgur.com/Hv4ta0c.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22703,23 +22558,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 706,
     "name": "Wool",
     "category": "craft-material",
+    "description": "Uma fibra quente e fofa colhida de Pokémon. Utilizada na confecção de roupas isolantes e em receitas artesanais.",
     "sprite": "https://2img.net/i.imgur.com/0pJ9qxp.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22728,23 +22581,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 707,
     "name": "Shiny Wool",
     "category": "craft-material",
+    "description": "Uma lã rara com brilho natural suave. Muito valorizada para roupas premium e itens especiais de alta qualidade.",
     "sprite": "https://2img.net/i.imgur.com/s1pt7YC.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22753,23 +22604,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 708,
     "name": "Cotton",
     "category": "craft-material",
+    "description": "Uma fibra leve e macia usada amplamente na confecção de tecidos e na produção de itens artesanais relacionados a batalha.",
     "sprite": "https://2img.net/i.imgur.com/BfSjxG2.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22778,23 +22627,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 709,
     "name": "Shiny Cotton",
     "category": "craft-material",
+    "description": "Um algodão raro com brilho natural elegante. Empregado na criação de roupas superiores e na fabricação de itens especiais.",
     "sprite": "https://2img.net/i.imgur.com/UsKkxjH.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22803,23 +22650,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 710,
     "name": "Iron Ore",
     "category": "craft-material",
+    "description": "Um minério bruto de ferro extraído de rochas densas. Usado como base resistente na forja de equipamentos e itens metálicos.",
     "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22828,23 +22673,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 711,
     "name": "Copper Ore",
     "category": "craft-material",
+    "description": "Um minério de cobre de tom avermelhado. Utilizado na fabricação de componentes condutores e itens artesanais.",
     "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22853,23 +22696,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 712,
     "name": "Silver Ore",
     "category": "craft-material",
+    "description": "Um minério prateado de alta pureza. Empregado na criação de itens refinados e materiais energizados de boa condução.",
     "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22878,23 +22719,18 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 713,
     "name": "Gold Ore",
     "category": "craft-material",
-    "description": "",
+    "description": "Um minério dourado raro e valioso. Usado para produzir itens de alto prestígio ou componentes de elevada afinidade energética.",
     "sprite": "",
     "rarity": "comum",
     "is_unique": false,
@@ -22917,7 +22753,10 @@
     "id": 714,
     "name": "Flour",
     "category": "craft-material",
+    "description": "Um pó fino obtido de grãos moídos. Base essencial em diversas receitas culinárias e itens de suporte alimentar.",
     "sprite": "https://2img.net/i.imgur.com/8RP31iS.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22926,23 +22765,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 715,
     "name": "Sugar",
     "category": "craft-material",
+    "description": "Cristais doces e altamente solúveis. Utilizados para aprimorar receitas, energizar doces e produzir itens especiais.",
     "sprite": "https://2img.net/i.imgur.com/KhzS48H.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22951,23 +22788,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 716,
-    "name": "Cocoa",
+    "name": "Cocoa Powder",
     "category": "craft-material",
+    "description": "Um pó escuro extraído de sementes torradas. Comumente usado em sobremesas energéticas e em itens que elevam o vigor.",
     "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -22976,23 +22811,21 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 717,
     "name": "Oil",
     "category": "craft-material",
+    "description": "Um líquido espesso extraído de frutos e sementes. Serve como base culinária, agente lubrificante ou componente em misturas especiais.",
     "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 0,
       "sell": 0
@@ -23001,17 +22834,12 @@
       "available_in_shop": false,
       "shop_stock": 0
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 718,
@@ -23222,7 +23050,7 @@
     "id": 726,
     "name": "Blank TM",
     "category": "craft-material",
-    "description": "",
+    "description": "Um disco técnico vazio projetado para registrar movimentos. Pode ser gravado com qualquer técnica compatível, transformando-se em um TM utilizável.",
     "sprite": "",
     "rarity": "comum",
     "is_unique": false,
