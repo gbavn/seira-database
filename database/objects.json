@@ -137,70 +137,35 @@
     }
   },
   {
-    "id": "fishing-spot-01",
+    "id": "FishRiver",
     "type": "fishing_spot",
-    "name": "Ponto de Pesca",
-    "description": "Um local tranquilo na margem do rio, perfeito para pescar Pokémon aquáticos.",
-    "requires_item": 265,
-    "loot": {
-      "common": [
-        {
-          "pokemon_id": 129,
-          "rate": 60
-        },
-        {
-          "pokemon_id": 60,
-          "rate": 40
-        }
-      ],
-      "rare": [
-        {
-          "pokemon_id": 90,
-          "rate": 70
-        },
-        {
-          "pokemon_id": 118,
-          "rate": 30
-        }
-      ],
-      "epic": [
-        {
-          "pokemon_id": 130,
-          "rate": 100
-        }
-      ],
-      "items": {
-        "common": [
-          {
-            "item_id": 93,
-            "rate": 50
-          },
-          {
-            "item_id": 4,
-            "rate": 50
-          }
-        ],
-        "rare": [
-          {
-            "item_id": 88,
-            "rate": 50
-          },
-          {
-            "item_id": 63,
-            "rate": 50
-          }
-        ],
-        "epic": [
-          {
-            "item_id": 89,
-            "rate": 50
-          },
-          {
-            "item_id": 800,
-            "rate": 50
-          }
-        ]
-      }
-    }
+    "name": "Ponto de Pesca (Rio)",
+    "description": "",
+    "cooldown_hours": 24,
+    "loot": {}
+  },
+  {
+    "id": "FishLake",
+    "type": "fishing_spot",
+    "name": "Ponto de Pesca (Lago)",
+    "description": "",
+    "cooldown_hours": 24,
+    "loot": {}
+  },
+  {
+    "id": "FishMarsh",
+    "type": "fishing_spot",
+    "name": "Ponto de Pesca (Charco)",
+    "description": "",
+    "cooldown_hours": 24,
+    "loot": {}
+  },
+  {
+    "id": "FishSea",
+    "type": "fishing_spot",
+    "name": "Ponto de Pesca (Mar)",
+    "description": "",
+    "cooldown_hours": 24,
+    "loot": {}
   }
 ]
