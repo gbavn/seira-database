@@ -2726,7 +2726,11 @@
     "id": 80,
     "name": "Sun Stone",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sun-stone.png",
+    "subcategory": "elemental-stone",
+    "description": "Makes certain species of POKéMON evolve.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sunstone.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -2736,30 +2740,29 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "Makes certain species of POKéMON evolve.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "elemental-stone",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false,
+    "linked_pokemon": [
+      44,
+      191,
+      546,
+      548,
+      694
+    ]
   },
   {
     "id": 81,
     "name": "Moon Stone",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/moon-stone.png",
+    "subcategory": "elemental-stone",
+    "description": "Makes certain species of POKéMON evolve.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/moonstone.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -2769,30 +2772,30 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "Makes certain species of POKéMON evolve.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "elemental-stone",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false,
+    "linked_pokemon": [
+      30,
+      33,
+      35,
+      39,
+      300,
+      517
+    ]
   },
   {
     "id": 82,
     "name": "Fire Stone",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fire-stone.png",
+    "subcategory": "elemental-stone",
+    "description": "Makes certain species of POKéMON evolve.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/firestone.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -2802,30 +2805,29 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "Makes certain species of POKéMON evolve.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "elemental-stone",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false,
+    "linked_pokemon": [
+      37,
+      58,
+      133,
+      513,
+      951
+    ]
   },
   {
     "id": 83,
     "name": "Thunder Stone",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/thunder-stone.png",
+    "subcategory": "elemental-stone",
+    "description": "Makes certain species of POKéMON evolve.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/thunderstone.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -2835,30 +2837,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "Makes certain species of POKéMON evolve.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "elemental-stone",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false,
+    "linked_pokemon": [
+      25,
+      82,
+      133,
+      299,
+      603,
+      737,
+      938
+    ]
   },
   {
     "id": 84,
     "name": "Water Stone",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/water-stone.png",
+    "subcategory": "elemental-stone",
+    "description": "Makes certain species of POKéMON evolve.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/waterstone.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -2868,30 +2871,30 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "Makes certain species of POKéMON evolve.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "elemental-stone",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false,
+    "linked_pokemon": [
+      61,
+      90,
+      120,
+      133,
+      271,
+      515
+    ]
   },
   {
     "id": 85,
     "name": "Leaf Stone",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/leaf-stone.png",
+    "subcategory": "elemental-stone",
+    "description": "Makes certain species of POKéMON evolve.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/leafstone.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -2901,24 +2904,20 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "Makes certain species of POKéMON evolve.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "elemental-stone",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false,
+    "linked_pokemon": [
+      44,
+      70,
+      102,
+      133,
+      274,
+      511
+    ]
   },
   {
     "id": 86,
@@ -3214,7 +3213,10 @@
     "id": 95,
     "name": "Root Fossil",
     "category": "other",
+    "description": "A fossil of an ancient, seafloor- dwelling POKéMON.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/rootfossil.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 7000,
       "sell": 3500
@@ -3224,31 +3226,24 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A fossil of an ancient, seafloor- dwelling POKéMON.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
     "has_skins": false,
-    "is_book": false
+    "is_book": false,
+    "linked_pokemon": [
+      345
+    ]
   },
   {
     "id": 96,
     "name": "Claw Fossil",
     "category": "other",
+    "description": "A fossil of an ancient, seafloor- dwelling POKéMON.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/clawfossil.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 7000,
       "sell": 3500
@@ -3258,31 +3253,24 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A fossil of an ancient, seafloor- dwelling POKéMON.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
     "has_skins": false,
-    "is_book": false
+    "is_book": false,
+    "linked_pokemon": [
+      347
+    ]
   },
   {
     "id": 97,
     "name": "Helix Fossil",
     "category": "other",
+    "description": "A piece of an ancient marine POKéMON’s seashell.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/helixfossil.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 7000,
       "sell": 3500
@@ -3292,31 +3280,24 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A piece of an ancient marine POKéMON’s seashell.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
     "has_skins": false,
-    "is_book": false
+    "is_book": false,
+    "linked_pokemon": [
+      138
+    ]
   },
   {
     "id": 98,
     "name": "Dome Fossil",
     "category": "other",
+    "description": "A piece of an ancient marine POKéMON’s shell.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/domefossil.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 7000,
       "sell": 3500
@@ -3326,31 +3307,24 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A piece of an ancient marine POKéMON’s shell.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
     "has_skins": false,
-    "is_book": false
+    "is_book": false,
+    "linked_pokemon": [
+      140
+    ]
   },
   {
     "id": 99,
     "name": "Old Amber",
     "category": "other",
+    "description": "A stone containing the genes of an ancient POKéMON.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/oldamber.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 10000,
       "sell": 5000
@@ -3360,31 +3334,24 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A stone containing the genes of an ancient POKéMON.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
     "has_skins": false,
-    "is_book": false
+    "is_book": false,
+    "linked_pokemon": [
+      142
+    ]
   },
   {
     "id": 100,
     "name": "Armor Fossil",
     "category": "other",
+    "description": "A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/armorfossil.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 7000,
       "sell": 3500
@@ -3394,31 +3361,24 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
     "has_skins": false,
-    "is_book": false
+    "is_book": false,
+    "linked_pokemon": [
+      410
+    ]
   },
   {
     "id": 101,
     "name": "Skull Fossil",
     "category": "other",
+    "description": "A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a head.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/skullfossil.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 7000,
       "sell": 3500
@@ -3428,25 +3388,15 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a head.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
     "has_skins": false,
-    "is_book": false
+    "is_book": false,
+    "linked_pokemon": [
+      408
+    ]
   },
   {
     "id": 102,
@@ -3484,7 +3434,11 @@
     "id": 103,
     "name": "Shiny Stone",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/shiny-stone.png",
+    "subcategory": "elemental-stone",
+    "description": "A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/shinystone.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -3494,30 +3448,28 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "elemental-stone",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false,
+    "linked_pokemon": [
+      176,
+      315,
+      572,
+      670
+    ]
   },
   {
     "id": 104,
     "name": "Dusk Stone",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dusk-stone.png",
+    "subcategory": "elemental-stone",
+    "description": "A peculiar stone that makes certain species of Pokémon evolve. It is as dark as dark can be.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/duskstone.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -3527,30 +3479,28 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A peculiar stone that makes certain species of Pokémon evolve. It is as dark as dark can be.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "elemental-stone",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false,
+    "linked_pokemon": [
+      198,
+      200,
+      608,
+      680
+    ]
   },
   {
     "id": 105,
     "name": "Dawn Stone",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dawn-stone.png",
+    "subcategory": "elemental-stone",
+    "description": "A peculiar stone that makes certain species of Pokémon evolve. It sparkles like eyes.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dawnstone.png",
+    "rarity": "raro",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": false,
@@ -3561,23 +3511,12 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A peculiar stone that makes certain species of Pokémon evolve. It sparkles like eyes.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "elemental-stone",
-    "rarity": "raro",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
     "linked_pokemon": [
       281,
       361
@@ -3587,7 +3526,11 @@
     "id": 106,
     "name": "Oval Stone",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/oval-stone.png",
+    "subcategory": "elemental-stone",
+    "description": "A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ovalstone.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 2000,
       "sell": 1000
@@ -3597,30 +3540,24 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "elemental-stone",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false,
+    "linked_pokemon": [
+      440
+    ]
   },
   {
     "id": 107,
     "name": "Odd Keystone",
     "category": "other",
+    "description": "A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/oddkeystone.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 2100,
       "sell": 1050
@@ -3630,25 +3567,15 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
     "has_skins": false,
-    "is_book": false
+    "is_book": false,
+    "linked_pokemon": [
+      442
+    ]
   },
   {
     "id": 108,
@@ -10603,7 +10530,10 @@
     "id": 321,
     "name": "Slowpoke Tail",
     "category": "other",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/slowpoke-tail.png",
+    "description": "A very tasty tail of something. It sells for a high price.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/slowpoketail.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": false,
       "sell": false
@@ -10613,23 +10543,12 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A very tasty tail of something. It sells for a high price.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 322,
@@ -14088,7 +14007,10 @@
     "id": 426,
     "name": "Jaw Fossil",
     "category": "other",
+    "description": "A fossil from a prehistoric Pokémon that once lived on the land. It looks as if it could be a piece of a large jaw.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/jawfossil.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 7000,
       "sell": 3500
@@ -14098,31 +14020,24 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A fossil from a prehistoric Pokémon that once lived on the land. It looks as if it could be a piece of a large jaw.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
     "has_skins": false,
-    "is_book": false
+    "is_book": false,
+    "linked_pokemon": [
+      696
+    ]
   },
   {
     "id": 427,
     "name": "Sail Fossil",
     "category": "other",
+    "description": "A fossil from a prehistoric Pokémon that once lived on the land. It looks like the impression from a skin sail.",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/sailfossil.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 7000,
       "sell": 3500
@@ -14132,25 +14047,15 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A fossil from a prehistoric Pokémon that once lived on the land. It looks like the impression from a skin sail.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
     "has_skins": false,
-    "is_book": false
+    "is_book": false,
+    "linked_pokemon": [
+      698
+    ]
   },
   {
     "id": 428,
@@ -15087,7 +14992,11 @@
     "id": 455,
     "name": "Ice Stone",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/ice-stone.png",
+    "subcategory": "elemental-stone",
+    "description": "A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/icestone.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -15097,24 +15006,17 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "elemental-stone",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false,
+    "linked_pokemon": [
+      133,
+      739,
+      974
+    ]
   },
   {
     "id": 456,
@@ -19767,7 +19669,11 @@
     "id": 598,
     "name": "Malicious Armor",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/malicious-armor.png",
+    "subcategory": "evolution-trigger",
+    "description": null,
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/maliciousarmor.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 750,
       "sell": 375
@@ -19777,24 +19683,15 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": null,
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "evolution-trigger",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false,
+    "linked_pokemon": [
+      935
+    ]
   },
   {
     "id": 599,
@@ -22552,7 +22449,10 @@
     "id": 685,
     "name": "Auspicious Armor",
     "category": "other",
+    "description": null,
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/auspiciousarmor.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -22562,29 +22462,24 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": null,
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "linked_pokemon": [
+      935
+    ]
   },
   {
     "id": 686,
     "name": "Leader’s Crest",
     "category": "other",
+    "description": null,
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/leader'screst.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 3000,
       "sell": 1500
@@ -22594,23 +22489,15 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": null,
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "linked_pokemon": [
+      625
+    ]
   },
   {
     "id": 687,
@@ -24350,5 +24237,41 @@
     "posts_to_collect": 0,
     "has_skins": false,
     "is_book": false
+  },
+  {
+    "id": 754,
+    "name": "Linking Cord",
+    "category": "other",
+    "description": "",
+    "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "linked_pokemon": [
+      64,
+      67,
+      75,
+      93,
+      525,
+      533,
+      708,
+      710
+    ]
   }
 ]
