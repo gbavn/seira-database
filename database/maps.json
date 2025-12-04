@@ -7,8 +7,8 @@
     "description": "Veldhavn é uma cidade que parece flutuar sobre a água. Canais estreitos serpenteiam entre casas de arquitetura contemporânea e fachadas de madeira pintadas em tons pastéis, lembrando pequenas joias refletidas na superfície calma. Conectada por pontes delicadas, algumas apenas para pedestres e bicicletas, a cidade mantém uma estética limpa e organizada, evocando uma sensação de tranquilidade quase surreal.\n\nHistoricamente, Veldhavn começou como uma vila de pescadores, mas com o tempo cresceu em torno do turismo e do comércio de produtos locais, sem perder a harmonia com seus canais e lagoas. Pequenos cafés e boutiques se alinham às margens da água, e barcos silenciosos deslizam pelos canais, substituindo estradas convencionais em algumas áreas. O contraste surge na modernidade urbana do centro, onde edifícios de vidro e tecnologia de ponta se integram com a estética lacustre, criando um charme que é ao mesmo tempo antigo e futurista.\n\nCulturalmente, a cidade celebra festivais de luzes sobre a água e feiras de arte que ocupam as margens dos canais, atraindo visitantes de toda Seira. A população mantém forte senso de comunidade: vizinhos ajudam-se mutuamente durante enchentes sazonais ou para preservar a beleza natural. Entretanto, o excesso de turistas em certos períodos causa tensão entre o comércio local e residentes mais tradicionais, gerando uma mistura curiosa de hospitalidade e ligeira impaciência.",
     "map_image": "https://2img.net/i.imgur.com/4AlliMd.png",
     "coordinates": {
-      "x": 76,
-      "y": 83
+      "x": 75.895,
+      "y": 84.823
     },
     "metadata": {
       "population": "95.000",
@@ -94,7 +94,8 @@
         "name": "Rota 06",
         "forum_link": "https://seira.forumeiros.com/t111-descricao-rota-06"
       }
-    }
+    },
+    "special_location": false
   },
   {
     "id": "R06",
@@ -105,7 +106,7 @@
     "map_image": "https://2img.net/i.imgur.com/Xhrbstg.png",
     "coordinates": {
       "x": 76,
-      "y": 74
+      "y": 74.066
     },
     "metadata": {
       "population": "Aproximadamente 350 a 500 viajantes diários, entre treinadores, moradores locais e comerciantes itinerantes.",
@@ -173,7 +174,8 @@
         "posts_required": 2,
         "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn"
       }
-    }
+    },
+    "special_location": false
   },
   {
     "id": "HYP",
@@ -183,8 +185,8 @@
     "description": "Construída sobre os antigos vales do norte de Hando, Hyperia é o maior símbolo da união entre tradição e progresso em Seira. Onde antes existiam templos e jardins silenciosos, hoje erguem-se torres de vidro que refletem o céu em tons elétricos. As ruas brilham com o fluxo contínuo de energia, drones cruzam avenidas como se fossem bandos de Pidove metálicos, e o som das multidões se mistura ao zumbido constante da rede elétrica que nunca dorme.\n\nFundada após a unificação, Hyperia foi escolhida como capital de Seira não apenas por sua localização estratégica, mas por representar o ponto de equilíbrio entre os valores de Hando e Nassael. O norte ofereceu sabedoria e estabilidade; o sul trouxe inovação e comércio. A fusão dessas forças deu origem à cidade que se tornaria o centro da Rede Helix — o grande sistema neural que conecta toda a região.\n\nNo topo da Colina Prisma ergue-se o Laboratório Banyan, coração científico da cidade e marco de uma nova era. Foi ali que a Professora Banyan e sua equipe criaram a Helix, unindo ecossistemas, dados e Pokémon em uma mesma rede inteligente. A presença constante da Helix é sentida em todos os cantos: luzes que se ajustam sozinhas, trens que deslizam sem condutores, telas públicas que transmitem notícias em tempo real sobre o clima, a economia — ou sobre os recentes distúrbios energéticos que preocupam a população.\n\nMas a energia de Hyperia não flui apenas pelos cabos. Ela pulsa nas pessoas. Em meio aos prédios espelhados e praças digitais, multidões se reúnem para assistir ao V!be Showdown, o maior espetáculo cultural de Seira. Parte torneio, parte show, o evento combina batalhas Pokémon, música e performance em apresentações sincronizadas com os batimentos da Helix. Treinadores se tornam estrelas, seus Pokémon dançam entre luzes e hologramas, e o público vota em tempo real, transformando cada duelo em um fenômeno coletivo.\nEm Hyperia, vencer é importante — mas vibrar mais alto que os outros é o verdadeiro triunfo.\n\nNo entanto, nem tudo brilha igualmente na cidade do néon eterno. Sob as camadas de luxo e espetáculo, há bairros antigos que ainda guardam a arquitetura de Hando — ruas estreitas, templos abandonados e comunidades que resistem ao ritmo acelerado do progresso. Enquanto o alto da cidade celebra a conectividade e o entretenimento, os distritos baixos sofrem com falhas de energia, quedas de sistema e boatos sobre aparências estranhas ligadas à instabilidade da Helix.",
     "map_image": "https://2img.net/i.imgur.com/ZiLFurO.png",
     "coordinates": {
-      "x": 61,
-      "y": 51
+      "x": 61.203,
+      "y": 51.4
     },
     "metadata": {
       "population": "2.000.000",
@@ -240,7 +242,8 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {}
+    "accesses": {},
+    "special_location": false
   },
   {
     "id": "HSR",
@@ -250,8 +253,8 @@
     "description": "Entre colinas suaves e vinhedos dourados, Hillshire floresce como o coração verde de Seira. Suas origens estão fincadas nos vales do antigo Reino de Hando, mas a cidade recebeu forte influência externa, dando-lhe um charme cosmopolita que muitos associam a Nassael. É uma cidade que celebra a natureza em cada detalhe: casarões de pedra cobertos de hera, pomares aromáticos, praças floridas e cafés ao ar livre que exalam o aroma de vinho local e pão recém-assado.\n\nAs ruas serpenteiam pelos campos, seguindo trilhas antigas que conectam fazendas, jardins botânicos e pequenas vinícolas. Apesar da aparência pastoral, Hillshire não é uma cidade isolada: estradas bem conservadas, pequenos centros comerciais e mercados conectam a cidade às demais regiões de Seira, permitindo que produtos agrícolas e artesanais ganhem fama continental.\n\nO ritmo em Hillshire é diferente do acelerado das metrópoles como Hyperia. Aqui, o tempo parece desacelerar: moradores conversam à sombra das oliveiras, artistas pintam murais nas paredes antigas e treinadores de Pokémon do tipo Planta utilizam os vastos campos para treinar e realizar competições sazonais. A cidade possui uma forte tradição ecológica, com jardins verticais, hortas comunitárias e reservas naturais que convivem com o espaço urbano, evidenciando a harmonização entre progresso e preservação.\n\nApesar do clima sereno, Hillshire tem seus contrastes: áreas turísticas e vinícolas prosperam com turistas e visitantes, enquanto pequenas comunidades rurais enfrentam dificuldades com tecnologia limitada e infraestrutura precária. Essa dualidade cria uma atmosfera única, em que o passado e o presente se encontram e se complementam.",
     "map_image": "https://2img.net/i.imgur.com/WHB7ssW.png",
     "coordinates": {
-      "x": 61,
-      "y": 28
+      "x": 61.256,
+      "y": 28.992
     },
     "metadata": {
       "population": "450.000",
@@ -307,7 +310,8 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {}
+    "accesses": {},
+    "special_location": false
   },
   {
     "id": "AST",
@@ -377,7 +381,7 @@
     "map_image": "https://2img.net/i.imgur.com/bMADkSG.png",
     "coordinates": {
       "x": 76,
-      "y": 25
+      "y": 25.67
     },
     "metadata": {
       "population": "300.000",
@@ -434,7 +438,8 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {}
+    "accesses": {},
+    "special_location": false
   },
   {
     "id": "R04",
@@ -444,11 +449,11 @@
     "description": "A Rota 04 se estende como um vasto tapete dourado acima da cidade de Hyperia, onde campos de trigo balançam ao vento sob um céu azul radiante, pontilhado por nuvens suaves como algodão. No coração dessa paisagem bucólica, velhos moinhos de vento giram lentamente, testemunhas silenciosas de gerações de agricultores e criadores que moldaram a região. Pequenas trilhas de terra cortam os campos, conectando diferentes propriedades rurais, cercadas por cercas de madeira e florais silvestres que crescem livremente nas beiradas do caminho.\n\nA atmosfera é serena, mas ativa. A presença de fazendas torna a Rota 04 um ponto estratégico e muito procurado por treinadores em busca de experiência prática, seja trabalhando com Pokémon de campo, seja testando suas habilidades em um ambiente semi-controlado. Alguns estabelecimentos oferecem abrigo e pequenas tarefas em troca de batalhas ou ajuda no cuidado com os Pokémon locais. A rotina aqui é marcada por um equilíbrio entre esforço físico e contemplação, onde os visitantes aprendem que a força também nasce da paciência e do convívio com a terra.",
     "map_image": "https://2img.net/i.imgur.com/ME9dF3D.png",
     "coordinates": {
-      "x": 61,
-      "y": 38
+      "x": 61.313,
+      "y": 38.19
     },
     "metadata": {
-      "population": 0,
+      "population": "",
       "economy": [],
       "based_on": ""
     },
@@ -489,7 +494,8 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {}
+    "accesses": {},
+    "special_location": false
   },
   {
     "id": "R05",
@@ -500,7 +506,7 @@
     "map_image": "https://2img.net/i.imgur.com/SUnoupj.png",
     "coordinates": {
       "x": 76,
-      "y": 43
+      "y": 43.547
     },
     "metadata": {
       "population": "150–300 viajantes por dia",
@@ -538,7 +544,8 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {}
+    "accesses": {},
+    "special_location": false
   },
   {
     "id": "MDRD",
@@ -546,9 +553,10 @@
     "name": "Mina Dourada",
     "biome": "Cavernoso",
     "description": "A Mina Dourada é um extenso complexo subterrâneo de túneis, veios minerais e galerias abandonadas que se estendem por baixo das encostas entre a Rota 05 e a cidade de Misthollow. Originalmente explorada por mineradores durante o auge da corrida do ouro na região de Seira, o local foi parcialmente reaberto nas últimas décadas como atração turística e ponto de pesquisa geológica.\n\nA estrutura combina o antigo com o moderno: trilhos enferrujados e lanternas antigas convivem com painéis de segurança digitais e sensores de gás. O ar é denso e úmido, iluminado por reflexos amarelados que dançam sobre as paredes metálicas, como se o ouro ainda pulsasse por baixo da rocha. Grupos de engenheiros e pesquisadores se misturam a turistas curiosos e treinadores aventureiros, todos atraídos pelo mistério e pelo brilho que ainda emana das profundezas.\n\nOs Pokémons locais se adaptaram à constante presença humana — alguns auxiliam em pequenas escavações, outros preferem se esconder nas fendas escuras, onde o som das picaretas foi substituído pelo eco de passos e o zumbido das máquinas de ventilação. Apesar da aparência industrial, há um certo encanto natural na forma como musgos dourados e formações minerais cintilam sob a luz artificial. O clima aqui é mais frio e seco, com correntes de ar inesperadas que fazem o som viajar pelos túneis, confundindo viajantes e assustando os desavisados.\n\nA mina é considerada segura — ao menos nos andares abertos ao público. Já as galerias antigas, lacradas por segurança, são conhecidas por emitir ruídos metálicos misteriosos à noite, que muitos juram ser ecos de antigas explosões... ou algo ainda vivo, lá embaixo.",
+    "map_image": "",
     "coordinates": {
-      "x": 76,
-      "y": 34
+      "x": 2.986,
+      "y": 34.49
     },
     "metadata": {
       "population": "90 visitantes diários",
@@ -602,7 +610,8 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {}
+    "accesses": {},
+    "special_location": false
   },
   {
     "id": "RRHS",
@@ -612,8 +621,13 @@
     "description": "Entre colinas suaves e campos floridos, repousam as Ruínas de Rhisis, vestígios de uma antiga civilização que marcou a história de Seira. Colunas partidas e blocos de pedra espalhados pelo terreno formam corredores abertos e plataformas irregulares, enquanto o vento percorre os espaços vazios, criando um sussurro contínuo que parece narrar histórias antigas. O terreno é irregular, com desníveis que desafiam os viajantes e blocos de pedra instáveis que exigem cuidado ao atravessar.\n\nApesar da antiguidade, a região é integrada ao mundo moderno: trilhas de caminhada e pequenos mirantes foram instalados por exploradores e estudiosos, e placas informativas digitais fornecem dados históricos, contrastando com a sensação de abandono das ruínas. Treinadores aproveitam o local para treinos, exploração e estudos arqueológicos, enquanto pequenos Pokémon habitam frestas e blocos caídos, criando um ecossistema próprio entre pedras e musgo.",
     "map_image": "https://2img.net/i.imgur.com/IV51npg.png",
     "coordinates": {
-      "x": 73,
-      "y": 53
+      "x": 76,
+      "y": 53.4
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
     },
     "points_of_interest": [
       {
@@ -653,6 +667,7 @@
         "posts_required": 4,
         "forum_link": "https://seira.forumeiros.com/t118-descricao-ruinas-de-rhisis"
       }
-    }
+    },
+    "special_location": false
   }
 ]
