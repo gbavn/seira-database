@@ -1860,7 +1860,10 @@
     "id": 55,
     "name": "Guard Spec.",
     "category": "medicine",
+    "description": "Prevents stat reduction when used in battle.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/guardspec..png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 1500,
       "sell": 750
@@ -1870,29 +1873,35 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Prevents stat reduction when used in battle.",
-    "effect": "Prevents stat changes in battle for five turns in battle.  Raises happiness.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 728,
+        "quantity": 5
+      },
+      {
+        "item_id": 730,
+        "quantity": 5
+      },
+      {
+        "item_id": 692,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Prevents stat changes in battle for five turns in battle.  Raises happiness."
   },
   {
     "id": 56,
     "name": "Dire Hit",
     "category": "medicine",
+    "description": "Raises the critical-hit ratio during one battle.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/direhit.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 1000,
       "sell": 500
@@ -1902,29 +1911,35 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Raises the critical-hit ratio during one battle.",
-    "effect": "Increases the chance of a critical hit in battle.  Raises happiness.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 727,
+        "quantity": 5
+      },
+      {
+        "item_id": 731,
+        "quantity": 5
+      },
+      {
+        "item_id": 692,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Increases the chance of a critical hit in battle.  Raises happiness."
   },
   {
     "id": 57,
     "name": "X Attack",
     "category": "medicine",
+    "description": "Raises the stat ATTACK during one battle.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/xattack.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 1000,
       "sell": 500
@@ -1934,29 +1949,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Raises the stat ATTACK during one battle.",
-    "effect": "Raises Attack by one stage in battle.  Raises happiness.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 727,
+        "quantity": 10
+      },
+      {
+        "item_id": 692,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Raises Attack by one stage in battle.  Raises happiness."
   },
   {
     "id": 58,
     "name": "X Defense",
     "category": "medicine",
+    "description": "Raises the stat DEFENSE during one battle.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/xdefense.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 2000,
       "sell": 1000
@@ -1966,29 +1983,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Raises the stat DEFENSE during one battle.",
-    "effect": "Raises Defense by one stage in battle.  Raises happiness.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 728,
+        "quantity": 10
+      },
+      {
+        "item_id": 692,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Raises Defense by one stage in battle.  Raises happiness."
   },
   {
     "id": 59,
     "name": "X Speed",
     "category": "medicine",
+    "description": "Raises the stat SPEED during one battle.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/xspeed.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 1000,
       "sell": 500
@@ -1998,29 +2017,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Raises the stat SPEED during one battle.",
-    "effect": "Raises Speed by one stage in battle.  Raises happiness.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 731,
+        "quantity": 10
+      },
+      {
+        "item_id": 692,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Raises Speed by one stage in battle.  Raises happiness."
   },
   {
     "id": 60,
     "name": "X Accuracy",
     "category": "medicine",
+    "description": "Raises accuracy of attack moves during one battle.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/xaccuracy.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 1000,
       "sell": 500
@@ -2030,29 +2051,35 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Raises accuracy of attack moves during one battle.",
-    "effect": "Raises accuracy by one stage in battle.  Raises happiness.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 729,
+        "quantity": 5
+      },
+      {
+        "item_id": 731,
+        "quantity": 5
+      },
+      {
+        "item_id": 692,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Raises accuracy by one stage in battle.  Raises happiness."
   },
   {
     "id": 61,
     "name": "X Sp. Atk",
     "category": "medicine",
+    "description": "Raises the stat SP. ATK during one battle.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/xsp.atk.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 1000,
       "sell": 500
@@ -2062,29 +2089,31 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Raises the stat SP. ATK during one battle.",
-    "effect": "Raises Special Attack by one stage in battle.  Raises happiness.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 729,
+        "quantity": 10
+      },
+      {
+        "item_id": 692,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Raises Special Attack by one stage in battle.  Raises happiness."
   },
   {
     "id": 62,
     "name": "X Sp. Def",
     "category": "medicine",
+    "description": "An item that raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/xsp.def.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
       "buy": 2000,
       "sell": 1000
@@ -2094,23 +2123,22 @@
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "An item that raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
-    "effect": "Raises Special Defense by one stage in battle.  Raises happiness.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": null,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
+    "is_craftable": true,
+    "craft_recipe": [
+      {
+        "item_id": 730,
+        "quantity": 10
+      },
+      {
+        "item_id": 692,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false,
+    "effect": "Raises Special Defense by one stage in battle.  Raises happiness."
   },
   {
     "id": 63,
