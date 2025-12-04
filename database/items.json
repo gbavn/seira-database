@@ -23460,5 +23460,31 @@
     "posts_to_collect": 0,
     "has_skins": false,
     "is_book": false
+  },
+  {
+    "id": 726,
+    "name": "Blank TM",
+    "category": "craft-material",
+    "description": "",
+    "sprite": "",
+    "rarity": "comum",
+    "is_unique": false,
+    "price": {
+      "buy": false,
+      "sell": false,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
   }
 ]
