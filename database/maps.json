@@ -37,33 +37,26 @@
         "shop_data": null
       },
       {
-        "id": "veld03",
+        "id": "BrilhoCanal",
         "name": "Doceria Brilho do Canal",
         "type": "shop",
         "description": "A fachada colorida e alegre esconde um interior perfumado por chocolate, caramelo e frutas cristalizadas. Prateleiras de madeira exibem doces artesanais em potes de vidro, enquanto vitrines iluminadas revelam pirulitos e guloseimas que parecem saídos de um conto.",
         "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn-03",
         "shop_data": {
           "sells": [
-            567
-          ],
-          "buys": [
-            567,
+            548,
+            549,
             550,
-            551
-          ]
+            551,
+            552,
+            553,
+            554
+          ],
+          "buys": []
         }
       }
     ],
-    "forageable_items": [
-      {
-        "item_id": 1031,
-        "posts_to_collect": 1
-      },
-      {
-        "item_id": 898,
-        "posts_to_collect": 2
-      }
-    ],
+    "forageable_items": [],
     "spawns": {
       "common": [
         129,
@@ -119,30 +112,21 @@
       {
         "id": "TravelersCamp",
         "name": "Acampamento dos Viajantes",
-        "type": "facility",
-        "description": "Um espaço acolhedor para viajantes descansarem, com fogueiras acesas, mesas rústicas e um pequeno comércio de snacks. O acampamento oferece abrigo e conforto para treinadores e aventureiros antes de continuar a jornada pela rota, em meio à natureza que cerca o local.",
+        "type": "shop",
+        "description": "Um espaço acolhedor com fogueiras e mesas rústicas, onde o cheiro de caldos quentes conforta os viajantes. A cozinha local está sempre em busca de sabores da terra, pagando bem por ingredientes frescos e fungos raros colhidos nas sombras da floresta. É o ponto ideal para descansar e transformar a coleta do dia em lucro.",
         "forum_link": "",
-        "shop_data": null
+        "shop_data": {
+          "sells": [],
+          "buys": [
+            86,
+            87,
+            370,
+            694
+          ]
+        }
       }
     ],
-    "forageable_items": [
-      {
-        "item_id": 94,
-        "posts_to_collect": 1
-      },
-      {
-        "item_id": 86,
-        "posts_to_collect": 1
-      },
-      {
-        "item_id": 87,
-        "posts_to_collect": 1
-      },
-      {
-        "item_id": 899,
-        "posts_to_collect": 1
-      }
-    ],
+    "forageable_items": [],
     "spawns": {
       "common": [
         519,
@@ -219,6 +203,25 @@
         "description": "O ginásio está aberto, mas sem um líder para comandá-lo. A arena permanece silenciosa e organizada, com equipamentos guardados e nenhum desafio oficial acontecendo. Treinadores que passam ali encontram apenas o eco dos próprios passos, como se o lugar estivesse em pausa, aguardando alguém para assumir seu posto.",
         "forum_link": "",
         "shop_data": null
+      },
+      {
+        "id": "PontoZero",
+        "name": "Ponto de Acesso Zero",
+        "type": "shop",
+        "description": "O Ponto de Acesso Zero é um híbrido de Cyber Café e laboratório de hardware. Entre neons e servidores, o ar vibra com dados enquanto treinadores buscam a \"evolução perfeita\". É o santuário onde a fronteira entre Pokémon e código se dissolve, atraindo todos que desejam transcender os limites do mundo físico.",
+        "forum_link": "",
+        "shop_data": {
+          "sells": [
+            283,
+            284,
+            754
+          ],
+          "buys": [
+            283,
+            284,
+            754
+          ]
+        }
       }
     ],
     "forageable_items": [],
@@ -317,6 +320,7 @@
     "name": "Astralton",
     "biome": "Urbano",
     "description": "Astralton se ergue entre colinas e rios sinuosos, uma metrópole vertiginosa onde o céu é um mosaico de néon e o reflexo das luzes se confunde com a neblina constante. Construída sobre antigas rotas comerciais, a cidade manteve um emaranhado de passagens, pontes suspensas e becos estreitos que se entrelaçam com arranha-céus futuristas. Elevadores externos escalam fachadas de vidro, enquanto túneis subterrâneos abrigam mercados clandestinos e arenas improvisadas, onde Pokémon e pessoas testam limites longe do olhar da lei.\n\nO contraste entre riqueza e precariedade é visível a cada esquina: áreas centrais ostentam torres iluminadas, shopping centers verticais e cafés panorâmicos, enquanto bairros periféricos vivem à sombra de grafites, anúncios holográficos piscando e pequenos laboratórios independentes. Jovens engenheiros, hackers e artistas de rua transformam o caos em expressão urbana, criando festivais de luzes, performances e invenções que florescem na escuridão. A influência do tipo Noturno é sentida na arquitetura que abraça sombras, no ritmo da cidade e nas histórias de enigmas e furtos que circulam pelos becos.\n\nO clima constante de movimentação cria uma cidade que nunca dorme, mas também nunca relaxa: sirenes, drones de entrega e anúncios luminosos se misturam com o murmúrio dos rios e o eco das passarelas, formando uma sinfonia caótica que define Astralton. Apesar do perigo percebido, existe um sentimento de pertencimento para aqueles que sabem navegar suas luzes e sombras — um convite à aventura, ao risco e à criatividade sem limites.",
+    "map_image": "",
     "coordinates": {
       "x": 76,
       "y": 64
@@ -343,10 +347,33 @@
       {
         "id": "HackAlley",
         "name": "Beco dos Hackers",
-        "type": "other",
+        "type": "shop",
         "description": "No limite periférico de Astralton, o Beco dos Hackers abriga oficinas clandestinas e exposições de arte digital. Grafites interativos, telas holográficas e instalações tecnológicas transformam o local em um centro cultural alternativo, onde jovens engenheiros e artistas de rua desafiam o convencional.",
         "forum_link": "",
-        "shop_data": null
+        "shop_data": {
+          "sells": [
+            213,
+            285
+          ],
+          "buys": [
+            213,
+            285
+          ]
+        }
+      },
+      {
+        "id": "CambioCego",
+        "name": "Câmbio Cego",
+        "type": "shop",
+        "description": "No subsolo do Distrito das Sombras, o \"Câmbio Cego\" opera atrás de uma fachada de ferro e vapor. É um bunker clandestino onde fortunas físicas são trocadas por créditos indetectáveis, sem perguntas ou registros. Sob a luz fraca, figuras encapuzadas liquidam seus espólios rapidamente, convertendo riscos em riqueza anônima antes de sumirem nos becos.",
+        "forum_link": "",
+        "shop_data": {
+          "sells": [],
+          "buys": [
+            92,
+            371
+          ]
+        }
       }
     ],
     "forageable_items": [],
@@ -368,7 +395,8 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {}
+    "accesses": {},
+    "special_location": false
   },
   {
     "id": "MHL",
@@ -518,7 +546,7 @@
         "id": "MinerHut",
         "name": "Cabanas dos Mineradores",
         "type": "facility",
-        "description": "Pequenas construções de madeira que servem de abrigo para mineradores e viajantes. Algumas oferecem suprimentos improvisados, proporcionando descanso e recursos básicos em meio à rotina das colinas e trilhas da rota.",
+        "description": "Mantidas pela guilda local, estas estruturas robustas seguem a 'Lei do Abrigo': as portas nunca se trancam para quem precisa. Além de proteção contra o clima e predadores, os mineradores mantêm estoques de remédios e aquecedores sempre ativos. A segurança absoluta do local permite que viajantes e seus Pokémon baixem a guarda, garantindo um sono profundo que restaura todas as energias.\n\n(O personagem pode descansar na cabana a cada 8 Postagens, recuperando totalmente a vida dos seus Pokémon.)",
         "forum_link": "",
         "shop_data": null
       }
