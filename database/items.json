@@ -2399,8 +2399,8 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 3000,
-      "sell": 1500
+      "buy": 25000,
+      "sell": 8300
     },
     "shop_availability": {
       "pokemart": false,
@@ -2431,8 +2431,8 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 3000,
-      "sell": 1500
+      "buy": 25000,
+      "sell": 8300
     },
     "shop_availability": {
       "pokemart": false,
@@ -2464,8 +2464,8 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 3000,
-      "sell": 1500
+      "buy": 25000,
+      "sell": 8300
     },
     "shop_availability": {
       "pokemart": false,
@@ -2496,8 +2496,8 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 3000,
-      "sell": 1500
+      "buy": 25000,
+      "sell": 8300
     },
     "shop_availability": {
       "pokemart": false,
@@ -2530,8 +2530,8 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 3000,
-      "sell": 1500
+      "buy": 25000,
+      "sell": 8300
     },
     "shop_availability": {
       "pokemart": false,
@@ -2563,8 +2563,8 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 3000,
-      "sell": 1500
+      "buy": 25000,
+      "sell": 8300
     },
     "shop_availability": {
       "pokemart": false,
@@ -2595,8 +2595,10 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 500,
-      "sell": 250
+      "buy": false,
+      "sell": 0,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -2619,8 +2621,10 @@
     "rarity": "raro",
     "is_unique": false,
     "price": {
-      "buy": 5000,
-      "sell": 2500
+      "buy": false,
+      "sell": 1800,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -2739,8 +2743,10 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 10000,
-      "sell": 5000
+      "buy": false,
+      "sell": 4000,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -3033,8 +3039,8 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 3000,
-      "sell": 1500
+      "buy": 25000,
+      "sell": 8300
     },
     "shop_availability": {
       "pokemart": false,
@@ -3064,8 +3070,8 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 3000,
-      "sell": 1500
+      "buy": 25000,
+      "sell": 8300
     },
     "shop_availability": {
       "pokemart": false,
@@ -3095,12 +3101,13 @@
     "rarity": "raro",
     "is_unique": false,
     "price": {
-      "buy": false,
-      "sell": false,
-      "mile": false
+      "buy": 25000,
+      "sell": 8300,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
-      "pokemart": false,
+      "pokemart": true,
       "casino": false,
       "mile_shop": false
     },
@@ -3125,8 +3132,10 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 2000,
-      "sell": 1000
+      "buy": 20000,
+      "sell": 6700,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -6185,34 +6194,28 @@
     "id": 213,
     "name": "Upgrade",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/up-grade.png",
+    "subcategory": "evolution-trigger",
+    "description": "A peculiar box made by SILPH CO.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/upgrade.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
-      "buy": 2000,
-      "sell": 1000
+      "buy": 20000,
+      "sell": 6700,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A peculiar box made by SILPH CO.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "evolution-trigger",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 214,
@@ -8404,34 +8407,28 @@
     "id": 285,
     "name": "Dubious Disc",
     "category": "evolution-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dubious-disc.png",
+    "subcategory": "evolution-trigger",
+    "description": "A transparent device overflowing with dubious data. Its producer is unknown.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dubiousdisc.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
-      "buy": 2000,
-      "sell": 1000
+      "buy": 20000,
+      "sell": 6700,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A transparent device overflowing with dubious data. Its producer is unknown.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "evolution-trigger",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 286,
@@ -11054,8 +11051,10 @@
     "rarity": "epico",
     "is_unique": false,
     "price": {
-      "buy": 15000,
-      "sell": 7500
+      "buy": false,
+      "sell": 4000,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -11078,8 +11077,10 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 40000,
-      "sell": 20000
+      "buy": false,
+      "sell": 8000,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -13876,8 +13877,10 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 3000,
-      "sell": 1500
+      "buy": 25000,
+      "sell": 8300,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -16730,34 +16733,28 @@
     "id": 548,
     "name": "Strawberry Sweet",
     "category": "other",
+    "subcategory": "evolution-trigger",
+    "description": "A strawberry-shaped sweet. When a Milcery holds this, it will spin around happily.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/strawberrysweet.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
-      "buy": 500,
-      "sell": 250
+      "buy": 20000,
+      "sell": 6700,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A strawberry-shaped sweet. When a Milcery holds this, it will spin around happily.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "evolution-trigger",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 549,
@@ -16769,8 +16766,10 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 500,
-      "sell": 250
+      "buy": 20000,
+      "sell": 6700,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -16788,34 +16787,28 @@
     "id": 550,
     "name": "Berry Sweet",
     "category": "other",
+    "subcategory": "evolution-trigger",
+    "description": "A berry-shaped sweet. When a Milcery holds this, it spins around happily.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/berrysweet.png",
+    "rarity": "comum",
+    "is_unique": false,
     "price": {
-      "buy": 500,
-      "sell": 250
+      "buy": 20000,
+      "sell": 6700,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
       "mile_shop": false
     },
-    "is_key_item": false,
     "is_craftable": false,
-    "description": "A berry-shaped sweet. When a Milcery holds this, it spins around happily.",
-    "effect": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "subcategory": "evolution-trigger",
-    "rarity": "comum",
-    "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "has_skins": false,
+    "is_book": false
   },
   {
     "id": 551,
@@ -16827,8 +16820,10 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 500,
-      "sell": 250
+      "buy": 20000,
+      "sell": 6700,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -16852,8 +16847,10 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 500,
-      "sell": 250
+      "buy": 20000,
+      "sell": 6700,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -16877,8 +16874,10 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 500,
-      "sell": 250
+      "buy": 20000,
+      "sell": 6700,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -16902,8 +16901,10 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 500,
-      "sell": 250
+      "buy": 20000,
+      "sell": 6700,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -16927,8 +16928,10 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 2200,
-      "sell": 1100
+      "buy": 20000,
+      "sell": 6700,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -20750,12 +20753,17 @@
     "rarity": "comum",
     "is_unique": false,
     "price": {
-      "buy": 0,
-      "sell": 0
+      "buy": false,
+      "sell": 200,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "available_in_shop": false,
-      "shop_stock": 0
+      "shop_stock": 0,
+      "mile_shop": false,
+      "casino": false,
+      "pokemart": false
     },
     "is_craftable": false,
     "craft_recipe": [],
@@ -22235,13 +22243,13 @@
     "rarity": "raro",
     "is_unique": false,
     "price": {
-      "buy": false,
-      "sell": false,
+      "buy": 2500,
+      "sell": 8300,
       "casino": false,
       "mile": false
     },
     "shop_availability": {
-      "pokemart": false,
+      "pokemart": true,
       "casino": false,
       "mile_shop": false
     },
