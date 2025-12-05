@@ -16502,7 +16502,7 @@
     "name": "Boiled Egg",
     "category": "craft-material",
     "description": "Ovo cozido até atingir uma textura firme e agradável. Um ingrediente prático, utilizado para enriquecer pratos rápidos e caseiros.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/boiledegg.png",
+    "sprite": "https://i.imgur.com/5k9p6Ae.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -17499,7 +17499,7 @@
     "name": "Fresh Cream",
     "category": "craft-material",
     "description": "Creme fresco e sedoso, perfeito para ser batido. Acrescentado a pratos picantes, oferece doçura e suavidade equilibrada.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/freshcream.png",
+    "sprite": "https://i.imgur.com/M55qV4w.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
@@ -17571,7 +17571,7 @@
     "name": "Instant Noodles",
     "category": "craft-material",
     "description": "Macarrão instantâneo de preparo rápido. Absorve bem temperos e caldos, servindo como base imediata para refeições simples e reconfortantes.",
-    "sprite": "https://www.serebii.net/itemdex/sprites/instantnoodles.png",
+    "sprite": "https://i.imgur.com/hT3hMY6.png",
     "rarity": "comum",
     "is_unique": false,
     "price": {
