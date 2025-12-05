@@ -279,10 +279,19 @@
       {
         "id": "HillMuseum",
         "name": "Museu Botânico de Hillshire",
-        "type": "other",
+        "type": "shop",
         "description": "O Museu Botânico apresenta exposições detalhadas sobre a flora local e técnicas de cultivo sustentável. Espaços interativos permitem observar Pokémon do tipo Planta em habitats simulados, tornando o local educativo e encantador para visitantes de todas as idades.",
         "forum_link": "",
-        "shop_data": null
+        "shop_data": {
+          "sells": [
+            85,
+            279
+          ],
+          "buys": [
+            85,
+            279
+          ]
+        }
       },
       {
         "id": "DoratiVine",
@@ -291,6 +300,23 @@
         "description": "Grandes plantações de uvas e oliveiras se estendem pelos Vinhedos Dorati, onde trilhas sinuosas permitem que turistas e treinadores pratiquem batalhas em meio à paisagem dourada. O cenário combina tradição agrícola com a beleza natural da região.",
         "forum_link": "",
         "shop_data": null
+      },
+      {
+        "id": "FeiraVale",
+        "name": "Feira do Vale",
+        "type": "shop",
+        "description": "Sob a sombra de carvalhos centenários, a Feira do Vale Dourado desperta os sentidos. O ar carrega o perfume doce de colheitas recém-apanhadas, expostas em cestas de vime por agricultores locais. Entre risos e negociações, viajantes encontram as frutas mais suculentas da região, cultivadas em harmonia com a terra.",
+        "forum_link": "",
+        "shop_data": {
+          "sells": [
+            555,
+            556
+          ],
+          "buys": [
+            555,
+            556
+          ]
+        }
       }
     ],
     "forageable_items": [],
