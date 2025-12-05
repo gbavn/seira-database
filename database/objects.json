@@ -150,7 +150,30 @@
     "name": "Ponto de Pesca (Lago)",
     "description": "",
     "cooldown_hours": 24,
-    "loot": {}
+    "loot": {
+      "common": [
+        {
+          "pokemon_id": 129,
+          "rate": 50
+        }
+      ],
+      "rare": [
+        {
+          "pokemon_id": 118,
+          "rate": 50
+        }
+      ],
+      "epic": [
+        {
+          "pokemon_id": 978,
+          "rate": 50
+        },
+        {
+          "pokemon_id": 349,
+          "rate": 50
+        }
+      ]
+    }
   },
   {
     "id": "FishMarsh",
