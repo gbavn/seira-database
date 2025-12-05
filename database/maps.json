@@ -77,7 +77,8 @@
     "interaction_objects": [
       "apricorn-tree-01",
       "berry-tree-01",
-      "fishing-spot-01"
+      "fishing-spot-01",
+      "FishLake"
     ],
     "accesses": {
       "north": {
@@ -489,7 +490,10 @@
         155
       ]
     },
-    "interaction_objects": [],
+    "interaction_objects": [
+      "apricorn-tree-01",
+      "FishLake"
+    ],
     "accesses": {},
     "special_location": false
   },
