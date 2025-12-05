@@ -16923,9 +16923,9 @@
     "name": "Sweet Apple",
     "category": "other",
     "subcategory": "evolution-trigger",
-    "description": "A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally sweet.",
+    "description": "Maçã doce e aromática, muito usada em pratos regionais e famosa por estimular evoluções mais suaves.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/sweetapple.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
       "buy": 20000,
@@ -16950,13 +16950,15 @@
     "name": "Tart Apple",
     "category": "other",
     "subcategory": "evolution-trigger",
-    "description": "A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally tart.",
+    "description": "Maçã intensamente azeda, apreciada em receitas rústicas e conhecida por despertar evoluções únicas.",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tartapple.png",
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "price": {
-      "buy": 2200,
-      "sell": 1100
+      "buy": 20000,
+      "sell": 6700,
+      "mile": false,
+      "casino": false
     },
     "shop_availability": {
       "pokemart": false,
@@ -22286,6 +22288,33 @@
     },
     "shop_availability": {
       "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_craftable": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "has_skins": false,
+    "is_book": false
+  },
+  {
+    "id": 756,
+    "name": "Syrup Apple",
+    "category": "other",
+    "subcategory": "evolution-trigger",
+    "description": "Maçã coberta por xarope espesso e dourado, valorizada em sobremesas artesanais e rituais tradicionais.",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/syrupyapple.png",
+    "rarity": "raro",
+    "is_unique": false,
+    "price": {
+      "buy": 20000,
+      "sell": 6700,
+      "casino": false,
+      "mile": false
+    },
+    "shop_availability": {
+      "pokemart": true,
       "casino": false,
       "mile_shop": false
     },
