@@ -2839,6 +2839,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
     "description": "Um pequeno cogumelo de aroma suave. Usado principalmente em receitas culinárias simples ou como ingrediente básico em treinamentos temáticos.",
@@ -2852,9 +2857,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 3
   },
   {
     "id": 87,
@@ -2866,6 +2870,11 @@
       "sell": 1800,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -2880,9 +2889,8 @@
     "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 12
   },
   {
     "id": 88,
@@ -3063,6 +3071,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
     "description": "Mel doce coletado de colmeias naturais. Usado em receitas, misturas aromáticas e diversas aplicações de culinária.",
@@ -3076,9 +3089,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 2
   },
   {
     "id": 95,
@@ -9222,6 +9234,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
     "description": "Uma Apricorn vermelha que libera um aroma forte e penetrante, capaz de dominar rapidamente os arredores. É intensa e marcante, não passando despercebida.",
@@ -9235,9 +9252,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 311,
@@ -9249,6 +9265,11 @@
       "sell": 100,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -9263,9 +9284,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 312,
@@ -9277,6 +9297,11 @@
       "sell": 100,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -9291,9 +9316,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 313,
@@ -9334,6 +9358,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
     "description": "Uma Apricorn rosada exalando um perfume doce e convidativo, semelhante ao de frutas maduras. Seu aroma leve transmite uma sensação de conforto.",
@@ -9347,9 +9376,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 315,
@@ -9361,6 +9389,11 @@
       "sell": 100,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -9375,9 +9408,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 316,
@@ -9389,6 +9421,11 @@
       "sell": 100,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -9403,9 +9440,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 317,
@@ -13702,6 +13738,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
     "description": "Uma semente energizada que vibra com eletricidade latente. Quando o terreno elétrico está ativo, desperta imediatamente seu poder, aumentando a Defesa em 1 estágio.",
@@ -13715,9 +13756,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 6
   },
   {
     "id": 465,
@@ -13729,6 +13769,11 @@
       "sell": 2000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -13743,9 +13788,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 1
   },
   {
     "id": 466,
@@ -13757,6 +13801,11 @@
       "sell": 2000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -13771,9 +13820,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 3
   },
   {
     "id": 467,
@@ -13785,6 +13833,11 @@
       "sell": 2000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -13799,9 +13852,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 6
   },
   {
     "id": 468,
@@ -17078,6 +17130,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
     "description": "Um galho fino proveniente de uma espécie de árvore chamada Galarica, que cresce em áreas específicas da região de Galar. Possui fibras leves e resistentes, sendo um material especial usado na criação de certos acessórios.",
@@ -17091,9 +17148,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 8
   },
   {
     "id": 584,
@@ -20062,6 +20118,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
     "description": "Alho-poró de coloração intensa e fibras resistentes. Seu aroma forte e herbal é facilmente reconhecido à distância.",
@@ -20075,9 +20136,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 2
   },
   {
     "id": 689,
@@ -20089,6 +20149,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20103,9 +20168,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 6
   },
   {
     "id": 690,
@@ -20117,6 +20181,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20131,9 +20200,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 6
   },
   {
     "id": 691,
@@ -20145,6 +20213,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20159,9 +20232,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 2
   },
   {
     "id": 692,
@@ -20230,6 +20302,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
     "description": "Cogumelo de textura elástica e coloração vibrante. Sua superfície ligeiramente úmida revela um aroma fresco de floresta.",
@@ -20243,9 +20320,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 695,
@@ -20257,6 +20333,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20271,9 +20352,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 696,
@@ -20285,6 +20365,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20299,9 +20384,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 697,
@@ -20313,6 +20397,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20327,9 +20416,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 698,
@@ -20341,6 +20429,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20355,9 +20448,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 3
   },
   {
     "id": 699,
@@ -20369,6 +20461,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20383,9 +20480,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 700,
@@ -20426,6 +20522,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
     "description": "Rabanete de casca áspera e coloração clara, cultivado em solos arenosos. Seu interior é firme, com leve nuance mineral no aroma.",
@@ -20439,9 +20540,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 702,
@@ -20482,6 +20582,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
     "description": "Uma bola de lama densa e aderente. Usada para reduzir a mobilidade de oponentes em batalha ou como ingrediente espessante em diversas receitas.",
@@ -20495,9 +20600,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 704,
@@ -20678,6 +20782,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
     "description": "Um minério bruto de ferro extraído de rochas densas. Usado como base resistente na forja de equipamentos e itens metálicos.",
@@ -20691,9 +20800,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 2
   },
   {
     "id": 711,
@@ -20705,6 +20813,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20719,9 +20832,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 712,
@@ -20733,6 +20845,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20747,9 +20864,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 6
   },
   {
     "id": 713,
@@ -20761,6 +20877,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20775,9 +20896,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 1
   },
   {
     "id": 714,
@@ -20930,33 +21050,10 @@
       "casino": 0,
       "mile": 0
     },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
-  },
-  {
-    "id": 720,
-    "name": "Apricorn Aleatória",
-    "category": "other",
-    "sprite": "https://2img.net/i.imgur.com/UR6jnx0.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20971,9 +21068,40 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 5
+  },
+  {
+    "id": 720,
+    "name": "Apricorn Aleatória",
+    "category": "other",
+    "sprite": "https://2img.net/i.imgur.com/UR6jnx0.png",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": true,
+    "posts_to_collect": 5
   },
   {
     "id": 721,
@@ -21014,6 +21142,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
     "description": "",
@@ -21027,9 +21160,8 @@
     "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "forageable": true,
+    "posts_to_collect": 4
   },
   {
     "id": 723,
