@@ -190,5 +190,51 @@
     "description": "",
     "cooldown_hours": 24,
     "loot": {}
+  },
+  {
+    "id": "PokePlayground",
+    "type": "social_spot",
+    "name": "Playground Pokémon",
+    "description": "Um parque infantil colorido, perfeito para Pokémon jovens brincarem.",
+    "cooldown_hours": 24,
+    "loot": {
+      "linked_pokemon": [
+        172,
+        175,
+        173,
+        174,
+        236,
+        238,
+        239,
+        240,
+        298,
+        360,
+        406,
+        433,
+        438,
+        439,
+        440,
+        446,
+        447,
+        458,
+        848
+      ]
+    },
+    "linked_pokemon": [
+      172,
+      173,
+      174,
+      236,
+      238,
+      239,
+      240,
+      298,
+      360,
+      433,
+      438,
+      439,
+      440
+    ],
+    "narrative": "Pokémon bebês brincam alegremente nos balanços e escorregadores. Suas risadas ecoam pelo parque, criando uma atmosfera alegre e acolhedora."
   }
 ]
