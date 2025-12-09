@@ -148,7 +148,7 @@
     "id": "FishLake",
     "type": "fishing_spot",
     "name": "Ponto de Pesca (Lago)",
-    "description": "",
+    "description": "Um lago pra pescar",
     "cooldown_hours": 24,
     "loot": {
       "common": [
@@ -161,6 +161,18 @@
         {
           "pokemon_id": 118,
           "rate": 50
+        },
+        {
+          "pokemon_id": 2,
+          "rate": 50
+        },
+        {
+          "pokemon_id": 1,
+          "rate": 50
+        },
+        {
+          "pokemon_id": 3,
+          "rate": 50
         }
       ],
       "epic": [
@@ -172,7 +184,47 @@
           "pokemon_id": 349,
           "rate": 50
         }
-      ]
+      ],
+      "items": {
+        "common": [
+          {
+            "item_id": 88,
+            "rate": 50
+          },
+          {
+            "item_id": 4,
+            "rate": 50
+          },
+          {
+            "item_id": 2,
+            "rate": 50
+          },
+          {
+            "item_id": 2,
+            "rate": 50
+          }
+        ],
+        "rare": [
+          {
+            "item_id": 89,
+            "rate": 50
+          },
+          {
+            "item_id": 3,
+            "rate": 50
+          }
+        ],
+        "epic": [
+          {
+            "item_id": 371,
+            "rate": 50
+          },
+          {
+            "item_id": 2,
+            "rate": 50
+          }
+        ]
+      }
     }
   },
   {
