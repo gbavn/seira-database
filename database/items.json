@@ -5686,6 +5686,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": true,
     "is_craftable": false,
     "description": "Hold item: Raises SP. ATK & SP. DEF of LATIOS & LATIAS.",
@@ -5701,7 +5706,10 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      381,
+      380
+    ]
   },
   {
     "id": 187,
@@ -8833,6 +8841,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": true,
     "is_craftable": false,
     "description": "A flower sometimes bundled in bouquets to convey gratitude on special occasions like birthdays.",
@@ -8848,7 +8861,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      492
+    ]
   },
   {
     "id": 299,
@@ -9495,6 +9510,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": true,
     "is_craftable": false,
     "description": "A red, glowing orb said to contain an ancient power.",
@@ -9510,7 +9530,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      383
+    ]
   },
   {
     "id": 319,
@@ -22124,5 +22146,45 @@
     "forageable": false,
     "posts_to_collect": 0,
     "linked_pokemon": []
+  },
+  {
+    "id": 757,
+    "name": "Receitas Pokebolas",
+    "category": "key-item",
+    "sprite": "https://2img.net/i.imgur.com/KV7x446.png",
+    "price": {
+      "buy": 10000,
+      "sell": 5000,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": true,
+    "is_craftable": false,
+    "description": "Um livro que ensina receitas de Pokebola.",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "raro",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "book_category": "mechanics",
+    "unlocks_recipes": [
+      6,
+      7,
+      8,
+      9,
+      13
+    ]
   }
 ]
