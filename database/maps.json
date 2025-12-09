@@ -386,7 +386,14 @@
             213,
             285
           ]
-        }
+        },
+        "linked_pokemon": [
+          137,
+          233
+        ],
+        "linked_items": [
+          754
+        ]
       },
       {
         "id": "CambioCego",
@@ -400,7 +407,8 @@
             92,
             371
           ]
-        }
+        },
+        "custom_effect": "(Requer 50 de Fama)"
       }
     ],
     "forageable_items": [],
@@ -421,7 +429,10 @@
         725
       ]
     },
-    "interaction_objects": [],
+    "interaction_objects": [
+      "berry-tree-01",
+      "apricorn-tree-01"
+    ],
     "accesses": {},
     "special_location": false
   },
@@ -725,5 +736,32 @@
       }
     },
     "special_location": false
+  },
+  {
+    "id": "Lumiose",
+    "type": "city",
+    "name": "Lumiose",
+    "biome": "",
+    "description": "evento de lumiose",
+    "map_image": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": true
   }
 ]
