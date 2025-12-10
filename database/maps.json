@@ -846,7 +846,7 @@
     "id": "MTGL",
     "type": "city",
     "name": "Monte Glacio",
-    "biome": "",
+    "biome": "Boreal",
     "description": "uma montanha de neve",
     "map_image": "",
     "coordinates": {
