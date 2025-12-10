@@ -1,26 +1,13 @@
 // ==================== SEIRA RPG DATABASE - JAVASCRIPT ====================
 // Parte 1: Constantes, Configuração Inicial e Funções Auxiliares
 
-// ==================== CONFIGURAÇÃO DE FORMAS REGIONAIS ====================
-// INSTRUÇÕES: Adicione os IDs das formas regionais de cada região
-// Se a lista estiver incorreta, edite aqui adicionando/removendo IDs
-const REGIONAL_FORMS = {
-    alola: [
-        // Adicione IDs de formas Alola aqui
-        // Exemplo: 10100, 10101, 10102, etc.
-    ],
-    galar: [
-        // Adicione IDs de formas Galar aqui
-    ],
-    hisui: [
-        // Adicione IDs de formas Hisui aqui
-    ],
-    paldea: [
-        // Adicione IDs de formas Paldea aqui
-    ],
-    seira: [
-        // Adicione IDs de formas Seira aqui
-    ]
+// ==================== FORMAS REGIONAIS - BUSCA AUTOMÁTICA ====================
+const REGIONAL_FORM_KEYWORDS = {
+    alola: 'Alolan',
+    galar: 'Galarian',
+    hisui: 'Hisuian',
+    paldea: 'Paldean',
+    seira: 'Seirian'
 };
 
 // ==================== URLs DAS APIs JSON ====================
@@ -178,6 +165,26 @@ function isPokemonFromRegion(pokemon, region) {
     const pokemonName = pokemon.name.toLowerCase();
     
     return keywords.some(keyword => pokemonName.includes(keyword));
+}
+
+/**
+ * Copia link direto para o modal
+ */
+function copyModalLink(type, id) {
+    const url = `${window.location.origin}${window.location.pathname}#${type}-${id}`;
+    navigator.clipboard.writeText(url).then(() => {
+        // Feedback visual
+        const btn = event.target.closest('button');
+        const originalHTML = btn.innerHTML;
+        btn.innerHTML = '<i class="fas fa-check"></i> Copiado!';
+        btn.style.background = '#27ae60';
+        setTimeout(() => {
+            btn.innerHTML = originalHTML;
+            btn.style.background = '';
+        }, 2000);
+    }).catch(() => {
+        alert('Link: ' + url);
+    });
 }
 
 // ==================== FUNÇÕES DE CARREGAMENTO DE DADOS ====================
@@ -378,9 +385,9 @@ async function loadSectionData(section) {
  */
 function setupModal() {
     const modal = document.getElementById('modal');
-    const modalClose = document.getElementById('modal-close');
+    const closeBtn = document.querySelector('.modal-close');
     
-    modalClose.addEventListener('click', () => {
+    closeBtn.addEventListener('click', () => {
         modal.classList.remove('active');
     });
     
@@ -391,22 +398,51 @@ function setupModal() {
     });
 }
 
+/**
+ * Adiciona botão de compartilhar no título do modal
+ */
+function addShareButtonToModal(type, id) {
+    const modalTitle = document.getElementById('modal-title');
+    
+    // Remove botão anterior se existir
+    const existingBtn = modalTitle.querySelector('.share-modal-btn');
+    if (existingBtn) existingBtn.remove();
+    
+    // Adiciona novo botão
+    const shareBtn = document.createElement('button');
+    shareBtn.className = 'share-modal-btn';
+    shareBtn.innerHTML = '<i class="fas fa-share-alt"></i>';
+    shareBtn.title = 'Copiar link direto';
+    shareBtn.onclick = () => copyModalLink(type, id);
+    
+    modalTitle.appendChild(shareBtn);
+}
+
 // ==================== SISTEMA DE SPOILERS ====================
 
 /**
  * Cria um elemento spoiler para listas longas
  */
 function createSpoiler(label, content) {
-    const spoilerHTML = `
-        <div class="spoiler-toggle" onclick="toggleSpoiler(this)">
-            <span>${label}</span>
-            <i class="fas fa-chevron-down"></i>
-        </div>
-        <div class="spoiler-content">
-            ${content}
+    const id = 'spoiler-' + Math.random().toString(36).substr(2, 9);
+    return `
+        <div class="spoiler" id="${id}">
+            <div class="spoiler-header" onclick="toggleSpoiler('${id}')">
+                <i class="fas fa-chevron-right"></i>
+                <span>${label}</span>
+            </div>
+            <div class="spoiler-content">
+                ${content}
+            </div>
         </div>
     `;
-    return spoilerHTML;
+}
+
+function toggleSpoiler(spoilerId) {
+    const spoiler = document.getElementById(spoilerId);
+    if (spoiler) {
+        spoiler.classList.toggle('active');
+    }
 }
 
 /**
@@ -650,48 +686,31 @@ function setupFilters() {
 function filterPokemon(pokemon) {
     let filtered = [...pokemon];
     
-    // Busca por nome/número da Dex
-    if (FILTERS.pokemon.search) {
-        const search = FILTERS.pokemon.search.toLowerCase();
-        filtered = filtered.filter(p => {
-            const dexNum = getDexNumber(p).toString();
-            return p.name.toLowerCase().includes(search) || dexNum.includes(search);
-        });
-    }
+    const searchTerm = FILTERS.pokemon.search?.toLowerCase() || '';
+    const typeFilter = FILTERS.pokemon.type;
+    const generationFilter = FILTERS.pokemon.generation;
+    const regionFilter = FILTERS.pokemon.region;
     
-    // Filtro de tipo
-    if (FILTERS.pokemon.type) {
+    if (searchTerm) {
         filtered = filtered.filter(p => 
-            p.types.some(t => t.toLowerCase() === FILTERS.pokemon.type.toLowerCase())
+            p.name.toLowerCase().includes(searchTerm) ||
+            p.id.toString().includes(searchTerm)
         );
     }
     
-    // Filtro de raridade
-    if (FILTERS.pokemon.rarity) {
-        filtered = filtered.filter(p => p.rarity === FILTERS.pokemon.rarity);
+    if (typeFilter) {
+        filtered = filtered.filter(p => p.types.includes(typeFilter));
     }
     
-    // Filtro de forma
-    if (FILTERS.pokemon.form === 'base') {
-        filtered = filtered.filter(p => p.base_form === true);
-    } else if (FILTERS.pokemon.form) {
-        filtered = filtered.filter(p => p.form_type === FILTERS.pokemon.form);
+    if (generationFilter) {
+        filtered = filtered.filter(p => p.generation === parseInt(generationFilter));
     }
     
-    // Filtro de região
-    if (FILTERS.pokemon.region) {
-        filtered = filtered.filter(p => isPokemonFromRegion(p, FILTERS.pokemon.region));
-    }
-    
-    // Filtros booleanos
-    if (FILTERS.pokemon.starter) {
-        filtered = filtered.filter(p => p.is_starter);
-    }
-    if (FILTERS.pokemon.seira) {
-        filtered = filtered.filter(p => p.in_seira_pokedex);
-    }
-    if (FILTERS.pokemon.producer) {
-        filtered = filtered.filter(p => p.is_producer);
+    if (regionFilter && regionFilter !== 'all') {
+        const keyword = REGIONAL_FORM_KEYWORDS[regionFilter];
+        if (keyword) {
+            filtered = filtered.filter(p => p.name.includes(keyword));
+        }
     }
     
     return filtered;
@@ -728,7 +747,7 @@ function filterItems(items) {
     }
     
     if (FILTERS.items.book) {
-        filtered = filtered.filter(i => i.is_book);
+        filtered = filtered.filter(i => i.book_category || i.category === 'key-item' && i.unlocks_recipes);
     }
     
     return filtered;
@@ -861,8 +880,8 @@ function createPokemonCard(pokemon) {
     const dexNum = getDexNumber(pokemon);
     const bst = Object.values(pokemon.stats).reduce((a, b) => a + b, 0);
     
-    const typesHTML = pokemon.types.map(type => 
-        `<span class="type-badge type-${type.toLowerCase()}">${type}</span>`
+    const typesHTML = (pokemon.types || []).map(type => 
+        `<span class="type-badge type-${type ? type.toLowerCase() : 'unknown'}">${type || 'Unknown'}</span>`
     ).join('');
     
     const badges = [];
@@ -907,7 +926,52 @@ async function openPokemonModal(pokemonId) {
     const modalBody = document.getElementById('modal-body');
     
     const pokemon = DATA_CACHE.pokemon.find(p => p.id === pokemonId);
-    if (!pokemon) return;
+    if (!pokemon) {
+        console.error('Pokémon não encontrado:', pokemonId);
+        return;
+    }
+    
+    // Formas que herdam dados da base
+    if (pokemon.form_of && (!pokemon.types || pokemon.types.length === 0 || pokemon.stats.hp === 0)) {
+        const basePokemon = DATA_CACHE.pokemon.find(p => p.id === pokemon.form_of);
+        if (basePokemon) {
+            const isGigantamax = pokemon.form_type === 'gigantamax';
+            const isAesthetic = pokemon.form_type === 'aesthetic';
+            const isMega = pokemon.form_type === 'mega';
+            
+            // Tipos (todos exceto aesthetic)
+            if (!isAesthetic && (!pokemon.types || pokemon.types.length === 0)) {
+                pokemon.types = basePokemon.types;
+            }
+            
+            // Stats (se zerados, herdar - exceto aesthetic)
+            if (!isAesthetic && pokemon.stats && pokemon.stats.hp === 0) {
+                pokemon.stats = basePokemon.stats;
+            }
+            
+            // Abilities (mega e gigantamax)
+            if ((isMega || isGigantamax) && (!pokemon.abilities || !pokemon.abilities.normal || pokemon.abilities.normal.length === 0)) {
+                pokemon.abilities = basePokemon.abilities;
+            }
+            
+            // Dex entry e classification (todos exceto aesthetic)
+            if (!isAesthetic) {
+                pokemon.dex_entry = pokemon.dex_entry || basePokemon.dex_entry;
+                pokemon.classification = pokemon.classification || basePokemon.classification;
+            }
+            
+            // Dados completos (só para formas que não são mega/giga/aesthetic)
+            if (!isMega && !isGigantamax && !isAesthetic) {
+                pokemon.egg_groups = pokemon.egg_groups || basePokemon.egg_groups;
+                pokemon.gender = pokemon.gender || basePokemon.gender;
+                pokemon.can_breed = pokemon.can_breed !== undefined ? pokemon.can_breed : basePokemon.can_breed;
+                pokemon.moveset_by_level = pokemon.moveset_by_level || basePokemon.moveset_by_level;
+                pokemon.learnable_moves = pokemon.learnable_moves || basePokemon.learnable_moves;
+                pokemon.egg_moves = pokemon.egg_moves || basePokemon.egg_moves;
+                pokemon.evolution_chain = pokemon.evolution_chain || basePokemon.evolution_chain;
+            }
+        }
+    }
     
     const moves = DATA_CACHE.moves;
     const maps = DATA_CACHE.maps;
@@ -919,6 +983,8 @@ async function openPokemonModal(pokemonId) {
         <img src="${pokemon.artwork}" style="width: 60px; height: 60px; object-fit: contain;">
         #${String(getDexNumber(pokemon)).padStart(3, '0')} - ${pokemon.name}
     `;
+
+    addShareButtonToModal('pokemon', pokemonId);
     
     // Verifica se existem formas alternativas (Mega, Gigantamax)
     const alternateForms = allPokemon.filter(p => 
@@ -1025,6 +1091,11 @@ function setupFormTabs() {
  * Gera HTML com detalhes completos de um Pokémon
  */
 function generatePokemonDetails(pokemon, moves, maps, items, allPokemon) {
+    // Verificações de dados essenciais
+    if (!pokemon.types || pokemon.types.length === 0) {
+        return '<div class="modal-section"><p>Dados incompletos para esta forma.</p></div>';
+    }
+    
     // ID da espécie (visível no modal)
     const speciesIdHTML = pokemon.id >= 10000 ? `
         <div class="info-item">
@@ -1039,28 +1110,7 @@ function generatePokemonDetails(pokemon, moves, maps, items, allPokemon) {
     ).join('');
     
     const bst = Object.values(pokemon.stats).reduce((a, b) => a + b, 0);
-    
-    // Abilities (suporta múltiplas hidden e exóticas)
-    const normalAbilities = Array.isArray(pokemon.abilities.normal) 
-        ? pokemon.abilities.normal.join(', ') 
-        : pokemon.abilities.normal;
-    
-    let hiddenAbilities = 'Nenhuma';
-    if (pokemon.abilities.hidden) {
-        hiddenAbilities = Array.isArray(pokemon.abilities.hidden)
-            ? pokemon.abilities.hidden.join(', ')
-            : pokemon.abilities.hidden;
-    }
-    
-    let exoticAbilities = '';
-    if (pokemon.abilities.exotic && pokemon.abilities.exotic.length > 0) {
-        exoticAbilities = `
-            <div class="info-item">
-                <span class="info-label">Exóticas</span>
-                <span class="info-value">${pokemon.abilities.exotic.join(', ')}</span>
-            </div>
-        `;
-    }
+
     
     // Egg Groups
     const eggGroups = pokemon.egg_groups ? pokemon.egg_groups.join(', ') : 'N/A';
@@ -1072,24 +1122,27 @@ function generatePokemonDetails(pokemon, moves, maps, items, allPokemon) {
     }
     
     // Stats com ícones GMI e barras
-    const statsHTML = `
+    // Stats com ícones GMI e barras
+const statsHTML = pokemon.stats ? `
         <div class="stats-grid">
-            ${Object.entries(pokemon.stats).map(([stat, value]) => {
-                const maxStat = 255;
-                const percentage = (value / maxStat) * 100;
-                return `
-                    <div class="stat-item">
-                        <div class="stat-icon"><i class="gmi ${getStatIcon(stat)}"></i></div>
-                        <span class="stat-name">${getStatName(stat)}</span>
-                        <span class="stat-value">${value}</span>
-                        <div class="stat-bar">
-                            <div class="stat-bar-fill" style="width: ${percentage}%"></div>
+            ${Object.entries(pokemon.stats)
+                .filter(([stat]) => stat !== 'total')
+                .map(([stat, value]) => {
+                    const maxStat = 255;
+                    const percentage = (value / maxStat) * 100;
+                    return `
+                        <div class="stat-item">
+                            <div class="stat-icon"><i class="gmi ${getStatIcon(stat)}"></i></div>
+                            <span class="stat-name">${getStatName(stat)}</span>
+                            <span class="stat-value">${value}</span>
+                            <div class="stat-bar">
+                                <div class="stat-bar-fill" style="width: ${percentage}%"></div>
+                            </div>
                         </div>
-                    </div>
-                `;
-            }).join('')}
+                    `;
+                }).join('')}
         </div>
-    `;
+    ` : '<p>Stats não disponíveis</p>';
     
     // Moveset por level com estilo especial
     let movesetHTML = '';
@@ -1239,120 +1292,233 @@ function generatePokemonDetails(pokemon, moves, maps, items, allPokemon) {
         `;
     }
     
-    // Evolution Chain
-    let evolutionHTML = '<p>Não evolui</p>';
-    if (pokemon.evolution_chain && pokemon.evolution_chain.length > 0) {
-        evolutionHTML = '<div class="moves-list">' + pokemon.evolution_chain.sort((a, b) => a.stage - b.stage).map(evo => {
-            const evoPokemon = allPokemon.find(p => p.name.toLowerCase() === evo.pokemon.toLowerCase());
-            const evoImage = evoPokemon ? `<img src="${evoPokemon.artwork}" style="width: 60px; height: 60px; object-fit: contain; margin-bottom: 8px;">` : '';
+     // Evolution Chain COMPLETA
+    let evolutionHTML = '';
+    if (pokemon.evolution_chain && Array.isArray(pokemon.evolution_chain) && pokemon.evolution_chain.length > 0) {
+        // Pegar toda a cadeia (não só as diretas)
+        const allStages = [];
+        
+        // Adicionar Pokémon atual
+        allStages.push({
+            pokemon: pokemon,
+            isCurrent: true
+        });
+        
+        // Buscar todas as evoluções na cadeia
+        pokemon.evolution_chain.forEach(evo => {
+            const evoPkmn = DATA_CACHE.pokemon.find(p => p.name === evo.to);
+            if (evoPkmn && !allStages.some(s => s.pokemon.id === evoPkmn.id)) {
+                let methodText = '';
+                if (evo.triggers && evo.triggers.length > 0) {
+                    const trigger = evo.triggers[0];
+                    if (trigger.type === 'level') {
+                        methodText = `Nível ${trigger.level}`;
+                    } else if (trigger.type === 'item') {
+                        const item = DATA_CACHE.items.find(i => i.id === trigger.item_id);
+                        methodText = item ? `
+                            <img src="${item.sprite}" style="width: 20px; height: 20px; vertical-align: middle;">
+                            ${item.name}
+                        ` : `Item ${trigger.item_id}`;
+                    } else {
+                        methodText = trigger.type;
+                    }
+                }
+                
+                allStages.push({
+                    pokemon: evoPkmn,
+                    isCurrent: false,
+                    method: methodText
+                });
+            }
+        });
+        
+        const stagesHTML = allStages.map((stage, index) => {
+            const isCurrentClass = stage.isCurrent ? 'current' : '';
+            const arrowHTML = index > 0 ? `
+                <div class="evolution-arrow">
+                    <i class="fas fa-arrow-right"></i>
+                    <div class="evolution-method">${stage.method || ''}</div>
+                </div>
+            ` : '';
             
             return `
-                <div class="info-item" style="flex-direction: column; align-items: center; padding: 15px;">
-                    ${evoImage}
-                    <span class="info-label">Stage ${evo.stage}: ${evo.pokemon}</span>
-                    ${evo.evolutions.map(e => {
-                        let methodHTML = `→ ${e.to} (${e.method}`;
-                        
-                        if (e.method === 'item') {
-                            const evoItem = items.find(i => i.name.toLowerCase() === e.condition.toLowerCase());
-                            if (evoItem) {
-                                methodHTML = `→ ${e.to} (<img src="${evoItem.sprite}" style="width: 20px; height: 20px; vertical-align: middle;" onclick="openItemModal(${evoItem.id})"> ${e.condition})`;
-                            } else {
-                                methodHTML += `: ${e.condition})`;
-                            }
-                        } else if (e.method === 'custom') {
-                            methodHTML = `→ ${e.to} (${e.condition})`;
-                        } else {
-                            methodHTML += `: ${e.condition})`;
-                        }
-                        
-                        return `<div style="padding: 5px 0; font-size: 12px; color: var(--white1);">${methodHTML}</div>`;
-                    }).join('')}
+                ${arrowHTML}
+                <div class="evolution-pokemon ${isCurrentClass}" onclick="openPokemonModal(${stage.pokemon.id})">
+                    <img src="${stage.pokemon.artwork}" alt="${stage.pokemon.name}">
+                    <div class="evolution-pokemon-name">${stage.pokemon.name}</div>
                 </div>
             `;
-        }).join('') + '</div>';
+        }).join('');
+        
+        if (allStages.length > 1) {
+            evolutionHTML = `
+                <div class="modal-section">
+                    <h3 class="modal-section-title">
+                        <i class="fas fa-dna"></i> Cadeia Evolutiva
+                    </h3>
+                    <div class="evolution-chain">
+                        ${stagesHTML}
+                    </div>
+                </div>
+            `;
+        }
     }
+
+    // Abilities processadas
+    const normalAbilitiesArray = Array.isArray(pokemon.abilities.normal) 
+        ? pokemon.abilities.normal 
+        : [pokemon.abilities.normal].filter(Boolean);
     
-    return `
+    const hiddenAbilitiesArray = pokemon.abilities.hidden 
+        ? (Array.isArray(pokemon.abilities.hidden) ? pokemon.abilities.hidden : [pokemon.abilities.hidden])
+        : [];
+    
+    const exoticAbilitiesArray = pokemon.abilities.exotic || [];
+    
+    const normalAbilities = normalAbilitiesArray.map(a => 
+        `<div class="info-badge" style="background: #3498db; cursor: pointer;" onclick="searchAbilityByName('${a}')">${a}</div>`
+    ).join('');
+    
+    const hiddenAbilities = hiddenAbilitiesArray.length > 0 
+        ? hiddenAbilitiesArray.map(a => 
+            `<div class="info-badge hidden" style="cursor: pointer;" onclick="searchAbilityByName('${a}')">${a}</div>`
+        ).join('')
+        : 'Nenhuma';
+    
+    const exoticAbilities = exoticAbilitiesArray.length > 0
+        ? exoticAbilitiesArray.map(a => 
+            `<div class="info-badge" style="background: #9b59b6; cursor: pointer;" onclick="searchAbilityByName('${a}')">${a}</div>`
+        ).join('')
+        : '';
+
+     return `
         <div class="pokemon-detail-grid">
             <div class="pokemon-detail-image">
                 <img src="${pokemon.artwork}" alt="${pokemon.name}">
             </div>
             <div class="pokemon-detail-info">
-                <div class="info-item">
-                    <span class="info-label">Tipos</span>
-                    <span class="info-value">${typesHTML}</span>
-                </div>
-                <div class="info-item">
-                    <span class="info-label">BST</span>
-                    <span class="info-value">${bst}</span>
+                <div class="pokemon-info-grid-2col">
+                    <div class="info-item-vertical">
+                        <span class="info-label">Tipos</span>
+                        <span class="info-value">${typesHTML}</span>
+                    </div>
+                    <div class="info-item-vertical">
+                        <span class="info-label">BST</span>
+                        <span class="info-value">${bst}</span>
+                    </div>
+                    <div class="info-item-vertical">
+                        <span class="info-label">Altura</span>
+                        <span class="info-value">${pokemon.height}m</span>
+                    </div>
+                    <div class="info-item-vertical">
+                        <span class="info-label">Peso</span>
+                        <span class="info-value">${pokemon.weight}kg</span>
+                    </div>
+                    <div class="info-item-vertical">
+                        <span class="info-label">Base XP</span>
+                        <span class="info-value">${pokemon.base_experience}</span>
+                    </div>
+                    <div class="info-item-vertical">
+                        <span class="info-label">Classificação</span>
+                        <span class="info-value">${pokemon.classification}</span>
+                    </div>
                 </div>
                 ${speciesIdHTML}
-                <div class="info-item">
-                    <span class="info-label">Altura</span>
-                    <span class="info-value">${pokemon.height}m</span>
-                </div>
-                <div class="info-item">
-                    <span class="info-label">Peso</span>
-                    <span class="info-value">${pokemon.weight}kg</span>
-                </div>
-                <div class="info-item">
-                    <span class="info-label">Base XP</span>
-                    <span class="info-value">${pokemon.base_experience}</span>
-                </div>
-                <div class="info-item">
-                    <span class="info-label">Classificação</span>
-                    <span class="info-value">${pokemon.classification}</span>
-                </div>
             </div>
         </div>
         
         <div class="modal-section">
             <h3 class="modal-section-title">
-                <i class="fas fa-book"></i> Pokédex Entry
+                <i class="fas fa-book"></i> Entrada da Pokédex
             </h3>
             <p>${pokemon.dex_entry}</p>
         </div>
         
+        ${pokemon.stats && pokemon.stats.hp > 0 ? `
         <div class="modal-section">
             <h3 class="modal-section-title">
-                <i class="fas fa-chart-bar"></i> Stats
+                <i class="fas fa-chart-bar"></i> Status Base
             </h3>
-            ${statsHTML}
+            <div class="pokemon-stats-grid-6col">
+                <div class="stat-item">
+                    <i class="gmi gmi-glass-heart"></i>
+                    <div class="stat-label">HP</div>
+                    <div class="stat-value">${pokemon.stats.hp}</div>
+                </div>
+                <div class="stat-item">
+                    <i class="gmi gmi-fist"></i>
+                    <div class="stat-label">ATQ</div>
+                    <div class="stat-value">${pokemon.stats.attack}</div>
+                </div>
+                <div class="stat-item">
+                    <i class="gmi gmi-bordered-shield"></i>
+                    <div class="stat-label">DEF</div>
+                    <div class="stat-value">${pokemon.stats.defense}</div>
+                </div>
+                <div class="stat-item">
+                    <i class="gmi gmi-hypersonic-bolt"></i>
+                    <div class="stat-label">ESP.ATQ</div>
+                    <div class="stat-value">${pokemon.stats.special_attack}</div>
+                </div>
+                <div class="stat-item">
+                    <i class="gmi gmi-bolt-shield"></i>
+                    <div class="stat-label">ESP.DEF</div>
+                    <div class="stat-value">${pokemon.stats.special_defense}</div>
+                </div>
+                <div class="stat-item">
+                    <i class="gmi gmi-steelwing-emblem"></i>
+                    <div class="stat-label">VEL</div>
+                    <div class="stat-value">${pokemon.stats.speed}</div>
+                </div>
+            </div>
         </div>
+        ` : '<div class="modal-section"><p>Stats não disponíveis para esta forma</p></div>'}
+    
+            
         
-        <div class="modal-section">
+<div class="modal-section">
             <h3 class="modal-section-title">
                 <i class="fas fa-star"></i> Habilidades
             </h3>
-            <div class="info-item">
-                <span class="info-label">Normal</span>
-                <span class="info-value">${normalAbilities}</span>
+            <div class="pokemon-abilities-grid">
+                <div class="ability-column">
+                    <span class="ability-type">Normal</span>
+                    ${normalAbilities}
+                </div>
+                ${hiddenAbilities !== 'Nenhuma' ? `
+                <div class="ability-column">
+                    <span class="ability-type">Hidden</span>
+                    ${hiddenAbilities}
+                </div>
+                ` : ''}
+                ${exoticAbilities ? `
+                <div class="ability-column">
+                    <span class="ability-type">Exótica</span>
+                    ${exoticAbilities}
+                </div>
+                ` : ''}
             </div>
-            <div class="info-item">
-                <span class="info-label">Hidden</span>
-                <span class="info-value">${hiddenAbilities}</span>
-            </div>
-            ${exoticAbilities}
         </div>
         
         <div class="modal-section">
-            <h3 class="modal-section-title">
-                <i class="fas fa-dna"></i> Reprodução
-            </h3>
-            <div class="info-item">
-                <span class="info-label">Egg Groups</span>
-                <span class="info-value">${eggGroups}</span>
-            </div>
-            <div class="info-item">
-                <span class="info-label">Gender Ratio</span>
-                <span class="info-value">${genderHTML}</span>
-            </div>
-            <div class="info-item">
-                <span class="info-label">Pode Reproduzir</span>
-                <span class="info-value">${pokemon.can_breed ? 'Sim' : 'Não'}</span>
-            </div>
+    <h3 class="modal-section-title">
+        <i class="fas fa-egg"></i> Reprodução
+    </h3>
+    <div class="pokemon-breeding-grid">
+        <div class="breeding-item">
+            <span class="breeding-label">Grupos de Reprodução</span>
+            <div class="breeding-value">${eggGroups}</div>
         </div>
+        <div class="breeding-item">
+            <span class="breeding-label">Taxa de Gênero</span>
+            <div class="breeding-value">${genderHTML}</div>
+        </div>
+        <div class="breeding-item">
+            <span class="breeding-label">Pode Reproduzir</span>
+            <div class="breeding-value">${pokemon.can_breed ? 'Sim' : 'Não'}</div>
+        </div>
+    </div>
+</div>
         
         <div class="modal-section">
             <h3 class="modal-section-title">
@@ -1404,6 +1570,11 @@ async function renderItemGrid() {
     const grid = document.getElementById('item-grid');
     const resultsInfo = document.getElementById('item-results-info');
     
+    if (!grid || !resultsInfo) {
+        console.error('Elementos do grid de itens não encontrados');
+        return;
+    }
+    
     grid.innerHTML = '<div class="loading"><i class="fas fa-spinner"></i><p>Carregando itens...</p></div>';
     
     const items = await loadData('items');
@@ -1430,7 +1601,8 @@ async function renderItemGrid() {
                 <p>Tente ajustar os filtros</p>
             </div>
         `;
-        document.getElementById('item-pagination').innerHTML = '';
+        const paginationEl = document.getElementById('items-pagination');
+        if (paginationEl) paginationEl.innerHTML = '';
         return;
     }
     
@@ -1502,6 +1674,8 @@ async function openItemModal(itemId) {
         <img src="${item.sprite}" style="width: 60px; height: 60px; object-fit: contain;">
         #${String(item.id).padStart(4, '0')} - ${item.name}
     `;
+
+    addShareButtonToModal('item', itemId);
     
     // Preços
     const pricesHTML = [];
@@ -1591,34 +1765,58 @@ async function openItemModal(itemId) {
         `;
     }
     
-    // Book info
-    let bookHTML = '';
-    if (item.is_book && item.unlocks_recipes) {
-        const recipes = item.unlocks_recipes.map(rid => {
+    // Book info - Receitas desbloqueadas com ingredientes
+     let bookHTML = '';
+    if ((item.book_category || (item.category === 'key-item' && item.unlocks_recipes)) && item.unlocks_recipes && item.unlocks_recipes.length > 0) {
+        const recipesHTML = item.unlocks_recipes.map(rid => {
             const recipeItem = items.find(i => i.id === rid);
-            return recipeItem ? `
-                <div class="map-item-card" onclick="openItemModal(${recipeItem.id})">
-                    <div class="map-item-image">
-                        <img src="${recipeItem.sprite}">
+            if (!recipeItem) return '';
+            
+            // Pegar ingredientes da receita
+            let ingredientsHTML = '';
+            if (recipeItem.craft_recipe && recipeItem.craft_recipe.length > 0) {
+                ingredientsHTML = `
+                    <div style="margin-top: 8px; padding: 8px; background: var(--dark3); border-radius: 4px;">
+                        <div style="font-size: 10px; color: var(--accent1); font-weight: 600; margin-bottom: 6px;">INGREDIENTES:</div>
+                        <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+                            ${recipeItem.craft_recipe.map(ing => {
+                                const ingredient = items.find(i => i.id === ing.item_id);
+                                return ingredient ? `
+                                    <div style="display: flex; align-items: center; gap: 4px; background: var(--dark2); padding: 4px 8px; border-radius: 4px; font-size: 11px;">
+                                        <img src="${ingredient.sprite}" style="width: 16px; height: 16px;">
+                                        <span style="color: var(--white);">${ingredient.name}</span>
+                                        <span style="color: var(--accent1); font-weight: 700;">x${ing.quantity}</span>
+                                    </div>
+                                ` : '';
+                            }).join('')}
+                        </div>
                     </div>
-                    <div class="map-item-info">
-                        <div class="map-item-name">${recipeItem.name}</div>
+                `;
+            }
+            
+            return `
+                <div class="map-item-card" style="flex-direction: column; align-items: stretch;" onclick="openItemModal(${recipeItem.id})">
+                    <div style="display: flex; gap: 10px; align-items: center;">
+                        <div class="map-item-image">
+                            <img src="${recipeItem.sprite}">
+                        </div>
+                        <div class="map-item-info" style="flex: 1;">
+                            <div class="map-item-name">${recipeItem.name}</div>
+                            <div class="map-item-details">${translateItemCategory(recipeItem.category)}</div>
+                        </div>
                     </div>
+                    ${ingredientsHTML}
                 </div>
-            ` : '';
+            `;
         }).join('');
         
         bookHTML = `
             <div class="modal-section">
                 <h3 class="modal-section-title">
-                    <i class="fas fa-book"></i> Receitas Desbloqueadas
+                    <i class="fas fa-book-open"></i> Receitas Desbloqueadas
                 </h3>
-                <div class="info-item">
-                    <span class="info-label">Categoria</span>
-                    <span class="info-value">${item.book_category || 'N/A'}</span>
-                </div>
-                <div class="items-grid" style="margin-top: 15px;">
-                    ${recipes}
+                <div style="display: flex; flex-direction: column; gap: 12px;">
+                    ${recipesHTML}
                 </div>
             </div>
         `;
@@ -1832,6 +2030,8 @@ async function openMoveModal(moveId) {
     modalTitle.innerHTML = `
         <i class="fas fa-fist-raised"></i> ${capitalizeWords(move.name)}
     `;
+
+    addShareButtonToModal('move', moveId);
     
     // Encontrar Pokémon que aprendem (TODOS, sem limite)
     const learnedBy = pokemon.filter(p => 
@@ -2016,12 +2216,16 @@ async function openAbilityModal(abilityId) {
     modalTitle.innerHTML = `
         <i class="fas fa-star"></i> ${capitalizeWords(ability.name)}
     `;
+
+    addShareButtonToModal('ability', abilityId);
     
     // Encontrar Pokémon com essa ability (normal ou hidden)
     const withAbility = pokemon.filter(p => {
-        const normal = Array.isArray(p.abilities.normal) 
-            ? p.abilities.normal 
-            : [p.abilities.normal];
+        if (!p || !p.abilities) return false;
+        
+        const normal = p.abilities.normal 
+            ? (Array.isArray(p.abilities.normal) ? p.abilities.normal : [p.abilities.normal])
+            : [];
         
         const hidden = Array.isArray(p.abilities.hidden)
             ? p.abilities.hidden
@@ -2179,14 +2383,28 @@ async function renderObjectGrid() {
  * Cria card de objeto
  */
 function createObjectCard(obj) {
+    // Ícones para cada tipo de objeto
+    const icons = {
+        'berry_tree': 'fa-leaf',
+        'apricorn_tree': 'fa-seedling',
+        'fishing_spot': 'fa-fish',
+        'evolution_stone': 'fa-gem',
+        'evolution_location': 'fa-map-pin',
+        'social_spot': 'fa-users'
+    };
+    
+    const icon = icons[obj.type] || 'fa-cube';
+    
     return `
         <div class="object-card" onclick="openObjectModal('${obj.id}')">
-            <div class="object-card-header">
-                <span class="object-card-id">${obj.id}</span>
+            <div class="object-card-icon">
+                <i class="fas ${icon}"></i>
             </div>
-            <div class="object-card-name">${obj.name}</div>
-            <div class="object-card-type">${translateObjectType(obj.type)}</div>
-            <div class="object-card-description">${obj.description.substring(0, 80)}...</div>
+            <div class="object-card-content">
+                <div class="object-card-name">${obj.name}</div>
+                <div class="object-card-type">${translateObjectType(obj.type)}</div>
+                <div class="object-card-id">ID: ${obj.id}</div>
+            </div>
         </div>
     `;
 }
@@ -2208,6 +2426,8 @@ async function openObjectModal(objectId) {
     modalTitle.innerHTML = `
         <i class="fas fa-cube"></i> ${object.name}
     `;
+
+    addShareButtonToModal('object', object.id);
     
     // Informações básicas
     let infoHTML = `
@@ -2451,6 +2671,7 @@ async function renderShops() {
     await renderMileShop();
     await renderBookShop();
     await renderTMShop();
+    await renderPokemartShop();
     
     // Setup shop tabs navigation
     setupShopTabs();
@@ -2569,6 +2790,33 @@ async function renderTMShop() {
 }
 
 /**
+ * Renderiza Pokemart Shop
+ */
+async function renderPokemartShop() {
+    const grid = document.getElementById('pokemart-grid');
+    const items = await loadData('items');
+    
+    // Filtra apenas os itens configurados para esta loja
+    const pokemartItems = SHOP_ITEMS.pokemart
+        .map(id => items.find(i => i.id === id))
+        .filter(Boolean);
+    
+    if (pokemartItems.length === 0) {
+        grid.innerHTML = `
+            <div class="empty-state">
+                <i class="fas fa-info-circle"></i>
+                <p class="empty-state-text">Nenhum item configurado</p>
+            </div>
+        `;
+        return;
+    }
+    
+    grid.innerHTML = pokemartItems.map(item => 
+        createShopItemCard(item, item.price.buy || 0, '₽')
+    ).join('');
+}
+
+/**
  * Cria card de item de loja
  */
 function createShopItemCard(item, price, currency) {
@@ -2604,7 +2852,10 @@ function setupShopTabs() {
             });
             
             const targetShop = tab.dataset.shop + '-shop';
-            document.getElementById(targetShop).classList.add('active');
+            const targetElement = document.getElementById(targetShop);
+            if (targetElement) {
+                targetElement.classList.add('active');
+            }
         });
     });
 }
@@ -2723,6 +2974,8 @@ async function openMapModal(mapId) {
     modalTitle.innerHTML = `
         <i class="fas fa-map-marker-alt"></i> ${map.name}
     `;
+
+    addShareButtonToModal('map', map.id);
     
     // Imagem do local
     const mapImageHTML = map.map_image ? `
@@ -2869,12 +3122,15 @@ async function openMapModal(mapId) {
                         </div>
                     </div>
                 `;
-            }
-            
+            }          
+
             // Itens que o NPC compra
             if (poi.shop_data && poi.shop_data.buys) {
                 const buysItems = poi.shop_data.buys.map(buyData => {
-                    const item = items.find(i => i.id === buyData.item_id);
+                    // Se for um número direto (só ID)
+                    const itemId = typeof buyData === 'number' ? buyData : buyData.item_id;
+                    const item = items.find(i => i.id === itemId);
+                    
                     return item ? `
                         <div class="map-item-card" onclick="openItemModal(${item.id})">
                             <div class="map-item-image">
@@ -2883,8 +3139,8 @@ async function openMapModal(mapId) {
                             <div class="map-item-info">
                                 <div class="map-item-name">${item.name}</div>
                                 <div class="map-item-details">
-                                    Compra por: ${buyData.price || item.price.sell || '?'}₽
-                                    ${buyData.requires_fame ? ` | Requer ${buyData.requires_fame} de fama` : ''}
+                                    Compra por: ${typeof buyData === 'object' && buyData.price ? buyData.price : item.price.sell || '?'}₽
+                                    ${typeof buyData === 'object' && buyData.requires_fame ? `<br>Requer ${buyData.requires_fame} de fama` : ''}
                                 </div>
                             </div>
                         </div>
@@ -2893,21 +3149,21 @@ async function openMapModal(mapId) {
                 
                 shopHTML += `
                     <div style="margin-top: 15px;">
-                        <strong style="color: var(--accent1); font-size: 13px;">Compra:</strong>
+                        <strong style="color: var(--accent1); font-size: 13px;">Compra do jogador:</strong>
                         <div class="items-grid" style="margin-top: 10px;">
                             ${buysItems}
                         </div>
                     </div>
                 `;
             }
-            
-            // Custom (descrições especiais como acampamento)
+                        
+            // Custom effect (requisitos especiais)
             let customHTML = '';
-            if (poi.custom) {
+            if (poi.custom_effect) {
                 customHTML = `
                     <div style="margin-top: 10px; padding: 10px; background: var(--dark2); border-radius: 6px; border-left: 3px solid var(--accent1);">
-                        <strong style="color: var(--accent1);">Especial:</strong>
-                        <p style="margin-top: 5px; font-size: 12px;">${poi.custom}</p>
+                        <strong style="color: var(--accent1);">Requisito:</strong>
+                        <p style="margin-top: 5px; font-size: 12px;">${poi.custom_effect}</p>
                     </div>
                 `;
             }
@@ -3171,6 +3427,22 @@ async function init() {
         
         // Renderiza primeira seção (Pokédex)
         await renderPokemonGrid();
+        
+        // Verifica se há hash na URL para abrir modal direto
+        const hash = window.location.hash;
+        if (hash) {
+            const [type, id] = hash.substring(1).split('-');
+            
+            // Aguarda um pouco para garantir que os dados carregaram
+            setTimeout(() => {
+                if (type === 'pokemon') openPokemonModal(parseInt(id));
+                else if (type === 'item') openItemModal(parseInt(id));
+                else if (type === 'move') openMoveModal(parseInt(id));
+                else if (type === 'ability') openAbilityModal(parseInt(id));
+                else if (type === 'map') openMapModal(id);
+                else if (type === 'object') openObjectModal(id);
+            }, 500);
+        }
         
         console.log('✅ Database carregado com sucesso!');
     } catch (error) {
