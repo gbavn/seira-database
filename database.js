@@ -1,13 +1,6 @@
 // ==================== SEIRA RPG DATABASE - JAVASCRIPT ====================
 // Parte 1: Constantes, Configuração Inicial e Funções Auxiliares
 
-// ==================== CONFIGURAÇÃO DE MAPAS OCULTOS ====================
-// INSTRUÇÕES: Adicione os IDs dos mapas que deseja ocultar (útil para lançamentos futuros)
-// Exemplo: const HIDDEN_MAPS = ['vdh', 'route-15', 'secret-cave'];
-const HIDDEN_MAPS = [
-    // 'vdh',  // Descomente e adicione IDs aqui
-];
-
 // ==================== CONFIGURAÇÃO DE FORMAS REGIONAIS ====================
 // INSTRUÇÕES: Adicione os IDs das formas regionais de cada região
 // Se a lista estiver incorreta, edite aqui adicionando/removendo IDs
@@ -2449,54 +2442,6 @@ async function openObjectModal(objectId) {
     
     modal.classList.add('active');
 }
-// ==================== PARTE 6: SISTEMA DE LOJAS ====================
-
-// ==================== CONFIGURAÇÃO DAS LOJAS ====================
-// INSTRUÇÕES PARA EDITAR AS LOJAS:
-// 
-// 1. Cada loja tem um array de IDs de itens
-// 2. Para adicionar um item: adicione o ID no array correspondente
-// 3. Para remover um item: remova o ID do array
-// 4. O sistema busca automaticamente os dados do item pelo ID
-// 5. O preço exibido é definido pelo tipo de loja:
-//    - Casino Shop: usa item.price.casino (mostra em "chips")
-//    - Mile Shop: usa item.price.mile (mostra em "miles")
-//    - Book Shop: usa item.price.buy (mostra em "₽")
-//    - TM Shop: usa item.price.buy (mostra em "₽")
-//
-// Exemplo de como editar:
-// 
-// SHOP_ITEMS.casino = [1, 2, 3, 4]; // Coloque os IDs dos itens aqui
-
-const SHOP_ITEMS = {
-    // ==================== CASINO SHOP ====================
-    // Adicione os IDs dos itens vendidos no Casino Shop aqui:
-    casino: [
-        // Exemplo: 1, 2, 3, 4, 5
-        // Adicione os IDs aqui
-    ],
-    
-    // ==================== MILE SHOP ====================
-    // Adicione os IDs dos itens vendidos no Mile Shop aqui:
-    mile: [
-        // Exemplo: 10, 11, 12, 13, 14
-        // Adicione os IDs aqui
-    ],
-    
-    // ==================== BOOK SHOP ====================
-    // Adicione os IDs dos livros vendidos no Book Shop aqui:
-    book: [
-        // Exemplo: 20, 21, 22, 23, 24
-        // Adicione os IDs aqui
-    ],
-    
-    // ==================== TM SHOP ====================
-    // Adicione os IDs dos TMs vendidos no TM Shop aqui:
-    tm: [
-        // Exemplo: 30, 31, 32, 33, 34
-        // Adicione os IDs aqui
-    ]
-};
 
 /**
  * Renderiza todas as lojas
@@ -3276,4 +3221,5 @@ if (document.readyState === 'loading') {
 
 console.log('%c🌿 Seira RPG Database carregado!', 'color: #7b9c4a; font-size: 16px; font-weight: bold;');
 console.log('%cVersão: 1.0.0', 'color: #66843a;');
+
 console.log('%cDesenvolvido para Seira RPG', 'color: #6a7530;');
