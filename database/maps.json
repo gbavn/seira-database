@@ -763,5 +763,122 @@
     "interaction_objects": [],
     "accesses": {},
     "special_location": true
+  },
+  {
+    "id": "FRT",
+    "type": "city",
+    "name": "Frostdale",
+    "biome": "Boreal",
+    "description": "uma cidade natal",
+    "map_image": "",
+    "coordinates": {
+      "x": 50,
+      "y": 60
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [
+        163,
+        582,
+        238
+      ],
+      "rare": [
+        672,
+        613,
+        361
+      ],
+      "epic": [
+        875,
+        10082,
+        393
+      ]
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "R07",
+    "type": "city",
+    "name": "Rota",
+    "biome": "Boreal",
+    "description": "Uma Rota na neve",
+    "map_image": "",
+    "coordinates": {
+      "x": 30,
+      "y": 40
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [
+        220,
+        459,
+        585
+      ],
+      "rare": [
+        361,
+        363,
+        433
+      ],
+      "epic": [
+        875,
+        131,
+        722
+      ]
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "MTGL",
+    "type": "city",
+    "name": "Monte Glacio",
+    "biome": "",
+    "description": "uma montanha de neve",
+    "map_image": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [
+        872,
+        436,
+        524
+      ],
+      "rare": [
+        739,
+        613,
+        333
+      ],
+      "epic": [
+        774,
+        615,
+        996
+      ]
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
   }
 ]
