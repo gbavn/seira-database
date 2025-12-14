@@ -1,6 +1,6 @@
 [
   {
-    "id": "VDH",
+    "id": "VLD",
     "type": "city",
     "name": "Veldhavn",
     "biome": "Lacustre",
@@ -244,7 +244,7 @@
     "special_location": false
   },
   {
-    "id": "HSR",
+    "id": "HLL",
     "type": "city",
     "name": "Hillshire",
     "biome": "Campestre",
@@ -603,7 +603,7 @@
     "special_location": false
   },
   {
-    "id": "MDRD",
+    "id": "MNDR",
     "type": "landmark",
     "name": "Mina Dourada",
     "biome": "Cavernoso",
@@ -669,7 +669,7 @@
     "special_location": false
   },
   {
-    "id": "RRHS",
+    "id": "RRHI",
     "type": "landmark",
     "name": "Ruinas de Rhisis",
     "biome": "Ruinoso",
@@ -726,7 +726,7 @@
     "special_location": false
   },
   {
-    "id": "Lumiose",
+    "id": "LUM",
     "type": "city",
     "name": "Lumiose",
     "biome": "",
