@@ -6503,10 +6503,15 @@
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/seaincense.png",
     "price": {
-      "buy": 2000,
-      "sell": 1000,
+      "buy": 12500,
+      "sell": 4200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -6522,8 +6527,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 216,
@@ -6531,10 +6535,15 @@
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/laxincense.png",
     "price": {
-      "buy": 5000,
-      "sell": 2500,
+      "buy": 12500,
+      "sell": 4200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -6550,8 +6559,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 217,
@@ -8183,10 +8191,15 @@
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/oddincense.png",
     "price": {
-      "buy": 2000,
-      "sell": 1000,
+      "buy": 12500,
+      "sell": 4200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -8202,8 +8215,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 276,
@@ -8211,10 +8223,15 @@
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rockincense.png",
     "price": {
-      "buy": 2000,
-      "sell": 1000,
+      "buy": 12500,
+      "sell": 4200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -8230,8 +8247,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 277,
@@ -8239,10 +8255,15 @@
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/fullincense.png",
     "price": {
-      "buy": 5000,
-      "sell": 2500,
+      "buy": 12500,
+      "sell": 4200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -8258,8 +8279,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 278,
@@ -8267,10 +8287,15 @@
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/waveincense.png",
     "price": {
-      "buy": 2000,
-      "sell": 1000,
+      "buy": 12500,
+      "sell": 4200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -8286,8 +8311,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 279,
@@ -8295,10 +8319,15 @@
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/roseincense.png",
     "price": {
-      "buy": 2000,
-      "sell": 1000,
+      "buy": 12500,
+      "sell": 4200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -8314,8 +8343,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 280,
@@ -8323,10 +8351,15 @@
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/luckincense.png",
     "price": {
-      "buy": 11000,
-      "sell": 5500,
+      "buy": 27000,
+      "sell": 9000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -8342,8 +8375,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 281,
@@ -8351,14 +8383,19 @@
     "category": "battle-item",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pureincense.png",
     "price": {
-      "buy": 6000,
-      "sell": 3000,
+      "buy": 12500,
+      "sell": 4200,
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
-    "description": "Um incenso de aroma leve que afasta presenças indesejadas. Reduz pela metade a chance de encontros com Pokémon selvagens.",
+    "description": "Um incenso de aroma leve que afasta presenças indesejadas. Aumenta em 20% o poder de movimentos do tipo Normal.",
     "held_effect": "",
     "fling_power": 0,
     "fling_effect": "",
@@ -8370,8 +8407,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 282,
@@ -8409,10 +8445,15 @@
     "subcategory": "evolution-trigger",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/electirizer.png",
     "price": {
-      "buy": 2000,
-      "sell": 1000,
+      "buy": 20000,
+      "sell": 6700,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -8428,8 +8469,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 284,
@@ -8438,10 +8478,15 @@
     "subcategory": "evolution-trigger",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/magmarizer.png",
     "price": {
-      "buy": 2000,
-      "sell": 1000,
+      "buy": 20000,
+      "sell": 6700,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -8457,8 +8502,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 285,
