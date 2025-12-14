@@ -809,21 +809,9 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [
-        220,
-        459,
-        585
-      ],
-      "rare": [
-        361,
-        363,
-        433
-      ],
-      "epic": [
-        875,
-        131,
-        722
-      ]
+      "common": [],
+      "rare": [],
+      "epic": []
     },
     "interaction_objects": [],
     "accesses": {},
@@ -848,21 +836,9 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [
-        872,
-        436,
-        524
-      ],
-      "rare": [
-        739,
-        613,
-        333
-      ],
-      "epic": [
-        774,
-        615,
-        996
-      ]
+      "common": [],
+      "rare": [],
+      "epic": []
     },
     "interaction_objects": [],
     "accesses": {},
