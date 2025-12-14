@@ -8758,12 +8758,17 @@
     "id": 292,
     "name": "Fashion Case",
     "category": "key-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/fashion-case.png",
+    "sprite": "https://i.imgur.com/LMSbLKU.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -8779,19 +8784,23 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 293,
-    "name": "Seal Bag",
+    "name": "Seal Case",
     "category": "key-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/seal-bag.png",
+    "sprite": "https://i.imgur.com/ivsThZR.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -8807,8 +8816,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 294,
@@ -8989,12 +8997,17 @@
     "id": 300,
     "name": "Berry Pots",
     "category": "key-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/berry-pots.png",
+    "sprite": "https://i.imgur.com/OvOraWi.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -9010,8 +9023,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 301,
@@ -11044,34 +11056,6 @@
     "is_key_item": true,
     "is_craftable": false,
     "description": "An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
-  },
-  {
-    "id": 369,
-    "name": "Prop Case",
-    "category": "key-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/prop-case.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "is_key_item": true,
-    "is_craftable": false,
-    "description": "A lovely case to store colorful Props for your Pokémon to wear in a musical.",
     "held_effect": "",
     "fling_power": 0,
     "fling_effect": "",
@@ -20164,12 +20148,17 @@
     "id": 687,
     "name": "Shiny Ball",
     "category": "pokeball",
-    "sprite": "",
+    "sprite": "https://i.imgur.com/r4tNd1i.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -20218,8 +20207,7 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 688,
@@ -20569,7 +20557,7 @@
     "id": 699,
     "name": "Caster Fern",
     "category": "craft-material",
-    "sprite": "",
+    "sprite": "https://i.imgur.com/8vQ901k.png",
     "price": {
       "buy": 0,
       "sell": 0,
@@ -20661,12 +20649,17 @@
     "id": 702,
     "name": "Spoiled Apricorn",
     "category": "craft-material",
-    "sprite": "",
+    "sprite": "https://i.imgur.com/ff8NSE7.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20682,8 +20675,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 703,
@@ -22149,12 +22141,17 @@
     "id": 754,
     "name": "Linking Cord",
     "category": "other",
-    "sprite": "",
+    "sprite": "https://i.imgur.com/ooUQ2nj.png",
     "price": {
       "buy": 2500,
       "sell": 8300,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -22278,5 +22275,37 @@
       9,
       13
     ]
+  },
+  {
+    "id": 758,
+    "name": "Incubadora",
+    "category": "other",
+    "sprite": "https://i.imgur.com/Wybw24V.png",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "[EFEITO BLOQUEADO]",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "raro",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
   }
 ]
