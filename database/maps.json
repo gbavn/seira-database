@@ -25,7 +25,7 @@
         "name": "Laboratório do Professor Velkova",
         "type": "other",
         "description": "Às margens de um canal tranquilo, ergue-se uma casa de madeira antiga adaptada para a pesquisa, com estufas de vidro e jardins ao redor. O interior mistura rusticidade com ciência, onde livros, mapas e equipamentos se espalham em meio ao cheiro de madeira e ervas frescas.",
-        "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn",
+        "forum_link": "",
         "shop_data": null
       },
       {
@@ -39,7 +39,7 @@
       {
         "id": "BrilhoCanal",
         "name": "Doceria Brilho do Canal",
-        "type": "shop",
+        "type": "restaurant",
         "description": "A fachada colorida e alegre esconde um interior perfumado por chocolate, caramelo e frutas cristalizadas. Prateleiras de madeira exibem doces artesanais em potes de vidro, enquanto vitrines iluminadas revelam pirulitos e guloseimas que parecem saídos de um conto.",
         "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn-03",
         "shop_data": {
@@ -113,7 +113,7 @@
       {
         "id": "TravelersCamp",
         "name": "Acampamento dos Viajantes",
-        "type": "shop",
+        "type": "other",
         "description": "Um espaço acolhedor com fogueiras e mesas rústicas, onde o cheiro de caldos quentes conforta os viajantes. A cozinha local está sempre em busca de sabores da terra, pagando bem por ingredientes frescos e fungos raros colhidos nas sombras da floresta. É o ponto ideal para descansar e transformar a coleta do dia em lucro.",
         "forum_link": "",
         "shop_data": {
@@ -217,11 +217,7 @@
             284,
             754
           ],
-          "buys": [
-            283,
-            284,
-            754
-          ]
+          "buys": []
         }
       }
     ],
@@ -285,11 +281,10 @@
         "forum_link": "",
         "shop_data": {
           "sells": [
-            85
+            85,
+            279
           ],
-          "buys": [
-            85
-          ]
+          "buys": []
         }
       },
       {
@@ -312,11 +307,7 @@
             556,
             756
           ],
-          "buys": [
-            555,
-            556,
-            756
-          ]
+          "buys": []
         }
       }
     ],
@@ -324,7 +315,8 @@
     "spawns": {
       "common": [
         919,
-        928
+        928,
+        840
       ],
       "rare": [
         511,
@@ -382,18 +374,10 @@
             213,
             285
           ],
-          "buys": [
-            213,
-            285
-          ]
+          "buys": []
         },
-        "linked_pokemon": [
-          137,
-          233
-        ],
-        "linked_items": [
-          754
-        ]
+        "linked_pokemon": [],
+        "linked_items": []
       },
       {
         "id": "CambioCego",
@@ -408,7 +392,7 @@
             371
           ]
         },
-        "custom_effect": "(Requer 50 de Fama)"
+        "custom_effect": "(Requer 50 de Fama e Nível 3 de Treinador)"
       }
     ],
     "forageable_items": [],
@@ -424,15 +408,12 @@
         679
       ],
       "epic": [
-        924,
+        10072,
         870,
         725
       ]
     },
-    "interaction_objects": [
-      "berry-tree-01",
-      "apricorn-tree-01"
-    ],
+    "interaction_objects": [],
     "accesses": {},
     "special_location": false
   },
@@ -469,10 +450,16 @@
       {
         "id": "ArtisanHouse",
         "name": "Casa do Artesão de Névoa",
-        "type": "other",
+        "type": "shop",
         "description": "Oficina de esculturas, lanternas e obras que capturam a atmosfera etérea da cidade. Cada peça reflete a neblina e o silêncio de Misthollow, transformando o cotidiano em arte e mantendo vivas as tradições artesanais locais.",
         "forum_link": "",
-        "shop_data": null
+        "shop_data": {
+          "sells": [
+            104,
+            275
+          ],
+          "buys": []
+        }
       },
       {
         "id": "PhantomLake",
@@ -587,9 +574,10 @@
         "id": "MinerHut",
         "name": "Cabanas dos Mineradores",
         "type": "facility",
-        "description": "Mantidas pela guilda local, estas estruturas robustas seguem a 'Lei do Abrigo': as portas nunca se trancam para quem precisa. Além de proteção contra o clima e predadores, os mineradores mantêm estoques de remédios e aquecedores sempre ativos. A segurança absoluta do local permite que viajantes e seus Pokémon baixem a guarda, garantindo um sono profundo que restaura todas as energias.\n\n(O personagem pode descansar na cabana a cada 8 Postagens, recuperando totalmente a vida dos seus Pokémon.)",
+        "description": "Mantidas pela guilda local, estas estruturas robustas seguem a 'Lei do Abrigo': as portas nunca se trancam para quem precisa. Além de proteção contra o clima e predadores, os mineradores mantêm estoques de remédios e aquecedores sempre ativos. A segurança absoluta do local permite que viajantes e seus Pokémon baixem a guarda, garantindo um sono profundo que restaura todas as energias.",
         "forum_link": "",
-        "shop_data": null
+        "shop_data": null,
+        "custom_effect": "(O personagem pode descansar na cabana a cada 8 Postagens, recuperando totalmente a vida dos seus Pokémon.)"
       }
     ],
     "forageable_items": [],
@@ -806,7 +794,7 @@
   {
     "id": "R07",
     "type": "city",
-    "name": "Rota",
+    "name": "Rota 07",
     "biome": "Boreal",
     "description": "Uma Rota na neve",
     "map_image": "",
