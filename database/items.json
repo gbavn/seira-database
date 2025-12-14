@@ -2882,13 +2882,13 @@
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tinymushroom.png",
     "price": {
-      "buy": 0,
-      "sell": 0,
+      "buy": 900,
+      "sell": 299,
       "casino": 0,
       "mile": 0
     },
     "shop_availability": {
-      "pokemart": false,
+      "pokemart": true,
       "casino": false,
       "mile_shop": false
     },
