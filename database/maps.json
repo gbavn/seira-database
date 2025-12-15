@@ -795,7 +795,8 @@
         "custom_effect": "",
         "shop_data": {
           "sells": [
-            455
+            455,
+            759
           ],
           "buys": []
         }
