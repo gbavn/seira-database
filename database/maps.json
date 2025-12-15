@@ -757,8 +757,8 @@
     "type": "city",
     "name": "Frostdale",
     "biome": "Boreal",
-    "description": "uma cidade natal",
-    "map_image": "",
+    "description": "No coração gélido da região de Seira, no extremo Leste do território, aninhada entre colinas cobertas por pinheiros eternamente nevados, encontra-se Frostdale, uma vila que parece ter congelado no tempo, literalmente e figurativamente. Fundada originalmente por colonos visionários que buscavam criar um refúgio artístico longe do frenesi urbano, Frostdale acabou se tornando um santuário natalino permanente, onde o espírito do Natal é celebrado o ano inteiro, o cheiro de pinho e chocolate quente paira no ar e cada canto da cidade brilha com luzes cintilantes que nunca se apagam. O céu, frequentemente tingido de tons alaranjados ao entardecer, contrasta com os telhados cobertos de neve e com os jardins públicos onde esculturas de gelo são recriadas semanalmente por artesãos locais. Apesar do frio cortante, há um calor invisível na recepção de seus moradores, que vivem em harmonia com a natureza, com tradições festivas e com a estética que torna Frostdale tão especial.\n\nAo contrário do que se poderia esperar de uma cidade permanentemente coberta de neve, Frostdale pulsa com vida cultural. Cafeterias de estilo alpino dividem espaço com oficinas criativas, estúdios de artesanato temático, uma central de correspondências festivas e praças onde trenós decorativos e renas fazem parte do cenário cotidiano, enquanto canções sazonais ecoam pelas ruas durante todo o ano. A cidade possui uma infraestrutura moderna e sustentável, com uso inteligente de energia geotérmica e um transporte urbano elétrico adaptado para o frio intenso. No entanto, Frostdale também convive com dilemas únicos: o excesso de turismo em busca de experiências encantadas e o isolamento das comunidades periféricas que vivem em chalés afastados dos circuitos mais ornamentados. Ainda assim, mesmo sob um verniz de conto de fadas gelado, Frostdale é um lugar real, onde tradição e modernidade se equilibram sobre uma camada constante de neve fofa e reluzente.",
+    "map_image": "https://i.imgur.com/QRLplvt.png",
     "coordinates": {
       "x": 50,
       "y": 60
@@ -768,7 +768,19 @@
       "economy": [],
       "based_on": ""
     },
-    "points_of_interest": [],
+    "points_of_interest": [
+      {
+        "id": "GymIce",
+        "name": "Ginásio Vazio (Gelo)",
+        "type": "gym",
+        "description": "O ginásio está aberto, mas sem um líder para comandá-lo. A arena permanece silenciosa e organizada, com equipamentos guardados e nenhum desafio oficial acontecendo. Treinadores que passam ali encontram apenas o eco dos próprios passos, como se o lugar estivesse em pausa, aguardando alguém para assumir seu posto.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": null
+      }
+    ],
     "forageable_items": [],
     "spawns": {
       "common": [
@@ -783,7 +795,6 @@
       ],
       "epic": [
         875,
-        10082,
         393
       ]
     },
