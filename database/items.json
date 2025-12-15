@@ -22307,5 +22307,37 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0
+  },
+  {
+    "id": 759,
+    "name": "Snow Globe",
+    "category": "other",
+    "sprite": "",
+    "price": {
+      "buy": 2500,
+      "sell": 800,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "Um Snow Globe delicadamente selado, que guarda em seu interior uma pequena paisagem nevada de Frostdale. Quando oferecido como presente a um Pokémon durante o mês de dezembro, desperta memórias acolhedoras e aumenta sua felicidade em +30, um efeito especial que só pode ser sentido uma única vez a cada ano.",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
   }
 ]
