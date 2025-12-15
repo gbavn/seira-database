@@ -11,7 +11,7 @@
       "y": 84.823
     },
     "metadata": {
-      "population": "95.000",
+      "population": "≈ 95.000",
       "economy": [
         "Turismo aquático",
         "pequenas indústrias artesanais",
@@ -173,7 +173,7 @@
       "y": 51.4
     },
     "metadata": {
-      "population": "2.000.000",
+      "population": "≈ 2.000.000",
       "economy": [
         "Tecnologia",
         "telecomunicações",
@@ -256,7 +256,7 @@
       "y": 28.992
     },
     "metadata": {
-      "population": "450.000",
+      "population": "≈ 450.000",
       "economy": [
         "Agricultura especializada",
         "enoturismo",
@@ -346,7 +346,7 @@
       "y": 64
     },
     "metadata": {
-      "population": "1.050.000",
+      "population": "≈ 1.050.000",
       "economy": [
         "Comércio",
         "tecnologia",
@@ -429,7 +429,7 @@
       "y": 25.67
     },
     "metadata": {
-      "population": "300.000",
+      "population": "≈ 300.000",
       "economy": [
         "Agricultura de montanha",
         "pesca",
@@ -764,9 +764,13 @@
       "y": 60
     },
     "metadata": {
-      "population": "",
-      "economy": [],
-      "based_on": ""
+      "population": "≈ 58.000",
+      "economy": [
+        "Turismo permanente",
+        "artesanato especializado",
+        "eventos culturais e serviços climáticos"
+      ],
+      "based_on": "Rovaniemi, Finlândia"
     },
     "points_of_interest": [
       {
@@ -779,6 +783,22 @@
         "linked_items": [],
         "custom_effect": "",
         "shop_data": null
+      },
+      {
+        "id": "StElm",
+        "name": "Mercado Invernal de Saint Elm",
+        "type": "shop",
+        "description": "Chamado de Mercado Invernal desde sua origem, o local manteve o nome mesmo quando a neve deixou de ser estação e passou a ser permanência. Funciona como uma feira permanente de lembranças de Frostdale, reunindo artesanato temático, miniaturas, objetos decorativos e souvenires anunciados como “congelados para sempre”, além de eventos ocasionais como música ao vivo e desafios de escultura de gelo.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": {
+          "sells": [
+            455
+          ],
+          "buys": []
+        }
       }
     ],
     "forageable_items": [],
