@@ -825,7 +825,7 @@
   },
   {
     "id": "R07",
-    "type": "city",
+    "type": "route",
     "name": "Rota 07",
     "biome": "Boreal",
     "description": "Uma Rota na neve",
@@ -852,7 +852,7 @@
   },
   {
     "id": "MTGL",
-    "type": "city",
+    "type": "landmark",
     "name": "Monte Glacio",
     "biome": "Boreal",
     "description": "uma montanha de neve",
