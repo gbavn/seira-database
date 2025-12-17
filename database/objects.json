@@ -6,70 +6,10 @@
     "description": "Uma árvore carregada de berries maduras e suculentas.",
     "cooldown_hours": 24,
     "loot": {
-      "common": [
-        {
-          "item_id": 126,
-          "rate": 25
-        },
-        {
-          "item_id": 127,
-          "rate": 25
-        },
-        {
-          "item_id": 128,
-          "rate": 25
-        },
-        {
-          "item_id": 129,
-          "rate": 25
-        }
-      ],
-      "rare": [
-        {
-          "item_id": 150,
-          "rate": 50
-        },
-        {
-          "item_id": 151,
-          "rate": 50
-        }
-      ],
-      "epic": [
-        {
-          "item_id": 169,
-          "rate": 100
-        },
-        {
-          "item_id": 185,
-          "rate": 50
-        },
-        {
-          "item_id": 184,
-          "rate": 50
-        }
-      ]
+      "common": [],
+      "rare": [],
+      "epic": []
     }
-  },
-  {
-    "id": "apricorn-tree-01",
-    "type": "apricorn_tree",
-    "name": "Árvore de Apricorn",
-    "description": "Uma árvore rara que produz Apricorns coloridos.",
-    "cooldown_hours": 48,
-    "loot": [
-      {
-        "item_id": 458,
-        "rate": 50
-      },
-      {
-        "item_id": 459,
-        "rate": 30
-      },
-      {
-        "item_id": 463,
-        "rate": 7
-      }
-    ]
   },
   {
     "id": "moss-stone",
@@ -161,23 +101,15 @@
         {
           "pokemon_id": 118,
           "rate": 50
-        },
-        {
-          "pokemon_id": 2,
-          "rate": 50
-        },
-        {
-          "pokemon_id": 1,
-          "rate": 50
-        },
-        {
-          "pokemon_id": 3,
-          "rate": 50
         }
       ],
       "epic": [
         {
           "pokemon_id": 978,
+          "rate": 50
+        },
+        {
+          "pokemon_id": 977,
           "rate": 50
         },
         {
@@ -233,7 +165,34 @@
     "name": "Ponto de Pesca (Charco)",
     "description": "",
     "cooldown_hours": 24,
-    "loot": {}
+    "loot": {
+      "common": [
+        {
+          "pokemon_id": 129,
+          "rate": 50
+        }
+      ],
+      "rare": [
+        {
+          "pokemon_id": 341,
+          "rate": 50
+        },
+        {
+          "pokemon_id": 852,
+          "rate": 50
+        }
+      ],
+      "epic": [
+        {
+          "pokemon_id": 349,
+          "rate": 50
+        },
+        {
+          "pokemon_id": 978,
+          "rate": 50
+        }
+      ]
+    }
   },
   {
     "id": "FishSea",
@@ -288,5 +247,46 @@
       440
     ],
     "narrative": "Pokémon bebês brincam alegremente nos balanços e escorregadores. Suas risadas ecoam pelo parque, criando uma atmosfera alegre e acolhedora."
+  },
+  {
+    "id": "ApriTree",
+    "type": "apricorn_tree",
+    "name": "Árvore de Apricorn",
+    "description": "Uma árvore rara que produz Apricorns coloridos.",
+    "cooldown_hours": 48,
+    "loot": [
+      {
+        "item_id": 310,
+        "rate": 100
+      },
+      {
+        "item_id": 311,
+        "rate": 100
+      },
+      {
+        "item_id": 312,
+        "rate": 100
+      },
+      {
+        "item_id": 313,
+        "rate": 100
+      },
+      {
+        "item_id": 314,
+        "rate": 100
+      },
+      {
+        "item_id": 315,
+        "rate": 100
+      },
+      {
+        "item_id": 316,
+        "rate": 100
+      },
+      {
+        "item_id": 702,
+        "rate": 100
+      }
+    ]
   }
 ]
