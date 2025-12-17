@@ -13182,16 +13182,16 @@
   {
     "id": 808,
     "name": "Lash out",
-    "move_class": "max-move",
+    "move_class": "normal",
     "type": "Dark",
     "category": "Physical",
     "power": 75,
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
+    "target": "Selected pokemon",
     "description": "Inflicts regular damage.",
-    "modified_for_rpg": false,
-    "target": "Selected pokemon"
+    "modified_for_rpg": false
   },
   {
     "id": 809,
@@ -14791,5 +14791,33 @@
     "description": "The user pours toxins into the target by wrapping them in a toxic, corrosive chain. This may also leave the target badly poisoned.",
     "modified_for_rpg": false,
     "target": "Selected pokemon"
+  },
+  {
+    "id": 920,
+    "name": "Stone Rend",
+    "move_class": "normal",
+    "type": "Rock",
+    "category": "Physical",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "target": "Selected pokemon",
+    "description": "O usuário rasga o inimigo com membros de pedra endurecida. Este movimento nunca erra, mesmo contra alvos evasivos.",
+    "modified_for_rpg": false
+  },
+  {
+    "id": 921,
+    "name": "Gravewind",
+    "move_class": "normal",
+    "type": "Flying",
+    "category": "Physical",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "target": "All opponents",
+    "description": "O usuário bate suas asas pesadas, liberando um vento opressor que atinge todos os inimigos ao redor, causando 50% mais dano se tiver tido algum status reduzido no turno anterior.",
+    "modified_for_rpg": false
   }
 ]
