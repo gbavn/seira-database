@@ -1844,13 +1844,13 @@
   {
     "id": 308,
     "name": "Honey Hurl",
-    "effect": "aaaa",
+    "effect": "Quando o usuário faz ou sofre um movimento de contato, o oponente é coberto por mel pegajoso, tendo sua Velocidade reduzida em 1 estágio.",
     "modified_for_rpg": false
   },
   {
     "id": 309,
     "name": "Hive Mind",
-    "effect": "aaaa",
+    "effect": "Movimentos de status usados por oponentes contra o usuário sempre falham.",
     "modified_for_rpg": false
   }
 ]
