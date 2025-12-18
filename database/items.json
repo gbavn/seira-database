@@ -22747,8 +22747,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um muffin leve e aromático produzido em Jubilife. Mantém o Pokémon imune a status não voláteis durante os dois primeiros turnos em campo (não protege contra efeitos auto-infligidos).",
     "held_effect": "",
     "fling_power": 0,
@@ -22759,10 +22764,22 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 714,
+        "quantity": 1
+      },
+      {
+        "item_id": 695,
+        "quantity": 3
+      },
+      {
+        "item_id": 753,
+        "quantity": 5
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 746,
@@ -22775,8 +22792,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "",
     "held_effect": "",
     "fling_power": 0,
@@ -22787,10 +22809,22 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 699,
+        "quantity": 2
+      },
+      {
+        "item_id": 694,
+        "quantity": 5
+      },
+      {
+        "item_id": 693,
+        "quantity": 3
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 747,
@@ -22803,8 +22837,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "",
     "held_effect": "",
     "fling_power": 0,
@@ -22815,10 +22854,26 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 693,
+        "quantity": 1
+      },
+      {
+        "item_id": 700,
+        "quantity": 2
+      },
+      {
+        "item_id": 694,
+        "quantity": 4
+      },
+      {
+        "item_id": 752,
+        "quantity": 4
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 748,
@@ -22831,8 +22886,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "",
     "held_effect": "",
     "fling_power": 0,
@@ -22843,10 +22903,26 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 701,
+        "quantity": 3
+      },
+      {
+        "item_id": 698,
+        "quantity": 2
+      },
+      {
+        "item_id": 696,
+        "quantity": 3
+      },
+      {
+        "item_id": 750,
+        "quantity": 3
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 749,
@@ -23466,7 +23542,17 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "book_category": "culinary",
+    "unlocks_recipes": [
+      738,
+      739,
+      740,
+      741,
+      742,
+      743,
+      744
+    ]
   },
   {
     "id": 767,
@@ -23498,7 +23584,15 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "book_category": "culinary",
+    "unlocks_recipes": [
+      317,
+      42,
+      54,
+      374,
+      331
+    ]
   },
   {
     "id": 768,
@@ -23530,7 +23624,14 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "book_category": "culinary",
+    "unlocks_recipes": [
+      425,
+      431,
+      522,
+      457
+    ]
   },
   {
     "id": 769,
@@ -23562,7 +23663,14 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "book_category": "culinary",
+    "unlocks_recipes": [
+      745,
+      746,
+      747,
+      748
+    ]
   },
   {
     "id": 770,
