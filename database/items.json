@@ -3550,6 +3550,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": true,
     "is_craftable": false,
     "description": "A brightly gleaming orb to be held by DIALGA. It boosts the power of Dragon-​ and Steel-type moves.",
@@ -3565,7 +3570,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      483
+    ]
   },
   {
     "id": 109,
@@ -3577,6 +3584,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -3593,7 +3605,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      484
+    ]
   },
   {
     "id": 110,
@@ -8913,6 +8927,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": true,
     "is_craftable": false,
     "description": "A glowing orb to be held by GIRATINA. It boosts the power of Dragon- and Ghost-type moves.",
@@ -8928,7 +8947,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      487
+    ]
   },
   {
     "id": 298,
@@ -9649,6 +9670,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": true,
     "is_craftable": false,
     "description": "A blue, glowing orb said to contain an ancient power.",
@@ -9664,7 +9690,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      382
+    ]
   },
   {
     "id": 320,
@@ -9676,6 +9704,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -9692,7 +9725,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      201
+    ]
   },
   {
     "id": 321,
@@ -14484,6 +14519,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": true,
     "is_craftable": false,
     "description": "A memory disc that contains Bug-type data. It changes the type of the holder if held by a certain species of Pokémon.",
@@ -14499,7 +14539,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 474,
@@ -14511,6 +14553,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14527,7 +14574,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 475,
@@ -14539,6 +14588,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14555,7 +14609,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 476,
@@ -14567,6 +14623,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14583,7 +14644,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 477,
@@ -14595,6 +14658,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14611,7 +14679,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 478,
@@ -14623,6 +14693,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14639,7 +14714,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 479,
@@ -14651,6 +14728,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14667,7 +14749,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 480,
@@ -14679,6 +14763,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14695,7 +14784,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 481,
@@ -14707,6 +14798,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14723,7 +14819,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 482,
@@ -14735,6 +14833,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14751,7 +14854,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 483,
@@ -14763,6 +14868,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14779,7 +14889,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 484,
@@ -14791,6 +14903,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14807,7 +14924,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 485,
@@ -15384,6 +15503,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": true,
     "is_craftable": false,
     "description": "It converts Z-Power into crystals that upgrade Incineroar’s Darkest Lariat to an exclusive Z-Move.",
@@ -15399,7 +15523,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      727
+    ]
   },
   {
     "id": 506,
@@ -15411,6 +15537,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15427,7 +15558,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      730
+    ]
   },
   {
     "id": 507,
@@ -15439,6 +15572,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15455,7 +15593,12 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      785,
+      786,
+      787,
+      788
+    ]
   },
   {
     "id": 508,
@@ -15467,6 +15610,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15483,7 +15631,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      802
+    ]
   },
   {
     "id": 509,
@@ -15495,6 +15645,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15511,7 +15666,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      10003
+    ]
   },
   {
     "id": 510,
@@ -15523,6 +15680,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15539,7 +15701,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      143
+    ]
   },
   {
     "id": 511,
@@ -15551,6 +15715,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15567,7 +15736,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      133
+    ]
   },
   {
     "id": 512,
@@ -15579,6 +15750,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15595,7 +15771,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      151
+    ]
   },
   {
     "id": 513,
@@ -15607,6 +15785,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15623,7 +15806,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      25
+    ]
   },
   {
     "id": 514,
@@ -15635,6 +15820,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15651,7 +15841,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      791
+    ]
   },
   {
     "id": 515,
@@ -15663,6 +15855,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15679,7 +15876,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      792
+    ]
   },
   {
     "id": 516,
@@ -15691,6 +15890,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15707,7 +15911,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      800
+    ]
   },
   {
     "id": 517,
@@ -15719,6 +15925,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15735,7 +15946,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      778
+    ]
   },
   {
     "id": 518,
@@ -15747,6 +15960,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15763,7 +15981,11 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      745,
+      12514,
+      12516
+    ]
   },
   {
     "id": 519,
@@ -15775,6 +15997,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15791,7 +16018,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      784
+    ]
   },
   {
     "id": 520,
@@ -15803,6 +16032,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15819,7 +16053,10 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      791,
+      800
+    ]
   },
   {
     "id": 521,
@@ -15831,6 +16068,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15847,7 +16089,10 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      792,
+      800
+    ]
   },
   {
     "id": 522,
@@ -16437,6 +16682,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": true,
     "is_craftable": false,
     "description": "It is said that a hero used this sword to halt a terrible disaster in ancient times. But it’s grown rusty and worn.",
@@ -16452,7 +16702,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      888
+    ]
   },
   {
     "id": 543,
@@ -16464,6 +16716,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -16480,7 +16737,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      889
+    ]
   },
   {
     "id": 544,
@@ -17780,6 +18039,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": true,
     "is_craftable": false,
     "description": "Cords that shine when you hold them up to the light. The people of old times presented these to the King of Bountiful Harvests to express their gratitude.",
@@ -17795,7 +18059,11 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      898,
+      896,
+      897
+    ]
   },
   {
     "id": 590,
@@ -17807,6 +18075,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -17823,7 +18096,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      493
+    ]
   },
   {
     "id": 591,
@@ -17864,6 +18139,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": true,
     "is_craftable": false,
     "description": "",
@@ -17879,7 +18159,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      493
+    ]
   },
   {
     "id": 593,
