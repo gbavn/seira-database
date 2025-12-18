@@ -22444,8 +22444,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um bolinho que ajuda a redefinir o treino do Pokémon. Reduz em 10 o SP fixo treinado de forma permanente.",
     "held_effect": "",
     "fling_power": 0,
@@ -22456,10 +22461,18 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 668,
+        "quantity": 3
+      },
+      {
+        "item_id": 715,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 739,
@@ -22472,8 +22485,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um bolinho que fortalece a vitalidade do Pokémon. Aumenta em +32 o SP de HP por 1 semana.",
     "held_effect": "",
     "fling_power": 0,
@@ -22484,10 +22502,34 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 738,
+        "quantity": 1
+      },
+      {
+        "item_id": 749,
+        "quantity": 2
+      },
+      {
+        "item_id": 750,
+        "quantity": 2
+      },
+      {
+        "item_id": 751,
+        "quantity": 2
+      },
+      {
+        "item_id": 752,
+        "quantity": 2
+      },
+      {
+        "item_id": 753,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 740,
@@ -22500,8 +22542,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um bolinho que dá vigor aos músculos do Pokémon. Aumenta em +32 o SP de Ataque por 1 semana.",
     "held_effect": "",
     "fling_power": 0,
@@ -22512,10 +22559,18 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 738,
+        "quantity": 1
+      },
+      {
+        "item_id": 749,
+        "quantity": 10
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 741,
@@ -22528,8 +22583,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um bolinho que reforça a resistência natural do Pokémon. Aumenta em +32 o SP de Defesa por 1 semana.",
     "held_effect": "",
     "fling_power": 0,
@@ -22540,10 +22600,18 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 738,
+        "quantity": 1
+      },
+      {
+        "item_id": 750,
+        "quantity": 10
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 742,
@@ -22556,8 +22624,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um bolinho que aguça a mente do Pokémon. Aumenta em +32 o SP de Ataque Especial por 1 semana.",
     "held_effect": "",
     "fling_power": 0,
@@ -22568,10 +22641,18 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 738,
+        "quantity": 1
+      },
+      {
+        "item_id": 751,
+        "quantity": 10
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 743,
@@ -22584,8 +22665,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um bolinho que aumenta a astúcia do Pokémon. Aumenta em +32 o SP de Defesa Especial por 1 semana.",
     "held_effect": "",
     "fling_power": 0,
@@ -22596,10 +22682,18 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 738,
+        "quantity": 1
+      },
+      {
+        "item_id": 752,
+        "quantity": 10
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 744,
@@ -22612,8 +22706,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um bolinho que aumenta a agilidade e rapidez do Pokémon. Aumenta em +32 o SP de Velocidade por 1 semana.",
     "held_effect": "",
     "fling_power": 0,
@@ -22624,10 +22723,18 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 738,
+        "quantity": 1
+      },
+      {
+        "item_id": 753,
+        "quantity": 10
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 745,
