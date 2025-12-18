@@ -22238,7 +22238,7 @@
   },
   {
     "id": 757,
-    "name": "Receitas Pokebolas",
+    "name": "Pokébolas Artesanais Vol. 1",
     "category": "key-item",
     "sprite": "https://2img.net/i.imgur.com/KV7x446.png",
     "price": {
@@ -22267,13 +22267,15 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "book_category": "mechanics",
+    "book_category": "crafting",
     "unlocks_recipes": [
-      6,
-      7,
-      8,
-      9,
-      13
+      304,
+      301,
+      306,
+      307,
+      302,
+      305,
+      303
     ]
   },
   {
@@ -22659,5 +22661,86 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0
+  },
+  {
+    "id": 770,
+    "name": "Pokébolas Artesanais Vol. 2",
+    "category": "key-item",
+    "sprite": "https://2img.net/i.imgur.com/1IqBAPJ.png",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": true,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "raro",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "book_category": "crafting",
+    "unlocks_recipes": [
+      6,
+      367,
+      8,
+      10,
+      9
+    ]
+  },
+  {
+    "id": 771,
+    "name": "Pokébolas Artesanais Vol. 3",
+    "category": "key-item",
+    "sprite": "https://2img.net/i.imgur.com/2XD0nUV.png",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": true,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "raro",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "book_category": "crafting",
+    "unlocks_recipes": [
+      13,
+      11,
+      14,
+      7,
+      15,
+      687
+    ]
   }
 ]
