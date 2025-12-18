@@ -1840,5 +1840,17 @@
     "name": "Poison puppeteer",
     "effect": "Pokémon poisoned by Pecharunt's moves will also become confused.",
     "modified_for_rpg": false
+  },
+  {
+    "id": 308,
+    "name": "Honey Hurl",
+    "effect": "aaaa",
+    "modified_for_rpg": false
+  },
+  {
+    "id": 309,
+    "name": "Hive Mind",
+    "effect": "aaaa",
+    "modified_for_rpg": false
   }
 ]
