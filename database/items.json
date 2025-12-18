@@ -11374,6 +11374,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": true,
     "is_craftable": false,
     "description": "A glass that reveals the truth. It is a mysterious glass that returns a Pokémon back to its original shape.",
@@ -11389,7 +11394,11 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      641,
+      642,
+      645
+    ]
   },
   {
     "id": 381,
@@ -11769,6 +11778,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": true,
     "is_craftable": false,
     "description": "One variety of the mysterious Mega Stones. Have Gengar hold it, and this stone will enable it to Mega Evolve during battle.",
@@ -11784,7 +11798,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      94
+    ]
   },
   {
     "id": 395,
@@ -11797,6 +11813,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -11813,7 +11834,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      282
+    ]
   },
   {
     "id": 396,
@@ -11826,6 +11849,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -11842,7 +11870,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      181
+    ]
   },
   {
     "id": 397,
@@ -11855,6 +11885,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -11871,7 +11906,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      3
+    ]
   },
   {
     "id": 398,
@@ -11884,6 +11921,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -11900,7 +11942,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      6
+    ]
   },
   {
     "id": 399,
@@ -11913,6 +11957,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -11929,7 +11978,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      9
+    ]
   },
   {
     "id": 400,
@@ -11943,34 +11994,10 @@
       "casino": 0,
       "mile": 0
     },
-    "is_key_item": true,
-    "is_craftable": false,
-    "description": "One variety of the mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
-  },
-  {
-    "id": 401,
-    "name": "Mewtwonite Y",
-    "category": "key-item",
-    "subcategory": "mega-stone",
-    "sprite": "https://www.serebii.net/itemdex/sprites/za/mewtwonitey.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -11987,19 +12014,62 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      150
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Mewtwonite Y",
+    "category": "key-item",
+    "subcategory": "mega-stone",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/mewtwonitey.png",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": true,
+    "is_craftable": false,
+    "description": "One variety of the mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle.",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "linked_pokemon": [
+      150
+    ]
   },
   {
     "id": 402,
     "name": "Blazikenite",
     "category": "key-item",
     "subcategory": "mega-stone",
-    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/blazikenite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/blazikenite.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12016,7 +12086,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      257
+    ]
   },
   {
     "id": 403,
@@ -12029,6 +12101,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12045,7 +12122,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      308
+    ]
   },
   {
     "id": 404,
@@ -12058,6 +12137,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12074,7 +12158,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      229
+    ]
   },
   {
     "id": 405,
@@ -12087,6 +12173,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12103,7 +12194,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      306
+    ]
   },
   {
     "id": 406,
@@ -12116,6 +12209,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12132,7 +12230,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      354
+    ]
   },
   {
     "id": 407,
@@ -12145,6 +12245,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12161,7 +12266,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      248
+    ]
   },
   {
     "id": 408,
@@ -12174,6 +12281,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12190,7 +12302,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      212
+    ]
   },
   {
     "id": 409,
@@ -12203,6 +12317,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12219,7 +12338,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      127
+    ]
   },
   {
     "id": 410,
@@ -12232,6 +12353,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12248,7 +12374,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      142
+    ]
   },
   {
     "id": 411,
@@ -12261,6 +12389,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12277,7 +12410,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      448
+    ]
   },
   {
     "id": 412,
@@ -12290,6 +12425,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12306,7 +12446,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      460
+    ]
   },
   {
     "id": 413,
@@ -12319,6 +12461,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12335,7 +12482,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      115
+    ]
   },
   {
     "id": 414,
@@ -12348,6 +12497,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12364,7 +12518,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      130
+    ]
   },
   {
     "id": 415,
@@ -12377,6 +12533,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12393,7 +12554,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      359
+    ]
   },
   {
     "id": 416,
@@ -12406,6 +12569,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12422,7 +12590,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      6
+    ]
   },
   {
     "id": 417,
@@ -12435,6 +12605,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12451,7 +12626,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      65
+    ]
   },
   {
     "id": 418,
@@ -12464,6 +12641,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12480,7 +12662,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      214
+    ]
   },
   {
     "id": 419,
@@ -12493,6 +12677,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12509,7 +12698,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      303
+    ]
   },
   {
     "id": 420,
@@ -12522,6 +12713,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12538,7 +12734,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      310
+    ]
   },
   {
     "id": 421,
@@ -12551,6 +12749,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12567,7 +12770,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      445
+    ]
   },
   {
     "id": 422,
@@ -12787,12 +12992,17 @@
     "name": "Latiasite",
     "category": "key-item",
     "subcategory": "mega-stone",
-    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/latiasite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/latiasite.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12809,19 +13019,26 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      380
+    ]
   },
   {
     "id": 430,
     "name": "Latiosite",
     "category": "key-item",
     "subcategory": "mega-stone",
-    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/latiosite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/latiosite.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12838,7 +13055,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      381
+    ]
   },
   {
     "id": 431,
@@ -12918,12 +13137,17 @@
     "name": "Swampertite",
     "category": "key-item",
     "subcategory": "mega-stone",
-    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/swampertite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/swampertite.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12940,19 +13164,26 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      260
+    ]
   },
   {
     "id": 434,
     "name": "Sceptilite",
     "category": "key-item",
     "subcategory": "mega-stone",
-    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/sceptilite.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/sceptilite.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12969,7 +13200,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      254
+    ]
   },
   {
     "id": 435,
@@ -12982,6 +13215,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -12998,7 +13236,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      302
+    ]
   },
   {
     "id": 436,
@@ -13011,6 +13251,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13027,7 +13272,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      334
+    ]
   },
   {
     "id": 437,
@@ -13040,6 +13287,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13056,7 +13308,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      475
+    ]
   },
   {
     "id": 438,
@@ -13069,6 +13323,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13085,7 +13344,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      531
+    ]
   },
   {
     "id": 439,
@@ -13098,6 +13359,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13114,7 +13380,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      376
+    ]
   },
   {
     "id": 440,
@@ -13127,6 +13395,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13143,7 +13416,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      319
+    ]
   },
   {
     "id": 441,
@@ -13156,6 +13431,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13172,7 +13452,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      80
+    ]
   },
   {
     "id": 442,
@@ -13185,6 +13467,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13201,7 +13488,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      208
+    ]
   },
   {
     "id": 443,
@@ -13214,6 +13503,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13230,7 +13524,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      18
+    ]
   },
   {
     "id": 444,
@@ -13243,6 +13539,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13259,7 +13560,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      362
+    ]
   },
   {
     "id": 445,
@@ -13272,6 +13575,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13288,7 +13596,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      719
+    ]
   },
   {
     "id": 446,
@@ -13300,6 +13610,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13316,7 +13631,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      720
+    ]
   },
   {
     "id": 447,
@@ -13329,6 +13646,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13345,7 +13667,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      323
+    ]
   },
   {
     "id": 448,
@@ -13358,6 +13682,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13374,7 +13703,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      428
+    ]
   },
   {
     "id": 449,
@@ -13387,6 +13718,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13403,7 +13739,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      373
+    ]
   },
   {
     "id": 450,
@@ -13416,6 +13754,11 @@
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -13432,7 +13775,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      15
+    ]
   },
   {
     "id": 451,
@@ -13964,6 +14309,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": true,
     "is_craftable": false,
     "description": "A memory disc that contains Fighting-type data. It changes the type of the holder if held by a certain species of Pokémon.",
@@ -13979,7 +14329,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 469,
@@ -13991,6 +14343,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14007,7 +14364,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 470,
@@ -14019,6 +14378,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14035,7 +14399,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 471,
@@ -14047,6 +14413,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14063,7 +14434,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 472,
@@ -14075,6 +14448,11 @@
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14091,7 +14469,9 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": []
+    "linked_pokemon": [
+      773
+    ]
   },
   {
     "id": 473,
