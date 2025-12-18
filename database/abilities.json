@@ -1852,5 +1852,11 @@
     "name": "Hive Mind",
     "effect": "Movimentos de status usados por oponentes contra o usuário sempre falham.",
     "modified_for_rpg": false
+  },
+  {
+    "id": 310,
+    "name": "Forge Mode",
+    "effect": "Quando o HP de Seirian Sneasler fica abaixo da metade, seu corpo é tomado pelo calor da forja, moldando seu aço e ampliando sua força física.",
+    "modified_for_rpg": false
   }
 ]
