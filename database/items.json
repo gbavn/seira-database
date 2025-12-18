@@ -22194,8 +22194,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um bolinho simples e essencial como ingrediente para confeccionar outros bolinhos de atração.",
     "held_effect": "",
     "fling_power": 0,
@@ -22206,10 +22211,22 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 714,
+        "quantity": 2
+      },
+      {
+        "item_id": 33,
+        "quantity": 2
+      },
+      {
+        "item_id": 94,
+        "quantity": 2
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 733,
@@ -22222,8 +22239,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um bolinho aromático feito com cogumelos raros. Permite uma rolagem extra para procurar Pokémon selvagens no bioma Pantanoso.",
     "held_effect": "",
     "fling_power": 0,
@@ -22234,10 +22256,18 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 732,
+        "quantity": 1
+      },
+      {
+        "item_id": 694,
+        "quantity": 3
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 734,
@@ -22250,8 +22280,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um bolinho feito com grãos nutritivos. Permite uma rolagem extra para procurar Pokémon selvagens no bioma Campestre.",
     "held_effect": "",
     "fling_power": 0,
@@ -22262,10 +22297,18 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 732,
+        "quantity": 1
+      },
+      {
+        "item_id": 695,
+        "quantity": 3
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 735,
@@ -22278,8 +22321,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um bolinho encorpado preparado com feijões graúdos. Permite uma rolagem extra para procurar Pokémon selvagens no bioma Montanhoso.",
     "held_effect": "",
     "fling_power": 0,
@@ -22290,10 +22338,18 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 732,
+        "quantity": 1
+      },
+      {
+        "item_id": 696,
+        "quantity": 3
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 736,
@@ -22306,8 +22362,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um bolinho adocicado coberto de mel dourado e irresistível. Permite uma rolagem extra para procurar Pokémon selvagens no bioma Florestal.",
     "held_effect": "",
     "fling_power": 0,
@@ -22318,10 +22379,18 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 732,
+        "quantity": 1
+      },
+      {
+        "item_id": 697,
+        "quantity": 3
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 737,
@@ -22334,8 +22403,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um bolinho salgado e crocante. Permite uma rolagem extra para procurar Pokémon selvagens no bioma Litorâneo.",
     "held_effect": "",
     "fling_power": 0,
@@ -22346,10 +22420,18 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 732,
+        "quantity": 1
+      },
+      {
+        "item_id": 698,
+        "quantity": 3
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 738,
@@ -23034,7 +23116,14 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "book_category": "medicine",
+    "unlocks_recipes": [
+      17,
+      26,
+      25,
+      24
+    ]
   },
   {
     "id": 761,
@@ -23066,7 +23155,15 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "book_category": "medicine",
+    "unlocks_recipes": [
+      18,
+      21,
+      22,
+      19,
+      20
+    ]
   },
   {
     "id": 762,
@@ -23098,7 +23195,14 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "book_category": "medicine",
+    "unlocks_recipes": [
+      27,
+      23,
+      28,
+      29
+    ]
   },
   {
     "id": 763,
@@ -23130,7 +23234,18 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "book_category": "medicine",
+    "unlocks_recipes": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      56,
+      55
+    ]
   },
   {
     "id": 764,
@@ -23162,7 +23277,16 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "book_category": "medicine",
+    "unlocks_recipes": [
+      45,
+      46,
+      47,
+      49,
+      52,
+      48
+    ]
   },
   {
     "id": 765,
@@ -23194,7 +23318,16 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "book_category": "culinary",
+    "unlocks_recipes": [
+      732,
+      733,
+      734,
+      735,
+      736,
+      737
+    ]
   },
   {
     "id": 766,
