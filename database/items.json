@@ -3,12 +3,18 @@
     "id": 1,
     "name": "Master Ball",
     "category": "pokeball",
+    "subcategory": "Restrita",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/masterball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -25,13 +31,13 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 100
   },
   {
     "id": 2,
     "name": "Ultra Ball",
     "category": "pokeball",
+    "subcategory": "Básica",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ultraball.png",
     "price": {
       "buy": 1200,
@@ -65,6 +71,7 @@
     "id": 3,
     "name": "Great Ball",
     "category": "pokeball",
+    "subcategory": "Básica",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//greatball.png",
     "price": {
       "buy": 800,
@@ -98,6 +105,7 @@
     "id": 4,
     "name": "Poké Ball",
     "category": "pokeball",
+    "subcategory": "Básica",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pokeball.png",
     "price": {
       "buy": 300,
@@ -131,12 +139,18 @@
     "id": 5,
     "name": "Safari Ball",
     "category": "pokeball",
+    "subcategory": "Básica",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/safariball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -153,19 +167,24 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
     "id": 6,
     "name": "Net Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//netball.png",
     "price": {
       "buy": 0,
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -191,19 +210,24 @@
     ],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
     "id": 7,
     "name": "Dive Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/diveball.png",
     "price": {
       "buy": 0,
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -229,19 +253,24 @@
     ],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
     "id": 8,
     "name": "Nest Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/nestball.png",
     "price": {
       "buy": 0,
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -267,19 +296,24 @@
     ],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
     "id": 9,
     "name": "Repeat Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//repeatball.png",
     "price": {
       "buy": 0,
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -305,13 +339,13 @@
     ],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
     "id": 10,
     "name": "Timer Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//timerball.png",
     "price": {
       "buy": 0,
@@ -319,9 +353,14 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": true,
-    "description": "Uma Pokébola que aproveita o desgaste da batalha. Fica mais forte conforme o tempo passa, aumentando seu efeito após vários turnos de combate.",
+    "description": "Uma Pokébola que aproveita o desgaste da batalha. Fica mais forte conforme o tempo passa, aumentando seu efeito após vários turnos de combate. [EFEITO BLOQUEADO]",
     "held_effect": "",
     "fling_power": 0,
     "fling_effect": "",
@@ -343,19 +382,24 @@
     ],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
     "id": 11,
     "name": "Luxury Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//luxuryball.png",
     "price": {
       "buy": 0,
       "sell": 1500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -381,19 +425,24 @@
     ],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
     "id": 12,
     "name": "Premier Ball",
     "category": "pokeball",
+    "subcategory": "Básica",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//premierball.png",
     "price": {
       "buy": 0,
       "sell": 10,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -410,19 +459,24 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
     "id": 13,
     "name": "Dusk Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//duskball.png",
     "price": {
       "buy": 0,
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -448,19 +502,24 @@
     ],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
     "id": 14,
     "name": "Heal Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//healball.png",
     "price": {
       "buy": 0,
       "sell": 150,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -486,19 +545,24 @@
     ],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
     "id": 15,
     "name": "Quick Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//quickball.png",
     "price": {
       "buy": 0,
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -524,19 +588,24 @@
     ],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
     "id": 16,
     "name": "Cherish Ball",
     "category": "pokeball",
+    "subcategory": "Restrita",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//cherishball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -553,13 +622,13 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
     "id": 17,
     "name": "Potion",
     "category": "medicine",
+    "subcategory": "Itens de Cura",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/potion.png",
     "price": {
       "buy": 300,
@@ -601,6 +670,7 @@
     "id": 18,
     "name": "Antidote",
     "category": "medicine",
+    "subcategory": "Itens de Cura",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/antidote.png",
     "price": {
       "buy": 400,
@@ -642,6 +712,7 @@
     "id": 19,
     "name": "Burn Heal",
     "category": "medicine",
+    "subcategory": "Itens de Cura",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/burnheal.png",
     "price": {
       "buy": 400,
@@ -683,6 +754,7 @@
     "id": 20,
     "name": "Ice Heal",
     "category": "medicine",
+    "subcategory": "Itens de Cura",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/iceheal.png",
     "price": {
       "buy": 400,
@@ -724,6 +796,7 @@
     "id": 21,
     "name": "Awakening",
     "category": "medicine",
+    "subcategory": "Itens de Cura",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/awakening.png",
     "price": {
       "buy": 400,
@@ -765,6 +838,7 @@
     "id": 22,
     "name": "Paralyze Heal",
     "category": "medicine",
+    "subcategory": "Itens de Cura",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/paralyzeheal.png",
     "price": {
       "buy": 400,
@@ -806,12 +880,18 @@
     "id": 23,
     "name": "Full Restore",
     "category": "medicine",
+    "subcategory": "Itens de Cura",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/fullrestore.png",
     "price": {
       "buy": 3000,
       "sell": 1500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -836,19 +916,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 24,
     "name": "Max Potion",
     "category": "medicine",
+    "subcategory": "Itens de Cura",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/maxpotion.png",
     "price": {
       "buy": 2500,
       "sell": 1250,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -873,13 +958,13 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 25,
     "name": "Hyper Potion",
     "category": "medicine",
+    "subcategory": "Itens de Cura",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/hyperpotion.png",
     "price": {
       "buy": 1600,
@@ -921,6 +1006,7 @@
     "id": 26,
     "name": "Super Potion",
     "category": "medicine",
+    "subcategory": "Itens de Cura",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/superpotion.png",
     "price": {
       "buy": 800,
@@ -962,12 +1048,18 @@
     "id": 27,
     "name": "Full Heal",
     "category": "medicine",
+    "subcategory": "Itens de Cura",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/fullheal.png",
     "price": {
       "buy": 400,
       "sell": 200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -992,13 +1084,13 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 28,
     "name": "Revive",
     "category": "medicine",
+    "subcategory": "Itens de Cura",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/revive.png",
     "price": {
       "buy": 2600,
@@ -1044,12 +1136,18 @@
     "id": 29,
     "name": "Max Revive",
     "category": "medicine",
+    "subcategory": "Itens de Cura",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/maxrevive.png",
     "price": {
       "buy": 4000,
       "sell": 2000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -1074,19 +1172,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 30,
     "name": "Fresh Water",
     "category": "medicine",
+    "subcategory": "Bebidas",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/freshwater.png",
     "price": {
       "buy": 200,
       "sell": 100,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -1102,19 +1205,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 31,
     "name": "Soda Pop",
     "category": "medicine",
+    "subcategory": "Bebidas",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/sodapop.png",
     "price": {
       "buy": 300,
       "sell": 150,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -1130,19 +1238,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 32,
     "name": "Lemonade",
     "category": "medicine",
+    "subcategory": "Bebidas",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lemonade.png",
     "price": {
       "buy": 400,
       "sell": 200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -1158,19 +1271,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 33,
     "name": "Moomoo Milk",
     "category": "medicine",
+    "subcategory": "Bebidas",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/moomoomilk.png",
     "price": {
       "buy": 600,
       "sell": 300,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -1186,19 +1304,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 34,
     "name": "Energy Powder",
     "category": "medicine",
+    "subcategory": "Medicina Natural",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/energypowder.png",
     "price": {
       "buy": 500,
       "sell": 250,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -1214,19 +1337,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 35,
     "name": "Energy Root",
     "category": "medicine",
+    "subcategory": "Medicina Natural",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/energyroot.png",
     "price": {
       "buy": 1200,
       "sell": 600,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -1242,19 +1370,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 36,
     "name": "Heal Powder",
     "category": "medicine",
+    "subcategory": "Medicina Natural",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/healpowder.png",
     "price": {
       "buy": 300,
       "sell": 150,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -1270,19 +1403,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 37,
     "name": "Revival Herb",
     "category": "medicine",
+    "subcategory": "Medicina Natural",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/revivalherb.png",
     "price": {
       "buy": 2800,
       "sell": 1400,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -1298,8 +1436,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 38,
@@ -1417,12 +1554,18 @@
     "id": 42,
     "name": "Lava Cookie",
     "category": "medicine",
+    "subcategory": "Comida",
     "sprite": "https://2img.net/i.imgur.com/nANx92g.png",
     "price": {
       "buy": 350,
       "sell": 175,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -1451,8 +1594,7 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 43,
@@ -1486,12 +1628,18 @@
     "id": 44,
     "name": "Sacred Ash",
     "category": "medicine",
+    "subcategory": "Itens de Cura",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/sacredash.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -1507,19 +1655,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 45,
     "name": "HP Up",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/hpup.png",
     "price": {
       "buy": 10000,
       "sell": 5000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -1560,19 +1713,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 46,
     "name": "Protein",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/protein.png",
     "price": {
       "buy": 10000,
       "sell": 5000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -1597,19 +1755,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 47,
     "name": "Iron",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/iron.png",
     "price": {
       "buy": 10000,
       "sell": 5000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -1634,19 +1797,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 48,
     "name": "Carbos",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/carbos.png",
     "price": {
       "buy": 10000,
       "sell": 5000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -1671,19 +1839,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 49,
     "name": "Calcium",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/calcium.png",
     "price": {
       "buy": 10000,
       "sell": 5000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -1708,19 +1881,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 50,
     "name": "Rare Candy",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rarecandy.png",
     "price": {
       "buy": 10000,
       "sell": 5000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -1736,19 +1914,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 51,
     "name": "PP Up",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ppup.png",
     "price": {
       "buy": 10000,
       "sell": 5000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -1764,19 +1947,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 52,
     "name": "Zinc",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/zinc.png",
     "price": {
       "buy": 10000,
       "sell": 5000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -1801,19 +1989,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 53,
     "name": "PP Max",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ppmax.png",
     "price": {
       "buy": 10000,
       "sell": 5000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -1829,19 +2022,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 54,
     "name": "Old Gateau",
     "category": "medicine",
+    "subcategory": "Comida",
     "sprite": "https://2img.net/i.imgur.com/KCEvzpR.png",
     "price": {
       "buy": 350,
       "sell": 175,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -1874,8 +2072,7 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 55,
@@ -9136,12 +9333,18 @@
     "id": 301,
     "name": "Lure Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lureball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -9166,19 +9369,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 302,
     "name": "Level Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/levelball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -9203,19 +9411,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 303,
     "name": "Moon Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/moonball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -9240,19 +9453,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 304,
     "name": "Heavy Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/heavyball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -9277,19 +9495,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 305,
     "name": "Fast Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/fastball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -9314,19 +9537,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 306,
     "name": "Friend Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/friendball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -9351,19 +9579,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 307,
     "name": "Love Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/loveball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -9388,19 +9621,24 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 308,
     "name": "Park Ball",
     "category": "pokeball",
+    "subcategory": "Restrita",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//parkball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -9417,19 +9655,24 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
     "id": 309,
     "name": "Sport Ball",
     "category": "pokeball",
+    "subcategory": "Básica",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//sportball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -9446,7 +9689,6 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
@@ -9673,12 +9915,18 @@
     "id": 317,
     "name": "Rage Candy Bar",
     "category": "medicine",
+    "subcategory": "Comida",
     "sprite": "https://2img.net/i.imgur.com/EKdr5ij.png",
     "price": {
       "buy": 350,
       "sell": 175,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -9707,8 +9955,7 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 318,
@@ -10099,12 +10346,18 @@
     "id": 331,
     "name": "Sweet Heart",
     "category": "medicine",
+    "subcategory": "Comida",
     "sprite": "https://2img.net/i.imgur.com/VDQllsx.png",
     "price": {
       "buy": 3000,
       "sell": 1500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -10137,8 +10390,7 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 332,
@@ -10873,12 +11125,18 @@
     "id": 358,
     "name": "Health Feather",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/healthfeather.png",
     "price": {
       "buy": 300,
       "sell": 150,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -10894,19 +11152,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 359,
     "name": "Muscle Feather",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/musclefeather.png",
     "price": {
       "buy": 300,
       "sell": 150,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -10922,19 +11185,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 360,
     "name": "Resist Feather",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/resistfeather.png",
     "price": {
       "buy": 300,
       "sell": 150,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -10950,19 +11218,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 361,
     "name": "Genius Feather",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/geniusfeather.png",
     "price": {
       "buy": 300,
       "sell": 150,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -10978,19 +11251,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 362,
     "name": "Clever Feather",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cleverfeather.png",
     "price": {
       "buy": 300,
       "sell": 150,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -11006,19 +11284,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 363,
     "name": "Swift Feather",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/swiftfeather.png",
     "price": {
       "buy": 300,
       "sell": 150,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -11034,8 +11317,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 364,
@@ -11141,12 +11423,18 @@
     "id": 367,
     "name": "Dream Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//dreamball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -11172,7 +11460,6 @@
     ],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
@@ -11319,12 +11606,18 @@
     "id": 374,
     "name": "Casteliacone",
     "category": "medicine",
+    "subcategory": "Comida",
     "sprite": "https://2img.net/i.imgur.com/qPv9TcH.png",
     "price": {
       "buy": 350,
       "sell": 175,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -11353,8 +11646,7 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 375,
@@ -11621,12 +11913,18 @@
     "id": 384,
     "name": "Ability Capsule",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/abilitycapsule.png",
     "price": {
       "buy": 10000,
       "sell": 5000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -11638,12 +11936,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 385,
@@ -12995,12 +13292,18 @@
     "id": 425,
     "name": "Lumiose Galette",
     "category": "medicine",
+    "subcategory": "Comida",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lumiosegalette.png",
     "price": {
       "buy": 350,
       "sell": 175,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -13029,8 +13332,7 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 426,
@@ -13208,12 +13510,18 @@
     "id": 431,
     "name": "Shalour Sable",
     "category": "medicine",
+    "subcategory": "Comida",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/shaloursable.png",
     "price": {
       "buy": 350,
       "sell": 175,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -13246,8 +13554,7 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 432,
@@ -14078,12 +14385,18 @@
     "id": 456,
     "name": "Beast Ball",
     "category": "pokeball",
+    "subcategory": "Restrita",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//beastball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -14100,19 +14413,24 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0,
-    "linked_pokemon": [],
     "catch_rate": 1
   },
   {
     "id": 457,
     "name": "Big Malasada",
     "category": "medicine",
+    "subcategory": "Comida",
     "sprite": "https://2img.net/i.imgur.com/OdqOhRu.png",
     "price": {
       "buy": 350,
       "sell": 175,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -14149,8 +14467,7 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 458,
@@ -16330,12 +16647,18 @@
     "id": 522,
     "name": "Pewter Crunchies",
     "category": "medicine",
+    "subcategory": "Comida",
     "sprite": "https://2img.net/i.imgur.com/rrvPbIY.png",
     "price": {
       "buy": 250,
       "sell": 125,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -16368,8 +16691,7 @@
       }
     ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 523,
@@ -16431,12 +16753,18 @@
     "id": 525,
     "name": "Sausages",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sausages.png",
     "price": {
       "buy": 400,
       "sell": 200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16452,19 +16780,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 526,
     "name": "Bob’s Food Tin",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/bob'sfoodtin.png",
     "price": {
       "buy": 950,
       "sell": 475,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16480,19 +16813,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 527,
     "name": "Bach’s Food Tin",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/bach'sfoodtin.png",
     "price": {
       "buy": 950,
       "sell": 475,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16508,19 +16846,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 528,
     "name": "Tin of Beans",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/tinofbeans.png",
     "price": {
       "buy": 400,
       "sell": 200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16536,19 +16879,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 529,
     "name": "Bread",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/bread.png",
     "price": {
       "buy": 150,
       "sell": 75,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16564,19 +16912,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 530,
     "name": "Pasta",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/pasta.png",
     "price": {
       "buy": 150,
       "sell": 75,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16592,19 +16945,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 531,
     "name": "Mixed Mushrooms",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/mixedmushrooms.png",
     "price": {
       "buy": 400,
       "sell": 200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16620,19 +16978,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 532,
     "name": "Smoke-Poke Tail",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/smoke-poketail.png",
     "price": {
       "buy": 2200,
       "sell": 1100,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16648,19 +17011,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 533,
     "name": "Large Leek",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/largeleek.png",
     "price": {
       "buy": 2200,
       "sell": 1100,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16676,19 +17044,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 534,
     "name": "Fancy Apple",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/fancyapple.png",
     "price": {
       "buy": 2200,
       "sell": 1100,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16704,19 +17077,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 535,
     "name": "Brittle Bones",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/brittlebones.png",
     "price": {
       "buy": 950,
       "sell": 475,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16732,19 +17110,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 536,
     "name": "Pack of Potatoes",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/packofpotatoes.png",
     "price": {
       "buy": 400,
       "sell": 200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16760,19 +17143,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 537,
     "name": "Pungent Root",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/pungentroot.png",
     "price": {
       "buy": 950,
       "sell": 475,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16788,19 +17176,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 538,
     "name": "Salad Mix",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/saladmix.png",
     "price": {
       "buy": 400,
       "sell": 200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16816,19 +17209,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 539,
     "name": "Fried Food",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/friedfood.png",
     "price": {
       "buy": 150,
       "sell": 75,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16844,19 +17242,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 540,
     "name": "Boiled Egg",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://i.imgur.com/5k9p6Ae.png",
     "price": {
       "buy": 2200,
       "sell": 1100,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16872,8 +17275,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 541,
@@ -17586,12 +17988,18 @@
     "id": 563,
     "name": "Exp. Candy XS",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candyxs.png",
     "price": {
       "buy": 20,
       "sell": 10,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17607,19 +18015,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 564,
     "name": "Exp. Candy S",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candys.png",
     "price": {
       "buy": 240,
       "sell": 120,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17635,19 +18048,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 565,
     "name": "Exp. Candy M",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candym.png",
     "price": {
       "buy": 1000,
       "sell": 500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17659,23 +18077,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 566,
     "name": "Exp. Candy L",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candyl.png",
     "price": {
       "buy": 3000,
       "sell": 1500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17687,23 +18110,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 567,
     "name": "Exp. Candy XL",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/exp.candyxl.png",
     "price": {
       "buy": 10000,
       "sell": 5000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17715,12 +18143,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 568,
@@ -17812,12 +18239,18 @@
     "id": 571,
     "name": "Fruit Bunch",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/fruitbunch.png",
     "price": {
       "buy": 2200,
       "sell": 1100,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17833,19 +18266,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 572,
     "name": "Moomoo Cheese",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/moomoocheese.png",
     "price": {
       "buy": 2200,
       "sell": 1100,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17861,19 +18299,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 573,
     "name": "Spice Mix",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/spicemix.png",
     "price": {
       "buy": 400,
       "sell": 200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17889,19 +18332,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 574,
     "name": "Fresh Cream",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://i.imgur.com/M55qV4w.png",
     "price": {
       "buy": 950,
       "sell": 475,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17917,19 +18365,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 575,
     "name": "Packaged Curry",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/packagedcurry.png",
     "price": {
       "buy": 950,
       "sell": 475,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17945,19 +18398,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 576,
     "name": "Coconut Milk",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/coconutmilk.png",
     "price": {
       "buy": 950,
       "sell": 475,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17973,19 +18431,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 577,
     "name": "Instant Noodles",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://i.imgur.com/hT3hMY6.png",
     "price": {
       "buy": 150,
       "sell": 75,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -18001,19 +18464,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 578,
     "name": "Precooked Burger",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/precookedburger.png",
     "price": {
       "buy": 150,
       "sell": 75,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -18029,19 +18497,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 579,
     "name": "Gigantamix",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/gigantamix.png",
     "price": {
       "buy": 15000,
       "sell": 7500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -18057,8 +18530,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 580,
@@ -18302,12 +18774,18 @@
     "id": 588,
     "name": "Ability Patch",
     "category": "medicine",
+    "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/abilitypatch.png",
     "price": {
       "buy": 20,
       "sell": 10,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -18319,12 +18797,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 589,
@@ -18402,12 +18879,18 @@
     "id": 591,
     "name": "Strange Ball",
     "category": "pokeball",
+    "subcategory": "Restrita",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv//strangeball.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -18423,8 +18906,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 592,
@@ -19352,12 +19834,18 @@
     "id": 624,
     "name": "Baguette",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/baguette.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19373,19 +19861,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 625,
     "name": "Mayonnaise",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/mayonnaise.png",
     "price": {
       "buy": 120,
       "sell": 60,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19401,19 +19894,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 626,
     "name": "Ketchup",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ketchup.png",
     "price": {
       "buy": 110,
       "sell": 55,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19429,19 +19927,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 627,
     "name": "Mustard",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/mustard.png",
     "price": {
       "buy": 130,
       "sell": 65,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19457,19 +19960,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 628,
     "name": "Butter",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/butter.png",
     "price": {
       "buy": 250,
       "sell": 125,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19485,19 +19993,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 629,
     "name": "Peanut Butter",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/peanutbutter.png",
     "price": {
       "buy": 300,
       "sell": 150,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19513,19 +20026,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 630,
     "name": "Chili Sauce",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/chilisauce.png",
     "price": {
       "buy": 320,
       "sell": 160,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19541,19 +20059,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 631,
     "name": "Salt",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/salt.png",
     "price": {
       "buy": 90,
       "sell": 45,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19569,19 +20092,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 632,
     "name": "Pepper",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pepper.png",
     "price": {
       "buy": 100,
       "sell": 50,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19597,19 +20125,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 633,
     "name": "Yogurt",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/yogurt.png",
     "price": {
       "buy": 140,
       "sell": 70,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19625,19 +20158,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 634,
     "name": "Whipped Cream",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/whippedcream.png",
     "price": {
       "buy": 200,
       "sell": 100,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19653,19 +20191,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 635,
     "name": "Cream Cheese",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/creamcheese.png",
     "price": {
       "buy": 280,
       "sell": 140,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19681,19 +20224,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 636,
     "name": "Jam",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/jam.png",
     "price": {
       "buy": 120,
       "sell": 60,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19709,19 +20257,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 637,
     "name": "Marmalade",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/marmalade.png",
     "price": {
       "buy": 260,
       "sell": 130,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19737,19 +20290,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 638,
     "name": "Olive Oil",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/oliveoil.png",
     "price": {
       "buy": 300,
       "sell": 150,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19765,19 +20323,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 639,
     "name": "Vinegar",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/vinegar.png",
     "price": {
       "buy": 300,
       "sell": 150,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19793,19 +20356,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 640,
     "name": "Sweet Herba Mystica",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/sweetherbamystica.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19817,23 +20385,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 641,
     "name": "Salty Herba Mystica",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/saltyherbamystica.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19845,23 +20418,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 642,
     "name": "Sour Herba Mystica",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/sourherbamystica.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19873,23 +20451,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 643,
     "name": "Bitter Herba Mystica",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bitterherbamystica.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19901,23 +20484,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 644,
     "name": "Spicy Herba Mystica",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/spicyherbamystica.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19929,23 +20517,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 645,
     "name": "Lettuce",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lettuce.png",
     "price": {
       "buy": 90,
       "sell": 45,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19961,19 +20554,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 646,
     "name": "Tomato",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tomato.png",
     "price": {
       "buy": 100,
       "sell": 50,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19989,19 +20587,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 647,
     "name": "Cherry Tomatoes",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cherrytomatoes.png",
     "price": {
       "buy": 120,
       "sell": 60,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20017,19 +20620,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 648,
     "name": "Cucumber",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cucumber.png",
     "price": {
       "buy": 130,
       "sell": 65,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20045,19 +20653,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 649,
     "name": "Pickle",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pickle.png",
     "price": {
       "buy": 90,
       "sell": 45,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20073,19 +20686,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 650,
     "name": "Onion",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/onion.png",
     "price": {
       "buy": 130,
       "sell": 65,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20101,19 +20719,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 651,
     "name": "Red Onion",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/redonion.png",
     "price": {
       "buy": 230,
       "sell": 115,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20129,19 +20752,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 652,
     "name": "Green Bell Pepper",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/greenbellpepper.png",
     "price": {
       "buy": 230,
       "sell": 115,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20157,19 +20785,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 653,
     "name": "Red Bell Pepper",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/redbellpepper.png",
     "price": {
       "buy": 240,
       "sell": 120,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20185,19 +20818,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 654,
     "name": "Yellow Bell Pepper",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/yellowbellpepper.png",
     "price": {
       "buy": 240,
       "sell": 120,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20213,19 +20851,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 655,
     "name": "Avocado",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/avocado.png",
     "price": {
       "buy": 180,
       "sell": 90,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20241,19 +20884,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 656,
     "name": "Bacon",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bacon.png",
     "price": {
       "buy": 150,
       "sell": 75,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20269,19 +20917,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 657,
     "name": "Ham",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ham.png",
     "price": {
       "buy": 170,
       "sell": 85,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20297,19 +20950,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 658,
     "name": "Prosciutto",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/prosciutto.png",
     "price": {
       "buy": 200,
       "sell": 100,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20325,19 +20983,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 659,
     "name": "Chorizo",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/chorizo.png",
     "price": {
       "buy": 150,
       "sell": 75,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20353,19 +21016,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 660,
     "name": "Herbed Sausage",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/herbedsausage.png",
     "price": {
       "buy": 400,
       "sell": 200,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20381,19 +21049,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 661,
     "name": "Hamburger",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/hamburger.png",
     "price": {
       "buy": 380,
       "sell": 190,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20409,19 +21082,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 662,
     "name": "Klawf Stick",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/klawfstick.png",
     "price": {
       "buy": 500,
       "sell": 250,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20437,19 +21115,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 663,
     "name": "Smoked Fillet",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/smokedfillet.png",
     "price": {
       "buy": 330,
       "sell": 165,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20465,19 +21148,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 664,
     "name": "Fried Fillet",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/friedfillet.png",
     "price": {
       "buy": 360,
       "sell": 180,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20493,19 +21181,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 665,
     "name": "Egg",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/egg.png",
     "price": {
       "buy": 80,
       "sell": 40,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20521,19 +21214,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 666,
     "name": "Potato Tortilla",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/potatotortilla.png",
     "price": {
       "buy": 250,
       "sell": 125,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20549,19 +21247,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 667,
     "name": "Tofu",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tofu.png",
     "price": {
       "buy": 260,
       "sell": 130,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20577,19 +21280,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 668,
     "name": "Rice",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/rice.png",
     "price": {
       "buy": 280,
       "sell": 140,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20605,19 +21313,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 669,
     "name": "Noodles",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/noodles.png",
     "price": {
       "buy": 280,
       "sell": 140,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20633,8 +21346,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 670,
@@ -20752,12 +21464,18 @@
     "id": 674,
     "name": "Apple",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/apple.png",
     "price": {
       "buy": 130,
       "sell": 65,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20773,19 +21491,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 675,
     "name": "Kiwi",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/kiwi.png",
     "price": {
       "buy": 180,
       "sell": 90,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20801,19 +21524,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 676,
     "name": "Pineapple",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/pineapple.png",
     "price": {
       "buy": 250,
       "sell": 125,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20829,19 +21557,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 677,
     "name": "Jalapeño",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/jalapeno.png",
     "price": {
       "buy": 220,
       "sell": 110,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20857,19 +21590,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 678,
     "name": "Horseradish",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/horseradish.png",
     "price": {
       "buy": 410,
       "sell": 205,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20885,19 +21623,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 679,
     "name": "Curry Powder",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/currypowder.png",
     "price": {
       "buy": 450,
       "sell": 225,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20913,19 +21656,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 680,
     "name": "Wasabi",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/wasabi.png",
     "price": {
       "buy": 330,
       "sell": 165,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20941,19 +21689,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 681,
     "name": "Watercress",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/watercress.png",
     "price": {
       "buy": 270,
       "sell": 135,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20969,19 +21722,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 682,
     "name": "Basil",
     "category": "craft-material",
+    "subcategory": "Ingrediente Culinário",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/basil.png",
     "price": {
       "buy": 280,
       "sell": 140,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20997,8 +21755,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 683,
@@ -21132,6 +21889,7 @@
     "id": 687,
     "name": "Shiny Ball",
     "category": "pokeball",
+    "subcategory": "Artesanal",
     "sprite": "https://i.imgur.com/r4tNd1i.png",
     "price": {
       "buy": 0,
@@ -22105,12 +22863,18 @@
     "id": 718,
     "name": "Googoo Milk",
     "category": "medicine",
+    "subcategory": "Bebidas",
     "sprite": "https://2img.net/i.imgur.com/ciRtfcF.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -22126,8 +22890,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 719,
@@ -23434,7 +24197,7 @@
     "name": "Gimmighoul Hoard Pouch",
     "category": "other",
     "subcategory": "Item Evolutivo",
-    "sprite": "",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/gimmighoulcoin.png",
     "price": {
       "buy": 0,
       "sell": 0,
@@ -24386,6 +25149,38 @@
     "name": "National Egg Voucher III",
     "category": "other",
     "sprite": "",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 782,
+    "name": "Gimmighoul Coin",
+    "category": "other",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/gimmighoulcoin.png",
     "price": {
       "buy": 0,
       "sell": 0,
