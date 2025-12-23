@@ -2664,14 +2664,19 @@
   {
     "id": 80,
     "name": "Sun Stone",
-    "category": "evolution-item",
-    "subcategory": "elemental-stone",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/sunstone.png",
     "price": {
       "buy": 25000,
       "sell": 8300,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -2683,7 +2688,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -2699,14 +2704,19 @@
   {
     "id": 81,
     "name": "Moon Stone",
-    "category": "evolution-item",
-    "subcategory": "elemental-stone",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/moonstone.png",
     "price": {
       "buy": 25000,
       "sell": 8300,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -2718,7 +2728,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -2735,14 +2745,19 @@
   {
     "id": 82,
     "name": "Fire Stone",
-    "category": "evolution-item",
-    "subcategory": "elemental-stone",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/firestone.png",
     "price": {
       "buy": 25000,
       "sell": 8300,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -2754,7 +2769,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -2770,14 +2785,19 @@
   {
     "id": 83,
     "name": "Thunder Stone",
-    "category": "evolution-item",
-    "subcategory": "elemental-stone",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/thunderstone.png",
     "price": {
       "buy": 25000,
       "sell": 8300,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -2789,7 +2809,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -2807,14 +2827,19 @@
   {
     "id": 84,
     "name": "Water Stone",
-    "category": "evolution-item",
-    "subcategory": "elemental-stone",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/waterstone.png",
     "price": {
       "buy": 25000,
       "sell": 8300,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -2826,7 +2851,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -2843,14 +2868,19 @@
   {
     "id": 85,
     "name": "Leaf Stone",
-    "category": "evolution-item",
-    "subcategory": "elemental-stone",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/leafstone.png",
     "price": {
       "buy": 25000,
       "sell": 8300,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -2862,7 +2892,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -3144,12 +3174,18 @@
     "id": 95,
     "name": "Root Fossil",
     "category": "other",
+    "subcategory": "Fóssil",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/rootfossil.png",
     "price": {
       "buy": 7000,
       "sell": 3500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -3174,12 +3210,18 @@
     "id": 96,
     "name": "Claw Fossil",
     "category": "other",
+    "subcategory": "Fóssil",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/clawfossil.png",
     "price": {
       "buy": 7000,
       "sell": 3500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -3204,12 +3246,18 @@
     "id": 97,
     "name": "Helix Fossil",
     "category": "other",
+    "subcategory": "Fóssil",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/helixfossil.png",
     "price": {
       "buy": 7000,
       "sell": 3500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -3234,12 +3282,18 @@
     "id": 98,
     "name": "Dome Fossil",
     "category": "other",
+    "subcategory": "Fóssil",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/domefossil.png",
     "price": {
       "buy": 7000,
       "sell": 3500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -3294,12 +3348,18 @@
     "id": 100,
     "name": "Armor Fossil",
     "category": "other",
+    "subcategory": "Fóssil",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/armorfossil.png",
     "price": {
       "buy": 7000,
       "sell": 3500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -3324,12 +3384,18 @@
     "id": 101,
     "name": "Skull Fossil",
     "category": "other",
+    "subcategory": "Fóssil",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/skullfossil.png",
     "price": {
       "buy": 7000,
       "sell": 3500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -3341,7 +3407,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -3381,14 +3447,19 @@
   {
     "id": 103,
     "name": "Shiny Stone",
-    "category": "evolution-item",
-    "subcategory": "elemental-stone",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/shinystone.png",
     "price": {
       "buy": 25000,
       "sell": 8300,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -3400,7 +3471,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -3415,14 +3486,19 @@
   {
     "id": 104,
     "name": "Dusk Stone",
-    "category": "evolution-item",
-    "subcategory": "elemental-stone",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/duskstone.png",
     "price": {
       "buy": 25000,
       "sell": 8300,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -3434,7 +3510,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -3449,14 +3525,19 @@
   {
     "id": 105,
     "name": "Dawn Stone",
-    "category": "evolution-item",
-    "subcategory": "elemental-stone",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/dawnstone.png",
     "price": {
       "buy": 25000,
       "sell": 8300,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -3481,14 +3562,19 @@
   {
     "id": 106,
     "name": "Oval Stone",
-    "category": "evolution-item",
-    "subcategory": "elemental-stone",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ovalstone.png",
     "price": {
       "buy": 20000,
       "sell": 6700,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -3500,7 +3586,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -10983,12 +11069,18 @@
     "id": 365,
     "name": "Cover Fossil",
     "category": "other",
+    "subcategory": "Fóssil",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/coverfossil.png",
     "price": {
       "buy": 7000,
       "sell": 3500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -11000,7 +11092,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -11013,12 +11105,18 @@
     "id": 366,
     "name": "Plume Fossil",
     "category": "other",
+    "subcategory": "Fóssil",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/plumefossil.png",
     "price": {
       "buy": 7000,
       "sell": 3500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -11030,7 +11128,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -11805,7 +11903,7 @@
     "id": 394,
     "name": "Gengarite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/gengarite.png",
     "price": {
       "buy": 0,
@@ -11828,7 +11926,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -11841,7 +11939,7 @@
     "id": 395,
     "name": "Gardevoirite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/gardevoirite.png",
     "price": {
       "buy": 0,
@@ -11864,7 +11962,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -11877,7 +11975,7 @@
     "id": 396,
     "name": "Ampharosite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/ampharosite.png",
     "price": {
       "buy": 0,
@@ -11900,7 +11998,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -11913,7 +12011,7 @@
     "id": 397,
     "name": "Venusaurite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/venusaurite.png",
     "price": {
       "buy": 0,
@@ -11936,7 +12034,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -11949,7 +12047,7 @@
     "id": 398,
     "name": "Charizardite X",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/charizarditex.png",
     "price": {
       "buy": 0,
@@ -11972,7 +12070,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -11985,7 +12083,7 @@
     "id": 399,
     "name": "Blastoisinite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/blastoisinite.png",
     "price": {
       "buy": 0,
@@ -12008,7 +12106,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12021,7 +12119,7 @@
     "id": 400,
     "name": "Mewtwonite X",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/mewtwonitex.png",
     "price": {
       "buy": 0,
@@ -12044,7 +12142,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12057,7 +12155,7 @@
     "id": 401,
     "name": "Mewtwonite Y",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/mewtwonitey.png",
     "price": {
       "buy": 0,
@@ -12080,7 +12178,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12093,7 +12191,7 @@
     "id": 402,
     "name": "Blazikenite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/blazikenite.png",
     "price": {
       "buy": 0,
@@ -12116,7 +12214,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12129,7 +12227,7 @@
     "id": 403,
     "name": "Medichamite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/medichamite.png",
     "price": {
       "buy": 0,
@@ -12152,7 +12250,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12165,7 +12263,7 @@
     "id": 404,
     "name": "Houndoominite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/houndoominite.png",
     "price": {
       "buy": 0,
@@ -12188,7 +12286,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12201,7 +12299,7 @@
     "id": 405,
     "name": "Aggronite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/aggronite.png",
     "price": {
       "buy": 0,
@@ -12224,7 +12322,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12237,7 +12335,7 @@
     "id": 406,
     "name": "Banettite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/banettite.png",
     "price": {
       "buy": 0,
@@ -12260,7 +12358,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12273,7 +12371,7 @@
     "id": 407,
     "name": "Tyranitarite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/tyranitarite.png",
     "price": {
       "buy": 0,
@@ -12296,7 +12394,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12309,7 +12407,7 @@
     "id": 408,
     "name": "Scizorite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/scizorite.png",
     "price": {
       "buy": 0,
@@ -12332,7 +12430,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12345,7 +12443,7 @@
     "id": 409,
     "name": "Pinsirite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/pinsirite.png",
     "price": {
       "buy": 0,
@@ -12368,7 +12466,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12381,7 +12479,7 @@
     "id": 410,
     "name": "Aerodactylite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/aerodactylite.png",
     "price": {
       "buy": 0,
@@ -12404,7 +12502,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12417,7 +12515,7 @@
     "id": 411,
     "name": "Lucarionite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/lucarionite.png",
     "price": {
       "buy": 0,
@@ -12440,7 +12538,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12453,7 +12551,7 @@
     "id": 412,
     "name": "Abomasite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/abomasite.png",
     "price": {
       "buy": 0,
@@ -12476,7 +12574,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12489,7 +12587,7 @@
     "id": 413,
     "name": "Kangaskhanite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/kangaskhanite.png",
     "price": {
       "buy": 0,
@@ -12512,7 +12610,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12525,7 +12623,7 @@
     "id": 414,
     "name": "Gyaradosite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/gyaradosite.png",
     "price": {
       "buy": 0,
@@ -12548,7 +12646,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12561,7 +12659,7 @@
     "id": 415,
     "name": "Absolite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/absolite.png",
     "price": {
       "buy": 0,
@@ -12584,7 +12682,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12597,7 +12695,7 @@
     "id": 416,
     "name": "Charizardite Y",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/charizarditey.png",
     "price": {
       "buy": 0,
@@ -12620,7 +12718,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12633,7 +12731,7 @@
     "id": 417,
     "name": "Alakazite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/alakazite.png",
     "price": {
       "buy": 0,
@@ -12656,7 +12754,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12669,7 +12767,7 @@
     "id": 418,
     "name": "Heracronite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/heracronite.png",
     "price": {
       "buy": 0,
@@ -12692,7 +12790,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12705,7 +12803,7 @@
     "id": 419,
     "name": "Mawilite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/mawilite.png",
     "price": {
       "buy": 0,
@@ -12728,7 +12826,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12741,7 +12839,7 @@
     "id": 420,
     "name": "Manectite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/manectite.png",
     "price": {
       "buy": 0,
@@ -12764,7 +12862,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12777,7 +12875,7 @@
     "id": 421,
     "name": "Garchompite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/garchompite.png",
     "price": {
       "buy": 0,
@@ -12800,7 +12898,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12938,12 +13036,18 @@
     "id": 426,
     "name": "Jaw Fossil",
     "category": "other",
+    "subcategory": "Fóssil",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/jawfossil.png",
     "price": {
       "buy": 7000,
       "sell": 3500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -12955,7 +13059,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -12968,12 +13072,18 @@
     "id": 427,
     "name": "Sail Fossil",
     "category": "other",
+    "subcategory": "Fóssil",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/sailfossil.png",
     "price": {
       "buy": 7000,
       "sell": 3500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -12985,7 +13095,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13026,7 +13136,7 @@
     "id": 429,
     "name": "Latiasite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/latiasite.png",
     "price": {
       "buy": 0,
@@ -13049,7 +13159,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13062,7 +13172,7 @@
     "id": 430,
     "name": "Latiosite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/latiosite.png",
     "price": {
       "buy": 0,
@@ -13085,7 +13195,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13171,7 +13281,7 @@
     "id": 433,
     "name": "Swampertite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/swampertite.png",
     "price": {
       "buy": 0,
@@ -13194,7 +13304,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13207,7 +13317,7 @@
     "id": 434,
     "name": "Sceptilite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/sceptilite.png",
     "price": {
       "buy": 0,
@@ -13230,7 +13340,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13243,7 +13353,7 @@
     "id": 435,
     "name": "Sablenite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/sablenite.png",
     "price": {
       "buy": 0,
@@ -13266,7 +13376,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13279,7 +13389,7 @@
     "id": 436,
     "name": "Altarianite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/altarianite.png",
     "price": {
       "buy": 0,
@@ -13302,7 +13412,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13315,7 +13425,7 @@
     "id": 437,
     "name": "Galladite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/galladite.png",
     "price": {
       "buy": 0,
@@ -13338,7 +13448,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13351,7 +13461,7 @@
     "id": 438,
     "name": "Audinite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/audinite.png",
     "price": {
       "buy": 0,
@@ -13374,7 +13484,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13387,7 +13497,7 @@
     "id": 439,
     "name": "Metagrossite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/metagrossite.png",
     "price": {
       "buy": 0,
@@ -13410,7 +13520,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13423,7 +13533,7 @@
     "id": 440,
     "name": "Sharpedonite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/sharpedonite.png",
     "price": {
       "buy": 0,
@@ -13446,7 +13556,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13459,7 +13569,7 @@
     "id": 441,
     "name": "Slowbronite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/slowbronite.png",
     "price": {
       "buy": 0,
@@ -13482,7 +13592,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13495,7 +13605,7 @@
     "id": 442,
     "name": "Steelixite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/steelixite.png",
     "price": {
       "buy": 0,
@@ -13518,7 +13628,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13531,7 +13641,7 @@
     "id": 443,
     "name": "Pidgeotite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/pidgeotite.png",
     "price": {
       "buy": 0,
@@ -13554,7 +13664,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13567,7 +13677,7 @@
     "id": 444,
     "name": "Glalitite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/glalitite.png",
     "price": {
       "buy": 0,
@@ -13590,7 +13700,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13603,7 +13713,7 @@
     "id": 445,
     "name": "Diancite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/diancite.png",
     "price": {
       "buy": 0,
@@ -13626,7 +13736,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13674,7 +13784,7 @@
     "id": 447,
     "name": "Cameruptite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/cameruptite.png",
     "price": {
       "buy": 0,
@@ -13697,7 +13807,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13710,7 +13820,7 @@
     "id": 448,
     "name": "Lopunnite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/lopunnite.png",
     "price": {
       "buy": 0,
@@ -13733,7 +13843,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13746,7 +13856,7 @@
     "id": 449,
     "name": "Salamencite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/salamencite.png",
     "price": {
       "buy": 0,
@@ -13769,7 +13879,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13782,7 +13892,7 @@
     "id": 450,
     "name": "Beedrillite",
     "category": "key-item",
-    "subcategory": "mega-stone",
+    "subcategory": "Megapedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/beedrillite.png",
     "price": {
       "buy": 0,
@@ -13805,7 +13915,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -13929,14 +14039,19 @@
   {
     "id": 455,
     "name": "Ice Stone",
-    "category": "evolution-item",
-    "subcategory": "elemental-stone",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/icestone.png",
     "price": {
       "buy": 25000,
       "sell": 8300,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -13948,7 +14063,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -14932,12 +15047,18 @@
     "id": 485,
     "name": "Normalium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/normaliumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14949,23 +15070,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 486,
     "name": "Firium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/firiumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -14977,23 +15103,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 487,
     "name": "Waterium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/wateriumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15005,23 +15136,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 488,
     "name": "Electrium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/electriumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15033,23 +15169,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 489,
     "name": "Grassium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/grassiumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15061,23 +15202,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 490,
     "name": "Icium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/iciumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15089,23 +15235,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 491,
     "name": "Fightinium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fightiniumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15117,23 +15268,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 492,
     "name": "Poisonium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/poisoniumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15145,23 +15301,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 493,
     "name": "Groundium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/groundiumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15173,23 +15334,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 494,
     "name": "Flyinium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/flyiniumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15201,23 +15367,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 495,
     "name": "Psychium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/psychiumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15229,23 +15400,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 496,
     "name": "Buginium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/buginiumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15257,23 +15433,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 497,
     "name": "Rockium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/rockiumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15285,23 +15466,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 498,
     "name": "Ghostium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/ghostiumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15313,23 +15499,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 499,
     "name": "Dragonium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/dragoniumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15341,23 +15532,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 500,
     "name": "Darkinium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/darkiniumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15369,23 +15565,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 501,
     "name": "Steelium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/steeliumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15397,23 +15598,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 502,
     "name": "Fairium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/fairiumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15425,23 +15631,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 503,
     "name": "Pikanium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/pikaniumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15453,7 +15664,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15466,12 +15677,18 @@
     "id": 504,
     "name": "Decidium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/decidiumz.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -15483,7 +15700,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15496,6 +15713,7 @@
     "id": 505,
     "name": "Incinium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/inciniumz.png",
     "price": {
       "buy": 0,
@@ -15518,7 +15736,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15531,6 +15749,7 @@
     "id": 506,
     "name": "Primarium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/primariumz.png",
     "price": {
       "buy": 0,
@@ -15553,7 +15772,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15566,6 +15785,7 @@
     "id": 507,
     "name": "Tapunium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/tapuniumz.png",
     "price": {
       "buy": 0,
@@ -15588,7 +15808,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15604,6 +15824,7 @@
     "id": 508,
     "name": "Marshadium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/marshadiumz.png",
     "price": {
       "buy": 0,
@@ -15626,7 +15847,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15639,6 +15860,7 @@
     "id": 509,
     "name": "Aloraichium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/aloraichiumz.png",
     "price": {
       "buy": 0,
@@ -15661,7 +15883,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15674,6 +15896,7 @@
     "id": 510,
     "name": "Snorlium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/snorliumz.png",
     "price": {
       "buy": 0,
@@ -15696,7 +15919,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15709,6 +15932,7 @@
     "id": 511,
     "name": "Eevium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/eeviumz.png",
     "price": {
       "buy": 0,
@@ -15731,7 +15955,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15744,6 +15968,7 @@
     "id": 512,
     "name": "Mewnium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/mewniumz.png",
     "price": {
       "buy": 0,
@@ -15766,7 +15991,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15779,6 +16004,7 @@
     "id": 513,
     "name": "Pikashunium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/pikashuniumz.png",
     "price": {
       "buy": 0,
@@ -15801,7 +16027,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15814,6 +16040,7 @@
     "id": 514,
     "name": "Solganium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/solganiumz.png",
     "price": {
       "buy": 0,
@@ -15836,7 +16063,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15849,6 +16076,7 @@
     "id": 515,
     "name": "Lunalium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/lunaliumz.png",
     "price": {
       "buy": 0,
@@ -15871,7 +16099,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15884,6 +16112,7 @@
     "id": 516,
     "name": "Ultranecrozium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/ultranecroziumz.png",
     "price": {
       "buy": 0,
@@ -15906,7 +16135,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15919,6 +16148,7 @@
     "id": 517,
     "name": "Mimikium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/mimikiumz.png",
     "price": {
       "buy": 0,
@@ -15941,7 +16171,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15954,6 +16184,7 @@
     "id": 518,
     "name": "Lycanium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/lycaniumz.png",
     "price": {
       "buy": 0,
@@ -15976,7 +16207,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -15991,6 +16222,7 @@
     "id": 519,
     "name": "Kommonium Z",
     "category": "key-item",
+    "subcategory": "Cristal Z",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/kommoniumz.png",
     "price": {
       "buy": 0,
@@ -16013,7 +16245,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -16745,12 +16977,18 @@
     "id": 544,
     "name": "Fossilized Bird",
     "category": "other",
+    "subcategory": "Fóssil",
     "sprite": "https://www.serebii.net/itemdex/sprites/fossilizedbird.png",
     "price": {
       "buy": 5000,
       "sell": 2500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16776,12 +17014,18 @@
     "id": 545,
     "name": "Fossilized Fish",
     "category": "other",
+    "subcategory": "Fóssil",
     "sprite": "https://www.serebii.net/itemdex/sprites/fossilizedfish.png",
     "price": {
       "buy": 5000,
       "sell": 2500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16807,12 +17051,18 @@
     "id": 546,
     "name": "Fossilized Drake",
     "category": "other",
+    "subcategory": "Fóssil",
     "sprite": "https://www.serebii.net/itemdex/sprites/fossilizeddrake.png",
     "price": {
       "buy": 5000,
       "sell": 2500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16838,12 +17088,18 @@
     "id": 547,
     "name": "Fossilized Dino",
     "category": "other",
+    "subcategory": "Fóssil",
     "sprite": "https://www.serebii.net/itemdex/sprites/fossilizeddino.png",
     "price": {
       "buy": 5000,
       "sell": 2500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16869,13 +17125,18 @@
     "id": 548,
     "name": "Strawberry Sweet",
     "category": "other",
-    "subcategory": "evolution-trigger",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/strawberrysweet.png",
     "price": {
       "buy": 20000,
       "sell": 6700,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16887,24 +17148,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 549,
     "name": "Love Sweet",
     "category": "other",
-    "subcategory": "evolution-trigger",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/lovesweet.png",
     "price": {
       "buy": 20000,
       "sell": 6700,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16916,24 +17181,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 550,
     "name": "Berry Sweet",
     "category": "other",
-    "subcategory": "evolution-trigger",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/berrysweet.png",
     "price": {
       "buy": 20000,
       "sell": 6700,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16945,24 +17214,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 551,
     "name": "Clover Sweet",
     "category": "other",
-    "subcategory": "evolution-trigger",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/cloversweet.png",
     "price": {
       "buy": 20000,
       "sell": 6700,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -16974,12 +17247,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 552,
@@ -17014,13 +17286,18 @@
     "id": 553,
     "name": "Star Sweet",
     "category": "other",
-    "subcategory": "evolution-trigger",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/starsweet.png",
     "price": {
       "buy": 20000,
       "sell": 6700,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17032,24 +17309,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 554,
     "name": "Ribbon Sweet",
     "category": "other",
-    "subcategory": "evolution-trigger",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/ribbonsweet.png",
     "price": {
       "buy": 20000,
       "sell": 6700,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17061,24 +17342,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 555,
     "name": "Sweet Apple",
     "category": "other",
-    "subcategory": "evolution-trigger",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/sweetapple.png",
     "price": {
       "buy": 20000,
       "sell": 6700,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17094,20 +17379,24 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 556,
     "name": "Tart Apple",
     "category": "other",
-    "subcategory": "evolution-trigger",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tartapple.png",
     "price": {
       "buy": 20000,
       "sell": 6700,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17123,8 +17412,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 557,
@@ -17892,12 +18180,18 @@
     "id": 584,
     "name": "Galarica Cuff",
     "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/galaricacuff.png",
     "price": {
       "buy": 3000,
       "sell": 1500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17913,8 +18207,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 585,
@@ -17976,12 +18269,18 @@
     "id": 587,
     "name": "Galarica Wreath",
     "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/galaricawreath.png",
     "price": {
       "buy": 3000,
       "sell": 1500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -17997,8 +18296,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 588,
@@ -18251,12 +18549,18 @@
     "id": 596,
     "name": "Scroll of Darkness",
     "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/scrollofdarkness.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -18268,7 +18572,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": true,
     "craft_recipe": [],
     "forageable": false,
@@ -18281,12 +18585,18 @@
     "id": 597,
     "name": "Scroll of Waters",
     "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/scrollofwaters.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -18298,7 +18608,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": true,
     "craft_recipe": [],
     "forageable": false,
@@ -20750,12 +21060,18 @@
     "id": 685,
     "name": "Auspicious Armor",
     "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/auspiciousarmor.png",
     "price": {
       "buy": 3000,
       "sell": 1500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20767,7 +21083,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -20780,12 +21096,18 @@
     "id": 686,
     "name": "Leader’s Crest",
     "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/leader'screst.png",
     "price": {
       "buy": 3000,
       "sell": 1500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -20797,7 +21119,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -23068,6 +23390,7 @@
     "id": 754,
     "name": "Linking Cord",
     "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://i.imgur.com/ooUQ2nj.png",
     "price": {
       "buy": 25000,
@@ -23110,12 +23433,18 @@
     "id": 755,
     "name": "Gimmighoul Hoard Pouch",
     "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -23127,24 +23456,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "especial",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 756,
     "name": "Syrup Apple",
     "category": "other",
-    "subcategory": "evolution-trigger",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/syrupyapple.png",
     "price": {
       "buy": 20000,
       "sell": 6700,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -23156,12 +23489,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "raro",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 757,
@@ -23757,6 +24089,7 @@
     "id": 772,
     "name": "Wild Honeycomb",
     "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "",
     "price": {
       "buy": 0,
@@ -23792,6 +24125,7 @@
     "id": 773,
     "name": "Royal Honey",
     "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "",
     "price": {
       "buy": 0,
@@ -23814,7 +24148,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -23822,5 +24156,261 @@
     "linked_pokemon": [
       10090
     ]
+  },
+  {
+    "id": 774,
+    "name": "Character Slot",
+    "category": "other",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tealstylecard.png",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "epico",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 775,
+    "name": "Enhanced Character Slot",
+    "category": "other",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/indigostylecard.png",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "epico",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 776,
+    "name": "Regional Egg Voucher I",
+    "category": "other",
+    "sprite": "",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 777,
+    "name": "Regional Egg Voucher II",
+    "category": "other",
+    "sprite": "",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 778,
+    "name": "Regional Egg Voucher III",
+    "category": "other",
+    "sprite": "",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 779,
+    "name": "National Egg Voucher I",
+    "category": "other",
+    "sprite": "",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 780,
+    "name": "National Egg Voucher II",
+    "category": "other",
+    "sprite": "",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 781,
+    "name": "National Egg Voucher III",
+    "category": "other",
+    "sprite": "",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
   }
 ]
