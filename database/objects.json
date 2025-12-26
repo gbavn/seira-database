@@ -160,5 +160,45 @@
         232
       ]
     }
+  },
+  {
+    "id": "FishLake",
+    "name": "Ponto de Pesca (Lago)",
+    "icon": "",
+    "category": "fishing_spot",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "rarity_based",
+      "gives": "pokemon_and_items",
+      "pokemon": {
+        "special": [],
+        "epic": [
+          978,
+          349
+        ],
+        "rare": [
+          118
+        ],
+        "common": [
+          129
+        ]
+      },
+      "items": {
+        "common": [
+          93,
+          70
+        ],
+        "rare": [
+          88
+        ],
+        "epic": [
+          89
+        ],
+        "special": [
+          372
+        ]
+      }
+    }
   }
 ]
