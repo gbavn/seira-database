@@ -110,5 +110,55 @@
         363
       ]
     }
+  },
+  {
+    "id": "Gem",
+    "name": "Gema Aleatória",
+    "icon": "",
+    "category": "generic",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "equal_chance",
+      "gives": "items_only",
+      "items": [
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        375,
+        376,
+        428
+      ]
+    }
+  },
+  {
+    "id": "Heb",
+    "name": "Erva Aleatória",
+    "icon": "",
+    "category": "generic",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "equal_chance",
+      "gives": "items_only",
+      "items": [
+        37,
+        175,
+        180,
+        232
+      ]
+    }
   }
 ]
