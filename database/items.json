@@ -2836,14 +2836,19 @@
     "category": "medicine",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/repel.png",
     "price": {
-      "buy": 400,
-      "sell": 200,
+      "buy": 200,
+      "sell": 65,
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
-    "description": "[EFEITO BLOQUEADO]",
+    "description": "Um spray de odor forte que afasta Pokémon selvagens. Permite anular 1 encontro ao chacoalhar árvores de Berry e Apricorn.",
     "held_effect": "",
     "fling_power": 0,
     "fling_effect": "",
@@ -2855,8 +2860,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 80,
@@ -9436,34 +9440,6 @@
     "posts_to_collect": 0
   },
   {
-    "id": 294,
-    "name": "Fishing Rod",
-    "category": "key-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/super-rod.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "is_key_item": true,
-    "is_craftable": false,
-    "description": "The best fishing rod for catching wild POKéMON.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
-  },
-  {
     "id": 295,
     "name": "Bicycle",
     "category": "key-item",
@@ -10118,6 +10094,11 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
     "is_craftable": false,
     "description": "Uma Apricorn verde com um aroma misterioso e profundamente herbal, como folhas recém-amassadas. Sua fragrância parece mudar levemente conforme é manipulada.",
@@ -10128,12 +10109,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 314,
@@ -10161,7 +10141,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": true,
@@ -10193,7 +10173,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": true,
@@ -10225,7 +10205,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": true,
@@ -17060,12 +17040,17 @@
     "id": 524,
     "name": "Fishing Rod",
     "category": "key-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/fishing-rod--galar.png",
+    "sprite": "https://i.imgur.com/h5wxBk4.png",
     "price": {
-      "buy": 0,
-      "sell": 0,
+      "buy": 5000,
+      "sell": 1700,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -17081,8 +17066,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 525,
