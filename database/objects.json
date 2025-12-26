@@ -258,12 +258,16 @@
       "gives": "items_only",
       "items": [
         {
-          "item_id": 710,
+          "item_id": 2,
           "rate": 10
         },
         {
-          "item_id": 713,
-          "rate": 10.7
+          "item_id": 3,
+          "rate": 10
+        },
+        {
+          "item_id": 4,
+          "rate": 10
         }
       ]
     }
