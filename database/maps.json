@@ -79,7 +79,7 @@
       "apricorn-tree-01",
       "berry-tree-01",
       "fishing-spot-01",
-      "FishLake"
+      "ApriTree"
     ],
     "accesses": {
       "north": {
@@ -150,7 +150,9 @@
     "interaction_objects": [
       "berry-tree-01",
       "apricorn-tree-01",
-      "moss-stone"
+      "moss-stone",
+      "BerryTree",
+      "ApriTree"
     ],
     "accesses": {
       "south": {
@@ -331,7 +333,10 @@
         1
       ]
     },
-    "interaction_objects": [],
+    "interaction_objects": [
+      "BerryTree",
+      "ApriTree"
+    ],
     "accesses": {},
     "special_location": false
   },
@@ -491,7 +496,7 @@
     },
     "interaction_objects": [
       "apricorn-tree-01",
-      "FishLake"
+      "BerryTree"
     ],
     "accesses": {},
     "special_location": false
@@ -548,7 +553,10 @@
         498
       ]
     },
-    "interaction_objects": [],
+    "interaction_objects": [
+      "BerryTree",
+      "ApriTree"
+    ],
     "accesses": {},
     "special_location": false
   },
@@ -714,7 +722,9 @@
     },
     "interaction_objects": [
       "playground",
-      "apricorn-tree-01"
+      "apricorn-tree-01",
+      "BerryTree",
+      "ApriTree"
     ],
     "accesses": {
       "south": {
@@ -821,7 +831,9 @@
         393
       ]
     },
-    "interaction_objects": [],
+    "interaction_objects": [
+      "ApriTree"
+    ],
     "accesses": {},
     "special_location": false
   },
