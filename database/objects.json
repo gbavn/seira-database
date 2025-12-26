@@ -200,5 +200,135 @@
         ]
       }
     }
+  },
+  {
+    "id": "Pickup10",
+    "name": "Pickup (Level 1 - 10)",
+    "icon": "",
+    "category": "pickup",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "custom_percentage",
+      "gives": "items_only",
+      "items": [
+        {
+          "item_id": 710,
+          "rate": 10
+        },
+        {
+          "item_id": 713,
+          "rate": 10.7
+        }
+      ]
+    }
+  },
+  {
+    "id": "Pickup20",
+    "name": "Pickup (Level 11 - 20)",
+    "icon": "",
+    "category": "pickup",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "custom_percentage",
+      "gives": "items_only"
+    }
+  },
+  {
+    "id": "Pickup 30",
+    "name": "Pickup (Level 21 - 31)",
+    "icon": "",
+    "category": "pickup",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "custom_percentage",
+      "gives": "items_only"
+    }
+  },
+  {
+    "id": "Pickup40",
+    "name": "Pickup (Level 31 - 40)",
+    "icon": "",
+    "category": "pickup",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "custom_percentage",
+      "gives": "items_only"
+    }
+  },
+  {
+    "id": "Pickup50",
+    "name": "Pickup (Level 41 - 50)",
+    "icon": "",
+    "category": "pickup",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "custom_percentage",
+      "gives": "items_only"
+    }
+  },
+  {
+    "id": "Pickup60",
+    "name": "Pickup (Level 51 - 60)",
+    "icon": "",
+    "category": "pickup",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "custom_percentage",
+      "gives": "items_only"
+    }
+  },
+  {
+    "id": "Pickup70",
+    "name": "Pickup (Level 61 - 70)",
+    "icon": "",
+    "category": "pickup",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "custom_percentage",
+      "gives": "items_only"
+    }
+  },
+  {
+    "id": "Pickup80",
+    "name": "Pickup (Level 71 - 80)",
+    "icon": "",
+    "category": "pickup",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "custom_percentage",
+      "gives": "items_only"
+    }
+  },
+  {
+    "id": "Pickup90",
+    "name": "Pickup (Level 81 - 90)",
+    "icon": "",
+    "category": "pickup",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "custom_percentage",
+      "gives": "items_only"
+    }
+  },
+  {
+    "id": "Pickup100",
+    "name": "Pickup (Level 91 - 100)",
+    "icon": "",
+    "category": "pickup",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "custom_percentage",
+      "gives": "items_only"
+    }
   }
 ]
