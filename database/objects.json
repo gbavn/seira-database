@@ -1,17 +1,5 @@
 [
   {
-    "id": "berry-tree-01",
-    "type": "berry_tree",
-    "name": "Árvore de Berries",
-    "description": "Uma árvore carregada de berries maduras e suculentas.",
-    "cooldown_hours": 24,
-    "loot": {
-      "common": [],
-      "rare": [],
-      "epic": []
-    }
-  },
-  {
     "id": "moss-stone",
     "type": "evolution_stone",
     "name": "Pedra Musgosa",
@@ -250,43 +238,24 @@
   },
   {
     "id": "ApriTree",
-    "type": "apricorn_tree",
     "name": "Árvore de Apricorn",
-    "description": "Uma árvore rara que produz Apricorns coloridos.",
-    "cooldown_hours": 48,
-    "loot": [
-      {
-        "item_id": 310,
-        "rate": 100
-      },
-      {
-        "item_id": 311,
-        "rate": 100
-      },
-      {
-        "item_id": 312,
-        "rate": 100
-      },
-      {
-        "item_id": 313,
-        "rate": 100
-      },
-      {
-        "item_id": 314,
-        "rate": 100
-      },
-      {
-        "item_id": 315,
-        "rate": 100
-      },
-      {
-        "item_id": 316,
-        "rate": 100
-      },
-      {
-        "item_id": 702,
-        "rate": 100
-      }
-    ]
+    "icon": "",
+    "category": "generic",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "equal_chance",
+      "gives": "items_only",
+      "items": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        702
+      ]
+    }
   }
 ]
