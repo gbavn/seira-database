@@ -2,7 +2,7 @@
   {
     "id": "ApriTree",
     "name": "Árvore de Apricorn",
-    "icon": "",
+    "icon": "apple-seeds",
     "category": "generic",
     "is_rollable": true,
     "description": "",
@@ -54,7 +54,7 @@
   {
     "id": "BerryTree",
     "name": "Árvore de Berry",
-    "icon": "",
+    "icon": "raspberry",
     "category": "generic",
     "is_rollable": true,
     "description": "",
@@ -138,7 +138,7 @@
   {
     "id": "Feather",
     "name": "Pena Aleatória",
-    "icon": "",
+    "icon": "feather",
     "category": "generic",
     "is_rollable": true,
     "description": "",
@@ -159,7 +159,7 @@
   {
     "id": "Gem",
     "name": "Gema Aleatória",
-    "icon": "",
+    "icon": "crystal-shine",
     "category": "generic",
     "is_rollable": true,
     "description": "",
@@ -191,7 +191,7 @@
   {
     "id": "Heb",
     "name": "Erva Aleatória",
-    "icon": "",
+    "icon": "herbs-bundle",
     "category": "generic",
     "is_rollable": true,
     "description": "",
@@ -209,7 +209,7 @@
   {
     "id": "FishLake",
     "name": "Ponto de Pesca (Lago)",
-    "icon": "",
+    "icon": "fishing-pole",
     "category": "fishing_spot",
     "is_rollable": true,
     "description": "",
@@ -220,13 +220,18 @@
         "special": [],
         "epic": [
           978,
+          977,
           349
         ],
         "rare": [
-          118
+          118,
+          341,
+          602
         ],
         "common": [
-          129
+          129,
+          339,
+          550
         ]
       },
       "items": {
@@ -235,7 +240,8 @@
           70
         ],
         "rare": [
-          88
+          88,
+          71
         ],
         "epic": [
           89
@@ -249,7 +255,7 @@
   {
     "id": "Pickup10",
     "name": "Pickup (Level 1 - 10)",
-    "icon": "",
+    "icon": "grab",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -275,7 +281,7 @@
   {
     "id": "Pickup20",
     "name": "Pickup (Level 11 - 20)",
-    "icon": "",
+    "icon": "grab",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -287,7 +293,7 @@
   {
     "id": "Pickup 30",
     "name": "Pickup (Level 21 - 31)",
-    "icon": "",
+    "icon": "grab",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -299,7 +305,7 @@
   {
     "id": "Pickup40",
     "name": "Pickup (Level 31 - 40)",
-    "icon": "",
+    "icon": "grab",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -311,7 +317,7 @@
   {
     "id": "Pickup50",
     "name": "Pickup (Level 41 - 50)",
-    "icon": "",
+    "icon": "grab",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -323,7 +329,7 @@
   {
     "id": "Pickup60",
     "name": "Pickup (Level 51 - 60)",
-    "icon": "",
+    "icon": "grab",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -335,7 +341,7 @@
   {
     "id": "Pickup70",
     "name": "Pickup (Level 61 - 70)",
-    "icon": "",
+    "icon": "grab",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -347,7 +353,7 @@
   {
     "id": "Pickup80",
     "name": "Pickup (Level 71 - 80)",
-    "icon": "",
+    "icon": "grab",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -359,7 +365,7 @@
   {
     "id": "Pickup90",
     "name": "Pickup (Level 81 - 90)",
-    "icon": "",
+    "icon": "grab",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -371,13 +377,100 @@
   {
     "id": "Pickup100",
     "name": "Pickup (Level 91 - 100)",
-    "icon": "",
+    "icon": "grab",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
     "roll_config": {
       "type": "custom_percentage",
       "gives": "items_only"
+    }
+  },
+  {
+    "id": "FishRiver",
+    "name": "Ponto de Pesca (Rio)",
+    "icon": "fishing-pole",
+    "category": "fishing_spot",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "rarity_based",
+      "gives": "pokemon_and_items",
+      "pokemon": {
+        "common": [
+          129,
+          550,
+          194
+        ],
+        "rare": [
+          602,
+          341,
+          370
+        ],
+        "epic": [
+          349,
+          366,
+          147
+        ]
+      }
+    }
+  },
+  {
+    "id": "FishSea",
+    "name": "Ponto de Pesca (Mar)",
+    "icon": "",
+    "category": "fishing_spot",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "rarity_based",
+      "gives": "pokemon_and_items",
+      "pokemon": {
+        "common": [
+          90,
+          456,
+          746
+        ],
+        "rare": [
+          846,
+          370,
+          223
+        ],
+        "epic": [
+          320,
+          366,
+          728
+        ]
+      }
+    }
+  },
+  {
+    "id": "FishSwamp",
+    "name": "Ponto de Pesca (Charco)",
+    "icon": "",
+    "category": "fishing_spot",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "rarity_based",
+      "gives": "pokemon_and_items",
+      "pokemon": {
+        "common": [
+          339,
+          129,
+          194
+        ],
+        "rare": [
+          341,
+          690,
+          618
+        ],
+        "epic": [
+          349,
+          211,
+          258
+        ]
+      }
     }
   }
 ]
