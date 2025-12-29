@@ -12216,13 +12216,13 @@
     "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/abilitycapsule.png",
     "price": {
-      "buy": 10000,
-      "sell": 5000,
+      "buy": 0,
+      "sell": 0,
       "casino": 0,
       "mile": 0
     },
     "shop_availability": {
-      "pokemart": true,
+      "pokemart": false,
       "casino": false,
       "mile_shop": false
     },
@@ -19096,13 +19096,13 @@
     "subcategory": "Aprimoramento",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/abilitypatch.png",
     "price": {
-      "buy": 20,
-      "sell": 10,
+      "buy": 0,
+      "sell": 0,
       "casino": 0,
       "mile": 0
     },
     "shop_availability": {
-      "pokemart": true,
+      "pokemart": false,
       "casino": false,
       "mile_shop": false
     },
@@ -24583,13 +24583,13 @@
     "category": "key-item",
     "sprite": "https://2img.net/i.imgur.com/KV7x446.png",
     "price": {
-      "buy": 10000,
-      "sell": 5000,
+      "buy": 0,
+      "sell": 0,
       "casino": 0,
       "mile": 0
     },
     "shop_availability": {
-      "pokemart": true,
+      "pokemart": false,
       "casino": false,
       "mile_shop": false
     },
