@@ -323,75 +323,75 @@
       "items": [
         {
           "item_id": 17,
-          "rate": 10
+          "rate": 15
         },
         {
           "item_id": 86,
-          "rate": 10
+          "rate": 17
         },
         {
           "item_id": 4,
-          "rate": 10
+          "rate": 12
         },
         {
           "item_id": 3,
-          "rate": 10
+          "rate": 8
         },
         {
           "item_id": 87,
-          "rate": 10
+          "rate": 7
         },
         {
           "item_id": 30,
-          "rate": 10
+          "rate": 6
         },
         {
           "item_id": 31,
-          "rate": 10
+          "rate": 5
         },
         {
           "item_id": 27,
-          "rate": 10
+          "rate": 5
         },
         {
           "item_id": 28,
-          "rate": 10
+          "rate": 4
         },
         {
           "item_id": 26,
-          "rate": 10
+          "rate": 3
         },
         {
           "item_id": 42,
-          "rate": 10
+          "rate": 3
         },
         {
           "item_id": 374,
-          "rate": 10
+          "rate": 3
         },
         {
           "item_id": 104,
-          "rate": 10
+          "rate": 1
         },
         {
           "item_id": 105,
-          "rate": 10
+          "rate": 1
         },
         {
           "item_id": 103,
-          "rate": 10
+          "rate": 1
         },
         {
           "item_id": 50,
-          "rate": 10
+          "rate": 2
         },
         {
           "item_id": 721,
-          "rate": 10
+          "rate": 2
         },
         {
           "item_id": 783,
-          "rate": 10
+          "rate": 3
         }
       ]
     }
