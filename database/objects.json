@@ -264,16 +264,48 @@
       "gives": "items_only",
       "items": [
         {
-          "item_id": 2,
-          "rate": 10
+          "item_id": 17,
+          "rate": 28
         },
         {
-          "item_id": 3,
-          "rate": 10
+          "item_id": 86,
+          "rate": 20
         },
         {
           "item_id": 4,
-          "rate": 10
+          "rate": 15
+        },
+        {
+          "item_id": 30,
+          "rate": 8
+        },
+        {
+          "item_id": 18,
+          "rate": 5
+        },
+        {
+          "item_id": 22,
+          "rate": 5
+        },
+        {
+          "item_id": 20,
+          "rate": 5
+        },
+        {
+          "item_id": 19,
+          "rate": 5
+        },
+        {
+          "item_id": 42,
+          "rate": 2
+        },
+        {
+          "item_id": 3,
+          "rate": 2
+        },
+        {
+          "item_id": 721,
+          "rate": 1
         }
       ]
     }
@@ -287,7 +319,81 @@
     "description": "",
     "roll_config": {
       "type": "custom_percentage",
-      "gives": "items_only"
+      "gives": "items_only",
+      "items": [
+        {
+          "item_id": 17,
+          "rate": 10
+        },
+        {
+          "item_id": 86,
+          "rate": 10
+        },
+        {
+          "item_id": 4,
+          "rate": 10
+        },
+        {
+          "item_id": 3,
+          "rate": 10
+        },
+        {
+          "item_id": 87,
+          "rate": 10
+        },
+        {
+          "item_id": 30,
+          "rate": 10
+        },
+        {
+          "item_id": 31,
+          "rate": 10
+        },
+        {
+          "item_id": 27,
+          "rate": 10
+        },
+        {
+          "item_id": 28,
+          "rate": 10
+        },
+        {
+          "item_id": 26,
+          "rate": 10
+        },
+        {
+          "item_id": 42,
+          "rate": 10
+        },
+        {
+          "item_id": 374,
+          "rate": 10
+        },
+        {
+          "item_id": 104,
+          "rate": 10
+        },
+        {
+          "item_id": 105,
+          "rate": 10
+        },
+        {
+          "item_id": 103,
+          "rate": 10
+        },
+        {
+          "item_id": 50,
+          "rate": 10
+        },
+        {
+          "item_id": 721,
+          "rate": 10
+        },
+        {
+          "item_id": 783,
+          "rate": 10
+        }
+      ]
     }
   },
   {
@@ -299,7 +405,97 @@
     "description": "",
     "roll_config": {
       "type": "custom_percentage",
-      "gives": "items_only"
+      "gives": "items_only",
+      "items": [
+        {
+          "item_id": 26,
+          "rate": 10
+        },
+        {
+          "item_id": 3,
+          "rate": 10
+        },
+        {
+          "item_id": 87,
+          "rate": 10
+        },
+        {
+          "item_id": 27,
+          "rate": 10
+        },
+        {
+          "item_id": 28,
+          "rate": 10
+        },
+        {
+          "item_id": 25,
+          "rate": 10
+        },
+        {
+          "item_id": 31,
+          "rate": 10
+        },
+        {
+          "item_id": 32,
+          "rate": 10
+        },
+        {
+          "item_id": 2,
+          "rate": 10
+        },
+        {
+          "item_id": 104,
+          "rate": 10
+        },
+        {
+          "item_id": 103,
+          "rate": 10
+        },
+        {
+          "item_id": 105,
+          "rate": 10
+        },
+        {
+          "item_id": 50,
+          "rate": 10
+        },
+        {
+          "item_id": 92,
+          "rate": 10
+        },
+        {
+          "item_id": 24,
+          "rate": 10
+        },
+        {
+          "item_id": 195,
+          "rate": 10
+        },
+        {
+          "item_id": 180,
+          "rate": 10
+        },
+        {
+          "item_id": 232,
+          "rate": 10
+        },
+        {
+          "item_id": 175,
+          "rate": 10
+        },
+        {
+          "item_id": 783,
+          "rate": 10
+        },
+        {
+          "item_id": 784,
+          "rate": 10
+        },
+        {
+          "item_id": 721,
+          "rate": 10
+        }
+      ]
     }
   },
   {
@@ -311,7 +507,85 @@
     "description": "",
     "roll_config": {
       "type": "custom_percentage",
-      "gives": "items_only"
+      "gives": "items_only",
+      "items": [
+        {
+          "item_id": 26,
+          "rate": 10
+        },
+        {
+          "item_id": 3,
+          "rate": 10
+        },
+        {
+          "item_id": 2,
+          "rate": 10
+        },
+        {
+          "item_id": 27,
+          "rate": 10
+        },
+        {
+          "item_id": 28,
+          "rate": 10
+        },
+        {
+          "item_id": 32,
+          "rate": 10
+        },
+        {
+          "item_id": 87,
+          "rate": 10
+        },
+        {
+          "item_id": 104,
+          "rate": 10
+        },
+        {
+          "item_id": 103,
+          "rate": 10
+        },
+        {
+          "item_id": 105,
+          "rate": 10
+        },
+        {
+          "item_id": 50,
+          "rate": 10
+        },
+        {
+          "item_id": 92,
+          "rate": 10
+        },
+        {
+          "item_id": 25,
+          "rate": 10
+        },
+        {
+          "item_id": 786,
+          "rate": 10
+        },
+        {
+          "item_id": 35,
+          "rate": 10
+        },
+        {
+          "item_id": 36,
+          "rate": 10
+        },
+        {
+          "item_id": 783,
+          "rate": 10
+        },
+        {
+          "item_id": 784,
+          "rate": 10
+        },
+        {
+          "item_id": 721,
+          "rate": 10
+        }
+      ]
     }
   },
   {
@@ -323,7 +597,81 @@
     "description": "",
     "roll_config": {
       "type": "custom_percentage",
-      "gives": "items_only"
+      "gives": "items_only",
+      "items": [
+        {
+          "item_id": 25,
+          "rate": 10
+        },
+        {
+          "item_id": 2,
+          "rate": 10
+        },
+        {
+          "item_id": 27,
+          "rate": 10
+        },
+        {
+          "item_id": 28,
+          "rate": 10
+        },
+        {
+          "item_id": 24,
+          "rate": 10
+        },
+        {
+          "item_id": 32,
+          "rate": 10
+        },
+        {
+          "item_id": 104,
+          "rate": 10
+        },
+        {
+          "item_id": 103,
+          "rate": 10
+        },
+        {
+          "item_id": 105,
+          "rate": 10
+        },
+        {
+          "item_id": 50,
+          "rate": 10
+        },
+        {
+          "item_id": 92,
+          "rate": 10
+        },
+        {
+          "item_id": 29,
+          "rate": 10
+        },
+        {
+          "item_id": 786,
+          "rate": 10
+        },
+        {
+          "item_id": 37,
+          "rate": 10
+        },
+        {
+          "item_id": 783,
+          "rate": 10
+        },
+        {
+          "item_id": 784,
+          "rate": 10
+        },
+        {
+          "item_id": 785,
+          "rate": 10
+        },
+        {
+          "item_id": 721,
+          "rate": 10
+        }
+      ]
     }
   },
   {
@@ -335,7 +683,85 @@
     "description": "",
     "roll_config": {
       "type": "custom_percentage",
-      "gives": "items_only"
+      "gives": "items_only",
+      "items": [
+        {
+          "item_id": 24,
+          "rate": 10
+        },
+        {
+          "item_id": 2,
+          "rate": 10
+        },
+        {
+          "item_id": 27,
+          "rate": 10
+        },
+        {
+          "item_id": 28,
+          "rate": 10
+        },
+        {
+          "item_id": 25,
+          "rate": 10
+        },
+        {
+          "item_id": 104,
+          "rate": 10
+        },
+        {
+          "item_id": 103,
+          "rate": 10
+        },
+        {
+          "item_id": 105,
+          "rate": 10
+        },
+        {
+          "item_id": 50,
+          "rate": 10
+        },
+        {
+          "item_id": 92,
+          "rate": 10
+        },
+        {
+          "item_id": 29,
+          "rate": 10
+        },
+        {
+          "item_id": 786,
+          "rate": 10
+        },
+        {
+          "item_id": 37,
+          "rate": 10
+        },
+        {
+          "item_id": 384,
+          "rate": 10
+        },
+        {
+          "item_id": 182,
+          "rate": 10
+        },
+        {
+          "item_id": 194,
+          "rate": 10
+        },
+        {
+          "item_id": 784,
+          "rate": 10
+        },
+        {
+          "item_id": 785,
+          "rate": 10
+        },
+        {
+          "item_id": 721,
+          "rate": 10
+        }
+      ]
     }
   },
   {
@@ -347,7 +773,77 @@
     "description": "",
     "roll_config": {
       "type": "custom_percentage",
-      "gives": "items_only"
+      "gives": "items_only",
+      "items": [
+        {
+          "item_id": 24,
+          "rate": 10
+        },
+        {
+          "item_id": 2,
+          "rate": 10
+        },
+        {
+          "item_id": 28,
+          "rate": 10
+        },
+        {
+          "item_id": 29,
+          "rate": 10
+        },
+        {
+          "item_id": 25,
+          "rate": 10
+        },
+        {
+          "item_id": 104,
+          "rate": 10
+        },
+        {
+          "item_id": 103,
+          "rate": 10
+        },
+        {
+          "item_id": 105,
+          "rate": 10
+        },
+        {
+          "item_id": 50,
+          "rate": 10
+        },
+        {
+          "item_id": 92,
+          "rate": 10
+        },
+        {
+          "item_id": 786,
+          "rate": 10
+        },
+        {
+          "item_id": 384,
+          "rate": 10
+        },
+        {
+          "item_id": 182,
+          "rate": 10
+        },
+        {
+          "item_id": 194,
+          "rate": 10
+        },
+        {
+          "item_id": 784,
+          "rate": 10
+        },
+        {
+          "item_id": 785,
+          "rate": 10
+        },
+        {
+          "item_id": 721,
+          "rate": 10
+        }
+      ]
     }
   },
   {
@@ -359,7 +855,77 @@
     "description": "",
     "roll_config": {
       "type": "custom_percentage",
-      "gives": "items_only"
+      "gives": "items_only",
+      "items": [
+        {
+          "item_id": 24,
+          "rate": 10
+        },
+        {
+          "item_id": 2,
+          "rate": 10
+        },
+        {
+          "item_id": 29,
+          "rate": 10
+        },
+        {
+          "item_id": 25,
+          "rate": 10
+        },
+        {
+          "item_id": 104,
+          "rate": 10
+        },
+        {
+          "item_id": 103,
+          "rate": 10
+        },
+        {
+          "item_id": 105,
+          "rate": 10
+        },
+        {
+          "item_id": 50,
+          "rate": 10
+        },
+        {
+          "item_id": 92,
+          "rate": 10
+        },
+        {
+          "item_id": 786,
+          "rate": 10
+        },
+        {
+          "item_id": 384,
+          "rate": 10
+        },
+        {
+          "item_id": 588,
+          "rate": 10
+        },
+        {
+          "item_id": 182,
+          "rate": 10
+        },
+        {
+          "item_id": 194,
+          "rate": 10
+        },
+        {
+          "item_id": 784,
+          "rate": 10
+        },
+        {
+          "item_id": 785,
+          "rate": 10
+        },
+        {
+          "item_id": 721,
+          "rate": 10
+        }
+      ]
     }
   },
   {
@@ -371,7 +937,73 @@
     "description": "",
     "roll_config": {
       "type": "custom_percentage",
-      "gives": "items_only"
+      "gives": "items_only",
+      "items": [
+        {
+          "item_id": 24,
+          "rate": 10
+        },
+        {
+          "item_id": 2,
+          "rate": 10
+        },
+        {
+          "item_id": 29,
+          "rate": 10
+        },
+        {
+          "item_id": 104,
+          "rate": 10
+        },
+        {
+          "item_id": 103,
+          "rate": 10
+        },
+        {
+          "item_id": 105,
+          "rate": 10
+        },
+        {
+          "item_id": 50,
+          "rate": 10
+        },
+        {
+          "item_id": 92,
+          "rate": 10
+        },
+        {
+          "item_id": 786,
+          "rate": 10
+        },
+        {
+          "item_id": 384,
+          "rate": 10
+        },
+        {
+          "item_id": 588,
+          "rate": 10
+        },
+        {
+          "item_id": 182,
+          "rate": 10
+        },
+        {
+          "item_id": 194,
+          "rate": 10
+        },
+        {
+          "item_id": 784,
+          "rate": 10
+        },
+        {
+          "item_id": 785,
+          "rate": 10
+        },
+        {
+          "item_id": 721,
+          "rate": 10
+        }
+      ]
     }
   },
   {
@@ -383,7 +1015,73 @@
     "description": "",
     "roll_config": {
       "type": "custom_percentage",
-      "gives": "items_only"
+      "gives": "items_only",
+      "items": [
+        {
+          "item_id": 24,
+          "rate": 10
+        },
+        {
+          "item_id": 2,
+          "rate": 10
+        },
+        {
+          "item_id": 29,
+          "rate": 10
+        },
+        {
+          "item_id": 104,
+          "rate": 10
+        },
+        {
+          "item_id": 103,
+          "rate": 10
+        },
+        {
+          "item_id": 105,
+          "rate": 10
+        },
+        {
+          "item_id": 50,
+          "rate": 10
+        },
+        {
+          "item_id": 92,
+          "rate": 10
+        },
+        {
+          "item_id": 786,
+          "rate": 10
+        },
+        {
+          "item_id": 384,
+          "rate": 10
+        },
+        {
+          "item_id": 588,
+          "rate": 10
+        },
+        {
+          "item_id": 182,
+          "rate": 10
+        },
+        {
+          "item_id": 194,
+          "rate": 10
+        },
+        {
+          "item_id": 784,
+          "rate": 10
+        },
+        {
+          "item_id": 785,
+          "rate": 10
+        },
+        {
+          "item_id": 721,
+          "rate": 10
+        }
+      ]
     }
   },
   {
