@@ -79,7 +79,8 @@
       "apricorn-tree-01",
       "berry-tree-01",
       "fishing-spot-01",
-      "ApriTree"
+      "ApriTree",
+      "FishLake"
     ],
     "accesses": {
       "north": {
