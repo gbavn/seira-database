@@ -1,0 +1,252 @@
+{
+  "iniciais": [
+    {
+      "id": "treinador_dedicado",
+      "nome": "Treinador Dedicado",
+      "icone": "polar-star",
+      "descricao_curta": "Concede +1 XP em todas as atividades realizadas.",
+      "descricao_completa": "Alguns treinadores nascem com talento; outros constroem o próprio caminho passo a passo. O Treinador Dedicado pertence ao segundo grupo. Ele encara cada atividade como uma chance real de evolução e não apenas para seus Pokémon, mas para si mesmo. Sua postura persistente transforma pequenos progressos em avanço constante, e por isso ganha <b>+1 ponto de XP em todas as atividades</b>, refletindo seu aprendizado contínuo e incansável."
+    },
+    {
+      "id": "empreendedor_produtivo",
+      "nome": "Empreendedor Produtivo",
+      "icone": "rich",
+      "descricao_curta": "Recebe +60% mais ganhos monetários e +2 de fama em postagens de emprego.",
+      "descricao_completa": "Com visão estratégica e eficiência exemplar, o Treinador domina a arte de transformar esforço em lucro. Em cada tarefa, ele encontra formas de otimizar resultados e maximizar recursos. Essa perícia garante <b>+60% de ganhos monetários</b> em postagens de emprego, e <b>aumenta em +2 o ganho de fama</b> em cada uma delas, ampliando a renda, o prestígio e o potencial financeiro durante suas jornadas."
+    },
+    {
+      "id": "gestao_de_producao",
+      "nome": "Gestão de Produção",
+      "icone": "big-gear",
+      "descricao_curta": "Permite gerenciar um Pokémon produtor adicional por nível de Treinador.",
+      "descricao_completa": "Organizado e meticuloso, o Treinador sabe administrar tempo, espaço e recursos com precisão. Sua habilidade de planejamento aprimora o rendimento dos Pokémon produtores sob seu cuidado. Para cada <b>nível do personagem</b>, é permitido <b>ter um Pokémon produtor adicional</b>, aumentando a eficiência e a escala de produção nas atividades agrícolas e artesanais."
+    },
+    {
+      "id": "busca_dupla",
+      "nome": "Busca Dupla",
+      "icone": "walking-scout",
+      "descricao_curta": "Permite realizar <b>duas rolagens por turno</b> para busca de Pokémon selvagens, podendo <b>escolher o encontrado</b> e, em encontros <b>alternados</b>, enfrentar <b>ambos em dupla</b>.",
+      "descricao_completa": "Dotado de instinto apurado e domínio sobre rastreamento, o Treinador aprendeu a interpretar sinais, pegadas e sons da natureza com maestria. Essa perícia agora <b>permite realizar duas rolagens de busca em todos os turnos</b> para encontrar Pokémon selvagens. O Treinador pode <b>escolher qual dos dois resultados deseja enfrentar</b>. Além disso, <b>em encontros selvagens alternados</b>, o Treinador tem a chance de <b>encontrar e enfrentar ambos os Pokémon ao mesmo tempo em uma batalha em dupla</b>."
+    },
+    {
+      "id": "resonancia",
+      "nome": "Resonância",
+      "icone": "heart-beats",
+      "descricao_curta": "Aumenta todos os ganhos de felicidade e impede a perda por desmaio.",
+      "descricao_completa": "O Treinador possui uma conexão natural e profunda com seus Pokémon, como se suas emoções vibrassem em sintonia. Essa perícia <b>aumenta em +2</b> todos os ganhos de felicidade passivos como 'Subir de Nível' ou 'Fora da Pokébola' e <b>dobra</b> o ganho de 'Momentos de Afeto'. Além disso, Pokémon sob seu comando <b>não perdem felicidade ao desmaiar</b> em batalha."
+    },
+    {
+      "id": "magnata",
+      "nome": "Magnata",
+      "icone": "money-stack",
+      "descricao_curta": "Recebe $1.000 mensais +$600 por Nível de Treinador (máx. $16.000).",
+      "descricao_completa": "Com um faro impecável para negócios e investimentos, o Treinador transforma cada oportunidade em lucro. Sua renda mensal cresce de forma proporcional à sua experiência, refletindo sua ascensão econômica. Recebe <b>$1.000 fixos</b> mais <b>$600 adicionais por Nível de Treinador</b>, podendo alcançar até <b>$16.000 mensais</b> no ápice de sua carreira."
+    },
+    {
+      "id": "competitivo",
+      "nome": "Competitivo",
+      "icone": "fist",
+      "descricao_curta": "Reduz o cooldown para encontrar treinadores em -1 postagem.",
+      "descricao_completa": "O Treinador é movido pelo espírito de competição e pelo desejo constante de batalhar. Sempre à procura de desafios, ele aprendeu a otimizar seus encontros com outros treinadores. Com esta perícia, o <b>tempo entre a busca por adversários é reduzido em 1 postagem</b>, acelerando suas oportunidades de combate e aprendizado."
+    }
+  ],
+  "treinamento": [
+    {
+      "id": "domador",
+      "nome": "Domador",
+      "icone": "마스터ball",
+      "descricao_curta": "Ganha de 15 até 35% de XP e chance de captura bônus ao usar Pokémon de um tipo ou categoria específica.",
+      "descricao_completa": "Dedicação a um tipo, categoria ou coloração específica de Pokémon cria afinidade e maestria que outros treinadores dificilmente alcançam. Observando padrões de comportamento, ataques e habilidades, aprende a explorar cada força e fraqueza com precisão. Essa experiência concede <b>+15% de experiência</b> e <b>+15% de chance de captura</b> ao usar Pokémon dentro da especialidade escolhida. A cada nível de Treinador, o bônus aumenta em <b>+2%</b>, atingindo até <b>35%</b>, tornando o cuidado com cada parceiro ainda mais recompensador."
+    },
+    {
+      "id": "evoluidor_i",
+      "nome": "Evoluidor I",
+      "icone": "upgrade",
+      "descricao_curta": "Permite que certos Pokémon evoluam antes do nível habitual, conforme a lista de evolução antecipada.",
+      "descricao_completa": "Ao compreender o crescimento e as necessidades emocionais de cada Pokémon, o Treinador desenvolve métodos de estímulo e treino adaptados. Mentores e Treinadores Ás aplicam paciência e atenção aos sinais individuais, acelerando a evolução sem forçar o ritmo natural. Com essa perícia, certos Pokémon <b>podem evoluir antes do nível habitual</b>, seguindo a <b>lista de evolução antecipada</b>, refletindo dedicação, vínculo forte e habilidade em extrair o máximo potencial de cada parceiro."
+    },
+    {
+      "id": "evoluidor_ii",
+      "nome": "Evoluidor II",
+      "icone": "round-star",
+      "descricao_curta": "Reduz os requisitos para evoluções por felicidade (180) e por passos (8 postagens).",
+      "descricao_completa": "Com refinamento constante em técnicas de evolução, o Treinador percebe nuances no comportamento e felicidade de cada Pokémon. Mentores e Treinadores Ás que aplicam paciência e observação detalhada conseguem otimizar o crescimento natural. Essa perícia <b>reduz os requisitos</b> de métodos evolutivos: evoluções por <b>felicidade</b> ocorrem agora com <b>180 pontos</b> em vez de 220, e evoluções por <b>passos</b> exigem apenas <b>8 postagens</b> em vez de 15, tornando cada jornada mais ágil e recompensadora."
+    },
+    {
+      "id": "metodista",
+      "nome": "Metodista",
+      "icone": "weight-lifting-up",
+      "descricao_curta": "Concede +2 Pontos de Status (SP) extras ao final de cada ciclo de treino.",
+      "descricao_completa": "Disciplina, rigor e atenção aos detalhes transformam qualquer rotina de treino em crescimento efetivo. Atletas e Mentores estruturam cada sessão para aproveitar o máximo do potencial de seus Pokémon, equilibrando esforço e recompensa. Ao final de cada ciclo de <b>Treino de Status</b>, o Pokémon treinado recebe <b>+2 Pontos de Status (SP) extras</b>, totalizando <b>7 SPs por ciclo</b>, refletindo a eficácia de métodos consistentes e planejados."
+    }
+  ],
+  "taticas": [
+    {
+      "id": "analise_tatica",
+      "nome": "Análise Tática",
+      "icone": "target-arrows",
+      "descricao_curta": "Uma vez por batalha ou narração, declara um tipo como 'super efetivo' adicional, ignorando resistências do oponente.",
+      "descricao_completa": "Observação apurada e raciocínio rápido são marcas de estrategistas habilidosos. Ao estudar padrões de combate e identificar vulnerabilidades sutis, conseguem agir com precisão e converter conhecimento em vantagem real. Uma vez por batalha ou narração, esse talento permite declarar um tipo como <b>super efetivo adicional</b> durante um turno, fazendo o oponente receber dano como se fosse vulnerável àquele elemento, <b>mesmo que resista ou seja imune</b>."
+    },
+    {
+      "id": "bloqueio_sincronizado",
+      "nome": "Bloqueio Sincronizado",
+      "icone": "broken-shield",
+      "descricao_curta": "Anula status negativos aplicados pelo oponente refletindo-os de volta uma vez por batalha ou narração.",
+      "descricao_completa": "Reação precisa e controle de campo são essenciais para quem entende defesa. Líderes de Ginásio e Táticos sabem responder a ameaças no instante em que surgem, devolvendo condições adversas sem permitir que o ataque atinja seu alvo. Uma vez por batalha ou narração, ao ser atingido por um movimento que aplica <b>status negativo</b>, como Queimadura, Paralisia, Envenenamento, Sono ou Congelamento, esse efeito é <b>anulado</b> e <b>refletido de volta ao atacante</b>."
+    },
+    {
+      "id": "posicionamento_ideal",
+      "nome": "Posicionamento Ideal",
+      "icone": "move",
+      "descricao_curta": "Garante iniciativa máxima ao trocar de Pokémon, permitindo agir antes de qualquer outro participante.",
+      "descricao_completa": "Trocas no momento certo salvam batalhas. Táticos e Delinquentes dominam o campo ajustando time conforme a situação. Timing e conhecimento do adversário transformam trocas em vantagem estratégica. Com essa perícia, <b>toda troca de Pokémon garante iniciativa máxima</b>, permitindo que o Pokémon substituto <b>aja antes de qualquer outro</b> no turno em que entrar."
+    },
+    {
+      "id": "treino_tactico",
+      "nome": "Treino Táctico",
+      "icone": "book-pile",
+      "descricao_curta": "Garante que Pokémon treinados aprendam sempre o melhor movimento disponível ao subir de nível.",
+      "descricao_completa": "Planejamento e disciplina na evolução fazem a diferença. Mentores e Táticos enxergam padrões nos ataques, selecionando aqueles que mais se encaixam no potencial do Pokémon. Cada movimento aprendido reflete estratégia, não sorte. Com essa perícia, <b>ao subir de nível</b>, Pokémon sempre aprendem <b>o melhor movimento disponível</b> da tabela de level-up, escolhido pelo jogador."
+    }
+  ],
+  "producao": [
+    {
+      "id": "mao_cheia",
+      "nome": "Mão Cheia",
+      "icone": "hand-ok",
+      "descricao_curta": "Permite segurar até 3 itens segurados simultaneamente e usar 2 itens consumíveis por turno.",
+      "descricao_completa": "Preparação é tão importante quanto habilidade. Agricultores, Exploradores e Produtores carregam recursos sempre à mão, antecipando necessidades com eficiência. Essa perícia permite segurar <b>até 3 itens segurados simultaneamente</b> (como Leftovers, Eviolite ou Sitrus Berry) e <b>usar até 2 itens consumíveis por turno</b> em batalha (exceto Revives), tornando o combate mais estratégico e bem equipado."
+    },
+    {
+      "id": "farmaceutico",
+      "nome": "Farmacêutico",
+      "icone": "potion-ball",
+      "descricao_curta": "Aumenta a eficácia de itens curativos em 50% e duplica o efeito de aumentos de status.",
+      "descricao_completa": "Conhecimento químico e botânico transforma recursos básicos em ferramentas poderosas. Produtores e Agricultores aprendem a extrair o máximo de cada ingrediente, preparando fórmulas mais concentradas e eficientes. Com essa perícia, itens curativos como <b>Potions, Super Potions, Hyper Potions e Full Restores</b> têm sua eficácia <b>aumentada em 50%</b>. Além disso, itens que concedem bônus temporários aos status — como <b>X Attack, X Defense, X Speed</b> e similares — passam a conceder <b>o dobro do aumento</b>, fortalecendo estratégias de suporte."
+    },
+    {
+      "id": "produtor_nato",
+      "nome": "Produtor Nato",
+      "icone": "wheat",
+      "descricao_curta": "Duplica a produção de itens de Pokémon produtores, sem alterar o tempo de cooldown.",
+      "descricao_completa": "Cuidado e técnica rendem sempre mais. Agricultores e Produtores compreendem cada etapa do cultivo e produção, seja ajustando clima, nutrientes ou ritmo do Pokémon. Esse conhecimento garante maior eficiência sem comprometer tempo ou desgaste. Com essa perícia, <b>Pokémon produtores</b> entregam <b>o dobro de itens</b> a cada ciclo completo, <b>sem alterar o tempo necessário</b> entre coletas."
+    },
+    {
+      "id": "explorador_de_ruinas",
+      "nome": "Explorador de Ruínas",
+      "icone": "mine-wagon",
+      "descricao_curta": "Rola +1 dado em expedições a ruínas e dungeons, e garante +1 item extra ao final.",
+      "descricao_completa": "Antigas construções escondem segredos. Arqueólogos, Exploradores e Pesquisadores conhecem armadilhas, estruturas frágeis e compartimentos ocultos. Experiência e intuição transformam expedições em descobertas. Essa perícia garante <b>+1 rolagem adicional</b> em eventos de <b>Ruínas e Dungeons</b>, além de conceder <b>+1 item extra</b> ao final de cada exploração, aumentando as chances de recompensas valiosas."
+    }
+  ],
+  "carisma": [
+    {
+      "id": "influencia_inata",
+      "nome": "Influência Inata",
+      "icone": "star-swirl",
+      "descricao_curta": "Ganha +40% de XP de Fama em qualquer atividade que conceda Fama.",
+      "descricao_completa": "Presença marcante e carisma espontâneo fazem com que algumas pessoas sejam naturalmente notadas. Cada ação chama atenção, cada vitória vira conversa. Esse talento reflete a capacidade de transformar feitos comuns em momentos memoráveis. Com essa perícia, todas as atividades que concedem Fama passam a gerar <b>+40% de XP de Fama adicional</b>, ampliando rapidamente o reconhecimento público e o prestígio."
+    },
+    {
+      "id": "midia_digital",
+      "nome": "Mídia Digital",
+      "icone": "video-camera",
+      "descricao_curta": "Concede +5 de Fama ao narrar atividades e +3 ao incluir imagens ou vídeos na postagem.",
+      "descricao_completa": "Redes sociais, blogs e vídeos espalham influência além do alcance físico. Influencers e Coordenadores usam conteúdo visual e narrativas envolventes para conquistar seguidores. Qualidade e frequência transformam postagens em engajamento. Com essa perícia, <b>narrar eventos ou atividades</b> concede <b>+5 pontos de Fama</b>, e <b>incluir imagens ou vídeos</b> adiciona <b>+3 pontos extras</b>, premiando criatividade e esforço narrativo."
+    },
+    {
+      "id": "coordenador_competitivo",
+      "nome": "Coordenador Competitivo",
+      "icone": "juggler",
+      "descricao_curta": "Ganha +30% de chance de acerto em combos de movimentos durante concursos.",
+      "descricao_completa": "Coreografia, sincronização e percepção de público separam amadores de campeões. Coordenadores experientes sabem montar sequências fluidas, onde cada movimento prepara o próximo com perfeição. Essa técnica aumenta em <b>+30%</b> a chance de acerto em <b>combos de movimentos</b> durante <b>concursos e apresentações</b>, elevando a qualidade das performances e impressionando tanto jurados quanto espectadores."
+    },
+    {
+      "id": "mestre_do_estilo",
+      "nome": "Mestre do Estilo",
+      "icone": "mirror-mirror",
+      "descricao_curta": "Recebe +5 pontos na avaliação de concursos e +10% de precisão em movimentos de exibição e combate.",
+      "descricao_completa": "A graça de uma apresentação não está só na técnica, mas na forma como ela é mostrada. Coordenadores e estilistas sabem combinar postura, ritmo e estética para impactar o público e conquistar jurados. Cada movimento é calculado para transmitir charme, confiança e domínio. Por isso, essa perícia concede <b>+5 pontos extras</b> na avaliação final dos concursos e aumenta em <b>+10%</b> a precisão de movimentos usados tanto em <b>exibições</b> quanto em <b>batalhas comuns</b>, refletindo a habilidade de transformar performance em resultado."
+    },
+    {
+      "id": "barganhar",
+      "nome": "Barganhar",
+      "icone": "pay-money",
+      "descricao_curta": "Ganha 15% de desconto no PokéMart, aumentando 1% por nível até o máximo de 40%.",
+      "descricao_completa": "Negociadores experientes entendem que preço raramente é fixo. Magnatas e diplomatas usam presença, persuasão e experiência para conseguir melhores acordos, seja com comerciantes locais, PokéMarts maiores ou vendedores itinerantes. A perícia reflete essa habilidade de ler o momento certo para fechar negócio. Dessa forma, o usuário recebe <b>15% de desconto no PokéMart</b>, aumentando em <b>+1% por nível de Treinador</b>, até o limite de <b>40%</b> de desconto em compras."
+    },
+    {
+      "id": "apostador",
+      "nome": "Apostador",
+      "icone": "card-play",
+      "descricao_curta": "Aumenta o multiplicador de recompensa de batalhas para 45 x Nível.",
+      "descricao_completa": "Existem aqueles que vencem calculando riscos… e aqueles que vencem porque não têm medo deles. Competidores intensos e delinquentes ousados entram em batalha com a confiança de quem acredita que o prêmio vale o risco. Esse estilo de combate atrai apostas maiores e recompensas mais altas. Com essa perícia, as recompensas por derrotar Pokémon de outros treinadores passam a ser calculadas como <b>45 × Nível do Pokémon Derrotado</b>, em vez do padrão 35×, transformando cada confronto em uma chance real de lucro maior."
+    },
+    {
+      "id": "avaliacao_de_reliquias",
+      "nome": "Avaliação de Relíquias",
+      "icone": "jeweled-chalice",
+      "descricao_curta": "Aumenta em +40% o valor de venda de relíquias e itens raros.",
+      "descricao_completa": "Artefatos antigos e itens raros guardam histórias e valor. Pesquisadores e exploradores desenvolvem olhar atento para autenticidade, desgaste, brilho e detalhes que muitos deixariam passar. Saber identificar uma peça legítima de uma imitação pode ser a diferença entre um negócio comum e uma venda excepcional. Com essa perícia, relíquias, pérolas, Nuggets, Comet Shards e itens semelhantes podem ser vendidos com <b>+40% de valor adicional</b>, garantindo sempre o melhor retorno possível."
+    },
+    {
+      "id": "ganancia",
+      "nome": "Ganância",
+      "icone": "golden-nuggets",
+      "descricao_curta": "Recebe +40% de recompensa monetária em batalhas contra treinadores.",
+      "descricao_completa": "Ambição pode ser método, e alguns a transformam em vantagem. Magnatas procuram oportunidades de lucro em todo lugar, enquanto delinquentes veem as batalhas como terreno fértil para ganhos rápidos. Ao unir determinação agressiva e visão estratégica, cada vitória se torna mais lucrativa. Com essa perícia, confrontos contra outros treinadores concedem <b>+40% de recompensa monetária</b>, convertendo habilidade de combate diretamente em ganhos financeiros."
+    },
+    {
+      "id": "viajante_economico",
+      "nome": "Viajante Econômico",
+      "icone": "flying-flag",
+      "descricao_curta": "Reduz o custo de Táxi Aéreo para $600 e de cura nos Centros Pokémon para $250.",
+      "descricao_completa": "Pessoas que viajam muito aprendem a usar reputação e conversa ao seu favor. Diplomatas conseguem preços melhores negociando com cortesia; influenciadores recebem descontos pela visibilidade que trazem aos locais onde passam. Essa combinação facilita deslocamentos e cuidados essenciais sem comprometer o orçamento. Com a perícia, viagens de <b>Táxi Aéreo custam apenas $600</b> e serviços de cura nos Centros Pokémon passam a custar <b>$250</b> (após o nível 4)."
+    },
+    {
+      "id": "idolo_popular",
+      "nome": "Ídolo Popular",
+      "icone": "public-speaker",
+      "descricao_curta": "Aumenta os ganhos de Fama e a renda do Fã Clube; garante acesso imediato aos prêmios do clube.",
+      "descricao_completa": "Carisma genuíno cria seguidores, e seguidores criam oportunidades. Idols e celebridades sabem usar imagem, presença e simpatia para transformar público em apoio constante. Cada aparição aumenta a própria influência e atrai novos fãs, que retornam em forma de recompensas. Com essa perícia, toda atividade que gera fama recebe <b>+10% de Fama</b>, o Fã Clube concede <b>+1 rolagem semanal</b> e, mesmo sem os requisitos, o usuário obtém <b>acesso imediato aos prêmios do Fã Clube</b>."
+    }
+  ],
+  "exploracao": [
+    {
+      "id": "brilhante",
+      "nome": "Brilhante",
+      "icone": "sparkles",
+      "descricao_curta": "Rola +2 dados para encontrar Pokémon Shiny ou de cores raras; +1 rolagem extra ao atingir nível 10.",
+      "descricao_completa": "A obsessão por raridades e o conhecimento profundo do território se combinam em algo único. Colecionadores desenvolvem um sexto sentido para variações cromáticas, enquanto patrulheiros aprendem a ler os sinais da natureza e identificar onde criaturas incomuns habitam. Essa dedicação transforma cada expedição em oportunidade de encontrar o extraordinário. Com essa percepção ampliada, é possível <b>rolar +2 dados</b> para encontrar Pokémon <b>Shiny ou de cores alternativas</b>. Ao alcançar o <b>nível 10 de Treinador</b>, ganha <b>+1 rolagem extra</b>, tornando encontros raros ainda mais frequentes."
+    },
+    {
+      "id": "paleontologia_basica",
+      "nome": "Paleontologia Básica",
+      "icone": "dinosaur-bones",
+      "descricao_curta": "Permite restaurar fósseis sem perda, com chance de Hidden Ability e +2 rolagens para Shiny.",
+      "descricao_completa": "Com dedicação às eras antigas e cuidado no manuseio de fósseis, estudiosos e colecionadores desenvolvem técnicas precisas para restaurar vestígios do passado sem risco de perda. Analisar rachaduras, densidade mineral e pontos de reanimação se torna parte natural do processo. Essa perícia garante que <b>fósseis nunca sejam perdidos</b>, mesmo em tentativas falhas, além de permitir <b>verificar Hidden Abilities</b> durante a restauração. O renascimento também se torna mais especial: ao gerar o Pokémon, é possível <b>rolar +2 dados adicionais</b> para determinar se ele nascerá Shiny."
+    },
+    {
+      "id": "visao_oculta",
+      "nome": "Visão Oculta",
+      "icone": "all-seeing-eye",
+      "descricao_curta": "Permite encontrar Pokémon com Hidden Ability, equilibrando as chances entre todas as habilidades possíveis.",
+      "descricao_completa": "Certas pessoas possuem percepção que vai além do que se vê. Médiuns e sábios desenvolvem sensibilidade espiritual, conseguindo perceber aura, ritmo e intenção nas criaturas ao redor. Essa conexão profunda permite identificar potenciais escondidos que outros não conseguiriam notar. Com essa perícia, encontros podem revelar Pokémon com <b>Hidden Ability</b>, e o sorteio da habilidade passa a ser <b>igualmente distribuído</b> entre todas as opções disponíveis, garantindo chances equilibradas, como <b>50/50</b> no caso de duas habilidades, ou <b>33/33/33</b> quando houver três."
+    },
+    {
+      "id": "botanico",
+      "nome": "Botânico",
+      "icone": "spiky-field",
+      "descricao_curta": "Duplica a quantidade de itens naturais obtidos em coletas.",
+      "descricao_completa": "O conhecimento sobre plantas e biomas faz toda diferença no campo. Agricultores e exploradores sabem reconhecer maturação, pontos de coleta e espécies que crescem melhor em determinados ambientes. Aprendem a colher sem danificar e a identificar regiões onde a natureza é mais generosa. Com essa técnica, sempre que realiza uma <b>Coleta de Itens no Mapa</b>, o personagem recebe <b>o dobro da quantidade</b> de itens naturais obtidos, como <b>Berries, Apricorns</b> e outros materiais vegetais, excluindo minerais, itens urbanos e produtos processados."
+    },
+    {
+      "id": "capturador",
+      "nome": "Capturador",
+      "icone": "pokeball",
+      "descricao_curta": "Aumenta em 20% a chance de capturar Pokémon.",
+      "descricao_completa": "Conviver com diferentes espécies ensina a ler sinais de tensão, curiosidade e hesitação. Especialistas em capturas observam postura, distância ideal e ritmo respiratório do Pokémon antes de agir. Com isso, conseguem criar o momento certo para lançar a Pokébola, nem cedo demais, nem tarde demais. Essa experiência resulta em maior precisão e eficiência, concedendo <b>+20% de chance de captura</b> em qualquer tentativa, seja em campo aberto, áreas selvagens ou encontros especiais."
+    }
+  ]
+}
