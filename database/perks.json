@@ -15,6 +15,13 @@
       "descricao_completa": "Com visão estratégica e eficiência exemplar, o Treinador domina a arte de transformar esforço em lucro. Em cada tarefa, ele encontra formas de otimizar resultados e maximizar recursos. Essa perícia garante <b>+60% de ganhos monetários</b> em postagens de emprego, e <b>aumenta em +2 o ganho de fama</b> em cada uma delas, ampliando a renda, o prestígio e o potencial financeiro durante suas jornadas."
     },
     {
+      "id": "gestao_de_producao",
+      "nome": "Gestão de Produção",
+      "icone": "farmer",
+      "descricao_curta": "Permite gerenciar um Pokémon produtor adicional por nível de Treinador.",
+      "descricao_completa": "Organizado e meticuloso, o Treinador sabe administrar tempo, espaço e recursos com precisão. Sua habilidade de planejamento aprimora o rendimento dos Pokémon produtores sob seu cuidado. Para cada <b>nível do personagem</b>, é permitido <b>ter um Pokémon produtor adicional</b>, aumentando a eficiência e a escala de produção nas atividades agrícolas e artesanais."
+    },
+    {
       "id": "busca_dupla",
       "nome": "Busca Dupla",
       "icone": "walking-scout",
@@ -34,13 +41,20 @@
       "icone": "money-stack",
       "descricao_curta": "Recebe $1.000 mensais +$600 por Nível de Treinador (máx. $16.000).",
       "descricao_completa": "Com um faro impecável para negócios e investimentos, o Treinador transforma cada oportunidade em lucro. Sua renda mensal cresce de forma proporcional à sua experiência, refletindo sua ascensão econômica. Recebe <b>$1.000 fixos</b> mais <b>$600 adicionais por Nível de Treinador</b>, podendo alcançar até <b>$16.000 mensais</b> no ápice de sua carreira."
+    },
+    {
+      "id": "competitivo",
+      "nome": "Competitivo",
+      "icone": "swords-emblem",
+      "descricao_curta": "Reduz o cooldown para encontrar treinadores em -1 postagem.",
+      "descricao_completa": "O Treinador é movido pelo espírito de competição e pelo desejo constante de batalhar. Sempre à procura de desafios, ele aprendeu a otimizar seus encontros com outros treinadores. Com esta perícia, o <b>tempo entre a busca por adversários é reduzido em 1 postagem</b>, acelerando suas oportunidades de combate e aprendizado."
     }
   ],
   "treinamento": [
     {
       "id": "domador",
       "nome": "Domador",
-      "icone": "마스터ball",
+      "icone": "master-ball",
       "descricao_curta": "Ganha de 15 até 35% de XP e chance de captura bônus ao usar Pokémon de um tipo ou categoria específica.",
       "descricao_completa": "Dedicação a um tipo, categoria ou coloração específica de Pokémon cria afinidade e maestria que outros treinadores dificilmente alcançam. Observando padrões de comportamento, ataques e habilidades, aprende a explorar cada força e fraqueza com precisão. Essa experiência concede <b>+15% de experiência</b> e <b>+15% de chance de captura</b> ao usar Pokémon dentro da especialidade escolhida. A cada nível de Treinador, o bônus aumenta em <b>+2%</b>, atingindo até <b>35%</b>, tornando o cuidado com cada parceiro ainda mais recompensador."
     },
@@ -72,81 +86,179 @@
       "nome": "Análise Tática",
       "icone": "target-arrows",
       "descricao_curta": "Uma vez por batalha ou narração, declara um tipo como 'super efetivo' adicional, ignorando resistências do oponente.",
-      "descricao_completa": "Observação apurada e raciocínio rápido são marcas de estrategistas habilidosos. Ao estudar padrões de combate e identificar vulnerabilidades sutis, conseguem agir com precisão e converter conhecimento em vantagem real. Uma vez por batalha ou narração, esse talento permite declarar um tipo como <b>super efetivo adicional</b> durante um turno, fazendo o oponente receber dano como se fosse vulnerável àquele elemento, <b>mesmo que resista ou seja imune</b>."
+      "descricao_completa": "Observar, estudar e antecipar: essa é a essência de quem busca dominar a arte do combate. Treinadores experientes e duelistas reconhecem padrões onde outros veem apenas caos, identificando fraquezas sutis e ajustando estratégias em tempo real. Com essa percepção refinada, o Treinador consegue explorar vulnerabilidades inesperadas, podendo declarar uma vez por batalha ou narração um tipo como <b>super efetivo adicional</b>, ignorando resistências do oponente e transformando o turno em vantagem decisiva."
     },
     {
-      "id": "bloqueio_sincronizado",
-      "nome": "Bloqueio Sincronizado",
-      "icone": "broken-shield",
-      "descricao_curta": "Anula status negativos aplicados pelo oponente refletindo-os de volta uma vez por batalha ou narração.",
-      "descricao_completa": "Reação precisa e controle de campo são essenciais para quem entende defesa. Líderes de Ginásio e Táticos sabem responder a ameaças no instante em que surgem, devolvendo condições adversas sem permitir que o ataque atinja seu alvo. Uma vez por batalha ou narração, ao ser atingido por um movimento que aplica <b>status negativo</b>, como Queimadura, Paralisia, Envenenamento, Sono ou Congelamento, esse efeito é <b>anulado</b> e <b>refletido de volta ao atacante</b>."
+      "id": "estrela_da_sorte",
+      "nome": "Estrela da Sorte",
+      "icone": "clover",
+      "descricao_curta": "Permite uma rolagem adicional em concursos ou refazer uma rolagem de movimento em batalha.",
+      "descricao_completa": "Há quem diga que sorte é estar preparado quando a oportunidade surge. Ídolos aprendem a brilhar nos momentos certos, enquanto mentores ensinam a reconhecer e aproveitar essas janelas cruciais. O Treinador desenvolve essa sintonia com o momento, fazendo com que o acaso pareça conspirar a seu favor. Essa perícia permite realizar <b>uma rolagem adicional</b> em concursos e <b>refazer uma rolagem de movimento</b> durante batalhas, aumentando a probabilidade de sucesso quando mais importa."
     },
     {
-      "id": "posicionamento_ideal",
-      "nome": "Posicionamento Ideal",
+      "id": "instinto_apurado",
+      "nome": "Instinto Apurado",
+      "icone": "quick-slash",
+      "descricao_curta": "Anula prioridade de movimentos ofensivos e ignora efeitos que impeçam trocas.",
+      "descricao_completa": "Há quem lute com os olhos, há quem lute com o corpo todo. Artistas marciais treinam até que cada reflexo se torne automático, enquanto patrulheiros aprendem a ler intenções pela menor mudança no ambiente. O Treinador funde ambas as disciplinas em uma consciência de batalha que transcende o pensamento racional. Essa conexão profunda com o fluxo da batalha permite <b>anular a prioridade</b> de movimentos ofensivos adversários e <b>ignorar efeitos que impeçam trocas</b>, garantindo flexibilidade e vantagem estratégica mesmo diante das situações mais imprevisíveis."
+    },
+    {
+      "id": "motivacao",
+      "nome": "Motivação",
+      "icone": "trophy-cup",
+      "descricao_curta": "Pode curar uma condição de status ou aumentar a precisão do próximo movimento em 15%.",
+      "descricao_completa": "Palavras no momento certo, um gesto de confiança, a energia que inspira superação: mentores e ídolos sabem que o vínculo emocional é tão decisivo quanto qualquer técnica. O Treinador carrega essa habilidade de elevar o moral e despertar o melhor de seus parceiros, mesmo sob pressão. A perícia permite <b>curar uma condição de status</b> ou <b>aumentar a precisão</b> do próximo movimento em <b>15%</b>, fortalecendo a conexão entre Treinador e Pokémon."
+    },
+    {
+      "id": "overload_tatico",
+      "nome": "Overload Tático",
+      "icone": "electric",
+      "descricao_curta": "Desativa Light Screen, Reflect e terrenos durante batalhas.",
+      "descricao_completa": "Sistemas, campos de energia, barreiras artificiais: tudo isso segue lógica e pode ser manipulado com o conhecimento certo. Engenheiros e programadores enxergam o ambiente como uma rede interconectada, e o Treinador aplica esse raciocínio ao campo de batalha. Com intervenção precisa, pode <b>desativar Light Screen, Reflect e campos como Electric ou Grassy Terrain</b> durante batalhas, alterando o ritmo da disputa e abrindo novas oportunidades para seus Pokémon."
+    },
+    {
+      "id": "hipnose",
+      "nome": "Hipnóse",
+      "icone": "spiral-thrust",
+      "descricao_curta": "Paralisa um oponente ignorando imunidades, uma vez por batalha.",
+      "descricao_completa": "A mente pode ser uma prisão mais eficaz que qualquer corrente. Ilusionistas dominam a arte de invadir a percepção alheia, enquanto trapaceiros sabem exatamente quando explorar um momento de hesitação. O Treinador aprende a induzir confusão mental no adversário, criando um estado de desorientação que trava os reflexos e impede reações coordenadas. <b>Uma vez por batalha</b>, pode <b>causar Paralisia em um Pokémon adversário</b>, ignorando imunidades naturais, incluindo tipos Elétrico ou Ground, criando brechas estratégicas que mudam o curso do combate."
+    },
+    {
+      "id": "sorrateiro",
+      "nome": "Sorrateiro",
+      "icone": "hidden",
+      "descricao_curta": "Ignora habilidades do adversário e aumenta o Power de um movimento em +20.",
+      "descricao_completa": "Paciência, observação, e o golpe certeiro no momento de descuido: essa é a marca de quem domina a arte da dissimulação. Trapaceiros agem nas sombras, enquanto duelistas estudam cada detalhe para encontrar a brecha perfeita. O Treinador incorpora essa astúcia, podendo <b>ignorar habilidades do oponente</b> (exceto Wonder Guard) e <b>aumentar o Power de um movimento em +20</b>, garantindo ataques precisos e decisivos no momento certo."
+    },
+    {
+      "id": "reposicionamento",
+      "nome": "Reposicionamento",
       "icone": "move",
-      "descricao_curta": "Garante iniciativa máxima ao trocar de Pokémon, permitindo agir antes de qualquer outro participante.",
-      "descricao_completa": "Trocas no momento certo salvam batalhas. Táticos e Delinquentes dominam o campo ajustando time conforme a situação. Timing e conhecimento do adversário transformam trocas em vantagem estratégica. Com essa perícia, <b>toda troca de Pokémon garante iniciativa máxima</b>, permitindo que o Pokémon substituto <b>aja antes de qualquer outro</b> no turno em que entrar."
+      "descricao_curta": "Permite trocar de Pokémon sem consumir o turno.",
+      "descricao_completa": "Velocidade e fluidez definem quem controla o ritmo da batalha. Acrobatas dominam a arte do movimento sem desperdício, enquanto duelistas sabem que cada fração de segundo pode decidir vitória ou derrota. O Treinador incorpora essa filosofia de mobilidade constante, permitindo ajustes táticos instantâneos sem perder momentum. Essa perícia permite <b>trocar de Pokémon sem consumir o turno</b>, mantendo a pressão sobre o adversário e ajustando a posição ideal para o próximo ataque ou defesa."
     },
     {
-      "id": "treino_tactico",
-      "nome": "Treino Táctico",
-      "icone": "book-pile",
-      "descricao_curta": "Garante que Pokémon treinados aprendam sempre o melhor movimento disponível ao subir de nível.",
-      "descricao_completa": "Planejamento e disciplina na evolução fazem a diferença. Mentores e Táticos enxergam padrões nos ataques, selecionando aqueles que mais se encaixam no potencial do Pokémon. Cada movimento aprendido reflete estratégia, não sorte. Com essa perícia, <b>ao subir de nível</b>, Pokémon sempre aprendem <b>o melhor movimento disponível</b> da tabela de level-up, escolhido pelo jogador."
+      "id": "tatica_de_redirecionamento",
+      "nome": "Tática de Redirecionamento",
+      "icone": "arrow-scope",
+      "descricao_curta": "Pode redirecionar movimentos inimigos entre os Pokémon aliados em batalhas duplas.",
+      "descricao_completa": "Batalhas duplas exigem mais que estratégia individual: exigem harmonia coletiva. Mentores ensinam seus parceiros a trabalharem como extensões uns dos outros, enquanto coordenadores dominam a arte de criar coreografias perfeitas entre múltiplos aliados. O Treinador desenvolve essa maestria tática, antecipando movimentos inimigos e ajustando posições em tempo real. <b>Uma vez por batalha</b>, pode <b>redirecionar um movimento inimigo</b> entre os Pokémon aliados, exceto se o ataque tiver como alvo exclusivo o próprio usuário, transformando o posicionamento em vantagem estratégica."
+    },
+    {
+      "id": "acupressao",
+      "nome": "Acupressão",
+      "icone": "healing",
+      "descricao_curta": "Remove todos os status negativos de um Pokémon aliado.",
+      "descricao_completa": "Cuidar é conhecer. Quem dedica tempo ao bem-estar dos Pokémon aprende sobre pontos vitais, fluxos de energia e como restaurar equilíbrio em momentos críticos. Cuidadores e mentores entendem que a saúde vai além do HP: é remover o que impede o parceiro de lutar. Essa perícia permite <b>remover todas as condições de status negativas</b>, como Envenenamento, Queimadura, Paralisia ou Sono, restaurando vigor e equilíbrio durante a batalha."
+    },
+    {
+      "id": "manipulacao_de_campo",
+      "nome": "Manipulação de Campo",
+      "icone": "weather-control",
+      "descricao_curta": "Permite ativar condições climáticas, campos ou barreiras pelos Pokémon sem gastar o turno.",
+      "descricao_completa": "O ambiente é parte da estratégia. Engenheiros entendem como alterar sistemas, enquanto treinadores veteranos aprendem a moldar o campo a seu favor sem perder tempo. Essa maestria permite coordenar condições climáticas e barreiras como se fossem peças de um tabuleiro vivo. A perícia permite <b>ativar condições climáticas</b>, como Sol, Chuva, Tempestade de Areia ou Nevasca, ou <b>criar campos e barreiras</b>, como Campo Graminoso, Tela de Luz ou Refletor, <b>sem consumir o turno de ação</b>, alterando a dinâmica do combate."
+    },
+    {
+      "id": "leitura_de_campo",
+      "nome": "Leitura de Campo",
+      "icone": "eagle-emblem",
+      "descricao_curta": "Impede que o oponente repita o último movimento usado por 2 turnos.",
+      "descricao_completa": "Cada movimento conta uma história. Professores ensinam que compreender padrões é a chave para antecipar resultados, enquanto duelistas aprendem que repetição é vulnerabilidade. O Treinador desenvolve a capacidade de catalogar mentalmente cada ação do adversário, identificando ciclos e bloqueando opções antes que se tornem ameaça. <b>Uma vez por batalha</b>, após um Pokémon adversário usar um movimento, impede que o mesmo seja reutilizado pelos próximos <b>2 turnos</b>, garantindo vantagem tática e domínio do fluxo de batalha."
+    },
+    {
+      "id": "forca_final",
+      "nome": "Força Final",
+      "icone": "powerful-auto-repair",
+      "descricao_curta": "Concede +1 de Velocidade e +1 de Atk/Sp.Atk a um aliado com HP abaixo de 25%.",
+      "descricao_completa": "O desespero pode quebrar ou fortalecer. Mentores ensinam que a verdadeira força emerge quando tudo parece perdido, e veteranos já viram vitórias arrancadas do limite. O Treinador canaliza essa resiliência, despertando no parceiro ferido uma explosão de determinação. <b>Uma vez por batalha</b>, quando um aliado tiver <b>HP abaixo de 25%</b>, concede <b>+1 de Velocidade</b> e <b>+1 em seu maior atributo ofensivo</b> (Atk ou Sp.Atk), oferecendo uma chance de virar o rumo da batalha."
+    },
+    {
+      "id": "olho_do_falcao",
+      "nome": "Olho do Falcão",
+      "icone": "targeting",
+      "descricao_curta": "Garante que o próximo movimento do Pokémon seja um Acerto Crítico.",
+      "descricao_completa": "Precisão nasce de concentração absoluta. Duelistas treinam para enxergar pontos vitais em milissegundos, e treinadores experientes aprendem a guiar seus parceiros até o alvo exato. Essa percepção aguçada transforma um ataque comum em golpe definitivo. <b>Uma vez por batalha</b>, garante que o próximo movimento ofensivo do Pokémon <b>acerte como Acerto Crítico</b>, aumentando a eficácia de golpes decisivos."
+    },
+    {
+      "id": "quebra_clima",
+      "nome": "Quebra-Clima",
+      "icone": "wind-slap",
+      "descricao_curta": "Cancela os efeitos de qualquer condição climática por 3 turnos.",
+      "descricao_completa": "Clima não é destino: é variável controlável. Engenheiros entendem sistemas naturais como mecanismos ajustáveis, e duelistas aprendem a negar vantagens ambientais ao adversário. O Treinador aplica esse conhecimento para neutralizar condições que favorecem o oponente, podendo <b>cancelar qualquer efeito climático</b> ativo, Sol, Chuva, Tempestade de Areia ou Nevasca, por <b>3 turnos</b>, nivelando o campo e permitindo novas estratégias sem interferência do clima."
+    },
+    {
+      "id": "sabotagem",
+      "nome": "Sabotagem",
+      "icone": "broken-shield",
+      "descricao_curta": "Desabilita o item segurado pelo Pokémon oponente, tornando-o inutilizável.",
+      "descricao_completa": "Um item no momento certo pode virar a batalha. Trapaceiros sabem disso melhor que ninguém e sabem como tirá-lo de jogo. Duelistas refinam essa tática, tornando-a quase imperceptível até ser tarde demais para o adversário reagir. Com timing preciso, o Treinador pode <b>desabilitar o item segurado</b> por um Pokémon adversário <b>uma vez por batalha</b>, tornando-o inutilizável e impedindo que o oponente utilize recursos que poderiam mudar o rumo do combate."
     }
   ],
   "producao": [
     {
-      "id": "mao_cheia",
-      "nome": "Mão Cheia",
-      "icone": "hand-ok",
-      "descricao_curta": "Permite segurar até 3 itens segurados simultaneamente e usar 2 itens consumíveis por turno.",
-      "descricao_completa": "Preparação é tão importante quanto habilidade. Agricultores, Exploradores e Produtores carregam recursos sempre à mão, antecipando necessidades com eficiência. Essa perícia permite segurar <b>até 3 itens segurados simultaneamente</b> (como Leftovers, Eviolite ou Sitrus Berry) e <b>usar até 2 itens consumíveis por turno</b> em batalha (exceto Revives), tornando o combate mais estratégico e bem equipado."
+      "id": "culinaria_basica",
+      "nome": "Culinária Básica",
+      "icone": "cooking-pot",
+      "descricao_curta": "Permite criar refeições de melhor qualidade e acessar receitas exclusivas conforme o sistema de culinária.",
+      "descricao_completa": "Com prática e atenção aos detalhes, o Treinador aprende a trabalhar ingredientes de forma equilibrada, buscando sabor, energia e nutrição. Muitos Criadores e gastrônomos seguem esse mesmo caminho: testar, ajustar e aproveitar ao máximo cada fruto ou tempero. Esse cuidado faz com que a perícia <b>aumente as chances de sucesso</b> ao cozinhar, permita preparar <b>refeições de maior qualidade</b> e dê acesso a <b>receitas exclusivas</b> dentro do sistema de culinária."
     },
     {
-      "id": "farmaceutico",
-      "nome": "Farmacêutico",
-      "icone": "potion-ball",
-      "descricao_curta": "Aumenta a eficácia de itens curativos em 50% e duplica o efeito de aumentos de status.",
-      "descricao_completa": "Conhecimento químico e botânico transforma recursos básicos em ferramentas poderosas. Produtores e Agricultores aprendem a extrair o máximo de cada ingrediente, preparando fórmulas mais concentradas e eficientes. Com essa perícia, itens curativos como <b>Potions, Super Potions, Hyper Potions e Full Restores</b> têm sua eficácia <b>aumentada em 50%</b>. Além disso, itens que concedem bônus temporários aos status — como <b>X Attack, X Defense, X Speed</b> e similares — passam a conceder <b>o dobro do aumento</b>, fortalecendo estratégias de suporte."
-    },
-    {
-      "id": "produtor_nato",
-      "nome": "Produtor Nato",
+      "id": "plantio_aprimorado",
+      "nome": "Plantio Aprimorado",
       "icone": "wheat",
-      "descricao_curta": "Duplica a produção de itens de Pokémon produtores, sem alterar o tempo de cooldown.",
-      "descricao_completa": "Cuidado e técnica rendem sempre mais. Agricultores e Produtores compreendem cada etapa do cultivo e produção, seja ajustando clima, nutrientes ou ritmo do Pokémon. Esse conhecimento garante maior eficiência sem comprometer tempo ou desgaste. Com essa perícia, <b>Pokémon produtores</b> entregam <b>o dobro de itens</b> a cada ciclo completo, <b>sem alterar o tempo necessário</b> entre coletas."
+      "descricao_curta": "Reduz o tempo de colheita em 30% e concede +2 insumos por muda colhida.",
+      "descricao_completa": "Treinadores que convivem com a terra aprendem a reconhecer o momento certo de regar, colher e reorganizar o cultivo. Inspirados por agricultores, desenvolvem ritmo e técnica para manter cada muda saudável do início ao fim do ciclo. Com essa experiência, a perícia <b>reduz em 30%</b> o tempo de colheita e <b>acrescenta +2 insumos</b> por muda, tornando a produção mais rápida e consistente."
     },
     {
-      "id": "explorador_de_ruinas",
-      "nome": "Explorador de Ruínas",
-      "icone": "mine-wagon",
-      "descricao_curta": "Rola +1 dado em expedições a ruínas e dungeons, e garante +1 item extra ao final.",
-      "descricao_completa": "Antigas construções escondem segredos. Arqueólogos, Exploradores e Pesquisadores conhecem armadilhas, estruturas frágeis e compartimentos ocultos. Experiência e intuição transformam expedições em descobertas. Essa perícia garante <b>+1 rolagem adicional</b> em eventos de <b>Ruínas e Dungeons</b>, além de conceder <b>+1 item extra</b> ao final de cada exploração, aumentando as chances de recompensas valiosas."
+      "id": "farmaceutica_basica",
+      "nome": "Farmacêutica Básica",
+      "icone": "potion-ball",
+      "descricao_curta": "Permite criar poções, impulsionadores e vitaminas a partir de berries.",
+      "descricao_completa": "Ao estudar as propriedades naturais das berries, o Treinador descobre como moer, misturar e extrair seus efeitos de forma segura. Pesquisadores e curandeiros seguem esse mesmo princípio: entender a base antes de criar algo mais complexo. Essa dedicação permite <b>produzir poções e impulsionadores</b>, além de <b>fabricar vitaminas</b> e compostos especiais a partir de berries, seguindo o sistema de farmacêutica."
+    },
+    {
+      "id": "mestre_incubador",
+      "nome": "Mestre Incubador",
+      "icone": "egg-pod",
+      "descricao_curta": "Reduz em 33% o tempo de eclosão de ovos e concede uma Super Incubadora com funções avançadas.",
+      "descricao_completa": "Treinadores acostumados com cuidados iniciais aprendem a ajustar temperatura, energia e proteção necessárias para ovos Pokémon. Criadores e cuidadores reconhecem sinais discretos de desenvolvimento e sabem quando intervir. Com esse conhecimento, a perícia <b>reduz em 33%</b> o tempo de eclosão</b> e concede uma <b>Super Incubadora</b> capaz de usar gemas para <b>influenciar características genéticas</b>, gerando filhotes mais fortes e estáveis."
+    },
+    {
+      "id": "terapia_produtiva",
+      "nome": "Terapia Produtiva",
+      "icone": "spa",
+      "descricao_curta": "Aumenta felicidade em +20 e dobra a próxima colheita após cuidados; pode alterar o corte de Furfrou.",
+      "descricao_completa": "Com uma rotina baseada em bem-estar, o Treinador aprende técnicas simples, mas eficazes, de relaxamento e limpeza. Banho, escovação, tosa leve ou massagem ajudam a aliviar tensão e melhorar o humor, práticas conhecidas entre cuidadores e esteticistas Pokémon. Cada sessão faz com que o Pokémon tratado <b>ganhe +20 de felicidade</b> e <b>produza o dobro</b> na próxima colheita. A habilidade pode ser usada <b>uma vez por semana</b> e também permite <b>alterar o corte de um Furfrou</b> com precisão."
+    },
+    {
+      "id": "pastoril",
+      "nome": "Pastoril",
+      "icone": "shepherd-crook",
+      "descricao_curta": "Pokémon produtores ganham +5 de felicidade por colheita e aumentam em 25% o valor de venda dos insumos.",
+      "descricao_completa": "Quem convive diariamente com Pokémon produtores aprende a ler sinais de conforto, humor e ritmo natural de cada espécie. Rancheiros e criadores sabem que produtividade nasce de vínculo e rotina bem cuidada. Essa abordagem garante que, a cada colheita, os Pokémon <b>ganhem +5 de felicidade</b>, enquanto o valor de venda dos insumos é <b>aumentado em 25%</b>, tornando o trabalho mais lucrativo e estável."
+    },
+    {
+      "id": "gravacao_de_discos",
+      "nome": "Gravação de Discos",
+      "icone": "cd",
+      "descricao_curta": "Permite criar TMs de movimentos que seus Pokémon conhecem, conforme o sistema de criação de TMs.",
+      "descricao_completa": "Treinadores que trabalham com tecnologia aplicada ao combate aprendem a captar os padrões de energia de um movimento e convertê-los em dados estáveis. Programadores e engenheiros seguem a mesma lógica: analisar o sinal, tratar as informações e renderizar tudo em um formato seguro. Com esse domínio, o Treinador consegue <b>codificar e gravar TMs</b> a partir dos movimentos que seus Pokémon já conhecem, seguindo o sistema de criação de discos e ampliando as possibilidades de treinamento."
+    },
+    {
+      "id": "artesanato_basico",
+      "nome": "Artesanato Básico",
+      "icone": "anvil",
+      "descricao_curta": "Permite criar Pokébolas artesanais e outros itens pelo sistema de artesanato.",
+      "descricao_completa": "Com habilidade manual e criatividade, o Treinador aprende a moldar materiais simples em ferramentas úteis para a jornada. Artesãos e engenheiros trabalham assim: observando a necessidade e adaptando o que têm à disposição. Com essa perícia, é possível <b>produzir Pokébolas artesanais</b> e outros itens conforme o sistema de artesanato, aproveitando melhor os recursos coletados no dia a dia."
     }
   ],
   "carisma": [
     {
-      "id": "influencia_inata",
-      "nome": "Influência Inata",
-      "icone": "star-swirl",
-      "descricao_curta": "Ganha +40% de XP de Fama em qualquer atividade que conceda Fama.",
-      "descricao_completa": "Presença marcante e carisma espontâneo fazem com que algumas pessoas sejam naturalmente notadas. Cada ação chama atenção, cada vitória vira conversa. Esse talento reflete a capacidade de transformar feitos comuns em momentos memoráveis. Com essa perícia, todas as atividades que concedem Fama passam a gerar <b>+40% de XP de Fama adicional</b>, ampliando rapidamente o reconhecimento público e o prestígio."
-    },
-    {
-      "id": "midia_digital",
-      "nome": "Mídia Digital",
-      "icone": "video-camera",
-      "descricao_curta": "Concede +5 de Fama ao narrar atividades e +3 ao incluir imagens ou vídeos na postagem.",
-      "descricao_completa": "Redes sociais, blogs e vídeos espalham influência além do alcance físico. Influencers e Coordenadores usam conteúdo visual e narrativas envolventes para conquistar seguidores. Qualidade e frequência transformam postagens em engajamento. Com essa perícia, <b>narrar eventos ou atividades</b> concede <b>+5 pontos de Fama</b>, e <b>incluir imagens ou vídeos</b> adiciona <b>+3 pontos extras</b>, premiando criatividade e esforço narrativo."
-    },
-    {
-      "id": "coordenador_competitivo",
-      "nome": "Coordenador Competitivo",
-      "icone": "juggler",
-      "descricao_curta": "Ganha +30% de chance de acerto em combos de movimentos durante concursos.",
-      "descricao_completa": "Coreografia, sincronização e percepção de público separam amadores de campeões. Coordenadores experientes sabem montar sequências fluidas, onde cada movimento prepara o próximo com perfeição. Essa técnica aumenta em <b>+30%</b> a chance de acerto em <b>combos de movimentos</b> durante <b>concursos e apresentações</b>, elevando a qualidade das performances e impressionando tanto jurados quanto espectadores."
+      "id": "colecionador",
+      "nome": "Colecionador",
+      "icone": "card-pickup",
+      "descricao_curta": "Reduz em 50% o custo para expandir slots na Storage e garante 30% de desconto em Pokébolas.",
+      "descricao_completa": "A paixão por “pegar todos” exige organização e estratégia. Colecionadores costumam desenvolver métodos eficientes para armazenar seus Pokémon, equilibrando espaço, custo e planejamento. Com essa mentalidade prática, fica mais fácil ampliar a própria estrutura sem pesar no bolso. A perícia <b>reduz em 50%</b> o preço para <b>expandir os slots da Storage</b> e garante <b>30% de desconto</b> na compra de Pokébolas, tornando a expansão da coleção mais acessível desde o início da jornada."
     },
     {
       "id": "mestre_do_estilo",
