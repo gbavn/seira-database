@@ -891,5 +891,369 @@
     "interaction_objects": [],
     "accesses": {},
     "special_location": false
+  },
+  {
+    "id": "AZR",
+    "type": "city",
+    "name": "Azurecrest",
+    "biome": "Litorâneo",
+    "description": "Brilhante, exuberante e eternamente desperta, Azurecrest ergue-se ao longo da costa como o maior símbolo de fama, ambição e imaginação de Seira. Inspirada pelo brilho urbano de grandes metrópoles litorâneas, a cidade é composta por avenidas largas iluminadas por letreiros holográficos, arranha-céus espelhados, estúdios de produção, passarelas a céu aberto e cassinos luxuosos que nunca fecham as portas. O mar reflete as luzes da cidade durante a noite, criando um espetáculo visual contínuo onde moda, entretenimento e ostentação se misturam. Azurecrest é conhecida como a “cidade dos sonhos” porque ali tudo parece possível, sucesso, reconhecimento e reinvenção caminham lado a lado com o som constante de aplausos, música e apostas altas.\n\nPor trás do glamour e da vida noturna intensa, Azurecrest abriga uma poderosa essência psíquica que permeia sua cultura e seu ginásio. Artistas, estilistas, performers e visionários são atraídos não apenas pela fama, mas pela energia criativa imprevisível que pulsa na cidade, capaz de transformar ideias em realidade concreta. Cassinos e teatros coexistem com centros de criação, galerias experimentais e academias mentais, onde o foco, a imaginação e a força da mente são lapidados. Apesar do ritmo acelerado e da aparência extravagante, Azurecrest também carrega um lado instável: sonhos podem florescer rapidamente, mas também se desfazer com a mesma velocidade. Ainda assim, é exatamente essa dualidade entre brilho e pressão, fantasia e verdade que torna Azurecrest o coração psíquico e aspiracional de Seira.",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "MTL",
+    "type": "city",
+    "name": "Mistralia",
+    "biome": "Montanhoso",
+    "description": "Antiga, solene e envolta por mistério, Mistralia é reconhecida como a cidade mais antiga de toda Seira e o berço do conhecimento dracônico da região. Erguida entre montanhas escarpadas constantemente cobertas por névoa e florestas densas de coníferas, a cidade parece emergir de uma lenda viva. Torres góticas, muralhas de pedra negra e castelos imponentes inspirados em fortalezas ancestrais, dominam o horizonte, testemunhando eras em que dragões sobrevoavam os céus e domadores lendários moldavam o destino do território. O clima frio e a luz difusa reforçam a atmosfera austera, enquanto sinos antigos e o bater do vento contra as ameias ecoam pelas ruas estreitas de pedra.\n\nApesar de sua aparência severa e quase intimidadora, Mistralia exala uma elegância atemporal baseada na disciplina, no estudo e na força controlada. A cidade é lar de academias dracônicas, bibliotecas milenares, ordens de treinadores e estudiosos que dedicam suas vidas a compreender o poder ancestral dos Pokémon Dragão. Tradições rigorosas convivem com rituais de passagem, batalhas cerimoniais e festivais históricos que celebram feitos do passado. Em Mistralia, poder não é ostentação, mas legado e cada treinador que pisa em suas ruas sabe que ali, força e sabedoria caminham juntas sob a sombra majestosa das montanhas.",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "R01",
+    "type": "route",
+    "name": "Rota 01",
+    "biome": "Lacustre",
+    "description": "A Rota 01 se estende como um caminho sereno entre espelhos d’água e campos alagados, conectando os ventos abertos de Verta à calmaria lacustre de Veldhavn. O trajeto é formado por trilhas de terra firme intercaladas com passagens de madeira, pequenas pontes arqueadas e margens cobertas por juncos e flores aquáticas. A água cristalina reflete o céu quase o tempo todo, criando a sensação de que o viajante caminha sobre a própria paisagem. \n\nO ar é fresco e úmido, carregado pelo som suave de remos, pelo coaxar distante de Pokémon aquáticos e pelo balanço lento da vegetação que acompanha as correntes tranquilas dos lagos. Treinadores, pescadores locais e pesquisadores percorrem a rota com calma, usando píeres naturais e áreas de descanso à beira-d’água para observar, estudar ou simplesmente apreciar o ambiente.",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "R02",
+    "type": "route",
+    "name": "Rota 02",
+    "biome": "",
+    "description": "A Rota 02 se estende por um vasto pântano enevoado. O caminho é marcado por solo lamacento, águas rasas de coloração escura e passarelas de madeira envelhecida que serpenteiam entre juncos altos, raízes expostas e árvores retorcidas. A névoa baixa e constante limita a visibilidade e abafa os sons, criando uma atmosfera densa e silenciosa, onde cada passo exige atenção e cuidado.\n\nSua presença influencia toda a rota, atraindo pesquisadores e treinadores em busca de segredos esquecidos, enquanto mantém o pântano em equilíbrio instável. A Rota 02 funciona como um ponto de transição simbólico entre extremos de Seira, onde o avanço urbano e a liberdade costeira cedem espaço a um ambiente que impõe seu próprio ritmo e lembra que a natureza, ali, nunca está totalmente sob controle.",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "R03",
+    "type": "route",
+    "name": "Rota 03",
+    "biome": "",
+    "description": "A Rota 03 liga a energia criativa e ardente de Ardozart, a Oeste, ao núcleo tecnológico de Hyperia, ao Norte, atravessando uma paisagem em constante transformação. O caminho passa por áreas de asfalto antigo, galpões desativados, trilhos esquecidos e estruturas metálicas entremeadas por vegetação resistente, criando um cenário onde o passado industrial e o presente urbano coexistem. O ar ainda carrega o calor e os sons distantes da música de Ardozart, enquanto postes de energia e cabos elevados anunciam a proximidade da cidade central.\n\nAo longo da rota, viajantes, artistas e técnicos dividem o espaço, acompanhados por Pokémon adaptados tanto ao calor quanto aos campos elétricos emergentes. À medida que se avança, as luzes quentes dão lugar a tons frios e pulsantes, e o ambiente se torna mais organizado e acelerado, refletindo a influência crescente de Hyperia. A Rota 03 funciona como um elo simbólico entre criatividade e inovação, preparando o viajante para o ritmo intenso e tecnológico do coração de Seira.",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "ARD",
+    "type": "city",
+    "name": "Ardozart",
+    "biome": "",
+    "description": "Ardozart é uma metrópole vibrante que nunca dorme, localizada às margens do Rio Magma (um rio de águas termais que desce das montanhas de Hando em direção ao sul de Nassael). A cidade é um mosaico de letreiros de neon, arquitetura art déco e teatros imponentes. O ar é perenemente morno e carrega um leve aroma de madeira queimada e especiarias. É conhecida como o berço do \"Soul de Seira\", um gênero musical que utiliza o som de Pokémon de fogo e elétricos para criar harmonias únicas.",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "VRT",
+    "type": "city",
+    "name": "Verta",
+    "biome": "Litorâneo",
+    "description": "Erguida sobre colinas costeiras íngremes e plataformas suspensas que avançam sobre o mar, Verta é conhecida como “a cidade dos ventos” por viver em constante diálogo com as correntes marítimas e de altitude que moldam sua paisagem e seu cotidiano. Suas ruas amplas e curvas canalizam o vento de forma natural, enquanto varandas abertas, jardins suspensos e telhados inclinados revelam uma arquitetura pensada para conviver com o ar em movimento. O horizonte é marcado pela presença de moinhos tradicionais e turbinas eólicas modernas, símbolos de uma cidade que transforma o vento em fonte de energia, identidade e autossuficiência, mantendo um equilíbrio cuidadoso entre tradição e inovação sustentável.\n\nO ritmo de vida em Verta é guiado pelas brisas constantes: horários, festivais e atividades comerciais se ajustam às variações do vento, e a própria cultura local valoriza leveza, liberdade e contemplação. Pokémon voadores convivem harmonicamente com os moradores, auxiliando no transporte, na pesca e na comunicação, fazendo parte do cenário urbano como elementos naturais da cidade. Cafés panorâmicos, praças elevadas e centros de estudo sobre correntes aéreas reforçam o caráter contemplativo e funcional de Verta, que, apesar dos desafios impostos pelo vento incessante, se afirma como um símbolo de serenidade, movimento contínuo e profunda integração com a natureza.",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "SLV",
+    "type": "city",
+    "name": "Silvershore",
+    "biome": "",
+    "description": "aqui",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "CRG",
+    "type": "city",
+    "name": "Cragport",
+    "biome": "Litorâneo",
+    "description": "aqui",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "HBZ",
+    "type": "city",
+    "name": "Halzbury",
+    "biome": "",
+    "description": "aqui",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "R08",
+    "type": "route",
+    "name": "Rota 08",
+    "biome": "",
+    "description": "aqui",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "R09",
+    "type": "city",
+    "name": "Rota 09",
+    "biome": "",
+    "description": "",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "R10",
+    "type": "route",
+    "name": "Rota 10",
+    "biome": "",
+    "description": "",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
   }
 ]
