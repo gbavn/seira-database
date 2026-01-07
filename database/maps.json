@@ -843,8 +843,9 @@
     "type": "route",
     "name": "Rota 07",
     "biome": "Boreal",
-    "description": "Uma Rota na neve",
+    "description": "A Rota 07 serpenteia por uma floresta boreal silenciosa, onde os troncos altos e retos das coníferas se erguem como pilares de gelo entre bancos de neve espessa. O som mais comum é o do vento frio cortando entre os galhos e o estalar ocasional do gelo sob os pés. Pequenas poças e lagos congelados pontilham a paisagem, refletindo os tons azulados e alaranjados do céu, enquanto a luz tênue do sol de inverno brilha por entre os galhos como brasas silenciosas. Ao sul, a cidade de Frostdale se insinua como uma sombra adormecida entre as árvores. Ao norte, a trilha estreita começa a se elevar em direção ao colossal Monte Glacius, uma montanha de gelo perene cuja silhueta domina o horizonte como uma sentinela ancestral.\n\nA Rota 07 é mais silenciosa do que solitária — há uma presença constante, mas nunca invasiva. Treinadores experientes cruzam essa rota com passos cuidadosos, alertas ao terreno escorregadio e às armadilhas naturais escondidas sob a neve. A floresta, embora bela, exige respeito: árvores tortas pelos ventos do norte, riachos semicongelados e a constante sensação de estar sendo observado são parte do caminho. Placas de madeira cobertas de neve indicam passagens seguras, deixadas por guardas de Frostdale ou viajantes solidários. Ao cair da noite, a temperatura despenca, tornando a travessia perigosa para quem não estiver preparado.",
     "map_image": "",
+    "forum_link": "",
     "coordinates": {
       "x": 90.99,
       "y": 43.51
@@ -857,9 +858,21 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
-      "epic": []
+      "common": [
+        220,
+        459,
+        585
+      ],
+      "rare": [
+        361,
+        363,
+        433
+      ],
+      "epic": [
+        875,
+        131,
+        722
+      ]
     },
     "interaction_objects": [],
     "accesses": {},
@@ -870,8 +883,9 @@
     "type": "landmark",
     "name": "Monte Glacio",
     "biome": "Boreal",
-    "description": "uma montanha de neve",
+    "description": "O Monte Glacius ergue-se imponente como uma muralha de gelo esculpida pelo tempo, seus picos ocultos sob nuvens densas e suas encostas cobertas por uma espessa camada de neve perene. Trilhas escorregadias levam até planaltos elevados, onde quedas-d’água parcialmente congeladas despencam em vales silenciosos, pintando o ar com névoas cristalinas. O vento sopra com força constante, assobiando entre os penhascos e os pinheiros que sobrevivem nas bordas da floresta boreal ao sul. A cada passo, a paisagem revela um novo tipo de beleza gélida — desde fendas profundas onde a luz do sol cria reflexos azuis nos cristais de gelo, até platôs abertos de onde se avista todo o continente de Seira, coberto por um véu de nuvens brancas.\n\nA subida pelo Monte Glacius é perigosa, e poucas pessoas o escalam por completo. Ainda assim, ele é procurado por treinadores veteranos em busca de provações extremas, estudiosos que pesquisam suas formações únicas e até por viajantes que desejam apenas contemplar sua grandiosidade. Há estruturas abandonadas e cabanas de madeira em pontos estratégicos da montanha, lembranças de antigas expedições e estações de observação do clima. Lendas locais falam de ecos misteriosos vindos do interior da montanha, e alguns afirmam que há caminhos ocultos sob o gelo, como corredores naturais esculpidos por gerações de Pokémon que ali habitam.",
     "map_image": "",
+    "forum_link": "",
     "coordinates": {
       "x": 83.5,
       "y": 43.45
@@ -884,9 +898,21 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
-      "epic": []
+      "common": [
+        872,
+        436,
+        524
+      ],
+      "rare": [
+        739,
+        613,
+        333
+      ],
+      "epic": [
+        774,
+        615,
+        996
+      ]
     },
     "interaction_objects": [],
     "accesses": {},
