@@ -15,13 +15,6 @@
       "descricao_completa": "Com visão estratégica e eficiência exemplar, o Treinador domina a arte de transformar esforço em lucro. Em cada tarefa, ele encontra formas de otimizar resultados e maximizar recursos. Essa perícia garante <b>+60% de ganhos monetários</b> em postagens de emprego, e <b>aumenta em +2 o ganho de fama</b> em cada uma delas, ampliando a renda, o prestígio e o potencial financeiro durante suas jornadas."
     },
     {
-      "id": "gestao_de_producao",
-      "nome": "Gestão de Produção",
-      "icone": "farmer",
-      "descricao_curta": "Permite gerenciar um Pokémon produtor adicional por nível de Treinador.",
-      "descricao_completa": "Organizado e meticuloso, o Treinador sabe administrar tempo, espaço e recursos com precisão. Sua habilidade de planejamento aprimora o rendimento dos Pokémon produtores sob seu cuidado. Para cada <b>nível do personagem</b>, é permitido <b>ter um Pokémon produtor adicional</b>, aumentando a eficiência e a escala de produção nas atividades agrícolas e artesanais."
-    },
-    {
       "id": "busca_dupla",
       "nome": "Busca Dupla",
       "icone": "doubled",
@@ -41,13 +34,6 @@
       "icone": "cash",
       "descricao_curta": "Recebe $1.000 mensais +$600 por Nível de Treinador (máx. $16.000).",
       "descricao_completa": "Com um faro impecável para negócios e investimentos, o Treinador transforma cada oportunidade em lucro. Sua renda mensal cresce de forma proporcional à sua experiência, refletindo sua ascensão econômica. Recebe <b>$1.000 fixos</b> mais <b>$600 adicionais por Nível de Treinador</b>, podendo alcançar até <b>$16.000 mensais</b> no ápice de sua carreira."
-    },
-    {
-      "id": "competitivo",
-      "nome": "Competitivo",
-      "icone": "swords-emblem",
-      "descricao_curta": "Reduz o cooldown para encontrar treinadores em -1 postagem.",
-      "descricao_completa": "O Treinador é movido pelo espírito de competição e pelo desejo constante de batalhar. Sempre à procura de desafios, ele aprendeu a otimizar seus encontros com outros treinadores. Com esta perícia, o <b>tempo entre a busca por adversários é reduzido em 1 postagem</b>, acelerando suas oportunidades de combate e aprendizado."
     }
   ],
   "treinamento": [
@@ -64,13 +50,6 @@
       "icone": "upgrade",
       "descricao_curta": "Permite que certos Pokémon evoluam antes do nível habitual, conforme a lista de evolução antecipada.",
       "descricao_completa": "Ao compreender o crescimento e as necessidades emocionais de cada Pokémon, o Treinador desenvolve métodos de estímulo e treino adaptados. Mentores e Treinadores Ás aplicam paciência e atenção aos sinais individuais, acelerando a evolução sem forçar o ritmo natural. Com essa perícia, certos Pokémon <b>podem evoluir antes do nível habitual</b>, seguindo a <b>lista de evolução antecipada</b>, refletindo dedicação, vínculo forte e habilidade em extrair o máximo potencial de cada parceiro."
-    },
-    {
-      "id": "evoluidor_ii",
-      "nome": "Evoluidor II",
-      "icone": "round-star",
-      "descricao_curta": "Reduz os requisitos para evoluções por felicidade (180) e por passos (8 postagens).",
-      "descricao_completa": "Com refinamento constante em técnicas de evolução, o Treinador percebe nuances no comportamento e felicidade de cada Pokémon. Mentores e Treinadores Ás que aplicam paciência e observação detalhada conseguem otimizar o crescimento natural. Essa perícia <b>reduz os requisitos</b> de métodos evolutivos: evoluções por <b>felicidade</b> ocorrem agora com <b>180 pontos</b> em vez de 220, e evoluções por <b>passos</b> exigem apenas <b>8 postagens</b> em vez de 15, tornando cada jornada mais ágil e recompensadora."
     },
     {
       "id": "metodista",
@@ -222,13 +201,6 @@
       "icone": "cosmic-egg",
       "descricao_curta": "Reduz em 33% o tempo de eclosão de ovos e concede uma Super Incubadora com funções avançadas.",
       "descricao_completa": "Treinadores acostumados com cuidados iniciais aprendem a ajustar temperatura, energia e proteção necessárias para ovos Pokémon. Criadores e cuidadores reconhecem sinais discretos de desenvolvimento e sabem quando intervir. Com esse conhecimento, a perícia <b>reduz em 33%</b> o tempo de eclosão</b> e concede uma <b>Super Incubadora</b> capaz de usar gemas para <b>influenciar características genéticas</b>, gerando filhotes mais fortes e estáveis."
-    },
-    {
-      "id": "terapia_produtiva",
-      "nome": "Terapia Produtiva",
-      "icone": "spa",
-      "descricao_curta": "Aumenta felicidade em +20 e dobra a próxima colheita após cuidados; pode alterar o corte de Furfrou.",
-      "descricao_completa": "Com uma rotina baseada em bem-estar, o Treinador aprende técnicas simples, mas eficazes, de relaxamento e limpeza. Banho, escovação, tosa leve ou massagem ajudam a aliviar tensão e melhorar o humor, práticas conhecidas entre cuidadores e esteticistas Pokémon. Cada sessão faz com que o Pokémon tratado <b>ganhe +20 de felicidade</b> e <b>produza o dobro</b> na próxima colheita. A habilidade pode ser usada <b>uma vez por semana</b> e também permite <b>alterar o corte de um Furfrou</b> com precisão."
     },
     {
       "id": "pastoril",
