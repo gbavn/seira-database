@@ -941,7 +941,9 @@
     "forageable_items": [],
     "spawns": {
       "common": [],
-      "rare": [],
+      "rare": [
+        10086
+      ],
       "epic": []
     },
     "interaction_objects": [],
@@ -1024,7 +1026,9 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
+      "common": [
+        10080
+      ],
       "rare": [],
       "epic": []
     },
@@ -1121,7 +1125,7 @@
     "type": "city",
     "name": "Cragport",
     "biome": "Litorâneo",
-    "description": "aqui",
+    "description": "Cragport se ergue dramaticamente sobre falésias claras que despencam direto no mar azul-intenso de Seira. Construída em níveis, a cidade parece esculpida na própria rocha, com casas geométricas de tons claros, terraços suspensos e escadarias intermináveis que conectam bairros inteiros. À distância, lembra uma galeria a céu aberto; de perto, revela-se vibrante, barulhenta e cheia de contrastes. Originalmente um porto voltado à extração mineral e à pesca costeira, Cragport se reinventou nas últimas décadas como um dos principais polos de artes plásticas da região. Antigas pedreiras tornaram-se ateliês, museus e espaços de exposição, enquanto galpões industriais foram ocupados por cafés minimalistas, galerias conceituais e escolas de arte experimental. Esculturas monumentais dominam praças, encostas e até áreas parcialmente submersas, frequentemente provocando debates públicos sobre estética, segurança e os limites do “bom gosto”.\n\nLocalizada em uma faixa litorânea naturalmente mais quente, Cragport desenvolveu uma rotina adaptada ao clima intenso: a cidade desperta cedo, desacelera nas horas mais abafadas do dia e volta a pulsar ao entardecer, quando a luz dourada reflete nas fachadas claras e a brisa marítima suaviza o calor. Socialmente, vive uma tensão constante entre tradição e mercantilização. Turistas endinheirados circulam lado a lado com artistas precarizados, enquanto moradores antigos criticam a gentrificação ao mesmo tempo em que se beneficiam dela. Essa contradição sustenta uma atmosfera única, onde criatividade, desgaste urbano e permanência coexistem, como se Cragport estivesse sempre à beira de ruir, mas eternamente destinada a permanecer.",
     "map_image": "",
     "forum_link": "",
     "coordinates": {
@@ -1137,7 +1141,9 @@
     "forageable_items": [],
     "spawns": {
       "common": [],
-      "rare": [],
+      "rare": [
+        10084
+      ],
       "epic": []
     },
     "interaction_objects": [],
