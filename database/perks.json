@@ -15,13 +15,6 @@
       "descricao_completa": "Com visão estratégica e eficiência exemplar, o Treinador domina a arte de transformar esforço em lucro. Em cada tarefa, ele encontra formas de otimizar resultados e maximizar recursos. Essa perícia garante <b>+60% de ganhos monetários</b> em postagens de emprego, e <b>aumenta em +2 o ganho de fama</b> em cada uma delas, ampliando a renda, o prestígio e o potencial financeiro durante suas jornadas."
     },
     {
-      "id": "gestao_de_producao",
-      "nome": "Gestão de Produção",
-      "icone": "big-gear",
-      "descricao_curta": "Permite gerenciar um Pokémon produtor adicional por nível de Treinador.",
-      "descricao_completa": "Organizado e meticuloso, o Treinador sabe administrar tempo, espaço e recursos com precisão. Sua habilidade de planejamento aprimora o rendimento dos Pokémon produtores sob seu cuidado. Para cada <b>nível do personagem</b>, é permitido <b>ter um Pokémon produtor adicional</b>, aumentando a eficiência e a escala de produção nas atividades agrícolas e artesanais."
-    },
-    {
       "id": "busca_dupla",
       "nome": "Busca Dupla",
       "icone": "walking-scout",
@@ -41,13 +34,6 @@
       "icone": "money-stack",
       "descricao_curta": "Recebe $1.000 mensais +$600 por Nível de Treinador (máx. $16.000).",
       "descricao_completa": "Com um faro impecável para negócios e investimentos, o Treinador transforma cada oportunidade em lucro. Sua renda mensal cresce de forma proporcional à sua experiência, refletindo sua ascensão econômica. Recebe <b>$1.000 fixos</b> mais <b>$600 adicionais por Nível de Treinador</b>, podendo alcançar até <b>$16.000 mensais</b> no ápice de sua carreira."
-    },
-    {
-      "id": "competitivo",
-      "nome": "Competitivo",
-      "icone": "fist",
-      "descricao_curta": "Reduz o cooldown para encontrar treinadores em -1 postagem.",
-      "descricao_completa": "O Treinador é movido pelo espírito de competição e pelo desejo constante de batalhar. Sempre à procura de desafios, ele aprendeu a otimizar seus encontros com outros treinadores. Com esta perícia, o <b>tempo entre a busca por adversários é reduzido em 1 postagem</b>, acelerando suas oportunidades de combate e aprendizado."
     }
   ],
   "treinamento": [
