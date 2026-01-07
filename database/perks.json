@@ -3,14 +3,14 @@
     {
       "id": "treinador_dedicado",
       "nome": "Treinador Dedicado",
-      "icone": "polar-star",
+      "icone": "clockwork",
       "descricao_curta": "Concede +1 XP em todas as atividades realizadas.",
       "descricao_completa": "Alguns treinadores nascem com talento; outros constroem o próprio caminho passo a passo. O Treinador Dedicado pertence ao segundo grupo. Ele encara cada atividade como uma chance real de evolução e não apenas para seus Pokémon, mas para si mesmo. Sua postura persistente transforma pequenos progressos em avanço constante, e por isso ganha <b>+1 ponto de XP em todas as atividades</b>, refletindo seu aprendizado contínuo e incansável."
     },
     {
       "id": "empreendedor_produtivo",
       "nome": "Empreendedor Produtivo",
-      "icone": "rich",
+      "icone": "briefcase",
       "descricao_curta": "Recebe +60% mais ganhos monetários e +2 de fama em postagens de emprego.",
       "descricao_completa": "Com visão estratégica e eficiência exemplar, o Treinador domina a arte de transformar esforço em lucro. Em cada tarefa, ele encontra formas de otimizar resultados e maximizar recursos. Essa perícia garante <b>+60% de ganhos monetários</b> em postagens de emprego, e <b>aumenta em +2 o ganho de fama</b> em cada uma delas, ampliando a renda, o prestígio e o potencial financeiro durante suas jornadas."
     },
@@ -24,21 +24,21 @@
     {
       "id": "busca_dupla",
       "nome": "Busca Dupla",
-      "icone": "walking-scout",
+      "icone": "doubled",
       "descricao_curta": "Permite realizar <b>duas rolagens por turno</b> para busca de Pokémon selvagens, podendo <b>escolher o encontrado</b> e, em encontros <b>alternados</b>, enfrentar <b>ambos em dupla</b>.",
       "descricao_completa": "Dotado de instinto apurado e domínio sobre rastreamento, o Treinador aprendeu a interpretar sinais, pegadas e sons da natureza com maestria. Essa perícia agora <b>permite realizar duas rolagens de busca em todos os turnos</b> para encontrar Pokémon selvagens. O Treinador pode <b>escolher qual dos dois resultados deseja enfrentar</b>. Além disso, <b>em encontros selvagens alternados</b>, o Treinador tem a chance de <b>encontrar e enfrentar ambos os Pokémon ao mesmo tempo em uma batalha em dupla</b>."
     },
     {
       "id": "resonancia",
       "nome": "Resonância",
-      "icone": "heart-beats",
+      "icone": "chained-heart",
       "descricao_curta": "Aumenta todos os ganhos de felicidade e impede a perda por desmaio.",
       "descricao_completa": "O Treinador possui uma conexão natural e profunda com seus Pokémon, como se suas emoções vibrassem em sintonia. Essa perícia <b>aumenta em +2</b> todos os ganhos de felicidade passivos como 'Subir de Nível' ou 'Fora da Pokébola' e <b>dobra</b> o ganho de 'Momentos de Afeto'. Além disso, Pokémon sob seu comando <b>não perdem felicidade ao desmaiar</b> em batalha."
     },
     {
       "id": "magnata",
       "nome": "Magnata",
-      "icone": "money-stack",
+      "icone": "cash",
       "descricao_curta": "Recebe $1.000 mensais +$600 por Nível de Treinador (máx. $16.000).",
       "descricao_completa": "Com um faro impecável para negócios e investimentos, o Treinador transforma cada oportunidade em lucro. Sua renda mensal cresce de forma proporcional à sua experiência, refletindo sua ascensão econômica. Recebe <b>$1.000 fixos</b> mais <b>$600 adicionais por Nível de Treinador</b>, podendo alcançar até <b>$16.000 mensais</b> no ápice de sua carreira."
     },
@@ -54,7 +54,7 @@
     {
       "id": "domador",
       "nome": "Domador",
-      "icone": "master-ball",
+      "icone": "whip",
       "descricao_curta": "Ganha de 15 até 35% de XP e chance de captura bônus ao usar Pokémon de um tipo ou categoria específica.",
       "descricao_completa": "Dedicação a um tipo, categoria ou coloração específica de Pokémon cria afinidade e maestria que outros treinadores dificilmente alcançam. Observando padrões de comportamento, ataques e habilidades, aprende a explorar cada força e fraqueza com precisão. Essa experiência concede <b>+15% de experiência</b> e <b>+15% de chance de captura</b> ao usar Pokémon dentro da especialidade escolhida. A cada nível de Treinador, o bônus aumenta em <b>+2%</b>, atingindo até <b>35%</b>, tornando o cuidado com cada parceiro ainda mais recompensador."
     },
@@ -91,7 +91,7 @@
     {
       "id": "estrela_da_sorte",
       "nome": "Estrela da Sorte",
-      "icone": "clover",
+      "icone": "falling-star",
       "descricao_curta": "Permite uma rolagem adicional em concursos ou refazer uma rolagem de movimento em batalha.",
       "descricao_completa": "Há quem diga que sorte é estar preparado quando a oportunidade surge. Ídolos aprendem a brilhar nos momentos certos, enquanto mentores ensinam a reconhecer e aproveitar essas janelas cruciais. O Treinador desenvolve essa sintonia com o momento, fazendo com que o acaso pareça conspirar a seu favor. Essa perícia permite realizar <b>uma rolagem adicional</b> em concursos e <b>refazer uma rolagem de movimento</b> durante batalhas, aumentando a probabilidade de sucesso quando mais importa."
     },
@@ -119,7 +119,7 @@
     {
       "id": "hipnose",
       "nome": "Hipnóse",
-      "icone": "spiral-thrust",
+      "icone": "psychic-waves",
       "descricao_curta": "Paralisa um oponente ignorando imunidades, uma vez por batalha.",
       "descricao_completa": "A mente pode ser uma prisão mais eficaz que qualquer corrente. Ilusionistas dominam a arte de invadir a percepção alheia, enquanto trapaceiros sabem exatamente quando explorar um momento de hesitação. O Treinador aprende a induzir confusão mental no adversário, criando um estado de desorientação que trava os reflexos e impede reações coordenadas. <b>Uma vez por batalha</b>, pode <b>causar Paralisia em um Pokémon adversário</b>, ignorando imunidades naturais, incluindo tipos Elétrico ou Ground, criando brechas estratégicas que mudam o curso do combate."
     },
@@ -212,14 +212,14 @@
     {
       "id": "farmaceutica_basica",
       "nome": "Farmacêutica Básica",
-      "icone": "potion-ball",
+      "icone": "apothecary",
       "descricao_curta": "Permite criar poções, impulsionadores e vitaminas a partir de berries.",
       "descricao_completa": "Ao estudar as propriedades naturais das berries, o Treinador descobre como moer, misturar e extrair seus efeitos de forma segura. Pesquisadores e curandeiros seguem esse mesmo princípio: entender a base antes de criar algo mais complexo. Essa dedicação permite <b>produzir poções e impulsionadores</b>, além de <b>fabricar vitaminas</b> e compostos especiais a partir de berries, seguindo o sistema de farmacêutica."
     },
     {
       "id": "mestre_incubador",
       "nome": "Mestre Incubador",
-      "icone": "egg-pod",
+      "icone": "cosmic-egg",
       "descricao_curta": "Reduz em 33% o tempo de eclosão de ovos e concede uma Super Incubadora com funções avançadas.",
       "descricao_completa": "Treinadores acostumados com cuidados iniciais aprendem a ajustar temperatura, energia e proteção necessárias para ovos Pokémon. Criadores e cuidadores reconhecem sinais discretos de desenvolvimento e sabem quando intervir. Com esse conhecimento, a perícia <b>reduz em 33%</b> o tempo de eclosão</b> e concede uma <b>Super Incubadora</b> capaz de usar gemas para <b>influenciar características genéticas</b>, gerando filhotes mais fortes e estáveis."
     },
@@ -233,21 +233,21 @@
     {
       "id": "pastoril",
       "nome": "Pastoril",
-      "icone": "shepherd-crook",
+      "icone": "shepherds-crook",
       "descricao_curta": "Pokémon produtores ganham +5 de felicidade por colheita e aumentam em 25% o valor de venda dos insumos.",
       "descricao_completa": "Quem convive diariamente com Pokémon produtores aprende a ler sinais de conforto, humor e ritmo natural de cada espécie. Rancheiros e criadores sabem que produtividade nasce de vínculo e rotina bem cuidada. Essa abordagem garante que, a cada colheita, os Pokémon <b>ganhem +5 de felicidade</b>, enquanto o valor de venda dos insumos é <b>aumentado em 25%</b>, tornando o trabalho mais lucrativo e estável."
     },
     {
       "id": "gravacao_de_discos",
       "nome": "Gravação de Discos",
-      "icone": "cd",
+      "icone": "compact-disc",
       "descricao_curta": "Permite criar TMs de movimentos que seus Pokémon conhecem, conforme o sistema de criação de TMs.",
       "descricao_completa": "Treinadores que trabalham com tecnologia aplicada ao combate aprendem a captar os padrões de energia de um movimento e convertê-los em dados estáveis. Programadores e engenheiros seguem a mesma lógica: analisar o sinal, tratar as informações e renderizar tudo em um formato seguro. Com esse domínio, o Treinador consegue <b>codificar e gravar TMs</b> a partir dos movimentos que seus Pokémon já conhecem, seguindo o sistema de criação de discos e ampliando as possibilidades de treinamento."
     },
     {
       "id": "artesanato_basico",
       "nome": "Artesanato Básico",
-      "icone": "anvil",
+      "icone": "stake-hammer",
       "descricao_curta": "Permite criar Pokébolas artesanais e outros itens pelo sistema de artesanato.",
       "descricao_completa": "Com habilidade manual e criatividade, o Treinador aprende a moldar materiais simples em ferramentas úteis para a jornada. Artesãos e engenheiros trabalham assim: observando a necessidade e adaptando o que têm à disposição. Com essa perícia, é possível <b>produzir Pokébolas artesanais</b> e outros itens conforme o sistema de artesanato, aproveitando melhor os recursos coletados no dia a dia."
     }
@@ -321,28 +321,28 @@
     {
       "id": "paleontologia_basica",
       "nome": "Paleontologia Básica",
-      "icone": "dinosaur-bones",
+      "icone": "ammonite-fossil",
       "descricao_curta": "Permite restaurar fósseis sem perda, com chance de Hidden Ability e +2 rolagens para Shiny.",
       "descricao_completa": "Com dedicação às eras antigas e cuidado no manuseio de fósseis, estudiosos e colecionadores desenvolvem técnicas precisas para restaurar vestígios do passado sem risco de perda. Analisar rachaduras, densidade mineral e pontos de reanimação se torna parte natural do processo. Essa perícia garante que <b>fósseis nunca sejam perdidos</b>, mesmo em tentativas falhas, além de permitir <b>verificar Hidden Abilities</b> durante a restauração. O renascimento também se torna mais especial: ao gerar o Pokémon, é possível <b>rolar +2 dados adicionais</b> para determinar se ele nascerá Shiny."
     },
     {
       "id": "visao_oculta",
       "nome": "Visão Oculta",
-      "icone": "all-seeing-eye",
+      "icone": "sheikah-eye",
       "descricao_curta": "Permite encontrar Pokémon com Hidden Ability, equilibrando as chances entre todas as habilidades possíveis.",
       "descricao_completa": "Certas pessoas possuem percepção que vai além do que se vê. Médiuns e sábios desenvolvem sensibilidade espiritual, conseguindo perceber aura, ritmo e intenção nas criaturas ao redor. Essa conexão profunda permite identificar potenciais escondidos que outros não conseguiriam notar. Com essa perícia, encontros podem revelar Pokémon com <b>Hidden Ability</b>, e o sorteio da habilidade passa a ser <b>igualmente distribuído</b> entre todas as opções disponíveis, garantindo chances equilibradas, como <b>50/50</b> no caso de duas habilidades, ou <b>33/33/33</b> quando houver três."
     },
     {
       "id": "botanico",
       "nome": "Botânico",
-      "icone": "spiky-field",
+      "icone": "fruit-tree",
       "descricao_curta": "Duplica a quantidade de itens naturais obtidos em coletas.",
       "descricao_completa": "O conhecimento sobre plantas e biomas faz toda diferença no campo. Agricultores e exploradores sabem reconhecer maturação, pontos de coleta e espécies que crescem melhor em determinados ambientes. Aprendem a colher sem danificar e a identificar regiões onde a natureza é mais generosa. Com essa técnica, sempre que realiza uma <b>Coleta de Itens no Mapa</b>, o personagem recebe <b>o dobro da quantidade</b> de itens naturais obtidos, como <b>Berries, Apricorns</b> e outros materiais vegetais, excluindo minerais, itens urbanos e produtos processados."
     },
     {
       "id": "capturador",
       "nome": "Capturador",
-      "icone": "pokeball",
+      "icone": "fishing-net",
       "descricao_curta": "Aumenta em 20% a chance de capturar Pokémon.",
       "descricao_completa": "Conviver com diferentes espécies ensina a ler sinais de tensão, curiosidade e hesitação. Especialistas em capturas observam postura, distância ideal e ritmo respiratório do Pokémon antes de agir. Com isso, conseguem criar o momento certo para lançar a Pokébola, nem cedo demais, nem tarde demais. Essa experiência resulta em maior precisão e eficiência, concedendo <b>+20% de chance de captura</b> em qualquer tentativa, seja em campo aberto, áreas selvagens ou encontros especiais."
     }
