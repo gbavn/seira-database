@@ -46,7 +46,7 @@
     },
     {
       "id": "evoluidor_i",
-      "nome": "Evoluidor I",
+      "nome": "Evoluidor",
       "icone": "upgrade",
       "descricao_curta": "Permite que certos Pokémon evoluam antes do nível habitual, conforme a lista de evolução antecipada.",
       "descricao_completa": "Ao compreender o crescimento e as necessidades emocionais de cada Pokémon, o Treinador desenvolve métodos de estímulo e treino adaptados. Mentores e Treinadores Ás aplicam paciência e atenção aos sinais individuais, acelerando a evolução sem forçar o ritmo natural. Com essa perícia, certos Pokémon <b>podem evoluir antes do nível habitual</b>, seguindo a <b>lista de evolução antecipada</b>, refletindo dedicação, vínculo forte e habilidade em extrair o máximo potencial de cada parceiro."
@@ -259,13 +259,6 @@
       "icone": "jeweled-chalice",
       "descricao_curta": "Aumenta em +40% o valor de venda de relíquias e itens raros.",
       "descricao_completa": "Artefatos antigos e itens raros guardam histórias e valor. Pesquisadores e exploradores desenvolvem olhar atento para autenticidade, desgaste, brilho e detalhes que muitos deixariam passar. Saber identificar uma peça legítima de uma imitação pode ser a diferença entre um negócio comum e uma venda excepcional. Com essa perícia, relíquias, pérolas, Nuggets, Comet Shards e itens semelhantes podem ser vendidos com <b>+40% de valor adicional</b>, garantindo sempre o melhor retorno possível."
-    },
-    {
-      "id": "ganancia",
-      "nome": "Ganância",
-      "icone": "golden-nuggets",
-      "descricao_curta": "Recebe +40% de recompensa monetária em batalhas contra treinadores.",
-      "descricao_completa": "Ambição pode ser método, e alguns a transformam em vantagem. Magnatas procuram oportunidades de lucro em todo lugar, enquanto delinquentes veem as batalhas como terreno fértil para ganhos rápidos. Ao unir determinação agressiva e visão estratégica, cada vitória se torna mais lucrativa. Com essa perícia, confrontos contra outros treinadores concedem <b>+40% de recompensa monetária</b>, convertendo habilidade de combate diretamente em ganhos financeiros."
     },
     {
       "id": "viajante_economico",
