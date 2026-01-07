@@ -106808,9 +106808,21 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Abomasnow",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 40
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
-    "rarity": "raro",
+    "rarity": "comum",
     "is_producer": true,
     "production": [
       {
@@ -106957,18 +106969,6 @@
       "Natural gift",
       "Seed bomb",
       "Avalanche"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Abomasnow",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 40
-          }
-        ]
-      }
     ]
   },
   {
@@ -107018,9 +107018,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": true,
-    "rarity": "raro",
+    "rarity": "comum",
     "is_producer": true,
     "production": [
       {
@@ -107197,8 +107198,7 @@
       "Natural gift",
       "Seed bomb",
       "Avalanche"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 461,
@@ -133669,8 +133669,6 @@
     "id": 585,
     "name": "Deerling",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal",
       "Grass"
@@ -133708,8 +133706,20 @@
     "dex_entry": "A cor e o aroma de seu pelo mudam para combinar com a grama da montanha. Ao perceber hostilidade, esconde-se entre a vegetação.",
     "classification": "Pokémon Estação",
     "held_items": [],
-    "is_starter": false,
-    "in_seira_pokedex": false,
+    "evolves_to": [
+      {
+        "pokemon": "Sawsbuck",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 34
+          }
+        ]
+      }
+    ],
+    "is_starter": true,
+    "in_seira_pokedex": true,
     "rarity": "comum",
     "is_producer": false,
     "production": [],
@@ -133854,26 +133864,12 @@
       "Grass whistle",
       "Natural gift",
       "Worry seed"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Sawsbuck",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 34
-          }
-        ]
-      }
     ]
   },
   {
     "id": 586,
     "name": "Sawsbuck",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal",
       "Grass"
@@ -133911,8 +133907,9 @@
     "dex_entry": "Eles migram de acordo com as estações. As pessoas conseguem saber a estação apenas olhando para os chifres de Sawsbuck.",
     "classification": "Pokémon Estação",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
+    "in_seira_pokedex": true,
     "rarity": "comum",
     "is_producer": false,
     "production": [],
@@ -134076,8 +134073,7 @@
       "Grass whistle",
       "Natural gift",
       "Worry seed"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 587,
