@@ -1208,7 +1208,7 @@
   },
   {
     "id": "R09",
-    "type": "city",
+    "type": "route",
     "name": "Rota 09",
     "biome": "",
     "description": "",
