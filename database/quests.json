@@ -4,7 +4,6 @@
     "name": "A Mina Abandonada",
     "requester": "Minerador Jonas",
     "description": "Explore a mina abandonada e derrote os Pokémon de Rocha que tomaram conta do local.",
-    
     "objectives": [
       {
         "type": "battle",
@@ -16,7 +15,6 @@
         ]
       }
     ],
-    
     "requirements": {
       "level": 15,
       "pokemon": [
@@ -34,11 +32,13 @@
       ],
       "perks": {
         "mode": "all",
-        "perk_ids": ["treinador_dedicado", "explorador"]
+        "perk_ids": [
+          "treinador_dedicado",
+          "explorador"
+        ]
       },
       "custom": "Ter completado a Quest 'Introdução ao Vale'"
     },
-    
     "rewards": {
       "money": 5000,
       "fame": 10,
@@ -57,7 +57,10 @@
         {
           "type": "encounter",
           "pokemon_id": 123,
-          "level_range": [15, 20]
+          "level_range": [
+            15,
+            20
+          ]
         },
         {
           "type": "egg",
@@ -67,7 +70,6 @@
       ],
       "custom": "Acesso à Área Secreta da Mina"
     },
-    
     "status": "available",
     "repeatable": false,
     "cooldown_days": 0
