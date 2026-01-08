@@ -1,0 +1,75 @@
+[
+  {
+    "id": "quest-001",
+    "name": "A Mina Abandonada",
+    "requester": "Minerador Jonas",
+    "description": "Explore a mina abandonada e derrote os Pokémon de Rocha que tomaram conta do local.",
+    
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Derrote os Pokémon invasores",
+        "pokemon_sheets": [
+          "[pkmn]Steelix|60|M|Sturdy|Rock Head|Stone Edge|Iron Tail|Earthquake|Crunch[/pkmn]",
+          "[pkmn]Onix|55|F|Rock Head||Rock Slide|Bind|Sandstorm|Stealth Rock[/pkmn]",
+          "[pkmn]Serperior|58|M|Overgrow||Leaf Blade|Coil|Giga Drain|Dragon Pulse[/pkmn]"
+        ]
+      }
+    ],
+    
+    "requirements": {
+      "level": 15,
+      "pokemon": [
+        {
+          "pokemon_id": 25,
+          "min_level": 20
+        }
+      ],
+      "items": [
+        {
+          "item_id": 1,
+          "quantity": 5,
+          "unique": false
+        }
+      ],
+      "perks": {
+        "mode": "all",
+        "perk_ids": ["treinador_dedicado", "explorador"]
+      },
+      "custom": "Ter completado a Quest 'Introdução ao Vale'"
+    },
+    
+    "rewards": {
+      "money": 5000,
+      "fame": 10,
+      "character_exp": 500,
+      "items": [
+        {
+          "item_id": 45,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [
+        {
+          "type": "fixed",
+          "sheet": "[pkmn]Type: Null|40|Genderless|Battle Armor||Tackle|Rage|Pursuit|Imprison[/pkmn]"
+        },
+        {
+          "type": "encounter",
+          "pokemon_id": 123,
+          "level_range": [15, 20]
+        },
+        {
+          "type": "egg",
+          "pokemon_id": 175,
+          "description": "Ovo de Togepi"
+        }
+      ],
+      "custom": "Acesso à Área Secreta da Mina"
+    },
+    
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  }
+]
