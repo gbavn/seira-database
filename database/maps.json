@@ -1038,7 +1038,7 @@
     "name": "Rota 02",
     "biome": "Pantanoso",
     "description": "A Rota 02 se estende por um vasto pântano enevoado. O caminho é marcado por solo lamacento, águas rasas de coloração escura e passarelas de madeira envelhecida que serpenteiam entre juncos altos, raízes expostas e árvores retorcidas. A névoa baixa e constante limita a visibilidade e abafa os sons, criando uma atmosfera densa e silenciosa, onde cada passo exige atenção e cuidado.\n\nSua presença influencia toda a rota, atraindo pesquisadores e treinadores em busca de segredos esquecidos, enquanto mantém o pântano em equilíbrio instável. A Rota 02 funciona como um ponto de transição simbólico entre extremos de Seira, onde o avanço urbano e a liberdade costeira cedem espaço a um ambiente que impõe seu próprio ritmo e lembra que a natureza, ali, nunca está totalmente sob controle.",
-    "map_image": "https://i.imgur.com/9Y22xSo.png",
+    "map_image": "https://2img.net/i.imgur.com/wOmVWBY.png",
     "forum_link": "",
     "coordinates": {
       "x": 52.31,
@@ -1096,9 +1096,9 @@
     "id": "R03",
     "type": "route",
     "name": "Rota 03",
-    "biome": "",
+    "biome": "Florestal",
     "description": "A Rota 03 liga a energia criativa e ardente de Ardozart, a Oeste, ao núcleo tecnológico de Hyperia, ao Norte, atravessando uma paisagem em constante transformação. O caminho passa por áreas de asfalto antigo, galpões desativados, trilhos esquecidos e estruturas metálicas entremeadas por vegetação resistente, criando um cenário onde o passado industrial e o presente urbano coexistem. O ar ainda carrega o calor e os sons distantes da música de Ardozart, enquanto postes de energia e cabos elevados anunciam a proximidade da cidade central.\n\nAo longo da rota, viajantes, artistas e técnicos dividem o espaço, acompanhados por Pokémon adaptados tanto ao calor quanto aos campos elétricos emergentes. À medida que se avança, as luzes quentes dão lugar a tons frios e pulsantes, e o ambiente se torna mais organizado e acelerado, refletindo a influência crescente de Hyperia. A Rota 03 funciona como um elo simbólico entre criatividade e inovação, preparando o viajante para o ritmo intenso e tecnológico do coração de Seira.",
-    "map_image": "",
+    "map_image": "https://i.imgur.com/vtuQ6H5.png",
     "forum_link": "",
     "coordinates": {
       "x": 61.2,
@@ -1114,13 +1114,35 @@
     "forageable_items": [],
     "spawns": {
       "common": [
-        10080
+        10080,
+        753,
+        585
       ],
-      "rare": [],
-      "epic": []
+      "rare": [
+        228,
+        81,
+        827
+      ],
+      "epic": [
+        123,
+        234
+      ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "north": {
+        "id": "HYP",
+        "name": "Hyperia",
+        "posts_required": "2 posts",
+        "forum_link": ""
+      },
+      "west": {
+        "id": "ARD",
+        "name": "Ardozart",
+        "posts_required": "2 posts",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
