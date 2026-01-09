@@ -984,7 +984,7 @@
     "name": "Rota 01",
     "biome": "Lacustre",
     "description": "A Rota 01 se estende como um caminho sereno entre espelhos d’água e campos alagados, conectando os ventos abertos de Verta à calmaria lacustre de Veldhavn. O trajeto é formado por trilhas de terra firme intercaladas com passagens de madeira, pequenas pontes arqueadas e margens cobertas por juncos e flores aquáticas. A água cristalina reflete o céu quase o tempo todo, criando a sensação de que o viajante caminha sobre a própria paisagem. \n\nO ar é fresco e úmido, carregado pelo som suave de remos, pelo coaxar distante de Pokémon aquáticos e pelo balanço lento da vegetação que acompanha as correntes tranquilas dos lagos. Treinadores, pescadores locais e pesquisadores percorrem a rota com calma, usando píeres naturais e áreas de descanso à beira-d’água para observar, estudar ou simplesmente apreciar o ambiente.",
-    "map_image": "",
+    "map_image": "https://i.imgur.com/J26mTdp.png",
     "forum_link": "",
     "coordinates": {
       "x": 68.63,
@@ -999,12 +999,37 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
-      "epic": []
+      "common": [
+        580,
+        298,
+        550
+      ],
+      "rare": [
+        341,
+        618,
+        602
+      ],
+      "epic": [
+        211,
+        349,
+        501
+      ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "east": {
+        "id": "VLD",
+        "name": "Veldhavn",
+        "posts_required": "2 posts",
+        "forum_link": ""
+      },
+      "west": {
+        "id": "VER",
+        "name": "Verta",
+        "posts_required": "2 posts",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
