@@ -1036,9 +1036,9 @@
     "id": "R02",
     "type": "route",
     "name": "Rota 02",
-    "biome": "",
+    "biome": "Pantanoso",
     "description": "A Rota 02 se estende por um vasto pântano enevoado. O caminho é marcado por solo lamacento, águas rasas de coloração escura e passarelas de madeira envelhecida que serpenteiam entre juncos altos, raízes expostas e árvores retorcidas. A névoa baixa e constante limita a visibilidade e abafa os sons, criando uma atmosfera densa e silenciosa, onde cada passo exige atenção e cuidado.\n\nSua presença influencia toda a rota, atraindo pesquisadores e treinadores em busca de segredos esquecidos, enquanto mantém o pântano em equilíbrio instável. A Rota 02 funciona como um ponto de transição simbólico entre extremos de Seira, onde o avanço urbano e a liberdade costeira cedem espaço a um ambiente que impõe seu próprio ritmo e lembra que a natureza, ali, nunca está totalmente sob controle.",
-    "map_image": "",
+    "map_image": "https://i.imgur.com/9Y22xSo.png",
     "forum_link": "",
     "coordinates": {
       "x": 52.31,
@@ -1053,12 +1053,43 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
-      "epic": []
+      "common": [
+        194,
+        69,
+        46
+      ],
+      "rare": [
+        200,
+        451,
+        690
+      ],
+      "epic": [
+        211,
+        978,
+        258
+      ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "east": {
+        "id": "VER",
+        "name": "Verta",
+        "posts_required": "2 posts",
+        "forum_link": ""
+      },
+      "north": {
+        "id": "PTNV",
+        "name": "Pântano de Veyra",
+        "posts_required": "4 posts",
+        "forum_link": ""
+      },
+      "west": {
+        "id": "AZR",
+        "name": "Azurecrest",
+        "posts_required": "2 posts",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
