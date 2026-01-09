@@ -23433,12 +23433,17 @@
     "id": 726,
     "name": "Blank TM",
     "category": "craft-material",
-    "sprite": "",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/indigodisk.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -23454,8 +23459,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 727,
