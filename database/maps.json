@@ -1536,5 +1536,34 @@
     "interaction_objects": [],
     "accesses": {},
     "special_location": false
+  },
+  {
+    "id": "FLRT",
+    "type": "landmark",
+    "name": "Floresta",
+    "biome": "Florestal",
+    "description": "",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 37.86,
+      "y": 74.07
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "quest_ids": [],
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
   }
 ]
