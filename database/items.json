@@ -9289,8 +9289,9 @@
   },
   {
     "id": 289,
-    "name": "TM01",
+    "name": "TM00 - Nome do TM",
     "category": "tm",
+    "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm224.png",
     "price": {
       "buy": 40000,
@@ -9298,8 +9299,13 @@
       "casino": 0,
       "mile": 0
     },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Powerful, but makes the user flinch if hit by the foe.",
     "held_effect": "",
     "fling_power": 0,
@@ -9310,10 +9316,14 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 726,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 290,
