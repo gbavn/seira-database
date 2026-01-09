@@ -927,14 +927,15 @@
     "map_image": "",
     "forum_link": "",
     "coordinates": {
-      "x": 0,
-      "y": 0
+      "x": 37.82,
+      "y": 85
     },
     "metadata": {
       "population": "",
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
@@ -955,14 +956,15 @@
     "map_image": "",
     "forum_link": "",
     "coordinates": {
-      "x": 0,
-      "y": 0
+      "x": 37.82,
+      "y": 63.14
     },
     "metadata": {
       "population": "",
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
@@ -985,14 +987,15 @@
     "map_image": "",
     "forum_link": "",
     "coordinates": {
-      "x": 0,
-      "y": 0
+      "x": 68.63,
+      "y": 84.84
     },
     "metadata": {
       "population": "",
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
@@ -1013,14 +1016,15 @@
     "map_image": "",
     "forum_link": "",
     "coordinates": {
-      "x": 0,
-      "y": 0
+      "x": 52.31,
+      "y": 84.81
     },
     "metadata": {
       "population": "",
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
@@ -1041,14 +1045,15 @@
     "map_image": "",
     "forum_link": "",
     "coordinates": {
-      "x": 0,
-      "y": 0
+      "x": 61.2,
+      "y": 64.63
     },
     "metadata": {
       "population": "",
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
@@ -1071,14 +1076,15 @@
     "map_image": "",
     "forum_link": "",
     "coordinates": {
-      "x": 0,
-      "y": 0
+      "x": 52.31,
+      "y": 64.63
     },
     "metadata": {
       "population": "",
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
@@ -1099,14 +1105,15 @@
     "map_image": "",
     "forum_link": "",
     "coordinates": {
-      "x": 0,
-      "y": 0
+      "x": 7.57,
+      "y": 24.88
     },
     "metadata": {
       "population": "",
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
@@ -1127,14 +1134,15 @@
     "map_image": "",
     "forum_link": "",
     "coordinates": {
-      "x": 0,
-      "y": 0
+      "x": 9.52,
+      "y": 61.1
     },
     "metadata": {
       "population": "",
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
@@ -1157,14 +1165,15 @@
     "map_image": "",
     "forum_link": "",
     "coordinates": {
-      "x": 0,
-      "y": 0
+      "x": 22.77,
+      "y": 24.88
     },
     "metadata": {
       "population": "",
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
@@ -1185,14 +1194,15 @@
     "map_image": "",
     "forum_link": "",
     "coordinates": {
-      "x": 0,
-      "y": 0
+      "x": 37.88,
+      "y": 24.88
     },
     "metadata": {
       "population": "",
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
@@ -1213,14 +1223,15 @@
     "map_image": "",
     "forum_link": "",
     "coordinates": {
-      "x": 0,
-      "y": 0
+      "x": 15.19,
+      "y": 24.88
     },
     "metadata": {
       "population": "",
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
@@ -1241,14 +1252,15 @@
     "map_image": "",
     "forum_link": "",
     "coordinates": {
-      "x": 0,
-      "y": 0
+      "x": 22.77,
+      "y": 61.07
     },
     "metadata": {
       "population": "",
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
@@ -1269,14 +1281,15 @@
     "map_image": "https://2img.net/i.imgur.com/84pqFpE.png",
     "forum_link": "",
     "coordinates": {
-      "x": 0,
-      "y": 0
+      "x": 52.27,
+      "y": 75.16
     },
     "metadata": {
       "population": "",
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
@@ -1307,8 +1320,8 @@
     "map_image": "https://www.uai.com.br/uainoticias/wp-content/uploads/2025/07/Valencia-Espanha_1751397872575.jpg",
     "forum_link": "",
     "coordinates": {
-      "x": 0,
-      "y": 0
+      "x": 61.2,
+      "y": 84.84
     },
     "metadata": {
       "population": "147.000",
@@ -1348,6 +1361,180 @@
         "forum_link": ""
       }
     },
+    "special_location": false
+  },
+  {
+    "id": "DSRT",
+    "type": "landmark",
+    "name": "Deserto",
+    "biome": "Árido",
+    "description": "nada feito",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 49.38,
+      "y": 38.17
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "quest_ids": [],
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "SAN",
+    "type": "city",
+    "name": "Sanridge",
+    "biome": "Árido",
+    "description": "",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 37.89,
+      "y": 38.15
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "quest_ids": [],
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "SELV",
+    "type": "landmark",
+    "name": "Selva",
+    "biome": "Selvático",
+    "description": "",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 30.92,
+      "y": 24.85
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "quest_ids": [],
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "VULC",
+    "type": "landmark",
+    "name": "Vulcão",
+    "biome": "Montanhoso",
+    "description": "",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 6.11,
+      "y": 17.03
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "quest_ids": [],
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "ILHA",
+    "type": "landmark",
+    "name": "Ilha",
+    "biome": "Litorâneo",
+    "description": "aqui",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 22.77,
+      "y": 43.54
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "quest_ids": [],
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": false
+  },
+  {
+    "id": "FLSB",
+    "type": "landmark",
+    "name": "Floresta Submersa",
+    "biome": "Abyssal",
+    "description": "",
+    "map_image": "",
+    "forum_link": "",
+    "coordinates": {
+      "x": 43.64,
+      "y": 84.84
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "quest_ids": [],
+    "points_of_interest": [],
+    "forageable_items": [],
+    "spawns": {
+      "common": [],
+      "rare": [],
+      "epic": []
+    },
+    "interaction_objects": [],
+    "accesses": {},
     "special_location": false
   }
 ]
