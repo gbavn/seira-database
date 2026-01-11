@@ -6,6 +6,7 @@
     "biome": "Lacustre",
     "description": "Veldhavn é uma cidade que parece flutuar sobre a água. Canais estreitos serpenteiam entre casas de arquitetura contemporânea e fachadas de madeira pintadas em tons pastéis, lembrando pequenas joias refletidas na superfície calma. Conectada por pontes delicadas, algumas apenas para pedestres e bicicletas, a cidade mantém uma estética limpa e organizada, evocando uma sensação de tranquilidade quase surreal.\n\nHistoricamente, Veldhavn começou como uma vila de pescadores, mas com o tempo cresceu em torno do turismo e do comércio de produtos locais, sem perder a harmonia com seus canais e lagoas. Pequenos cafés e boutiques se alinham às margens da água, e barcos silenciosos deslizam pelos canais, substituindo estradas convencionais em algumas áreas. O contraste surge na modernidade urbana do centro, onde edifícios de vidro e tecnologia de ponta se integram com a estética lacustre, criando um charme que é ao mesmo tempo antigo e futurista.\n\nCulturalmente, a cidade celebra festivais de luzes sobre a água e feiras de arte que ocupam as margens dos canais, atraindo visitantes de toda Seira. A população mantém forte senso de comunidade: vizinhos ajudam-se mutuamente durante enchentes sazonais ou para preservar a beleza natural. Entretanto, o excesso de turistas em certos períodos causa tensão entre o comércio local e residentes mais tradicionais, gerando uma mistura curiosa de hospitalidade e ligeira impaciência.",
     "map_image": "https://2img.net/i.imgur.com/4AlliMd.png",
+    "forum_link": "https://seira.forumeiros.com/f26-veldhavn",
     "coordinates": {
       "x": 75.895,
       "y": 84.823
@@ -19,6 +20,7 @@
       ],
       "based_on": "Giethoorn, Países Baixos"
     },
+    "quest_ids": [],
     "points_of_interest": [
       {
         "id": "VelkovaLab",
@@ -86,6 +88,12 @@
         "id": "R06",
         "name": "Rota 06",
         "forum_link": "https://seira.forumeiros.com/f45-rota-06"
+      },
+      "west": {
+        "id": "R01",
+        "name": "Rota 01",
+        "posts_required": "",
+        "forum_link": ""
       }
     },
     "special_location": false
@@ -97,6 +105,7 @@
     "biome": "Florestal",
     "description": "A Rota 06 é uma longa estrada sinuosa que corta um mar de vegetação densa e bem preservada, cercada por colinas verdejantes e árvores de copas amplas. O asfalto escuro e recém-pavimentado contrasta com o verde vibrante das margens, onde a natureza parece tocar a estrada sem cerimônia, invadindo seus limites com raízes, folhas e flores. À medida que os viajantes deixam Veldhavn para trás, o canto dos pássaros e o farfalhar das folhas acompanham cada passo — mas ao longe, já é possível ver a luz fria de letreiros digitais piscando nas encostas montanhosas que anunciam a chegada de Astralton.\n\nApesar da tranquilidade aparente, a Rota 06 é um ponto de transição simbólico entre dois mundos. Treinadores a percorrem em busca de um momento de respiro entre a rusticidade de Veldhavn e o frenesi tecnológico de Astralton. Há relatos de que a estrada possui sensores embutidos e sinalizações inteligentes, legados da influência tecnológica do norte, mas eles coexistem com postes simples de madeira e placas feitas à mão, ainda mantidas pelos moradores do sul. O contraste entre o natural e o artificial está por toda parte, e a estrada se tornou não apenas um caminho, mas uma metáfora viva da convivência (e tensão) entre tradição e progresso.",
     "map_image": "https://2img.net/i.imgur.com/Xhrbstg.png",
+    "forum_link": "https://seira.forumeiros.com/f45-rota-06",
     "coordinates": {
       "x": 76,
       "y": 74.066
@@ -110,6 +119,7 @@
       ],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [
       {
         "id": "TravelersCamp",
@@ -160,6 +170,12 @@
         "name": "Veldhavn",
         "posts_required": 2,
         "forum_link": "https://seira.forumeiros.com/t130-descricao-veldhavn"
+      },
+      "north": {
+        "id": "AST",
+        "name": "Astralton",
+        "posts_required": "3",
+        "forum_link": ""
       }
     },
     "special_location": false
@@ -508,6 +524,7 @@
     "biome": "Campestre",
     "description": "A Rota 04 se estende como um vasto tapete dourado acima da cidade de Hyperia, onde campos de trigo balançam ao vento sob um céu azul radiante, pontilhado por nuvens suaves como algodão. No coração dessa paisagem bucólica, velhos moinhos de vento giram lentamente, testemunhas silenciosas de gerações de agricultores e criadores que moldaram a região. Pequenas trilhas de terra cortam os campos, conectando diferentes propriedades rurais, cercadas por cercas de madeira e florais silvestres que crescem livremente nas beiradas do caminho.\n\nA atmosfera é serena, mas ativa. A presença de fazendas torna a Rota 04 um ponto estratégico e muito procurado por treinadores em busca de experiência prática, seja trabalhando com Pokémon de campo, seja testando suas habilidades em um ambiente semi-controlado. Alguns estabelecimentos oferecem abrigo e pequenas tarefas em troca de batalhas ou ajuda no cuidado com os Pokémon locais. A rotina aqui é marcada por um equilíbrio entre esforço físico e contemplação, onde os visitantes aprendem que a força também nasce da paciência e do convívio com a terra.",
     "map_image": "https://2img.net/i.imgur.com/ME9dF3D.png",
+    "forum_link": "https://seira.forumeiros.com/f43-rota-04",
     "coordinates": {
       "x": 61.313,
       "y": 38.19
@@ -517,6 +534,7 @@
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [
       {
         "id": "MiniFarm",
@@ -557,7 +575,20 @@
       "BerryTree",
       "ApriTree"
     ],
-    "accesses": {},
+    "accesses": {
+      "north": {
+        "id": "HLL",
+        "name": "Hillshire",
+        "posts_required": "4",
+        "forum_link": ""
+      },
+      "south": {
+        "id": "HYP",
+        "name": "Hyperia",
+        "posts_required": "5",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
@@ -567,6 +598,7 @@
     "biome": "Montanhoso",
     "description": "A Rota 05 é um corredor montanhoso que serpenteia entre encostas íngremes e vales estreitos, conectando a vibrante cidade de Astralton à misteriosa Mina Dourada, antes de seguir rumo a Misthollow. A paisagem é marcada por rochas cinza-esverdeadas, pontes de madeira suspensas sobre desfiladeiros e trilhas estreitas esculpidas pela passagem constante de exploradores e mineradores. Pequenos riachos de águas cristalinas descem das montanhas, formando cascatas que refletem a luz do sol, criando um espetáculo de brilhos que fascina qualquer visitante.\n\nApesar do terreno aparentemente inóspito, a rota possui sinais claros de atividade humana contemporânea: cabos elétricos pendem entre postes improvisados, pequenas cabanas de mineração armazenam suprimentos e o ruído distante de veículos todo-terreno ecoa pelas paredes rochosas. A atmosfera é uma mistura de aventura e tensão; viajantes devem estar preparados para terrenos escorregadios, ventos fortes e encontros inesperados com Pokémon locais. Ao mesmo tempo, há um certo charme rústico: placas de madeira com avisos pitorescos, trilhas de pedra com inscrições antigas de mineradores e áreas de descanso com fogueiras improvisadas revelam que a rota é tanto uma passagem quanto um ponto de convivência.\n\nA Rota 05 também apresenta contrastes marcantes: a robustez da rocha e a suavidade das nuvens que passam rente ao topo das montanhas; a presença tecnológica da energia elétrica e a rusticidade das cabanas de madeira; o perigo das encostas e a beleza tranquila de pequenas clareiras onde a fauna se reúne. É uma rota que recompensa atenção, curiosidade e coragem, atraindo tanto treinadores em busca de desafios quanto turistas em busca de fotografias inesquecíveis.",
     "map_image": "https://2img.net/i.imgur.com/SUnoupj.png",
+    "forum_link": "https://seira.forumeiros.com/f44-rota-05",
     "coordinates": {
       "x": 76,
       "y": 43.547
@@ -578,6 +610,7 @@
       ],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [
       {
         "id": "MinerHut",
@@ -608,7 +641,20 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "north": {
+        "id": "MNDR",
+        "name": "Mina Dourada",
+        "posts_required": "3",
+        "forum_link": "https://seira.forumeiros.com/f31-mina-dourada"
+      },
+      "south": {
+        "id": "RRHI",
+        "name": "Ruinas de Rhisis",
+        "posts_required": "3",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
@@ -617,7 +663,8 @@
     "name": "Mina Dourada",
     "biome": "Cavernoso",
     "description": "A Mina Dourada é um extenso complexo subterrâneo de túneis, veios minerais e galerias abandonadas que se estendem por baixo das encostas entre a Rota 05 e a cidade de Misthollow. Originalmente explorada por mineradores durante o auge da corrida do ouro na região de Seira, o local foi parcialmente reaberto nas últimas décadas como atração turística e ponto de pesquisa geológica.\n\nA estrutura combina o antigo com o moderno: trilhos enferrujados e lanternas antigas convivem com painéis de segurança digitais e sensores de gás. O ar é denso e úmido, iluminado por reflexos amarelados que dançam sobre as paredes metálicas, como se o ouro ainda pulsasse por baixo da rocha. Grupos de engenheiros e pesquisadores se misturam a turistas curiosos e treinadores aventureiros, todos atraídos pelo mistério e pelo brilho que ainda emana das profundezas.\n\nOs Pokémons locais se adaptaram à constante presença humana — alguns auxiliam em pequenas escavações, outros preferem se esconder nas fendas escuras, onde o som das picaretas foi substituído pelo eco de passos e o zumbido das máquinas de ventilação. Apesar da aparência industrial, há um certo encanto natural na forma como musgos dourados e formações minerais cintilam sob a luz artificial. O clima aqui é mais frio e seco, com correntes de ar inesperadas que fazem o som viajar pelos túneis, confundindo viajantes e assustando os desavisados.\n\nA mina é considerada segura — ao menos nos andares abertos ao público. Já as galerias antigas, lacradas por segurança, são conhecidas por emitir ruídos metálicos misteriosos à noite, que muitos juram ser ecos de antigas explosões... ou algo ainda vivo, lá embaixo.",
-    "map_image": "",
+    "map_image": "https://www.brasilmineral.com.br/sites/default/files/2023-08/mina_de_ouro_na_china.jpeg",
+    "forum_link": "https://seira.forumeiros.com/f31-mina-dourada",
     "coordinates": {
       "x": 76,
       "y": 34.49
@@ -629,6 +676,7 @@
       ],
       "based_on": "Gwangmyeong Cave (Coreia do Sul), Naica Mine (México) e na Ikuno Silver Mine (Japão)"
     },
+    "quest_ids": [],
     "points_of_interest": [
       {
         "id": "MineEntrance",
@@ -674,7 +722,20 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "north": {
+        "id": "MHL",
+        "name": "Misthollow",
+        "posts_required": "6",
+        "forum_link": ""
+      },
+      "south": {
+        "id": "R05",
+        "name": "Rota 05",
+        "posts_required": "5",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
@@ -1150,7 +1211,7 @@
     "name": "Ardozart",
     "biome": "",
     "description": "Ardozart é uma metrópole vibrante que nunca dorme, localizada às margens do Rio Magma (um rio de águas termais que desce das montanhas de Hando em direção ao sul de Nassael). A cidade é um mosaico de letreiros de neon, arquitetura art déco e teatros imponentes. O ar é perenemente morno e carrega um leve aroma de madeira queimada e especiarias. É conhecida como o berço do \"Soul de Seira\", um gênero musical que utiliza o som de Pokémon de fogo e elétricos para criar harmonias únicas.",
-    "map_image": "",
+    "map_image": "https://wearememphis.com/wp-content/uploads/2025/09/Beale-Street.jpg",
     "forum_link": "",
     "coordinates": {
       "x": 52.31,
@@ -1158,8 +1219,14 @@
     },
     "metadata": {
       "population": "",
-      "economy": [],
-      "based_on": ""
+      "economy": [
+        "Indústria do entretenimento (música",
+        "cinema e teatro)",
+        "turismo gastronômico",
+        "refinamento de pedras evolutivas",
+        "logística fluvial"
+      ],
+      "based_on": "Memphis, EUA"
     },
     "quest_ids": [],
     "points_of_interest": [],
@@ -1170,7 +1237,20 @@
       "epic": []
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "east": {
+        "id": "R03",
+        "name": "Rota 03",
+        "posts_required": "",
+        "forum_link": ""
+      },
+      "south": {
+        "id": "PTNV",
+        "name": "Pântano de Veyra",
+        "posts_required": "",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
