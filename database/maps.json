@@ -187,6 +187,7 @@
     "biome": "Urbano",
     "description": "Construída sobre os antigos vales do norte de Hando, Hyperia é o maior símbolo da união entre tradição e progresso em Seira. Onde antes existiam templos e jardins silenciosos, hoje erguem-se torres de vidro que refletem o céu em tons elétricos. As ruas brilham com o fluxo contínuo de energia, drones cruzam avenidas como se fossem bandos de Pidove metálicos, e o som das multidões se mistura ao zumbido constante da rede elétrica que nunca dorme.\n\nFundada após a unificação, Hyperia foi escolhida como capital de Seira não apenas por sua localização estratégica, mas por representar o ponto de equilíbrio entre os valores de Hando e Nassael. O norte ofereceu sabedoria e estabilidade; o sul trouxe inovação e comércio. A fusão dessas forças deu origem à cidade que se tornaria o centro da Rede Helix — o grande sistema neural que conecta toda a região.\n\nNo topo da Colina Prisma ergue-se o Laboratório Banyan, coração científico da cidade e marco de uma nova era. Foi ali que a Professora Banyan e sua equipe criaram a Helix, unindo ecossistemas, dados e Pokémon em uma mesma rede inteligente. A presença constante da Helix é sentida em todos os cantos: luzes que se ajustam sozinhas, trens que deslizam sem condutores, telas públicas que transmitem notícias em tempo real sobre o clima, a economia — ou sobre os recentes distúrbios energéticos que preocupam a população.\n\nMas a energia de Hyperia não flui apenas pelos cabos. Ela pulsa nas pessoas. Em meio aos prédios espelhados e praças digitais, multidões se reúnem para assistir ao V!be Showdown, o maior espetáculo cultural de Seira. Parte torneio, parte show, o evento combina batalhas Pokémon, música e performance em apresentações sincronizadas com os batimentos da Helix. Treinadores se tornam estrelas, seus Pokémon dançam entre luzes e hologramas, e o público vota em tempo real, transformando cada duelo em um fenômeno coletivo.\nEm Hyperia, vencer é importante — mas vibrar mais alto que os outros é o verdadeiro triunfo.\n\nNo entanto, nem tudo brilha igualmente na cidade do néon eterno. Sob as camadas de luxo e espetáculo, há bairros antigos que ainda guardam a arquitetura de Hando — ruas estreitas, templos abandonados e comunidades que resistem ao ritmo acelerado do progresso. Enquanto o alto da cidade celebra a conectividade e o entretenimento, os distritos baixos sofrem com falhas de energia, quedas de sistema e boatos sobre aparências estranhas ligadas à instabilidade da Helix.",
     "map_image": "https://2img.net/i.imgur.com/ZiLFurO.png",
+    "forum_link": "https://seira.forumeiros.com/f24-hyperia",
     "coordinates": {
       "x": 61.203,
       "y": 51.4
@@ -200,6 +201,7 @@
       ],
       "based_on": "Seoul, Coreia do Sul"
     },
+    "quest_ids": [],
     "points_of_interest": [
       {
         "id": "BanyanLab",
@@ -260,7 +262,20 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "north": {
+        "id": "R04",
+        "name": "Rota 04",
+        "posts_required": "",
+        "forum_link": "https://seira.forumeiros.com/f43-rota-04"
+      },
+      "south": {
+        "id": "R03",
+        "name": "Rota 03",
+        "posts_required": "",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
@@ -270,6 +285,7 @@
     "biome": "Campestre",
     "description": "Entre colinas suaves e vinhedos dourados, Hillshire floresce como o coração verde de Seira. Suas origens estão fincadas nos vales do antigo Reino de Hando, mas a cidade recebeu forte influência externa, dando-lhe um charme cosmopolita que muitos associam a Nassael. É uma cidade que celebra a natureza em cada detalhe: casarões de pedra cobertos de hera, pomares aromáticos, praças floridas e cafés ao ar livre que exalam o aroma de vinho local e pão recém-assado.\n\nAs ruas serpenteiam pelos campos, seguindo trilhas antigas que conectam fazendas, jardins botânicos e pequenas vinícolas. Apesar da aparência pastoral, Hillshire não é uma cidade isolada: estradas bem conservadas, pequenos centros comerciais e mercados conectam a cidade às demais regiões de Seira, permitindo que produtos agrícolas e artesanais ganhem fama continental.\n\nO ritmo em Hillshire é diferente do acelerado das metrópoles como Hyperia. Aqui, o tempo parece desacelerar: moradores conversam à sombra das oliveiras, artistas pintam murais nas paredes antigas e treinadores de Pokémon do tipo Planta utilizam os vastos campos para treinar e realizar competições sazonais. A cidade possui uma forte tradição ecológica, com jardins verticais, hortas comunitárias e reservas naturais que convivem com o espaço urbano, evidenciando a harmonização entre progresso e preservação.\n\nApesar do clima sereno, Hillshire tem seus contrastes: áreas turísticas e vinícolas prosperam com turistas e visitantes, enquanto pequenas comunidades rurais enfrentam dificuldades com tecnologia limitada e infraestrutura precária. Essa dualidade cria uma atmosfera única, em que o passado e o presente se encontram e se complementam.",
     "map_image": "https://2img.net/i.imgur.com/WHB7ssW.png",
+    "forum_link": "https://seira.forumeiros.com/f50-hillshire",
     "coordinates": {
       "x": 61.256,
       "y": 28.992
@@ -284,6 +300,7 @@
       ],
       "based_on": "Tuscany, Itália"
     },
+    "quest_ids": [],
     "points_of_interest": [
       {
         "id": "GymGrass",
@@ -353,7 +370,14 @@
       "BerryTree",
       "ApriTree"
     ],
-    "accesses": {},
+    "accesses": {
+      "south": {
+        "id": "R04",
+        "name": "Rota 04",
+        "posts_required": "",
+        "forum_link": "https://seira.forumeiros.com/f43-rota-04"
+      }
+    },
     "special_location": false
   },
   {
@@ -362,7 +386,8 @@
     "name": "Astralton",
     "biome": "Urbano",
     "description": "Astralton se ergue entre colinas e rios sinuosos, uma metrópole vertiginosa onde o céu é um mosaico de néon e o reflexo das luzes se confunde com a neblina constante. Construída sobre antigas rotas comerciais, a cidade manteve um emaranhado de passagens, pontes suspensas e becos estreitos que se entrelaçam com arranha-céus futuristas. Elevadores externos escalam fachadas de vidro, enquanto túneis subterrâneos abrigam mercados clandestinos e arenas improvisadas, onde Pokémon e pessoas testam limites longe do olhar da lei.\n\nO contraste entre riqueza e precariedade é visível a cada esquina: áreas centrais ostentam torres iluminadas, shopping centers verticais e cafés panorâmicos, enquanto bairros periféricos vivem à sombra de grafites, anúncios holográficos piscando e pequenos laboratórios independentes. Jovens engenheiros, hackers e artistas de rua transformam o caos em expressão urbana, criando festivais de luzes, performances e invenções que florescem na escuridão. A influência do tipo Noturno é sentida na arquitetura que abraça sombras, no ritmo da cidade e nas histórias de enigmas e furtos que circulam pelos becos.\n\nO clima constante de movimentação cria uma cidade que nunca dorme, mas também nunca relaxa: sirenes, drones de entrega e anúncios luminosos se misturam com o murmúrio dos rios e o eco das passarelas, formando uma sinfonia caótica que define Astralton. Apesar do perigo percebido, existe um sentimento de pertencimento para aqueles que sabem navegar suas luzes e sombras — um convite à aventura, ao risco e à criatividade sem limites.",
-    "map_image": "",
+    "map_image": "https://2img.net/i.imgur.com/j24qAnc.png",
+    "forum_link": "https://seira.forumeiros.com/f32-astralton",
     "coordinates": {
       "x": 76,
       "y": 64
@@ -377,6 +402,7 @@
       ],
       "based_on": "Chongqing, China"
     },
+    "quest_ids": [],
     "points_of_interest": [
       {
         "id": "GymDark",
@@ -436,7 +462,20 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "north": {
+        "id": "RRHI",
+        "name": "Ruinas de Rhisis",
+        "posts_required": "",
+        "forum_link": ""
+      },
+      "south": {
+        "id": "R06",
+        "name": "Rota 06",
+        "posts_required": "",
+        "forum_link": "https://seira.forumeiros.com/f45-rota-06"
+      }
+    },
     "special_location": false
   },
   {
@@ -446,6 +485,7 @@
     "biome": "Florestal",
     "description": "Envolta em névoas densas que descem das montanhas ao redor, Misthollow se ergue como um enclave isolado no norte de Seira. A cidade se espalha ao longo de vales úmidos, ladeados por coníferas e florestas mistas que parecem engolir as construções modernas. Casas de madeira escura, muitas vezes envelhecidas pela umidade, se misturam a prédios contemporâneos de concreto e vidro fosco, criando um contraste entre tradição e modernidade.\n\nO ritmo da cidade é lento e introspectivo: ruas estreitas serpenteiam por colinas cobertas de neblina, pontes de pedra conectam bairros e pequenas praças são iluminadas por lanternas amarelas, que brilham através da bruma como guias para os moradores e visitantes. A economia local gira em torno da pesca em lagos e rios gelados, produtos de madeira e cereais cultivados nas encostas, além de um turismo contemplativo que busca a paz e o silêncio que Misthollow oferece.\n\nApesar da aparência tranquila, a cidade abriga segredos antigos. Locais abandonados no alto das montanhas e trilhas escondidas atraem exploradores e pesquisadores, que relatam encontros com Pokémon que parecem observar de longe, surgindo e desaparecendo com a névoa. Essa presença constante cria uma aura de mistério que permeia a vida cotidiana: crianças correm pelas ruas com lanternas, idosos caminham lentamente entre templos e mercados, e artistas capturam a neblina em pinturas e fotografias, celebrando a beleza efêmera do lugar.",
     "map_image": "https://2img.net/i.imgur.com/bMADkSG.png",
+    "forum_link": "https://seira.forumeiros.com/f54-misthollow",
     "coordinates": {
       "x": 76,
       "y": 25.67
@@ -460,6 +500,7 @@
       ],
       "based_on": "Hokkaido, Japão"
     },
+    "quest_ids": [],
     "points_of_interest": [
       {
         "id": "GymGhost",
@@ -512,9 +553,17 @@
     },
     "interaction_objects": [
       "apricorn-tree-01",
-      "BerryTree"
+      "BerryTree",
+      "FishLake"
     ],
-    "accesses": {},
+    "accesses": {
+      "south": {
+        "id": "MNDR",
+        "name": "Mina Dourada",
+        "posts_required": "",
+        "forum_link": "https://seira.forumeiros.com/f31-mina-dourada"
+      }
+    },
     "special_location": false
   },
   {
@@ -745,6 +794,7 @@
     "biome": "Ruinoso",
     "description": "Entre colinas suaves e campos floridos, repousam as Ruínas de Rhisis, vestígios de uma antiga civilização que marcou a história de Seira. Colunas partidas e blocos de pedra espalhados pelo terreno formam corredores abertos e plataformas irregulares, enquanto o vento percorre os espaços vazios, criando um sussurro contínuo que parece narrar histórias antigas. O terreno é irregular, com desníveis que desafiam os viajantes e blocos de pedra instáveis que exigem cuidado ao atravessar.\n\nApesar da antiguidade, a região é integrada ao mundo moderno: trilhas de caminhada e pequenos mirantes foram instalados por exploradores e estudiosos, e placas informativas digitais fornecem dados históricos, contrastando com a sensação de abandono das ruínas. Treinadores aproveitam o local para treinos, exploração e estudos arqueológicos, enquanto pequenos Pokémon habitam frestas e blocos caídos, criando um ecossistema próprio entre pedras e musgo.",
     "map_image": "https://2img.net/i.imgur.com/IV51npg.png",
+    "forum_link": "https://seira.forumeiros.com/f29-ruinas-de-rhisis",
     "coordinates": {
       "x": 76,
       "y": 53.4
@@ -754,6 +804,9 @@
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [
+      "quest-1768100600429"
+    ],
     "points_of_interest": [
       {
         "id": "poi-1763224350210",
@@ -793,6 +846,12 @@
         "name": "Astralton",
         "posts_required": 4,
         "forum_link": "https://seira.forumeiros.com/t118-descricao-ruinas-de-rhisis"
+      },
+      "north": {
+        "id": "R05",
+        "name": "Rota 05",
+        "posts_required": "4",
+        "forum_link": "https://seira.forumeiros.com/f44-rota-05"
       }
     },
     "special_location": false
@@ -801,9 +860,10 @@
     "id": "LUM",
     "type": "city",
     "name": "Lumiose",
-    "biome": "",
-    "description": "evento de lumiose",
-    "map_image": "",
+    "biome": "Urbano",
+    "description": "Uma metrópole deslumbrante de arte e artifício, localizada no coração da região de Kalos.\n\nLumiose é uma grande cidade que funciona como um importante centro localizado na região centro-norte de Kalos, conhecida por ser a segunda cidade mais populosa do mundo Pokémon atualmente conhecido, atrás apenas de Mesagoza.\n\nFamosa por seus pontos turísticos, como a Torre Prisma e o Museu de Lumiose, a cidade atrai muitos turistas. Suas diversas lojas, cafés e restaurantes são populares tanto entre visitantes quanto moradores. A arquitetura da cidade apresenta altos prédios comerciais e amplos bulevares nos arredores, com edifícios menores em estilo parisiense alinhados nas avenidas internas. O Canal Saison atravessa a cidade diagonalmente, e as vias acomodam tanto automóveis quanto o tráfego de Gogoats.\n\nA cidade possui cinco portões que a conectam a rotas externas. ",
+    "map_image": "https://storage.googleapis.com/acjpictures/eurotrip_2015/img_0349.jpg",
+    "forum_link": "",
     "coordinates": {
       "x": 0,
       "y": 0
@@ -811,14 +871,27 @@
     "metadata": {
       "population": "",
       "economy": [],
-      "based_on": ""
+      "based_on": "Paris"
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
-      "epic": []
+      "common": [
+        661,
+        173,
+        69
+      ],
+      "rare": [
+        688,
+        677,
+        674
+      ],
+      "epic": [
+        374,
+        443,
+        371
+      ]
     },
     "interaction_objects": [],
     "accesses": {},
@@ -831,6 +904,7 @@
     "biome": "Boreal",
     "description": "No coração gélido da região de Seira, no extremo Leste do território, aninhada entre colinas cobertas por pinheiros eternamente nevados, encontra-se Frostdale, uma vila que parece ter congelado no tempo, literalmente e figurativamente. Fundada originalmente por colonos visionários que buscavam criar um refúgio artístico longe do frenesi urbano, Frostdale acabou se tornando um santuário natalino permanente, onde o espírito do Natal é celebrado o ano inteiro, o cheiro de pinho e chocolate quente paira no ar e cada canto da cidade brilha com luzes cintilantes que nunca se apagam. O céu, frequentemente tingido de tons alaranjados ao entardecer, contrasta com os telhados cobertos de neve e com os jardins públicos onde esculturas de gelo são recriadas semanalmente por artesãos locais. Apesar do frio cortante, há um calor invisível na recepção de seus moradores, que vivem em harmonia com a natureza, com tradições festivas e com a estética que torna Frostdale tão especial.\n\nAo contrário do que se poderia esperar de uma cidade permanentemente coberta de neve, Frostdale pulsa com vida cultural. Cafeterias de estilo alpino dividem espaço com oficinas criativas, estúdios de artesanato temático, uma central de correspondências festivas e praças onde trenós decorativos e renas fazem parte do cenário cotidiano, enquanto canções sazonais ecoam pelas ruas durante todo o ano. A cidade possui uma infraestrutura moderna e sustentável, com uso inteligente de energia geotérmica e um transporte urbano elétrico adaptado para o frio intenso. No entanto, Frostdale também convive com dilemas únicos: o excesso de turismo em busca de experiências encantadas e o isolamento das comunidades periféricas que vivem em chalés afastados dos circuitos mais ornamentados. Ainda assim, mesmo sob um verniz de conto de fadas gelado, Frostdale é um lugar real, onde tradição e modernidade se equilibram sobre uma camada constante de neve fofa e reluzente.",
     "map_image": "https://i.imgur.com/QRLplvt.png",
+    "forum_link": "https://seira.forumeiros.com/f33-frostdale",
     "coordinates": {
       "x": 91.21,
       "y": 56.91
@@ -844,6 +918,7 @@
       ],
       "based_on": "Rovaniemi, Finlândia"
     },
+    "quest_ids": [],
     "points_of_interest": [
       {
         "id": "GymIce",
@@ -896,7 +971,14 @@
     "interaction_objects": [
       "ApriTree"
     ],
-    "accesses": {},
+    "accesses": {
+      "north": {
+        "id": "R07",
+        "name": "Rota 07",
+        "posts_required": "",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
@@ -905,7 +987,7 @@
     "name": "Rota 07",
     "biome": "Boreal",
     "description": "A Rota 07 serpenteia por uma floresta boreal silenciosa, onde os troncos altos e retos das coníferas se erguem como pilares de gelo entre bancos de neve espessa. O som mais comum é o do vento frio cortando entre os galhos e o estalar ocasional do gelo sob os pés. Pequenas poças e lagos congelados pontilham a paisagem, refletindo os tons azulados e alaranjados do céu, enquanto a luz tênue do sol de inverno brilha por entre os galhos como brasas silenciosas. Ao sul, a cidade de Frostdale se insinua como uma sombra adormecida entre as árvores. Ao norte, a trilha estreita começa a se elevar em direção ao colossal Monte Glacius, uma montanha de gelo perene cuja silhueta domina o horizonte como uma sentinela ancestral.\n\nA Rota 07 é mais silenciosa do que solitária — há uma presença constante, mas nunca invasiva. Treinadores experientes cruzam essa rota com passos cuidadosos, alertas ao terreno escorregadio e às armadilhas naturais escondidas sob a neve. A floresta, embora bela, exige respeito: árvores tortas pelos ventos do norte, riachos semicongelados e a constante sensação de estar sendo observado são parte do caminho. Placas de madeira cobertas de neve indicam passagens seguras, deixadas por guardas de Frostdale ou viajantes solidários. Ao cair da noite, a temperatura despenca, tornando a travessia perigosa para quem não estiver preparado.",
-    "map_image": "",
+    "map_image": "https://thumbs.dreamstime.com/b/montanha-top-view-no-inverno-rotas-de-esqui-nas-montanhas-neve-espa%C3%A7o-c%C3%B3pia-para-o-seu-produto-175375325.jpg",
     "forum_link": "",
     "coordinates": {
       "x": 90.99,
@@ -916,7 +998,20 @@
       "economy": [],
       "based_on": ""
     },
-    "points_of_interest": [],
+    "quest_ids": [],
+    "points_of_interest": [
+      {
+        "id": "poi-1768102618772",
+        "name": "Estação de Revezamento Helix-Omega",
+        "type": "facility",
+        "description": "Um bunker tecnológico de metal e vidro reforçado que serve como abrigo para viajantes e centro de manutenção para os drones climáticos.\n",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "Possível usar para recuperar apenas metade do HP, não curando condições especiais, uma vez por passagem.",
+        "shop_data": null
+      }
+    ],
     "forageable_items": [],
     "spawns": {
       "common": [
@@ -931,12 +1026,25 @@
       ],
       "epic": [
         875,
-        131,
+        899,
         722
       ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "south": {
+        "id": "FRT",
+        "name": "Frostdale",
+        "posts_required": "5",
+        "forum_link": "https://seira.forumeiros.com/f33-frostdale"
+      },
+      "west": {
+        "id": "MTGL",
+        "name": "Monte Glacio",
+        "posts_required": "5",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
@@ -945,7 +1053,7 @@
     "name": "Monte Glacio",
     "biome": "Boreal",
     "description": "O Monte Glacius ergue-se imponente como uma muralha de gelo esculpida pelo tempo, seus picos ocultos sob nuvens densas e suas encostas cobertas por uma espessa camada de neve perene. Trilhas escorregadias levam até planaltos elevados, onde quedas-d’água parcialmente congeladas despencam em vales silenciosos, pintando o ar com névoas cristalinas. O vento sopra com força constante, assobiando entre os penhascos e os pinheiros que sobrevivem nas bordas da floresta boreal ao sul. A cada passo, a paisagem revela um novo tipo de beleza gélida — desde fendas profundas onde a luz do sol cria reflexos azuis nos cristais de gelo, até platôs abertos de onde se avista todo o continente de Seira, coberto por um véu de nuvens brancas.\n\nA subida pelo Monte Glacius é perigosa, e poucas pessoas o escalam por completo. Ainda assim, ele é procurado por treinadores veteranos em busca de provações extremas, estudiosos que pesquisam suas formações únicas e até por viajantes que desejam apenas contemplar sua grandiosidade. Há estruturas abandonadas e cabanas de madeira em pontos estratégicos da montanha, lembranças de antigas expedições e estações de observação do clima. Lendas locais falam de ecos misteriosos vindos do interior da montanha, e alguns afirmam que há caminhos ocultos sob o gelo, como corredores naturais esculpidos por gerações de Pokémon que ali habitam.",
-    "map_image": "",
+    "map_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkHWmMmCzpSxAQjTli4mr96v66VxYfSxmEg&s",
     "forum_link": "",
     "coordinates": {
       "x": 83.5,
@@ -956,6 +1064,7 @@
       "economy": [],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
@@ -976,7 +1085,20 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "east": {
+        "id": "R07",
+        "name": "Rota 07",
+        "posts_required": "5",
+        "forum_link": ""
+      },
+      "west": {
+        "id": "R05",
+        "name": "Rota 05",
+        "posts_required": "5",
+        "forum_link": "https://seira.forumeiros.com/f44-rota-05"
+      }
+    },
     "special_location": false
   },
   {
@@ -985,7 +1107,7 @@
     "name": "Azurecrest",
     "biome": "Litorâneo",
     "description": "Brilhante, exuberante e eternamente desperta, Azurecrest ergue-se ao longo da costa como o maior símbolo de fama, ambição e imaginação de Seira. Inspirada pelo brilho urbano de grandes metrópoles litorâneas, a cidade é composta por avenidas largas iluminadas por letreiros holográficos, arranha-céus espelhados, estúdios de produção, passarelas a céu aberto e cassinos luxuosos que nunca fecham as portas. O mar reflete as luzes da cidade durante a noite, criando um espetáculo visual contínuo onde moda, entretenimento e ostentação se misturam. Azurecrest é conhecida como a “cidade dos sonhos” porque ali tudo parece possível, sucesso, reconhecimento e reinvenção caminham lado a lado com o som constante de aplausos, música e apostas altas.\n\nPor trás do glamour e da vida noturna intensa, Azurecrest abriga uma poderosa essência psíquica que permeia sua cultura e seu ginásio. Artistas, estilistas, performers e visionários são atraídos não apenas pela fama, mas pela energia criativa imprevisível que pulsa na cidade, capaz de transformar ideias em realidade concreta. Cassinos e teatros coexistem com centros de criação, galerias experimentais e academias mentais, onde o foco, a imaginação e a força da mente são lapidados. Apesar do ritmo acelerado e da aparência extravagante, Azurecrest também carrega um lado instável: sonhos podem florescer rapidamente, mas também se desfazer com a mesma velocidade. Ainda assim, é exatamente essa dualidade entre brilho e pressão, fantasia e verdade que torna Azurecrest o coração psíquico e aspiracional de Seira.",
-    "map_image": "",
+    "map_image": "https://media.discordapp.net/attachments/1458088297065873595/1458585153075941560/f1.png?ex=69642147&is=6962cfc7&hm=4b8e6868bd14755553758a314d76a995fdcc3655770c99f218fc0054356da10d&=&format=webp&quality=lossless&width=1340&height=892",
     "forum_link": "",
     "coordinates": {
       "x": 37.82,
@@ -993,8 +1115,10 @@
     },
     "metadata": {
       "population": "",
-      "economy": [],
-      "based_on": ""
+      "economy": [
+        "Cassinos"
+      ],
+      "based_on": "Los Angeles"
     },
     "quest_ids": [],
     "points_of_interest": [],
@@ -1002,10 +1126,19 @@
     "spawns": {
       "common": [],
       "rare": [],
-      "epic": []
+      "epic": [
+        653
+      ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "east": {
+        "id": "R02",
+        "name": "Rota 02",
+        "posts_required": "",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
@@ -1014,7 +1147,7 @@
     "name": "Mistralia",
     "biome": "Montanhoso",
     "description": "Antiga, solene e envolta por mistério, Mistralia é reconhecida como a cidade mais antiga de toda Seira e o berço do conhecimento dracônico da região. Erguida entre montanhas escarpadas constantemente cobertas por névoa e florestas densas de coníferas, a cidade parece emergir de uma lenda viva. Torres góticas, muralhas de pedra negra e castelos imponentes inspirados em fortalezas ancestrais, dominam o horizonte, testemunhando eras em que dragões sobrevoavam os céus e domadores lendários moldavam o destino do território. O clima frio e a luz difusa reforçam a atmosfera austera, enquanto sinos antigos e o bater do vento contra as ameias ecoam pelas ruas estreitas de pedra.\n\nApesar de sua aparência severa e quase intimidadora, Mistralia exala uma elegância atemporal baseada na disciplina, no estudo e na força controlada. A cidade é lar de academias dracônicas, bibliotecas milenares, ordens de treinadores e estudiosos que dedicam suas vidas a compreender o poder ancestral dos Pokémon Dragão. Tradições rigorosas convivem com rituais de passagem, batalhas cerimoniais e festivais históricos que celebram feitos do passado. Em Mistralia, poder não é ostentação, mas legado e cada treinador que pisa em suas ruas sabe que ali, força e sabedoria caminham juntas sob a sombra majestosa das montanhas.",
-    "map_image": "",
+    "map_image": "https://cdn.discordapp.com/attachments/1458088297065873595/1458585271754031248/1200px-Bran_Castle_TB1.png?ex=69642163&is=6962cfe3&hm=1b4bcab20343292cadded65ef07e3fbc4804c96d98de4f36eac92cb2fea3d0da&",
     "forum_link": "",
     "coordinates": {
       "x": 37.82,
@@ -1185,7 +1318,8 @@
       ],
       "epic": [
         123,
-        234
+        234,
+        498
       ]
     },
     "interaction_objects": [],
@@ -1193,13 +1327,13 @@
       "north": {
         "id": "HYP",
         "name": "Hyperia",
-        "posts_required": "2 posts",
+        "posts_required": "3 posts",
         "forum_link": ""
       },
       "west": {
         "id": "ARD",
         "name": "Ardozart",
-        "posts_required": "2 posts",
+        "posts_required": "3 posts",
         "forum_link": ""
       }
     },
@@ -1234,7 +1368,9 @@
     "spawns": {
       "common": [],
       "rare": [],
-      "epic": []
+      "epic": [
+        909
+      ]
     },
     "interaction_objects": [],
     "accesses": {
@@ -1257,18 +1393,22 @@
     "id": "SLV",
     "type": "city",
     "name": "Silvershore",
-    "biome": "",
-    "description": "aqui",
-    "map_image": "",
+    "biome": "Litorâneo",
+    "description": "Situada no Sul Costeiro de Seira, Silvershore é o ápice do luxo e da beleza tropical, servindo como o refúgio paradisíaco da região. A cidade é um arquipélago de ilhotas interconectadas por passarelas de madeira polida e pontes de vidro que permitem observar o ecossistema marinho vibrante logo abaixo dos pés. Conhecida mundialmente como a \"Ilha do Amor\", Silvershore é o destino preferido para luas de mel e celebrações, onde o sol brilha quase o ano todo e a neve, comum no Leste, é um fenômeno cientificamente impossível graças à regulação térmica da Rede Helix.\n\nA cidade exala uma atmosfera de serenidade e opulência. Bangalôs sobre as águas turquesa misturam o design rústico do antigo Reino de Nassael com conveniências tecnológicas invisíveis. Durante o dia, o som predominante é o das ondas quebrando suavemente nos recifes de coral e o canto dos Wingull; à noite, Silvershore se transforma em um espetáculo de luzes subaquáticas, com jardins de corais bioluminescentes iluminando as águas para os nadadores noturnos. A economia local é movida pelo turismo de alto padrão, pela preservação de espécies marinhas e pela pérola de prata, uma gema orgânica rara produzida apenas pelos Shellder desta baía.\n\nApesar da fachada perfeita, Silvershore é um ponto estratégico vital para a unificação de Seira. Como antiga possessão de Nassael, ela detém os segredos das correntes marítimas que conectam o continente às ilhas distantes. A Rede Helix aqui atua de forma intensiva, controlando as marés e mantendo a temperatura da água constante para proteger os corais sensíveis.",
+    "map_image": "https://digital.ihg.com/is/image/ihg/intercontinental-bora-bora-9636653008-2x1?",
     "forum_link": "",
     "coordinates": {
       "x": 7.57,
       "y": 24.88
     },
     "metadata": {
-      "population": "",
-      "economy": [],
-      "based_on": ""
+      "population": " Aproximadamente 42.000 (população fixa, mas triplica em épocas festivas).",
+      "economy": [
+        "Turismo de luxo",
+        "Maricultura (Pérolas de Prata)",
+        "Pesquisa Oceanográfica e Gastronomia Internacional."
+      ],
+      "based_on": "Bora Bora"
     },
     "quest_ids": [],
     "points_of_interest": [],
@@ -1276,10 +1416,25 @@
     "spawns": {
       "common": [],
       "rare": [],
-      "epic": []
+      "epic": [
+        912
+      ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "east": {
+        "id": "R09",
+        "name": "Rota 09",
+        "posts_required": "",
+        "forum_link": ""
+      },
+      "north": {
+        "id": "VULC",
+        "name": "Vulcão",
+        "posts_required": "",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
@@ -1288,16 +1443,20 @@
     "name": "Cragport",
     "biome": "Litorâneo",
     "description": "Cragport se ergue dramaticamente sobre falésias claras que despencam direto no mar azul-intenso de Seira. Construída em níveis, a cidade parece esculpida na própria rocha, com casas geométricas de tons claros, terraços suspensos e escadarias intermináveis que conectam bairros inteiros. À distância, lembra uma galeria a céu aberto; de perto, revela-se vibrante, barulhenta e cheia de contrastes. Originalmente um porto voltado à extração mineral e à pesca costeira, Cragport se reinventou nas últimas décadas como um dos principais polos de artes plásticas da região. Antigas pedreiras tornaram-se ateliês, museus e espaços de exposição, enquanto galpões industriais foram ocupados por cafés minimalistas, galerias conceituais e escolas de arte experimental. Esculturas monumentais dominam praças, encostas e até áreas parcialmente submersas, frequentemente provocando debates públicos sobre estética, segurança e os limites do “bom gosto”.\n\nLocalizada em uma faixa litorânea naturalmente mais quente, Cragport desenvolveu uma rotina adaptada ao clima intenso: a cidade desperta cedo, desacelera nas horas mais abafadas do dia e volta a pulsar ao entardecer, quando a luz dourada reflete nas fachadas claras e a brisa marítima suaviza o calor. Socialmente, vive uma tensão constante entre tradição e mercantilização. Turistas endinheirados circulam lado a lado com artistas precarizados, enquanto moradores antigos criticam a gentrificação ao mesmo tempo em que se beneficiam dela. Essa contradição sustenta uma atmosfera única, onde criatividade, desgaste urbano e permanência coexistem, como se Cragport estivesse sempre à beira de ruir, mas eternamente destinada a permanecer.",
-    "map_image": "",
+    "map_image": "https://cdn2.paraty.es/demo14/images/ef7d8f6c8bff807",
     "forum_link": "",
     "coordinates": {
       "x": 9.52,
       "y": 61.1
     },
     "metadata": {
-      "population": "",
-      "economy": [],
-      "based_on": ""
+      "population": "Aproximadamente 55.000 pessoas (população flutuante alta devido ao turismo).",
+      "economy": [
+        "Artes Plásticas (Escultura e Cerâmica)",
+        "Turismo de Luxo",
+        "Extração de Minerais Vulcânicos e Pesquisa Geotérmica."
+      ],
+      "based_on": "Santorini"
     },
     "quest_ids": [],
     "points_of_interest": [],
@@ -1307,10 +1466,19 @@
       "rare": [
         10084
       ],
-      "epic": []
+      "epic": [
+        656
+      ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "east": {
+        "id": "R10",
+        "name": "Rota 10",
+        "posts_required": "",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
@@ -1318,17 +1486,21 @@
     "type": "city",
     "name": "Halzbury",
     "biome": "",
-    "description": "aqui",
-    "map_image": "",
+    "description": "Localizada no Norte Montanhoso, Halzbury é a joia da coroa do antigo Reino de Hando. A cidade é um labirinto poético de canais de águas cristalinas que serpenteiam entre arranha-céus modernos e templos ancestrais de telhados curvos. Diferente das cidades portuárias do sul, aqui o ritmo é ditado pela contemplação e pela elegância. O ar é fresco, carregado com o aroma persistente de flores de amoreira e chá verde, enquanto o som predominante não é o do tráfego, mas o suave zumbido rítmico de milhares de Pokémon Inseto que vivem em harmonia com a infraestrutura urbana.\n\nA arquitetura de Halzbury é uma fusão impecável de tradição e tecnologia. Painéis de vidro translúcido protegem jardins verticais onde o ciclo de vida dos Pokémon é exibido como arte viva. Nas ruas, a moda é a linguagem principal; os cidadãos vestem sedas tecnológicas que mudam de cor conforme o humor ou o clima, produzidas em colaboração com colônias de Leavanny e Vivillon. A presença da Rede Helix é onipresente, manifestando-se em drones polinizadores prateados e projeções holográficas que flutuam sobre o Lago dos Reflexos, guiando os habitantes com uma precisão matemática que beira o espiritual.",
+    "map_image": "https://www.china-admissions.com/wp-content/uploads/2020/07/Hangzhou-City-China.jpg",
     "forum_link": "",
     "coordinates": {
       "x": 22.77,
       "y": 24.88
     },
     "metadata": {
-      "population": "",
-      "economy": [],
-      "based_on": ""
+      "population": "Aproximadamente 115.000 pessoas.",
+      "economy": [
+        "Alta costura (Seda Helix)",
+        "Pesquisa Entomológica",
+        "Botânica Medicinal e Turismo de Luxo."
+      ],
+      "based_on": "Hangzhou, China"
     },
     "quest_ids": [],
     "points_of_interest": [],
@@ -1339,16 +1511,35 @@
       "epic": []
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "south": {
+        "id": "ILHA",
+        "name": "Ilha",
+        "posts_required": "",
+        "forum_link": ""
+      },
+      "east": {
+        "id": "SELV",
+        "name": "Selva",
+        "posts_required": "",
+        "forum_link": ""
+      },
+      "west": {
+        "id": "R09",
+        "name": "Rota 09",
+        "posts_required": "",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
     "id": "R08",
     "type": "route",
     "name": "Rota 08",
-    "biome": "",
-    "description": "aqui",
-    "map_image": "",
+    "biome": "Árido",
+    "description": "A Rota 08 estende-se por um território de solo avermelhado e rachado, onde a vegetação xerofítica — composta por arbustos retorcidos de galhos cinzentos e cactos monumentais — cria um labirinto natural de espinhos. O calor aqui é diferente do de Cragport; é um calor seco que \"suga\" a energia, onde o silêncio é interrompido apenas pelo estalo da madeira ressecada e pelo canto estridente de Pokémon carnívoros, frequentemente observando os aventureiros que esquecem de se munir com água para atravessar a rota. A paisagem é pontuada por \"serrotes\" (pequenas colinas rochosas) que oferecem os únicos pontos de sombra real contra o sol implacável do Oeste.\n\nNesta rota, a Rede Helix enfrenta um desafio constante de equilíbrio. Como é uma zona de transição, a IA tenta manter sistemas de irrigação subterrânea para impedir que o deserto de Sandridge consuma a Selva vizinha. No entanto, as falhas recentes criaram \"oásis fantasmas\": áreas onde a grama cresce verdejante por alguns metros antes de desaparecer em uma miragem digital, confundindo treinadores e Pokémon. Para atravessar a Rota 08 exige gestão de recursos; é um lugar onde a água é mais valiosa que poções e onde a resiliência da flora local ensina que, em Seira, a vida sempre encontra um caminho, mesmo nas condições mais duras.\n\nHistoricamente, a Rota 08 era o território dos \"Vaqueiros de Nassael\", cavaleiros que criavam Pokémon de carga em condições extremas e que serviam como batedores durante a Guerra das Coroas. Eles conheciam cada fonte de água escondida e cada caverna nos serrotes. Hoje, os vestígios dessa cultura — currais de pedra e trilhas marcadas por gravuras em cactos — misturam-se aos sensores prateados da Helix, criando um cenário que une o rústico ao futurista, preparando o viajante para o choque de umidade que o aguarda.",
+    "map_image": "https://i.imgur.com/cofuZiE.jpeg",
     "forum_link": "",
     "coordinates": {
       "x": 37.88,
@@ -1365,19 +1556,34 @@
     "spawns": {
       "common": [],
       "rare": [],
-      "epic": []
+      "epic": [
+        4
+      ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "south": {
+        "id": "SAN",
+        "name": "Sandridge",
+        "posts_required": "3",
+        "forum_link": ""
+      },
+      "west": {
+        "id": "SELV",
+        "name": "Selva",
+        "posts_required": "5",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
     "id": "R09",
     "type": "route",
     "name": "Rota 09",
-    "biome": "",
-    "description": "",
-    "map_image": "",
+    "biome": "Marinho",
+    "description": "A Rota 09 é uma vasta extensão oceânica que serve como a única artéria vital conectando o arquipélago paradisíaco de Silvershore ao continente. Diferente das águas rasas e controladas da ilha, esta rota mergulha em um azul safira profundo e imponente, onde o poder do mar é sentido em cada ondulação. O horizonte é uma linha infinita onde o céu encontra o oceano, interrompido apenas por navios de cruzeiro luxuosos, barcaças de carga pesada e treinadores montados em Pokémon aquáticos que desafiam as correntes para alcançar o \"Portão do Sul\".\n\nA navegação nesta rota é um espetáculo de simbiose entre natureza e tecnologia. A Rede Helix mantém aqui o seu sistema mais complexo de boias oceânicas luminescentes, que não apenas marcam o caminho seguro contra recifes submersos, mas também emitem frequências sonoras que acalmam Pokémon territoriais e regulam a altura das marés para garantir viagens suaves. \n\nHistoricamente, a Rota 09 foi o palco das maiores manobras navais do antigo Reino de Nassael. Era por este caminho que as riquezas de além-mar chegavam para financiar a Guerra das Coroas, e as profundezas ainda guardam os esqueletos de metal e madeira de navios que nunca chegaram ao seu destino. Para os treinadores, atravessar a Rota 09 é uma experiência de liberdade e perigo; o som constante do vento marinho e o salitre na pele lembram que, apesar do luxo de Silvershore estar logo atrás, o oceano de Seira é um território selvagem que exige respeito, estratégia e um vínculo forte com os Pokémon que dominam as profundezas.",
+    "map_image": "https://i.imgur.com/5LxbqY0.jpeg",
     "forum_link": "",
     "coordinates": {
       "x": 15.19,
@@ -1394,10 +1600,25 @@
     "spawns": {
       "common": [],
       "rare": [],
-      "epic": []
+      "epic": [
+        728
+      ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "east": {
+        "id": "HBZ",
+        "name": "Halzbury",
+        "posts_required": "4",
+        "forum_link": ""
+      },
+      "west": {
+        "id": "SLV",
+        "name": "Silvershore",
+        "posts_required": "4",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
@@ -1433,10 +1654,10 @@
     "id": "PTNV",
     "type": "landmark",
     "name": "Pântano de Veyra",
-    "biome": "",
+    "biome": "Pantanoso",
     "description": "O Pântano de Veyra se estende como uma ferida úmida no sul da região de Seira. Nenhuma cidade ousou se estabelecer em suas margens: o terreno instável, os gases tóxicos e a aura sombria que paira constantemente sobre a área afastaram qualquer tentativa de colonização.\n\nO Pântano de Veyra é uma bacia de drenagem natural situada logo abaixo do planalto onde Ardozard foi construída. O Rio Magma, que atravessa a cidade boêmia, despenca em uma série de cascatas térmicas antes de se ramificar em um labirinto de canais lentos e águas paradas. O calor do rio, ao encontrar o ar úmido do pântano, gera a famosa Névoa de Fuligem, que dá ao lugar sua aura fantasmagórica. Névoa essa cobre a paisagem em quase todas as horas do dia, tornando a visibilidade precária. As árvores, retorcidas e cobertas por musgos, erguem-se como sombras vivas, enquanto a água parada reflete formas distorcidas que confundem até os mais experientes exploradores. Não é incomum ouvir sons de passos, coaxares e sussurros, embora ninguém esteja por perto.\n\nOs treinadores que se arriscam em Veyra raramente entram sozinhos, o pântano não apenas é traiçoeiro, como também abriga Pokémon de natureza agressiva e desconfiada. Apesar do perigo, o lugar guarda segredos valiosos: ervas medicinais raríssimas crescem ali, e alguns Pokémon lendários são rumores entre os que retornaram vivos.",
     "map_image": "https://2img.net/i.imgur.com/84pqFpE.png",
-    "forum_link": "",
+    "forum_link": "https://seira.forumeiros.com/t136-descricao-pantano-de-veyra",
     "coordinates": {
       "x": 52.27,
       "y": 75.16
@@ -1444,7 +1665,7 @@
     "metadata": {
       "population": "",
       "economy": [],
-      "based_on": ""
+      "based_on": "Everglades (EUA) + Pântanos de Louisiana + Okefenokee (EUA)"
     },
     "quest_ids": [],
     "points_of_interest": [],
@@ -1465,7 +1686,20 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "north": {
+        "id": "ARD",
+        "name": "Ardozart",
+        "posts_required": "5",
+        "forum_link": ""
+      },
+      "south": {
+        "id": "R02",
+        "name": "Rota 02",
+        "posts_required": "5",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
@@ -1552,19 +1786,23 @@
   {
     "id": "SAN",
     "type": "city",
-    "name": "Sanridge",
+    "name": "Sandridge",
     "biome": "Árido",
-    "description": "",
-    "map_image": "",
+    "description": "Aninhada entre dunas colossais de areia dourada e o azul turquesa hipnotizante do mar do oeste, ergue-se Sandridge. A cidade é um milagre de engenharia e resistência, onde o deserto implacável encontra a fertilidade do oceano. Suas construções, erguidas em pedra calcária e cerâmica polida, brilham sob o sol escaldante com cúpulas ornamentadas e torres afiladas que parecem tocar o firmamento.\n\nA cidade é um labirinto de ruas estreitas e sinuosas, projetadas para criar correntes de ar frio, onde o cheiro de especiarias e chá de hortelã se mistura à brisa salgada. Sob o domínio da Rede Helix, a cidade se tornou o centro nevrálgico da arqueologia de Seira, unindo o misticismo dos reinos antigos à precisão da biotecnologia moderna.",
+    "map_image": "https://shootplanet.com/wp-content/uploads/2023/11/uzbekistan-khiva-kalta-sunset-red.jpg",
     "forum_link": "",
     "coordinates": {
       "x": 37.89,
       "y": 38.15
     },
     "metadata": {
-      "population": "",
-      "economy": [],
-      "based_on": ""
+      "population": "Aproximadamente 72.000",
+      "economy": [
+        "Mineração de pedras evolutivas",
+        "comércio de luxo (especiarias e joias)",
+        "biotecnologia (revitalização de fósseis) e turismo histórico."
+      ],
+      "based_on": "Khiva"
     },
     "quest_ids": [],
     "points_of_interest": [],
@@ -1572,10 +1810,25 @@
     "spawns": {
       "common": [],
       "rare": [],
-      "epic": []
+      "epic": [
+        387
+      ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "north": {
+        "id": "R08",
+        "name": "Rota 08",
+        "posts_required": "",
+        "forum_link": ""
+      },
+      "east": {
+        "id": "DSRT",
+        "name": "Deserto",
+        "posts_required": "",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
