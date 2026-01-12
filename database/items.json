@@ -9040,14 +9040,19 @@
   {
     "id": 282,
     "name": "Protector",
-    "category": "evolution-item",
-    "subcategory": "evolution-trigger",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/protector.png",
     "price": {
       "buy": 2000,
       "sell": 1000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -9059,18 +9064,17 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 283,
     "name": "Electirizer",
-    "category": "evolution-item",
-    "subcategory": "evolution-trigger",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/electirizer.png",
     "price": {
       "buy": 20000,
@@ -9093,7 +9097,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -9102,8 +9106,8 @@
   {
     "id": 284,
     "name": "Magmarizer",
-    "category": "evolution-item",
-    "subcategory": "evolution-trigger",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/magmarizer.png",
     "price": {
       "buy": 20000,
@@ -9126,7 +9130,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -9135,14 +9139,19 @@
   {
     "id": 285,
     "name": "Dubious Disc",
-    "category": "evolution-item",
-    "subcategory": "evolution-trigger",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/dubiousdisc.png",
     "price": {
       "buy": 20000,
       "sell": 6700,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -9154,24 +9163,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 286,
     "name": "Reaper Cloth",
-    "category": "evolution-item",
-    "subcategory": "evolution-trigger",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/reaper-cloth.png",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/reapercloth.png",
     "price": {
       "buy": 2000,
       "sell": 1000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -9183,12 +9196,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 287,
@@ -10674,14 +10686,19 @@
   {
     "id": 332,
     "name": "Prism Scale",
-    "category": "evolution-item",
-    "subcategory": "evolution-trigger",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/prism-scale.png",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/prismscale.png",
     "price": {
       "buy": 2000,
       "sell": 1000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -10693,12 +10710,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 333,
@@ -12224,14 +12240,19 @@
   {
     "id": 385,
     "name": "Whipped Dream",
-    "category": "evolution-item",
-    "subcategory": "evolution-trigger",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/whipped-dream.png",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/whippeddream.png",
     "price": {
       "buy": 2000,
       "sell": 1000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -12243,24 +12264,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 386,
     "name": "Sachet",
-    "category": "evolution-item",
-    "subcategory": "evolution-trigger",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/sachet.png",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/sachet.png",
     "price": {
       "buy": 2000,
       "sell": 1000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -12272,12 +12297,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 387,
@@ -18473,14 +18497,19 @@
   {
     "id": 569,
     "name": "Cracked Pot",
-    "category": "evolution-item",
-    "subcategory": "evolution-trigger",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/cracked-pot.png",
     "price": {
       "buy": 1600,
       "sell": 800,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -18492,24 +18521,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 570,
     "name": "Chipped Pot",
-    "category": "evolution-item",
-    "subcategory": "evolution-trigger",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/chipped-pot.png",
     "price": {
       "buy": 38000,
       "sell": 19000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -18521,12 +18554,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 571,
@@ -19399,14 +19431,19 @@
   {
     "id": 598,
     "name": "Malicious Armor",
-    "category": "evolution-item",
-    "subcategory": "evolution-trigger",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/maliciousarmor.png",
     "price": {
       "buy": 750,
       "sell": 375,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19418,7 +19455,7 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
@@ -25481,6 +25518,7 @@
     "id": 782,
     "name": "Gimmighoul Coin",
     "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/za/gimmighoulcoin.png",
     "price": {
       "buy": 0,
