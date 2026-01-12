@@ -25671,45 +25671,7 @@
   },
   {
     "id": 787,
-    "name": "TM01 - Double Slap",
-    "category": "tm",
-    "subcategory": "Normal",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "Repeatedly slaps 2-5 times.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 788,
-    "name": "TM02 - Mega Punch",
+    "name": "TM01 - Mega Punch",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -25746,8 +25708,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 789,
-    "name": "TM03 - Pay Day",
+    "id": 788,
+    "name": "TM02 - Pay Day",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -25784,8 +25746,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 790,
-    "name": "TM04 - Fire Punch",
+    "id": 789,
+    "name": "TM03 - Fire Punch",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -25822,8 +25784,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 791,
-    "name": "TM05 - Ice Punch",
+    "id": 790,
+    "name": "TM04 - Ice Punch",
     "category": "tm",
     "subcategory": "Gelo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
@@ -25860,8 +25822,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 792,
-    "name": "TM06 - Thunder Punch",
+    "id": 791,
+    "name": "TM05 - Thunder Punch",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -25898,8 +25860,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 793,
-    "name": "TM07 - Razor Wind",
+    "id": 792,
+    "name": "TM06 - Razor Wind",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -25936,8 +25898,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 794,
-    "name": "TM08 - Swords Dance",
+    "id": 793,
+    "name": "TM07 - Swords Dance",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -25974,8 +25936,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 795,
-    "name": "TM09 - Cut",
+    "id": 794,
+    "name": "TM08 - Cut",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -26012,8 +25974,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 796,
-    "name": "TM10 - Whirlwind",
+    "id": 795,
+    "name": "TM09 - Whirlwind",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -26050,8 +26012,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 797,
-    "name": "TM11 - Fly",
+    "id": 796,
+    "name": "TM10 - Fly",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -26088,46 +26050,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 798,
-    "name": "TM12 - Bind",
-    "category": "tm",
-    "subcategory": "Normal",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "Binds the target for 2-5 turns.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 799,
-    "name": "TM13 - Mega Kick",
+    "id": 797,
+    "name": "TM11 - Mega Kick",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -26164,8 +26088,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 800,
-    "name": "TM14 - Headbutt",
+    "id": 798,
+    "name": "TM12 - Headbutt",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -26202,8 +26126,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 801,
-    "name": "TM15 - Horn Drill",
+    "id": 799,
+    "name": "TM13 - Horn Drill",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -26240,8 +26164,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 802,
-    "name": "TM16 - Body Slam",
+    "id": 800,
+    "name": "TM14 - Body Slam",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -26278,84 +26202,84 @@
     "posts_to_collect": 0
   },
   {
+    "id": 801,
+    "name": "TM15 - Take Down",
+    "category": "tm",
+    "subcategory": "Normal",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": true,
+    "description": "A tackle that also hurts the user.",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [
+      {
+        "item_id": 726,
+        "quantity": 1
+      }
+    ],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 802,
+    "name": "TM16 - Double Edge",
+    "category": "tm",
+    "subcategory": "Normal",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": true,
+    "description": "A tackle that also hurts the user.",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [
+      {
+        "item_id": 726,
+        "quantity": 1
+      }
+    ],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
     "id": 803,
-    "name": "TM17 - Take Down",
-    "category": "tm",
-    "subcategory": "Normal",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "A tackle that also hurts the user.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 804,
-    "name": "TM18 - Double Edge",
-    "category": "tm",
-    "subcategory": "Normal",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "A tackle that also hurts the user.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 805,
-    "name": "TM19 - Pin Missile",
+    "name": "TM17 - Pin Missile",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -26392,8 +26316,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 806,
-    "name": "TM20 - Roar",
+    "id": 804,
+    "name": "TM18 - Roar",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -26430,8 +26354,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 807,
-    "name": "TM21 - Flamethrower",
+    "id": 805,
+    "name": "TM19 - Flamethrower",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -26468,46 +26392,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 808,
-    "name": "TM22 - Water Gun",
-    "category": "tm",
-    "subcategory": "Água",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "Squirts water to attack.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 809,
-    "name": "TM23 - Hydro Pump",
+    "id": 806,
+    "name": "TM20 - Hydro Pump",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -26544,8 +26430,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 810,
-    "name": "TM24 - Surf",
+    "id": 807,
+    "name": "TM21 - Surf",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -26582,8 +26468,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 811,
-    "name": "TM25 - Ice Beam",
+    "id": 808,
+    "name": "TM22 - Ice Beam",
     "category": "tm",
     "subcategory": "Gelo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
@@ -26620,8 +26506,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 812,
-    "name": "TM26 - Blizzard",
+    "id": 809,
+    "name": "TM23 - Blizzard",
     "category": "tm",
     "subcategory": "Gelo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
@@ -26658,8 +26544,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 813,
-    "name": "TM27 - Psybeam",
+    "id": 810,
+    "name": "TM24 - Psybeam",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -26696,8 +26582,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 814,
-    "name": "TM28 - Bubble Beam",
+    "id": 811,
+    "name": "TM25 - Bubble Beam",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -26734,8 +26620,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 815,
-    "name": "TM29 - Hyper Beam",
+    "id": 812,
+    "name": "TM26 - Hyper Beam",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -26772,8 +26658,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 816,
-    "name": "TM30 - Submission",
+    "id": 813,
+    "name": "TM27 - Submission",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -26810,8 +26696,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 817,
-    "name": "TM31 - Low Kick",
+    "id": 814,
+    "name": "TM28 - Low Kick",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -26848,8 +26734,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 818,
-    "name": "TM32 - Seismic Toss",
+    "id": 815,
+    "name": "TM29 - Seismic Toss",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -26886,8 +26772,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 819,
-    "name": "TM33 - Strength",
+    "id": 816,
+    "name": "TM30 - Strength",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -26924,8 +26810,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 820,
-    "name": "TM34 - Mega Drain",
+    "id": 817,
+    "name": "TM31 - Mega Drain",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -26962,8 +26848,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 821,
-    "name": "TM35 - Solar Beam",
+    "id": 818,
+    "name": "TM32 - Solar Beam",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -27000,84 +26886,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 822,
-    "name": "TM36 - String Shot",
-    "category": "tm",
-    "subcategory": "Inseto",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "A move that lowers the foe's SPEED.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 823,
-    "name": "TM37 - Dragon Rage",
-    "category": "tm",
-    "subcategory": "Dragão",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm044.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "Always inflicts 40HP damage.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 824,
-    "name": "TM38 - Fire Spin",
+    "id": 819,
+    "name": "TM33 - Fire Spin",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -27114,8 +26924,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 825,
-    "name": "TM39 - Thunderbolt",
+    "id": 820,
+    "name": "TM34 - Thunderbolt",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -27152,8 +26962,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 826,
-    "name": "TM40 - Thunder Wave",
+    "id": 821,
+    "name": "TM35 - Thunder Wave",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -27190,8 +27000,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 827,
-    "name": "TM41 - Thunder",
+    "id": 822,
+    "name": "TM36 - Thunder",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -27228,8 +27038,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 828,
-    "name": "TM42 - Earthquake",
+    "id": 823,
+    "name": "TM37 - Earthquake",
     "category": "tm",
     "subcategory": "Terra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm005.png",
@@ -27266,8 +27076,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 829,
-    "name": "TM43 - Fissure",
+    "id": 824,
+    "name": "TM38 - Fissure",
     "category": "tm",
     "subcategory": "Terra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm005.png",
@@ -27304,8 +27114,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 830,
-    "name": "TM44 - Dig",
+    "id": 825,
+    "name": "TM39 - Dig",
     "category": "tm",
     "subcategory": "Terra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm005.png",
@@ -27342,8 +27152,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 831,
-    "name": "TM45 - Toxic",
+    "id": 826,
+    "name": "TM40 - Toxic",
     "category": "tm",
     "subcategory": "Veneno",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm013.png",
@@ -27380,8 +27190,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 832,
-    "name": "TM46 - Psychic",
+    "id": 827,
+    "name": "TM41 - Psychic",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -27418,46 +27228,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 833,
-    "name": "TM47 - Rage",
-    "category": "tm",
-    "subcategory": "Normal",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "Raises ATTACK if the user is hit.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 834,
-    "name": "TM48 - Teleport",
+    "id": 828,
+    "name": "TM42 - Teleport",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -27494,8 +27266,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 835,
-    "name": "TM49 - Night Shade",
+    "id": 829,
+    "name": "TM43 - Night Shade",
     "category": "tm",
     "subcategory": "Fantasma",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm017.png",
@@ -27532,46 +27304,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 836,
-    "name": "TM50 - Mimic",
-    "category": "tm",
-    "subcategory": "Normal",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "Copies a move used by the foe.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 837,
-    "name": "TM51 - Screech",
+    "id": 830,
+    "name": "TM44 - Screech",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -27608,8 +27342,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 838,
-    "name": "TM52 - Double Team",
+    "id": 831,
+    "name": "TM45 - Double Team",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -27646,8 +27380,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 839,
-    "name": "TM53 - Recover",
+    "id": 832,
+    "name": "TM46 - Recover",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -27684,8 +27418,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 840,
-    "name": "TM54 - Confuse Ray",
+    "id": 833,
+    "name": "TM47 - Confuse Ray",
     "category": "tm",
     "subcategory": "Fantasma",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm017.png",
@@ -27722,8 +27456,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 841,
-    "name": "TM55 - Defense Curl",
+    "id": 834,
+    "name": "TM48 - Defense Curl",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -27760,8 +27494,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 842,
-    "name": "TM56 - Light Screen",
+    "id": 835,
+    "name": "TM49 - Light Screen",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -27798,8 +27532,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 843,
-    "name": "TM57 - Haze",
+    "id": 836,
+    "name": "TM50 - Haze",
     "category": "tm",
     "subcategory": "Gelo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
@@ -27836,8 +27570,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 844,
-    "name": "TM58 - Reflect",
+    "id": 837,
+    "name": "TM51 - Reflect",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -27874,8 +27608,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 845,
-    "name": "TM59 - Focus Energy",
+    "id": 838,
+    "name": "TM52 - Focus Energy",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -27912,84 +27646,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 846,
-    "name": "TM60 - Bide",
-    "category": "tm",
-    "subcategory": "Normal",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "Waits 2-3 turns & hits back double.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 847,
-    "name": "TM61 - Metronome",
-    "category": "tm",
-    "subcategory": "Normal",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "Randomly uses any POKéMON move.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 848,
-    "name": "TM62 - Self Destruct",
+    "id": 839,
+    "name": "TM53 - Self Destruct",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -28026,46 +27684,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 849,
-    "name": "TM63 - Egg Bomb",
-    "category": "tm",
-    "subcategory": "Normal",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "Eggs are hurled at the foe.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 850,
-    "name": "TM64 - Fire Blast",
+    "id": 840,
+    "name": "TM54 - Fire Blast",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -28102,8 +27722,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 851,
-    "name": "TM65 - Waterfall",
+    "id": 841,
+    "name": "TM55 - Waterfall",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -28140,8 +27760,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 852,
-    "name": "TM66 - Swift",
+    "id": 842,
+    "name": "TM56 - Swift",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -28178,8 +27798,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 853,
-    "name": "TM67 - Skull Bash",
+    "id": 843,
+    "name": "TM57 - Skull Bash",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -28216,8 +27836,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 854,
-    "name": "TM68 - Amnesia",
+    "id": 844,
+    "name": "TM58 - Amnesia",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -28254,8 +27874,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 855,
-    "name": "TM69 - Dream Eater",
+    "id": 845,
+    "name": "TM59 - Dream Eater",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -28292,8 +27912,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 856,
-    "name": "TM70 - Leech Life",
+    "id": 846,
+    "name": "TM60 - Leech Life",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -28330,8 +27950,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 857,
-    "name": "TM71 - Sky Attack",
+    "id": 847,
+    "name": "TM61 - Sky Attack",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -28368,8 +27988,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 858,
-    "name": "TM72 - Flash",
+    "id": 848,
+    "name": "TM62 - Flash",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -28406,46 +28026,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 859,
-    "name": "TM73 - Psywave",
-    "category": "tm",
-    "subcategory": "Psíquico",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "An attack with variable power.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 860,
-    "name": "TM74 - Explosion",
+    "id": 849,
+    "name": "TM63 - Explosion",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -28482,8 +28064,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 861,
-    "name": "TM75 - Rest",
+    "id": 850,
+    "name": "TM64 - Rest",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -28520,8 +28102,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 862,
-    "name": "TM76 - Rock Slide",
+    "id": 851,
+    "name": "TM65 - Rock Slide",
     "category": "tm",
     "subcategory": "Pedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm036.png",
@@ -28558,8 +28140,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 863,
-    "name": "TM77 - Tri Attack",
+    "id": 852,
+    "name": "TM66 - Tri Attack",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -28596,8 +28178,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 864,
-    "name": "TM78 - Slash",
+    "id": 853,
+    "name": "TM67 - Slash",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -28634,8 +28216,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 865,
-    "name": "TM79 - Substitute",
+    "id": 854,
+    "name": "TM68 - Substitute",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -28672,8 +28254,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 866,
-    "name": "TM80 - Thief",
+    "id": 855,
+    "name": "TM69 - Thief",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -28710,8 +28292,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 867,
-    "name": "TM81 - Spider Web",
+    "id": 856,
+    "name": "TM70 - Spider Web",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -28748,46 +28330,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 868,
-    "name": "TM82 - Nightmare",
-    "category": "tm",
-    "subcategory": "Fantasma",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm017.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "A sleeper loses 1/4 HP every turn.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 869,
-    "name": "TM83 - Snore",
+    "id": 857,
+    "name": "TM71 - Snore",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -28824,8 +28368,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 870,
-    "name": "TM84 - Curse",
+    "id": 858,
+    "name": "TM72 - Curse",
     "category": "tm",
     "subcategory": "Fantasma",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm017.png",
@@ -28862,8 +28406,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 871,
-    "name": "TM85 - Reversal",
+    "id": 859,
+    "name": "TM73 - Reversal",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -28900,8 +28444,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 872,
-    "name": "TM86 - Spite",
+    "id": 860,
+    "name": "TM74 - Spite",
     "category": "tm",
     "subcategory": "Fantasma",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm017.png",
@@ -28938,8 +28482,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 873,
-    "name": "TM87 - Protect",
+    "id": 861,
+    "name": "TM75 - Protect",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -28976,8 +28520,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 874,
-    "name": "TM88 - Scary Face",
+    "id": 862,
+    "name": "TM76 - Scary Face",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -29014,8 +28558,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 875,
-    "name": "TM89 - Feint Attack",
+    "id": 863,
+    "name": "TM77 - Feint Attack",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -29052,8 +28596,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 876,
-    "name": "TM90 - Sludge Bomb",
+    "id": 864,
+    "name": "TM78 - Sludge Bomb",
     "category": "tm",
     "subcategory": "Veneno",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm013.png",
@@ -29090,8 +28634,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 877,
-    "name": "TM91 - Mud Slap",
+    "id": 865,
+    "name": "TM79 - Mud Slap",
     "category": "tm",
     "subcategory": "Terra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm005.png",
@@ -29128,8 +28672,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 878,
-    "name": "TM92 - Spikes",
+    "id": 866,
+    "name": "TM80 - Spikes",
     "category": "tm",
     "subcategory": "Terra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm005.png",
@@ -29166,8 +28710,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 879,
-    "name": "TM93 - Zap Cannon",
+    "id": 867,
+    "name": "TM81 - Zap Cannon",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -29204,8 +28748,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 880,
-    "name": "TM94 - Destiny Bond",
+    "id": 868,
+    "name": "TM82 - Destiny Bond",
     "category": "tm",
     "subcategory": "Fantasma",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm017.png",
@@ -29242,8 +28786,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 881,
-    "name": "TM95 - Perish Song",
+    "id": 869,
+    "name": "TM83 - Perish Song",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -29280,8 +28824,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 882,
-    "name": "TM96 - Icy Wind",
+    "id": 870,
+    "name": "TM84 - Icy Wind",
     "category": "tm",
     "subcategory": "Gelo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
@@ -29318,8 +28862,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 883,
-    "name": "TM97 - Detect",
+    "id": 871,
+    "name": "TM85 - Detect",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -29356,8 +28900,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 884,
-    "name": "TM98 - Outrage",
+    "id": 872,
+    "name": "TM86 - Outrage",
     "category": "tm",
     "subcategory": "Dragão",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm044.png",
@@ -29394,8 +28938,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 885,
-    "name": "TM99 - Sandstorm",
+    "id": 873,
+    "name": "TM87 - Sandstorm",
     "category": "tm",
     "subcategory": "Pedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm036.png",
@@ -29432,8 +28976,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 886,
-    "name": "TM100 - Giga Drain",
+    "id": 874,
+    "name": "TM88 - Giga Drain",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -29470,8 +29014,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 887,
-    "name": "TM101 - Endure",
+    "id": 875,
+    "name": "TM89 - Endure",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -29508,8 +29052,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 888,
-    "name": "TM102 - Charm",
+    "id": 876,
+    "name": "TM90 - Charm",
     "category": "tm",
     "subcategory": "Fada",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm002.png",
@@ -29546,8 +29090,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 889,
-    "name": "TM103 - Rollout",
+    "id": 877,
+    "name": "TM91 - Rollout",
     "category": "tm",
     "subcategory": "Pedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm036.png",
@@ -29584,46 +29128,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 890,
-    "name": "TM104 - False Swipe",
-    "category": "tm",
-    "subcategory": "Normal",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "Leaves the foe with at least 1HP.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 891,
-    "name": "TM105 - Swagger",
+    "id": 878,
+    "name": "TM92 - Swagger",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -29660,8 +29166,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 892,
-    "name": "TM106 - Fury Cutter",
+    "id": 879,
+    "name": "TM93 - Fury Cutter",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -29698,8 +29204,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 893,
-    "name": "TM107 - Steel Wing",
+    "id": 880,
+    "name": "TM94 - Steel Wing",
     "category": "tm",
     "subcategory": "Metálico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm031.png",
@@ -29736,8 +29242,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 894,
-    "name": "TM108 - Mean Look",
+    "id": 881,
+    "name": "TM95 - Mean Look",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -29774,8 +29280,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 895,
-    "name": "TM109 - Attract",
+    "id": 882,
+    "name": "TM96 - Attract",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -29812,8 +29318,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 896,
-    "name": "TM110 - Sleep Talk",
+    "id": 883,
+    "name": "TM97 - Sleep Talk",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -29850,8 +29356,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 897,
-    "name": "TM111 - Heal Bell",
+    "id": 884,
+    "name": "TM98 - Heal Bell",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -29888,8 +29394,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 898,
-    "name": "TM112 - Return",
+    "id": 885,
+    "name": "TM99 - Return",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -29926,8 +29432,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 899,
-    "name": "TM113 - Frustration",
+    "id": 886,
+    "name": "TM100 - Frustration",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -29964,8 +29470,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 900,
-    "name": "TM114 - Safeguard",
+    "id": 887,
+    "name": "TM101 - Safeguard",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -30002,8 +29508,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 901,
-    "name": "TM115 - Pain Split",
+    "id": 888,
+    "name": "TM102 - Pain Split",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -30040,8 +29546,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 902,
-    "name": "TM116 - Dynamic Punch",
+    "id": 889,
+    "name": "TM103 - Dynamic Punch",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -30078,8 +29584,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 903,
-    "name": "TM117 - Megahorn",
+    "id": 890,
+    "name": "TM104 - Megahorn",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -30116,8 +29622,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 904,
-    "name": "TM118 - Dragon Breath",
+    "id": 891,
+    "name": "TM105 - Dragon Breath",
     "category": "tm",
     "subcategory": "Dragão",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm044.png",
@@ -30154,8 +29660,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 905,
-    "name": "TM119 - Baton Pass",
+    "id": 892,
+    "name": "TM106 - Baton Pass",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -30192,8 +29698,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 906,
-    "name": "TM120 - Encore",
+    "id": 893,
+    "name": "TM107 - Encore",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -30230,8 +29736,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 907,
-    "name": "TM121 - Sweet Scent",
+    "id": 894,
+    "name": "TM108 - Sweet Scent",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -30268,8 +29774,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 908,
-    "name": "TM122 - Iron Tail",
+    "id": 895,
+    "name": "TM109 - Iron Tail",
     "category": "tm",
     "subcategory": "Metálico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm031.png",
@@ -30306,8 +29812,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 909,
-    "name": "TM123 - Metal Claw",
+    "id": 896,
+    "name": "TM110 - Metal Claw",
     "category": "tm",
     "subcategory": "Metálico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm031.png",
@@ -30344,8 +29850,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 910,
-    "name": "TM124 - Synthesis",
+    "id": 897,
+    "name": "TM111 - Synthesis",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -30382,8 +29888,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 911,
-    "name": "TM125 - Hidden Power",
+    "id": 898,
+    "name": "TM112 - Hidden Power",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -30420,8 +29926,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 912,
-    "name": "TM126 - Twister",
+    "id": 899,
+    "name": "TM113 - Twister",
     "category": "tm",
     "subcategory": "Dragão",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm044.png",
@@ -30458,8 +29964,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 913,
-    "name": "TM127 - Rain Dance",
+    "id": 900,
+    "name": "TM114 - Rain Dance",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -30496,8 +30002,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 914,
-    "name": "TM128 - Sunny Day",
+    "id": 901,
+    "name": "TM115 - Sunny Day",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -30534,8 +30040,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 915,
-    "name": "TM129 - Crunch",
+    "id": 902,
+    "name": "TM116 - Crunch",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -30572,8 +30078,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 916,
-    "name": "TM130 - Psych Up",
+    "id": 903,
+    "name": "TM117 - Psych Up",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -30610,8 +30116,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 917,
-    "name": "TM131 - Ancient Power",
+    "id": 904,
+    "name": "TM118 - Ancient Power",
     "category": "tm",
     "subcategory": "Pedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm036.png",
@@ -30648,8 +30154,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 918,
-    "name": "TM132 - Shadow Ball",
+    "id": 905,
+    "name": "TM119 - Shadow Ball",
     "category": "tm",
     "subcategory": "Fantasma",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm017.png",
@@ -30686,8 +30192,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 919,
-    "name": "TM133 - Future Sight",
+    "id": 906,
+    "name": "TM120 - Future Sight",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -30724,8 +30230,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 920,
-    "name": "TM134 - Rock Smash",
+    "id": 907,
+    "name": "TM121 - Rock Smash",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -30762,8 +30268,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 921,
-    "name": "TM135 - Whirlpool",
+    "id": 908,
+    "name": "TM122 - Whirlpool",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -30800,8 +30306,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 922,
-    "name": "TM136 - Beat Up",
+    "id": 909,
+    "name": "TM123 - Beat Up",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -30838,8 +30344,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 923,
-    "name": "TM137 - Fake Out",
+    "id": 910,
+    "name": "TM124 - Fake Out",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -30876,8 +30382,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 924,
-    "name": "TM138 - Uproar",
+    "id": 911,
+    "name": "TM125 - Uproar",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -30914,8 +30420,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 925,
-    "name": "TM139 - Heat Wave",
+    "id": 912,
+    "name": "TM126 - Heat Wave",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -30952,46 +30458,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 926,
-    "name": "TM140 - Hail",
-    "category": "tm",
-    "subcategory": "Gelo",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "Summons a hailstorm that strikes every turn.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 927,
-    "name": "TM141 - Torment",
+    "id": 913,
+    "name": "TM127 - Torment",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -31028,8 +30496,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 928,
-    "name": "TM142 - Will O Wisp",
+    "id": 914,
+    "name": "TM128 - Will O Wisp",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -31066,8 +30534,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 929,
-    "name": "TM143 - Memento",
+    "id": 915,
+    "name": "TM129 - Memento",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -31104,8 +30572,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 930,
-    "name": "TM144 - Facade",
+    "id": 916,
+    "name": "TM130 - Facade",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -31142,8 +30610,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 931,
-    "name": "TM145 - Focus Punch",
+    "id": 917,
+    "name": "TM131 - Focus Punch",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -31180,8 +30648,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 932,
-    "name": "TM146 - Follow Me",
+    "id": 918,
+    "name": "TM132 - Follow Me",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -31218,8 +30686,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 933,
-    "name": "TM147 - Nature Power",
+    "id": 919,
+    "name": "TM133 - Nature Power",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -31256,8 +30724,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 934,
-    "name": "TM148 - Charge",
+    "id": 920,
+    "name": "TM134 - Charge",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -31294,8 +30762,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 935,
-    "name": "TM149 - Taunt",
+    "id": 921,
+    "name": "TM135 - Taunt",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -31332,8 +30800,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 936,
-    "name": "TM150 - Helping Hand",
+    "id": 922,
+    "name": "TM136 - Helping Hand",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -31370,8 +30838,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 937,
-    "name": "TM151 - Trick",
+    "id": 923,
+    "name": "TM137 - Trick",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -31408,8 +30876,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 938,
-    "name": "TM152 - Role Play",
+    "id": 924,
+    "name": "TM138 - Role Play",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -31446,8 +30914,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 939,
-    "name": "TM153 - Wish",
+    "id": 925,
+    "name": "TM139 - Wish",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -31484,8 +30952,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 940,
-    "name": "TM154 - Assist",
+    "id": 926,
+    "name": "TM140 - Assist",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -31522,8 +30990,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 941,
-    "name": "TM155 - Superpower",
+    "id": 927,
+    "name": "TM141 - Superpower",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -31560,8 +31028,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 942,
-    "name": "TM156 - Magic Coat",
+    "id": 928,
+    "name": "TM142 - Magic Coat",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -31598,8 +31066,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 943,
-    "name": "TM157 - Recycle",
+    "id": 929,
+    "name": "TM143 - Recycle",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -31636,8 +31104,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 944,
-    "name": "TM158 - Revenge",
+    "id": 930,
+    "name": "TM144 - Revenge",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -31674,8 +31142,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 945,
-    "name": "TM159 - Brick Break",
+    "id": 931,
+    "name": "TM145 - Brick Break",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -31712,8 +31180,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 946,
-    "name": "TM160 - Yawn",
+    "id": 932,
+    "name": "TM146 - Yawn",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -31750,8 +31218,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 947,
-    "name": "TM161 - Knock Off",
+    "id": 933,
+    "name": "TM147 - Knock Off",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -31788,8 +31256,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 948,
-    "name": "TM162 - Endeavor",
+    "id": 934,
+    "name": "TM148 - Endeavor",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -31826,8 +31294,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 949,
-    "name": "TM163 - Skill Swap",
+    "id": 935,
+    "name": "TM149 - Skill Swap",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -31864,8 +31332,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 950,
-    "name": "TM164 - Imprison",
+    "id": 936,
+    "name": "TM150 - Imprison",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -31902,8 +31370,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 951,
-    "name": "TM165 - Grudge",
+    "id": 937,
+    "name": "TM151 - Grudge",
     "category": "tm",
     "subcategory": "Fantasma",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm017.png",
@@ -31940,8 +31408,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 952,
-    "name": "TM166 - Snatch",
+    "id": 938,
+    "name": "TM152 - Snatch",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -31978,8 +31446,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 953,
-    "name": "TM167 - Secret Power",
+    "id": 939,
+    "name": "TM153 - Secret Power",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -32016,8 +31484,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 954,
-    "name": "TM168 - Dive",
+    "id": 940,
+    "name": "TM154 - Dive",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -32054,8 +31522,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 955,
-    "name": "TM169 - Feather Dance",
+    "id": 941,
+    "name": "TM155 - Feather Dance",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -32092,8 +31560,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 956,
-    "name": "TM170 - Teeter Dance",
+    "id": 942,
+    "name": "TM156 - Teeter Dance",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -32130,8 +31598,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 957,
-    "name": "TM171 - Blaze Kick",
+    "id": 943,
+    "name": "TM157 - Blaze Kick",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -32168,8 +31636,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 958,
-    "name": "TM172 - Ice Ball",
+    "id": 944,
+    "name": "TM158 - Ice Ball",
     "category": "tm",
     "subcategory": "Gelo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
@@ -32206,8 +31674,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 959,
-    "name": "TM173 - Hyper Voice",
+    "id": 945,
+    "name": "TM159 - Hyper Voice",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -32244,8 +31712,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 960,
-    "name": "TM174 - Blast Burn",
+    "id": 946,
+    "name": "TM160 - Blast Burn",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -32282,8 +31750,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 961,
-    "name": "TM175 - Hydro Cannon",
+    "id": 947,
+    "name": "TM161 - Hydro Cannon",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -32320,8 +31788,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 962,
-    "name": "TM176 - Aromatherapy",
+    "id": 948,
+    "name": "TM162 - Aromatherapy",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -32358,8 +31826,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 963,
-    "name": "TM177 - Fake Tears",
+    "id": 949,
+    "name": "TM163 - Fake Tears",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -32396,8 +31864,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 964,
-    "name": "TM178 - Air Cutter",
+    "id": 950,
+    "name": "TM164 - Air Cutter",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -32434,8 +31902,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 965,
-    "name": "TM179 - Overheat",
+    "id": 951,
+    "name": "TM165 - Overheat",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -32472,8 +31940,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 966,
-    "name": "TM180 - Rock Tomb",
+    "id": 952,
+    "name": "TM166 - Rock Tomb",
     "category": "tm",
     "subcategory": "Pedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm036.png",
@@ -32510,8 +31978,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 967,
-    "name": "TM181 - Silver Wind",
+    "id": 953,
+    "name": "TM167 - Silver Wind",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -32548,8 +32016,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 968,
-    "name": "TM182 - Metal Sound",
+    "id": 954,
+    "name": "TM168 - Metal Sound",
     "category": "tm",
     "subcategory": "Metálico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm031.png",
@@ -32586,8 +32054,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 969,
-    "name": "TM183 - Cosmic Power",
+    "id": 955,
+    "name": "TM169 - Cosmic Power",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -32624,8 +32092,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 970,
-    "name": "TM184 - Signal Beam",
+    "id": 956,
+    "name": "TM170 - Signal Beam",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -32662,8 +32130,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 971,
-    "name": "TM185 - Sand Tomb",
+    "id": 957,
+    "name": "TM171 - Sand Tomb",
     "category": "tm",
     "subcategory": "Terra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm005.png",
@@ -32700,8 +32168,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 972,
-    "name": "TM186 - Muddy Water",
+    "id": 958,
+    "name": "TM172 - Muddy Water",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -32738,8 +32206,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 973,
-    "name": "TM187 - Bullet Seed",
+    "id": 959,
+    "name": "TM173 - Bullet Seed",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -32776,8 +32244,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 974,
-    "name": "TM188 - Aerial Ace",
+    "id": 960,
+    "name": "TM174 - Aerial Ace",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -32814,8 +32282,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 975,
-    "name": "TM189 - Icicle Spear",
+    "id": 961,
+    "name": "TM175 - Icicle Spear",
     "category": "tm",
     "subcategory": "Gelo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
@@ -32852,8 +32320,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 976,
-    "name": "TM190 - Iron Defense",
+    "id": 962,
+    "name": "TM176 - Iron Defense",
     "category": "tm",
     "subcategory": "Metálico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm031.png",
@@ -32890,8 +32358,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 977,
-    "name": "TM191 - Block",
+    "id": 963,
+    "name": "TM177 - Block",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -32928,8 +32396,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 978,
-    "name": "TM192 - Dragon Claw",
+    "id": 964,
+    "name": "TM178 - Dragon Claw",
     "category": "tm",
     "subcategory": "Dragão",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm044.png",
@@ -32966,8 +32434,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 979,
-    "name": "TM193 - Frenzy Plant",
+    "id": 965,
+    "name": "TM179 - Frenzy Plant",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -33004,8 +32472,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 980,
-    "name": "TM194 - Bulk Up",
+    "id": 966,
+    "name": "TM180 - Bulk Up",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -33042,8 +32510,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 981,
-    "name": "TM195 - Bounce",
+    "id": 967,
+    "name": "TM181 - Bounce",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -33080,8 +32548,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 982,
-    "name": "TM196 - Mud Shot",
+    "id": 968,
+    "name": "TM182 - Mud Shot",
     "category": "tm",
     "subcategory": "Terra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm005.png",
@@ -33118,8 +32586,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 983,
-    "name": "TM197 - Poison Tail",
+    "id": 969,
+    "name": "TM183 - Poison Tail",
     "category": "tm",
     "subcategory": "Veneno",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm013.png",
@@ -33156,8 +32624,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 984,
-    "name": "TM198 - Covet",
+    "id": 970,
+    "name": "TM184 - Covet",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -33194,8 +32662,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 985,
-    "name": "TM199 - Volt Tackle",
+    "id": 971,
+    "name": "TM185 - Volt Tackle",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -33232,8 +32700,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 986,
-    "name": "TM200 - Magical Leaf",
+    "id": 972,
+    "name": "TM186 - Magical Leaf",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -33270,8 +32738,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 987,
-    "name": "TM201 - Calm Mind",
+    "id": 973,
+    "name": "TM187 - Calm Mind",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -33308,8 +32776,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 988,
-    "name": "TM202 - Leaf Blade",
+    "id": 974,
+    "name": "TM188 - Leaf Blade",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -33346,8 +32814,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 989,
-    "name": "TM203 - Dragon Dance",
+    "id": 975,
+    "name": "TM189 - Dragon Dance",
     "category": "tm",
     "subcategory": "Dragão",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm044.png",
@@ -33384,8 +32852,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 990,
-    "name": "TM204 - Rock Blast",
+    "id": 976,
+    "name": "TM190 - Rock Blast",
     "category": "tm",
     "subcategory": "Pedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm036.png",
@@ -33422,8 +32890,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 991,
-    "name": "TM205 - Shock Wave",
+    "id": 977,
+    "name": "TM191 - Shock Wave",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -33460,8 +32928,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 992,
-    "name": "TM206 - Water Pulse",
+    "id": 978,
+    "name": "TM192 - Water Pulse",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -33498,8 +32966,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 993,
-    "name": "TM207 - Roost",
+    "id": 979,
+    "name": "TM193 - Roost",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -33536,8 +33004,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 994,
-    "name": "TM208 - Gravity",
+    "id": 980,
+    "name": "TM194 - Gravity",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -33574,8 +33042,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 995,
-    "name": "TM209 - Hammer Arm",
+    "id": 981,
+    "name": "TM195 - Hammer Arm",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -33612,8 +33080,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 996,
-    "name": "TM210 - Gyro Ball",
+    "id": 982,
+    "name": "TM196 - Gyro Ball",
     "category": "tm",
     "subcategory": "Metálico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm031.png",
@@ -33650,8 +33118,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 997,
-    "name": "TM211 - Healing Wish",
+    "id": 983,
+    "name": "TM197 - Healing Wish",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -33688,8 +33156,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 998,
-    "name": "TM212 - Brine",
+    "id": 984,
+    "name": "TM198 - Brine",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -33726,8 +33194,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 999,
-    "name": "TM213 - Natural Gift",
+    "id": 985,
+    "name": "TM199 - Natural Gift",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -33764,8 +33232,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1000,
-    "name": "TM214 - Pluck",
+    "id": 986,
+    "name": "TM200 - Pluck",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -33802,8 +33270,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1001,
-    "name": "TM215 - Tailwind",
+    "id": 987,
+    "name": "TM201 - Tailwind",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -33840,8 +33308,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1002,
-    "name": "TM216 - Acupressure",
+    "id": 988,
+    "name": "TM202 - Acupressure",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -33878,8 +33346,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1003,
-    "name": "TM217 - U Turn",
+    "id": 989,
+    "name": "TM203 - U Turn",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -33916,8 +33384,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1004,
-    "name": "TM218 - Close Combat",
+    "id": 990,
+    "name": "TM204 - Close Combat",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -33954,8 +33422,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1005,
-    "name": "TM219 - Payback",
+    "id": 991,
+    "name": "TM205 - Payback",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -33992,8 +33460,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1006,
-    "name": "TM220 - Assurance",
+    "id": 992,
+    "name": "TM206 - Assurance",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -34030,8 +33498,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1007,
-    "name": "TM221 - Embargo",
+    "id": 993,
+    "name": "TM207 - Embargo",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -34068,8 +33536,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1008,
-    "name": "TM222 - Fling",
+    "id": 994,
+    "name": "TM208 - Fling",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -34106,8 +33574,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1009,
-    "name": "TM223 - Gastro Acid",
+    "id": 995,
+    "name": "TM209 - Gastro Acid",
     "category": "tm",
     "subcategory": "Veneno",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm013.png",
@@ -34144,8 +33612,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1010,
-    "name": "TM224 - Me First",
+    "id": 996,
+    "name": "TM210 - Me First",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -34182,8 +33650,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1011,
-    "name": "TM225 - Copycat",
+    "id": 997,
+    "name": "TM211 - Copycat",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -34220,8 +33688,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1012,
-    "name": "TM226 - Power Swap",
+    "id": 998,
+    "name": "TM212 - Power Swap",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -34258,8 +33726,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1013,
-    "name": "TM227 - Guard Swap",
+    "id": 999,
+    "name": "TM213 - Guard Swap",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -34296,8 +33764,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1014,
-    "name": "TM228 - Last Resort",
+    "id": 1000,
+    "name": "TM214 - Last Resort",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -34334,8 +33802,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1015,
-    "name": "TM229 - Worry Seed",
+    "id": 1001,
+    "name": "TM215 - Worry Seed",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -34372,8 +33840,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1016,
-    "name": "TM230 - Sucker Punch",
+    "id": 1002,
+    "name": "TM216 - Sucker Punch",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -34410,8 +33878,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1017,
-    "name": "TM231 - Toxic Spikes",
+    "id": 1003,
+    "name": "TM217 - Toxic Spikes",
     "category": "tm",
     "subcategory": "Veneno",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm013.png",
@@ -34448,8 +33916,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1018,
-    "name": "TM232 - Magnet Rise",
+    "id": 1004,
+    "name": "TM218 - Magnet Rise",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -34486,8 +33954,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1019,
-    "name": "TM233 - Flare Blitz",
+    "id": 1005,
+    "name": "TM219 - Flare Blitz",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -34524,8 +33992,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1020,
-    "name": "TM234 - Aura Sphere",
+    "id": 1006,
+    "name": "TM220 - Aura Sphere",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -34562,8 +34030,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1021,
-    "name": "TM235 - Rock Polish",
+    "id": 1007,
+    "name": "TM221 - Rock Polish",
     "category": "tm",
     "subcategory": "Pedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm036.png",
@@ -34600,8 +34068,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1022,
-    "name": "TM236 - Poison Jab",
+    "id": 1008,
+    "name": "TM222 - Poison Jab",
     "category": "tm",
     "subcategory": "Veneno",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm013.png",
@@ -34638,8 +34106,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1023,
-    "name": "TM237 - Dark Pulse",
+    "id": 1009,
+    "name": "TM223 - Dark Pulse",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -34676,8 +34144,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1024,
-    "name": "TM238 - Night Slash",
+    "id": 1010,
+    "name": "TM224 - Night Slash",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -34714,8 +34182,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1025,
-    "name": "TM239 - Aqua Tail",
+    "id": 1011,
+    "name": "TM225 - Aqua Tail",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -34752,8 +34220,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1026,
-    "name": "TM240 - Seed Bomb",
+    "id": 1012,
+    "name": "TM226 - Seed Bomb",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -34790,8 +34258,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1027,
-    "name": "TM241 - Air Slash",
+    "id": 1013,
+    "name": "TM227 - Air Slash",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -34828,8 +34296,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1028,
-    "name": "TM242 - X Scissor",
+    "id": 1014,
+    "name": "TM228 - X Scissor",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -34866,8 +34334,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1029,
-    "name": "TM243 - Bug Buzz",
+    "id": 1015,
+    "name": "TM229 - Bug Buzz",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -34904,8 +34372,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1030,
-    "name": "TM244 - Dragon Pulse",
+    "id": 1016,
+    "name": "TM230 - Dragon Pulse",
     "category": "tm",
     "subcategory": "Dragão",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm044.png",
@@ -34942,8 +34410,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1031,
-    "name": "TM245 - Power Gem",
+    "id": 1017,
+    "name": "TM231 - Power Gem",
     "category": "tm",
     "subcategory": "Pedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm036.png",
@@ -34980,8 +34448,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1032,
-    "name": "TM246 - Drain Punch",
+    "id": 1018,
+    "name": "TM232 - Drain Punch",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -35018,8 +34486,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1033,
-    "name": "TM247 - Vacuum Wave",
+    "id": 1019,
+    "name": "TM233 - Vacuum Wave",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -35056,8 +34524,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1034,
-    "name": "TM248 - Focus Blast",
+    "id": 1020,
+    "name": "TM234 - Focus Blast",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -35094,8 +34562,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1035,
-    "name": "TM249 - Energy Ball",
+    "id": 1021,
+    "name": "TM235 - Energy Ball",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -35132,8 +34600,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1036,
-    "name": "TM250 - Brave Bird",
+    "id": 1022,
+    "name": "TM236 - Brave Bird",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -35170,8 +34638,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1037,
-    "name": "TM251 - Earth Power",
+    "id": 1023,
+    "name": "TM237 - Earth Power",
     "category": "tm",
     "subcategory": "Terra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm005.png",
@@ -35208,8 +34676,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1038,
-    "name": "TM252 - Switcheroo",
+    "id": 1024,
+    "name": "TM238 - Switcheroo",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -35246,8 +34714,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1039,
-    "name": "TM253 - Giga Impact",
+    "id": 1025,
+    "name": "TM239 - Giga Impact",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -35284,8 +34752,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1040,
-    "name": "TM254 - Nasty Plot",
+    "id": 1026,
+    "name": "TM240 - Nasty Plot",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -35322,8 +34790,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1041,
-    "name": "TM255 - Bullet Punch",
+    "id": 1027,
+    "name": "TM241 - Bullet Punch",
     "category": "tm",
     "subcategory": "Metálico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm031.png",
@@ -35360,8 +34828,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1042,
-    "name": "TM256 - Avalanche",
+    "id": 1028,
+    "name": "TM242 - Avalanche",
     "category": "tm",
     "subcategory": "Gelo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
@@ -35398,8 +34866,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1043,
-    "name": "TM257 - Shadow Claw",
+    "id": 1029,
+    "name": "TM243 - Shadow Claw",
     "category": "tm",
     "subcategory": "Fantasma",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm017.png",
@@ -35436,8 +34904,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1044,
-    "name": "TM258 - Thunder Fang",
+    "id": 1030,
+    "name": "TM244 - Thunder Fang",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -35474,8 +34942,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1045,
-    "name": "TM259 - Ice Fang",
+    "id": 1031,
+    "name": "TM245 - Ice Fang",
     "category": "tm",
     "subcategory": "Gelo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
@@ -35512,8 +34980,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1046,
-    "name": "TM260 - Fire Fang",
+    "id": 1032,
+    "name": "TM246 - Fire Fang",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -35550,8 +35018,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1047,
-    "name": "TM261 - Psycho Cut",
+    "id": 1033,
+    "name": "TM247 - Psycho Cut",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -35588,8 +35056,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1048,
-    "name": "TM262 - Zen Headbutt",
+    "id": 1034,
+    "name": "TM248 - Zen Headbutt",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -35626,8 +35094,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1049,
-    "name": "TM263 - Flash Cannon",
+    "id": 1035,
+    "name": "TM249 - Flash Cannon",
     "category": "tm",
     "subcategory": "Metálico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm031.png",
@@ -35664,8 +35132,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1050,
-    "name": "TM264 - Rock Climb",
+    "id": 1036,
+    "name": "TM250 - Rock Climb",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -35702,8 +35170,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1051,
-    "name": "TM265 - Defog",
+    "id": 1037,
+    "name": "TM251 - Defog",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -35740,8 +35208,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1052,
-    "name": "TM266 - Trick Room",
+    "id": 1038,
+    "name": "TM252 - Trick Room",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -35778,8 +35246,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1053,
-    "name": "TM267 - Draco Meteor",
+    "id": 1039,
+    "name": "TM253 - Draco Meteor",
     "category": "tm",
     "subcategory": "Dragão",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm044.png",
@@ -35816,8 +35284,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1054,
-    "name": "TM268 - Leaf Storm",
+    "id": 1040,
+    "name": "TM254 - Leaf Storm",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -35854,8 +35322,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1055,
-    "name": "TM269 - Power Whip",
+    "id": 1041,
+    "name": "TM255 - Power Whip",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -35892,8 +35360,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1056,
-    "name": "TM270 - Cross Poison",
+    "id": 1042,
+    "name": "TM256 - Cross Poison",
     "category": "tm",
     "subcategory": "Veneno",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm013.png",
@@ -35930,8 +35398,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1057,
-    "name": "TM271 - Gunk Shot",
+    "id": 1043,
+    "name": "TM257 - Gunk Shot",
     "category": "tm",
     "subcategory": "Veneno",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm013.png",
@@ -35968,8 +35436,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1058,
-    "name": "TM272 - Iron Head",
+    "id": 1044,
+    "name": "TM258 - Iron Head",
     "category": "tm",
     "subcategory": "Metálico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm031.png",
@@ -36006,8 +35474,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1059,
-    "name": "TM273 - Stone Edge",
+    "id": 1045,
+    "name": "TM259 - Stone Edge",
     "category": "tm",
     "subcategory": "Pedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm036.png",
@@ -36044,8 +35512,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1060,
-    "name": "TM274 - Captivate",
+    "id": 1046,
+    "name": "TM260 - Captivate",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -36082,8 +35550,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1061,
-    "name": "TM275 - Stealth Rock",
+    "id": 1047,
+    "name": "TM261 - Stealth Rock",
     "category": "tm",
     "subcategory": "Pedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm036.png",
@@ -36120,8 +35588,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1062,
-    "name": "TM276 - Grass Knot",
+    "id": 1048,
+    "name": "TM262 - Grass Knot",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -36158,8 +35626,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1063,
-    "name": "TM277 - Bug Bite",
+    "id": 1049,
+    "name": "TM263 - Bug Bite",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -36196,8 +35664,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1064,
-    "name": "TM278 - Charge Beam",
+    "id": 1050,
+    "name": "TM264 - Charge Beam",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -36234,46 +35702,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1065,
-    "name": "TM279 - Lunar Dance",
-    "category": "tm",
-    "subcategory": "Psíquico",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1066,
-    "name": "TM280 - Ominous Wind",
+    "id": 1051,
+    "name": "TM265 - Ominous Wind",
     "category": "tm",
     "subcategory": "Fantasma",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm017.png",
@@ -36310,8 +35740,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1067,
-    "name": "TM281 - Hone Claws",
+    "id": 1052,
+    "name": "TM266 - Hone Claws",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -36348,8 +35778,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1068,
-    "name": "TM282 - Wide Guard",
+    "id": 1053,
+    "name": "TM267 - Wide Guard",
     "category": "tm",
     "subcategory": "Pedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm036.png",
@@ -36386,8 +35816,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1069,
-    "name": "TM283 - Wonder Room",
+    "id": 1054,
+    "name": "TM268 - Wonder Room",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -36424,8 +35854,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1070,
-    "name": "TM284 - Psyshock",
+    "id": 1055,
+    "name": "TM269 - Psyshock",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -36462,8 +35892,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1071,
-    "name": "TM285 - Venoshock",
+    "id": 1056,
+    "name": "TM270 - Venoshock",
     "category": "tm",
     "subcategory": "Veneno",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm013.png",
@@ -36500,8 +35930,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1072,
-    "name": "TM286 - Rage Powder",
+    "id": 1057,
+    "name": "TM271 - Rage Powder",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -36538,8 +35968,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1073,
-    "name": "TM287 - Telekinesis",
+    "id": 1058,
+    "name": "TM272 - Telekinesis",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -36576,8 +36006,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1074,
-    "name": "TM288 - Magic Room",
+    "id": 1059,
+    "name": "TM273 - Magic Room",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -36614,8 +36044,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1075,
-    "name": "TM289 - Smack Down",
+    "id": 1060,
+    "name": "TM274 - Smack Down",
     "category": "tm",
     "subcategory": "Pedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm036.png",
@@ -36652,8 +36082,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1076,
-    "name": "TM290 - Sludge Wave",
+    "id": 1061,
+    "name": "TM275 - Sludge Wave",
     "category": "tm",
     "subcategory": "Veneno",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm013.png",
@@ -36690,8 +36120,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1077,
-    "name": "TM291 - Heavy Slam",
+    "id": 1062,
+    "name": "TM276 - Heavy Slam",
     "category": "tm",
     "subcategory": "Metálico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm031.png",
@@ -36728,8 +36158,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1078,
-    "name": "TM292 - Electro Ball",
+    "id": 1063,
+    "name": "TM277 - Electro Ball",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -36766,8 +36196,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1079,
-    "name": "TM293 - Flame Charge",
+    "id": 1064,
+    "name": "TM278 - Flame Charge",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -36804,8 +36234,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1080,
-    "name": "TM294 - Low Sweep",
+    "id": 1065,
+    "name": "TM279 - Low Sweep",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -36842,8 +36272,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1081,
-    "name": "TM295 - Acid Spray",
+    "id": 1066,
+    "name": "TM280 - Acid Spray",
     "category": "tm",
     "subcategory": "Veneno",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm013.png",
@@ -36880,8 +36310,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1082,
-    "name": "TM296 - Foul Play",
+    "id": 1067,
+    "name": "TM281 - Foul Play",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -36918,8 +36348,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1083,
-    "name": "TM297 - After You",
+    "id": 1068,
+    "name": "TM282 - After You",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -36956,8 +36386,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1084,
-    "name": "TM298 - Round",
+    "id": 1069,
+    "name": "TM283 - Round",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -36994,8 +36424,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1085,
-    "name": "TM299 - Echoed Voice",
+    "id": 1070,
+    "name": "TM284 - Echoed Voice",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -37032,8 +36462,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1086,
-    "name": "TM300 - Stored Power",
+    "id": 1071,
+    "name": "TM285 - Stored Power",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -37070,8 +36500,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1087,
-    "name": "TM301 - Quick Guard",
+    "id": 1072,
+    "name": "TM286 - Quick Guard",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -37108,8 +36538,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1088,
-    "name": "TM302 - Ally Switch",
+    "id": 1073,
+    "name": "TM287 - Ally Switch",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -37146,8 +36576,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1089,
-    "name": "TM303 - Scald",
+    "id": 1074,
+    "name": "TM288 - Scald",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -37184,8 +36614,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1090,
-    "name": "TM304 - Hex",
+    "id": 1075,
+    "name": "TM289 - Hex",
     "category": "tm",
     "subcategory": "Fantasma",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm017.png",
@@ -37222,8 +36652,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1091,
-    "name": "TM305 - Sky Drop",
+    "id": 1076,
+    "name": "TM290 - Sky Drop",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -37260,8 +36690,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1092,
-    "name": "TM306 - Incinerate",
+    "id": 1077,
+    "name": "TM291 - Incinerate",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -37298,8 +36728,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1093,
-    "name": "TM307 - Quash",
+    "id": 1078,
+    "name": "TM292 - Quash",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -37336,8 +36766,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1094,
-    "name": "TM308 - Acrobatics",
+    "id": 1079,
+    "name": "TM293 - Acrobatics",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -37374,8 +36804,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1095,
-    "name": "TM309 - Retaliate",
+    "id": 1080,
+    "name": "TM294 - Retaliate",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -37412,8 +36842,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1096,
-    "name": "TM310 - Final Gambit",
+    "id": 1081,
+    "name": "TM295 - Final Gambit",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -37450,8 +36880,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1097,
-    "name": "TM311 - Bestow",
+    "id": 1082,
+    "name": "TM296 - Bestow",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -37488,8 +36918,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1098,
-    "name": "TM312 - Water Pledge",
+    "id": 1083,
+    "name": "TM297 - Water Pledge",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -37526,8 +36956,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1099,
-    "name": "TM313 - Fire Pledge",
+    "id": 1084,
+    "name": "TM298 - Fire Pledge",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -37564,8 +36994,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1100,
-    "name": "TM314 - Grass Pledge",
+    "id": 1085,
+    "name": "TM299 - Grass Pledge",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -37602,8 +37032,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1101,
-    "name": "TM315 - Volt Switch",
+    "id": 1086,
+    "name": "TM300 - Volt Switch",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -37640,8 +37070,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1102,
-    "name": "TM316 - Struggle Bug",
+    "id": 1087,
+    "name": "TM301 - Struggle Bug",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -37678,8 +37108,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1103,
-    "name": "TM317 - Bulldoze",
+    "id": 1088,
+    "name": "TM302 - Bulldoze",
     "category": "tm",
     "subcategory": "Terra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm005.png",
@@ -37716,8 +37146,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1104,
-    "name": "TM318 - Frost Breath",
+    "id": 1089,
+    "name": "TM303 - Frost Breath",
     "category": "tm",
     "subcategory": "Gelo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
@@ -37754,8 +37184,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1105,
-    "name": "TM319 - Dragon Tail",
+    "id": 1090,
+    "name": "TM304 - Dragon Tail",
     "category": "tm",
     "subcategory": "Dragão",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm044.png",
@@ -37792,8 +37222,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1106,
-    "name": "TM320 - Work Up",
+    "id": 1091,
+    "name": "TM305 - Work Up",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -37830,8 +37260,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1107,
-    "name": "TM321 - Electroweb",
+    "id": 1092,
+    "name": "TM306 - Electroweb",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -37868,8 +37298,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1108,
-    "name": "TM322 - Wild Charge",
+    "id": 1093,
+    "name": "TM307 - Wild Charge",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -37906,8 +37336,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1109,
-    "name": "TM323 - Drill Run",
+    "id": 1094,
+    "name": "TM308 - Drill Run",
     "category": "tm",
     "subcategory": "Terra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm005.png",
@@ -37944,8 +37374,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1110,
-    "name": "TM324 - Dual Chop",
+    "id": 1095,
+    "name": "TM309 - Dual Chop",
     "category": "tm",
     "subcategory": "Dragão",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm044.png",
@@ -37982,8 +37412,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1111,
-    "name": "TM325 - Razor Shell",
+    "id": 1096,
+    "name": "TM310 - Razor Shell",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -38020,8 +37450,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1112,
-    "name": "TM326 - Heat Crash",
+    "id": 1097,
+    "name": "TM311 - Heat Crash",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -38058,8 +37488,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1113,
-    "name": "TM327 - Hurricane",
+    "id": 1098,
+    "name": "TM312 - Hurricane",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -38096,46 +37526,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1114,
-    "name": "TM328 - Secret Sword",
-    "category": "tm",
-    "subcategory": "Lutador",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "The user cuts with its long horn. The odd power contained in the horn does physical damage to the target.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1115,
-    "name": "TM329 - Snarl",
+    "id": 1099,
+    "name": "TM313 - Snarl",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -38172,8 +37564,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1116,
-    "name": "TM330 - Phantom Force",
+    "id": 1100,
+    "name": "TM314 - Phantom Force",
     "category": "tm",
     "subcategory": "Fantasma",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm017.png",
@@ -38210,8 +37602,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1117,
-    "name": "TM331 - Petal Blizzard",
+    "id": 1101,
+    "name": "TM315 - Petal Blizzard",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -38248,8 +37640,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1118,
-    "name": "TM332 - Disarming Voice",
+    "id": 1102,
+    "name": "TM316 - Disarming Voice",
     "category": "tm",
     "subcategory": "Fada",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm002.png",
@@ -38286,8 +37678,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1119,
-    "name": "TM333 - Draining Kiss",
+    "id": 1103,
+    "name": "TM317 - Draining Kiss",
     "category": "tm",
     "subcategory": "Fada",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm002.png",
@@ -38324,8 +37716,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1120,
-    "name": "TM334 - Grassy Terrain",
+    "id": 1104,
+    "name": "TM318 - Grassy Terrain",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -38362,8 +37754,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1121,
-    "name": "TM335 - Misty Terrain",
+    "id": 1105,
+    "name": "TM319 - Misty Terrain",
     "category": "tm",
     "subcategory": "Fada",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm002.png",
@@ -38400,8 +37792,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1122,
-    "name": "TM336 - Play Rough",
+    "id": 1106,
+    "name": "TM320 - Play Rough",
     "category": "tm",
     "subcategory": "Fada",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm002.png",
@@ -38438,8 +37830,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1123,
-    "name": "TM337 - Moonblast",
+    "id": 1107,
+    "name": "TM321 - Moonblast",
     "category": "tm",
     "subcategory": "Fada",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm002.png",
@@ -38476,8 +37868,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1124,
-    "name": "TM338 - Boomburst",
+    "id": 1108,
+    "name": "TM322 - Boomburst",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -38514,8 +37906,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1125,
-    "name": "TM339 - Confide",
+    "id": 1109,
+    "name": "TM323 - Confide",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -38552,8 +37944,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1126,
-    "name": "TM340 - Mystical Fire",
+    "id": 1110,
+    "name": "TM324 - Mystical Fire",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -38590,8 +37982,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1127,
-    "name": "TM341 - Eerie Impulse",
+    "id": 1111,
+    "name": "TM325 - Eerie Impulse",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -38628,8 +38020,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1128,
-    "name": "TM342 - Venom Drench",
+    "id": 1112,
+    "name": "TM326 - Venom Drench",
     "category": "tm",
     "subcategory": "Veneno",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm013.png",
@@ -38666,8 +38058,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1129,
-    "name": "TM343 - Electric Terrain",
+    "id": 1113,
+    "name": "TM327 - Electric Terrain",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -38704,8 +38096,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1130,
-    "name": "TM344 - Dazzling Gleam",
+    "id": 1114,
+    "name": "TM328 - Dazzling Gleam",
     "category": "tm",
     "subcategory": "Fada",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm002.png",
@@ -38742,8 +38134,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1131,
-    "name": "TM345 - Baby Doll Eyes",
+    "id": 1115,
+    "name": "TM329 - Baby Doll Eyes",
     "category": "tm",
     "subcategory": "Fada",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm002.png",
@@ -38780,8 +38172,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1132,
-    "name": "TM346 - Infestation",
+    "id": 1116,
+    "name": "TM330 - Infestation",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -38818,8 +38210,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1133,
-    "name": "TM347 - Power Up Punch",
+    "id": 1117,
+    "name": "TM331 - Power Up Punch",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -38856,46 +38248,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1134,
-    "name": "TM348 - Dragon Ascent",
-    "category": "tm",
-    "subcategory": "Voador",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": true,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": true,
-    "description": "After soaring upward, the user attacks its target by dropping out of the sky at high speeds, although it lowers its own Defense and Sp. Def in the process.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [
-      {
-        "item_id": 726,
-        "quantity": 1
-      }
-    ],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 1135,
-    "name": "TM349 - Darkest Lariat",
+    "id": 1118,
+    "name": "TM332 - Darkest Lariat",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -38932,8 +38286,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1136,
-    "name": "TM350 - High Horsepower",
+    "id": 1119,
+    "name": "TM333 - High Horsepower",
     "category": "tm",
     "subcategory": "Terra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm005.png",
@@ -38970,8 +38324,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1137,
-    "name": "TM351 - Solar Blade",
+    "id": 1120,
+    "name": "TM334 - Solar Blade",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -39008,8 +38362,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1138,
-    "name": "TM352 - Laser Focus",
+    "id": 1121,
+    "name": "TM335 - Laser Focus",
     "category": "tm",
     "subcategory": "Normal",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm001.png",
@@ -39046,8 +38400,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1139,
-    "name": "TM353 - Throat Chop",
+    "id": 1122,
+    "name": "TM336 - Throat Chop",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -39084,8 +38438,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1140,
-    "name": "TM354 - Pollen Puff",
+    "id": 1123,
+    "name": "TM337 - Pollen Puff",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -39122,8 +38476,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1141,
-    "name": "TM355 - Psychic Terrain",
+    "id": 1124,
+    "name": "TM338 - Psychic Terrain",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -39160,8 +38514,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1142,
-    "name": "TM356 - Lunge",
+    "id": 1125,
+    "name": "TM339 - Lunge",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -39198,8 +38552,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1143,
-    "name": "TM357 - Speed Swap",
+    "id": 1126,
+    "name": "TM340 - Speed Swap",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -39236,8 +38590,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1144,
-    "name": "TM358 - Smart Strike",
+    "id": 1127,
+    "name": "TM341 - Smart Strike",
     "category": "tm",
     "subcategory": "Metálico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm031.png",
@@ -39274,8 +38628,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1145,
-    "name": "TM359 - Brutal Swing",
+    "id": 1128,
+    "name": "TM342 - Brutal Swing",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -39312,8 +38666,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1146,
-    "name": "TM360 - Aurora Veil",
+    "id": 1129,
+    "name": "TM343 - Aurora Veil",
     "category": "tm",
     "subcategory": "Gelo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
@@ -39350,8 +38704,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1147,
-    "name": "TM361 - Psychic Fangs",
+    "id": 1130,
+    "name": "TM344 - Psychic Fangs",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -39388,8 +38742,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1148,
-    "name": "TM362 - Stomping Tantrum",
+    "id": 1131,
+    "name": "TM345 - Stomping Tantrum",
     "category": "tm",
     "subcategory": "Terra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm005.png",
@@ -39426,8 +38780,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1149,
-    "name": "TM363 - Liquidation",
+    "id": 1132,
+    "name": "TM346 - Liquidation",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -39464,8 +38818,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1150,
-    "name": "TM364 - Body Press",
+    "id": 1133,
+    "name": "TM347 - Body Press",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -39502,8 +38856,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1151,
-    "name": "TM365 - Breaking Swipe",
+    "id": 1134,
+    "name": "TM348 - Breaking Swipe",
     "category": "tm",
     "subcategory": "Dragão",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm044.png",
@@ -39540,8 +38894,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1152,
-    "name": "TM366 - Steel Beam",
+    "id": 1135,
+    "name": "TM349 - Steel Beam",
     "category": "tm",
     "subcategory": "Metálico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm031.png",
@@ -39578,8 +38932,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1153,
-    "name": "TM367 - Expanding Force",
+    "id": 1136,
+    "name": "TM350 - Expanding Force",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -39616,8 +38970,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1154,
-    "name": "TM368 - Steel Roller",
+    "id": 1137,
+    "name": "TM351 - Steel Roller",
     "category": "tm",
     "subcategory": "Metálico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm031.png",
@@ -39654,8 +39008,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1155,
-    "name": "TM369 - Scale Shot",
+    "id": 1138,
+    "name": "TM352 - Scale Shot",
     "category": "tm",
     "subcategory": "Dragão",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm044.png",
@@ -39692,8 +39046,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1156,
-    "name": "TM370 - Meteor Beam",
+    "id": 1139,
+    "name": "TM353 - Meteor Beam",
     "category": "tm",
     "subcategory": "Pedra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm036.png",
@@ -39730,8 +39084,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1157,
-    "name": "TM371 - Misty Explosion",
+    "id": 1140,
+    "name": "TM354 - Misty Explosion",
     "category": "tm",
     "subcategory": "Fada",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm002.png",
@@ -39768,8 +39122,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1158,
-    "name": "TM372 - Grassy Glide",
+    "id": 1141,
+    "name": "TM355 - Grassy Glide",
     "category": "tm",
     "subcategory": "Planta",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm020.png",
@@ -39806,8 +39160,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1159,
-    "name": "TM373 - Rising Voltage",
+    "id": 1142,
+    "name": "TM356 - Rising Voltage",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -39844,8 +39198,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1160,
-    "name": "TM374 - Skitter Smack",
+    "id": 1143,
+    "name": "TM357 - Skitter Smack",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -39882,8 +39236,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1161,
-    "name": "TM375 - Burning Jealousy",
+    "id": 1144,
+    "name": "TM358 - Burning Jealousy",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -39920,8 +39274,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1162,
-    "name": "TM376 - Lash Out",
+    "id": 1145,
+    "name": "TM359 - Lash Out",
     "category": "tm",
     "subcategory": "Sombrio",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm003.png",
@@ -39958,8 +39312,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1163,
-    "name": "TM377 - Poltergeist",
+    "id": 1146,
+    "name": "TM360 - Poltergeist",
     "category": "tm",
     "subcategory": "Fantasma",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm017.png",
@@ -39996,8 +39350,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1164,
-    "name": "TM378 - Corrosive Gas",
+    "id": 1147,
+    "name": "TM361 - Corrosive Gas",
     "category": "tm",
     "subcategory": "Veneno",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm013.png",
@@ -40034,8 +39388,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1165,
-    "name": "TM379 - Coaching",
+    "id": 1148,
+    "name": "TM362 - Coaching",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
@@ -40072,8 +39426,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1166,
-    "name": "TM380 - Flip Turn",
+    "id": 1149,
+    "name": "TM363 - Flip Turn",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -40110,8 +39464,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1167,
-    "name": "TM381 - Triple Axel",
+    "id": 1150,
+    "name": "TM364 - Triple Axel",
     "category": "tm",
     "subcategory": "Gelo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
@@ -40148,8 +39502,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1168,
-    "name": "TM382 - Dual Wingbeat",
+    "id": 1151,
+    "name": "TM365 - Dual Wingbeat",
     "category": "tm",
     "subcategory": "Voador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm014.png",
@@ -40186,8 +39540,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1169,
-    "name": "TM383 - Scorching Sands",
+    "id": 1152,
+    "name": "TM366 - Scorching Sands",
     "category": "tm",
     "subcategory": "Terra",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm005.png",
@@ -40224,8 +39578,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1170,
-    "name": "TM384 - Ice Spinner",
+    "id": 1153,
+    "name": "TM367 - Ice Spinner",
     "category": "tm",
     "subcategory": "Gelo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
@@ -40262,8 +39616,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1171,
-    "name": "TM385 - Snowscape",
+    "id": 1154,
+    "name": "TM368 - Snowscape",
     "category": "tm",
     "subcategory": "Gelo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm010.png",
@@ -40300,8 +39654,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1172,
-    "name": "TM386 - Pounce",
+    "id": 1155,
+    "name": "TM369 - Pounce",
     "category": "tm",
     "subcategory": "Inseto",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm015.png",
@@ -40338,8 +39692,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1173,
-    "name": "TM387 - Chilling Water",
+    "id": 1156,
+    "name": "TM370 - Chilling Water",
     "category": "tm",
     "subcategory": "Água",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm011.png",
@@ -40376,8 +39730,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1174,
-    "name": "TM388 - Hard Press",
+    "id": 1157,
+    "name": "TM371 - Hard Press",
     "category": "tm",
     "subcategory": "Metálico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm031.png",
@@ -40414,8 +39768,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1175,
-    "name": "TM389 - Dragon Cheer",
+    "id": 1158,
+    "name": "TM372 - Dragon Cheer",
     "category": "tm",
     "subcategory": "Dragão",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm044.png",
@@ -40452,8 +39806,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1176,
-    "name": "TM390 - Alluring Voice",
+    "id": 1159,
+    "name": "TM373 - Alluring Voice",
     "category": "tm",
     "subcategory": "Fada",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm002.png",
@@ -40490,8 +39844,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1177,
-    "name": "TM391 - Temper Flare",
+    "id": 1160,
+    "name": "TM374 - Temper Flare",
     "category": "tm",
     "subcategory": "Fogo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm008.png",
@@ -40528,8 +39882,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1178,
-    "name": "TM392 - Supercell Slam",
+    "id": 1161,
+    "name": "TM375 - Supercell Slam",
     "category": "tm",
     "subcategory": "Elétrico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm009.png",
@@ -40566,8 +39920,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1179,
-    "name": "TM393 - Psychic Noise",
+    "id": 1162,
+    "name": "TM376 - Psychic Noise",
     "category": "tm",
     "subcategory": "Psíquico",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm004.png",
@@ -40604,8 +39958,8 @@
     "posts_to_collect": 0
   },
   {
-    "id": 1180,
-    "name": "TM394 - Upper Hand",
+    "id": 1163,
+    "name": "TM377 - Upper Hand",
     "category": "tm",
     "subcategory": "Lutador",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm012.png",
