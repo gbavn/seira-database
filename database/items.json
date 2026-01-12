@@ -6174,13 +6174,19 @@
   {
     "id": 182,
     "name": "King’s Rock",
-    "category": "battle-item",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/king'srock.png",
     "price": {
       "buy": 5000,
       "sell": 2500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -6192,12 +6198,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 183,
@@ -6322,13 +6327,19 @@
   {
     "id": 187,
     "name": "Deep Sea Tooth",
-    "category": "battle-item",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/deepseatooth.png",
     "price": {
       "buy": 2000,
       "sell": 1000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -6340,23 +6351,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 188,
     "name": "Deep Sea Scale",
-    "category": "battle-item",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/pgl/deepseascale.png",
     "price": {
       "buy": 2000,
       "sell": 1000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -6368,12 +6384,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 189,
@@ -6518,13 +6533,19 @@
   {
     "id": 194,
     "name": "Metal Coat",
-    "category": "battle-item",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/metalcoat.png",
     "price": {
       "buy": 2000,
       "sell": 1000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -6536,12 +6557,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 195,
@@ -9173,13 +9193,19 @@
   {
     "id": 287,
     "name": "Razor Claw",
-    "category": "battle-item",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/razorclaw.png",
     "price": {
       "buy": 5000,
       "sell": 2500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -9191,23 +9217,28 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 288,
     "name": "Razor Fang",
-    "category": "battle-item",
+    "category": "other",
+    "subcategory": "Item Evolutivo",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/razorfang.png",
     "price": {
       "buy": 5000,
       "sell": 2500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -9219,12 +9250,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 289,
@@ -18854,13 +18884,18 @@
   {
     "id": 582,
     "name": "Max Mushrooms",
-    "category": "battle-item",
+    "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/maxmushrooms.png",
     "price": {
       "buy": 6000,
       "sell": 3000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -18876,8 +18911,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 583,
