@@ -1913,10 +1913,10 @@
   {
     "id": "ILHA",
     "type": "landmark",
-    "name": "Ilha",
+    "name": "Ilha da Chama Ardente",
     "biome": "Litorâneo",
-    "description": "aqui",
-    "map_image": "",
+    "description": "Situada no ponto médio da Rota 10, entre Cragport e Halzbury, a Ilha da Chama Ardente é uma anomalia geológica que desafia os limites entre o fogo e o oceano. Enquanto a superfície da rota é fustigada por ventos marítimos e a profundidade é dominada pelo gelo abissal, esta ilha ergue-se como um pilar de rocha incandescente e basalto negro. O solo é permanentemente quente ao toque e o ar é saturado por uma névoa espessa de vapor sulfuroso, resultante do encontro da lava líquida com as correntes frias do leste. À noite, a ilha é visível a quilómetros de distância, brilhando como uma ferida aberta de cor de laranja pulsante no meio do azul escuro do mar de Seira.\n\nA arquitetura natural da ilha cria a ilusão do formato se assemelhar com uma brasa. Historicamente, a Ilha da Chama Ardente era considerada um território sagrado pelos antigos, que acreditavam que a terra era quente porque uma criatura de fogo enorme vivia sob seus pés. Todas as noites chamas eram acesas para o grande \"Zu-Kzar\" e canções eram cultuadas em seu nome, acompanhadas de danças e oferendas. É uma tradição entre os nativos e os poucos turistas são convidados a participar.",
+    "map_image": "https://offloadmedia.feverup.com/riodejaneirosecreto.com/wp-content/uploads/2024/12/03185355/Snapinsta.app_344170705_923473065387753_8306892560872618488_n_1080-1-1024x1003.jpg",
     "forum_link": "",
     "coordinates": {
       "x": 22.77,
@@ -2001,7 +2001,7 @@
     "id": "R11",
     "type": "route",
     "name": "Rota 11",
-    "biome": "Marinho",
+    "biome": "Abyssal",
     "description": "É uma rota exclusiva que conecta Cragport e Azurecrest. É necessário permissão ou muito dinheiro para atravessar o canal. ",
     "map_image": "https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2024/06/66-365_Underwater_tunnel_5335972173.jpg",
     "forum_link": "",
