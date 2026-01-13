@@ -1420,10 +1420,20 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
+      "common": [
+        940,
+        580,
+        415
+      ],
+      "rare": [
+        333,
+        688,
+        602
+      ],
       "epic": [
-        912
+        912,
+        780,
+        973
       ]
     },
     "interaction_objects": [],
@@ -1514,7 +1524,9 @@
     "spawns": {
       "common": [],
       "rare": [],
-      "epic": []
+      "epic": [
+        133
+      ]
     },
     "interaction_objects": [],
     "accesses": {
@@ -1701,7 +1713,7 @@
       "common": [
         92,
         167,
-        46
+        194
       ],
       "rare": [
         198,
@@ -1709,7 +1721,8 @@
         207
       ],
       "epic": [
-        704
+        704,
+        765
       ]
     },
     "interaction_objects": [],
@@ -1802,10 +1815,20 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
+      "common": [
+        27,
+        328,
+        50
+      ],
+      "rare": [
+        551,
+        451,
+        843
+      ],
       "epic": [
-        255
+        255,
+        874,
+        968
       ]
     },
     "interaction_objects": [],
@@ -1850,10 +1873,20 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
+      "common": [
+        50,
+        955,
+        27
+      ],
+      "rare": [
+        559,
+        207,
+        529
+      ],
       "epic": [
-        387
+        387,
+        999,
+        870
       ]
     },
     "interaction_objects": [],
@@ -1923,11 +1956,20 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [
-        10078
+      "common": [
+        218,
+        837,
+        736
       ],
-      "epic": []
+      "rare": [
+        10078,
+        322,
+        757
+      ],
+      "epic": [
+        935,
+        776
+      ]
     },
     "interaction_objects": [],
     "accesses": {},
@@ -1954,9 +1996,20 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
-      "epic": []
+      "common": [
+        265,
+        767,
+        412
+      ],
+      "rare": [
+        588,
+        616,
+        515
+      ],
+      "epic": [
+        213,
+        158
+      ]
     },
     "interaction_objects": [],
     "accesses": {},
