@@ -924,7 +924,7 @@
     "name": "Azurecrest",
     "biome": "Litorâneo",
     "description": "Brilhante, exuberante e eternamente desperta, Azurecrest ergue-se ao longo da costa como o maior símbolo de fama, ambição e imaginação de Seira. Inspirada pelo brilho urbano de grandes metrópoles litorâneas, a cidade é composta por avenidas largas iluminadas por letreiros holográficos, arranha-céus espelhados, estúdios de produção, passarelas a céu aberto e cassinos luxuosos que nunca fecham as portas. O mar reflete as luzes da cidade durante a noite, criando um espetáculo visual contínuo onde moda, entretenimento e ostentação se misturam. Azurecrest é conhecida como a “cidade dos sonhos” porque ali tudo parece possível, sucesso, reconhecimento e reinvenção caminham lado a lado com o som constante de aplausos, música e apostas altas.\n\nPor trás do glamour e da vida noturna intensa, Azurecrest abriga uma poderosa essência psíquica que permeia sua cultura e seu ginásio. Artistas, estilistas, performers e visionários são atraídos não apenas pela fama, mas pela energia criativa imprevisível que pulsa na cidade, capaz de transformar ideias em realidade concreta. Cassinos e teatros coexistem com centros de criação, galerias experimentais e academias mentais, onde o foco, a imaginação e a força da mente são lapidados. Apesar do ritmo acelerado e da aparência extravagante, Azurecrest também carrega um lado instável: sonhos podem florescer rapidamente, mas também se desfazer com a mesma velocidade. Ainda assim, é exatamente essa dualidade entre brilho e pressão, fantasia e verdade que torna Azurecrest o coração psíquico e aspiracional de Seira.",
-    "map_image": "https://www.cubequadros.com/cdn/shop/articles/holly.jpg?v=1674856447&width=800",
+    "map_image": "",
     "forum_link": "",
     "coordinates": {
       "x": 37.82,
@@ -939,37 +939,12 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [
-        955,
-        919,
-        953
-      ],
-      "rare": [
-        177,
-        325,
-        517
-      ],
-      "epic": [
-        203,
-        999,
-        653
-      ]
+      "common": [],
+      "rare": [],
+      "epic": []
     },
     "interaction_objects": [],
-    "accesses": {
-      "east": {
-        "id": "R02",
-        "name": "Rota 02",
-        "posts_required": "2 posts",
-        "forum_link": ""
-      },
-      "north": {
-        "id": "FLRT",
-        "name": "Floresta",
-        "posts_required": "4 posts",
-        "forum_link": ""
-      }
-    },
+    "accesses": {},
     "special_location": false
   },
   {
