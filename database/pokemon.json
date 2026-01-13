@@ -208714,6 +208714,8 @@
     "id": 999,
     "name": "Gimmighoul",
     "base_form": true,
+    "form_of": null,
+    "form_type": null,
     "types": [
       "Ghost"
     ],
@@ -208727,10 +208729,7 @@
     "egg_groups": [
       "No eggs"
     ],
-    "gender": {
-      "male": 0,
-      "female": 0
-    },
+    "gender": null,
     "can_breed": false,
     "base_experience": 60,
     "stats": {
@@ -208747,19 +208746,7 @@
     "dex_entry": "Este Pokémon nasceu dentro de um baú de tesouro há cerca de 1.500 anos. Ele suga a energia vital de canalhas que tentam roubar o tesouro.",
     "classification": "Pokémon Cofre de Moedas",
     "held_items": [],
-    "evolves_to": [
-      {
-        "pokemon": "Gholdengo",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Other (especificar condição completa)"
-          }
-        ]
-      }
-    ],
-    "is_starter": false,
+    "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "epico",
     "is_producer": false,
@@ -208792,7 +208779,19 @@
       "Tera blast",
       "Thief"
     ],
-    "egg_moves": []
+    "egg_moves": [],
+    "evolves_to": [
+      {
+        "pokemon": "Gholdengo",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "custom",
+            "description": "Other (especificar condição completa)"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 1000,
