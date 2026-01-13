@@ -1876,10 +1876,10 @@
   {
     "id": "SELV",
     "type": "landmark",
-    "name": "Selva",
+    "name": "Selva de Kalla",
     "biome": "Selvático",
-    "description": "",
-    "map_image": "",
+    "description": "Kalla",
+    "map_image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Selva_tropical_en_la_biosfera_de_el_rio_pl%C3%A1tano_Honduras.jpg",
     "forum_link": "",
     "coordinates": {
       "x": 30.92,
@@ -1905,10 +1905,10 @@
   {
     "id": "VULC",
     "type": "landmark",
-    "name": "Vulcão",
+    "name": "Vulcão Pico da Aurora",
     "biome": "Montanhoso",
-    "description": "",
-    "map_image": "",
+    "description": "Dominando o horizonte ao norte de Silvershore, o Pico da Aurora ergue-se como um gigante de ébano coroado por uma pluma eterna de fumaça âmbar. Enquanto a cidade aos seus pés celebra o amor e a tranquilidade, o vulcão é o lembrete constante da força bruta que moldou a região de Seira. Suas encostas são um mosaico de contrastes: a base é coberta por uma selva tropical densa e hiper-agressiva, alimentada pelo solo vulcânico fértil, que rapidamente dá lugar a paredões verticais de obsidiana vítrea e rios de lava que correm como veias pulsantes sob a crosta resfriada.\n\nO Pico é considerado o \"Desafio Supremo\" para os treinadores do Sul. O ar é pesado, saturado com o cheiro de enxofre e o calor que emana do solo faz com que a própria realidade pareça tremer em miragens constantes.",
+    "map_image": "https://www.invivo.fiocruz.br/wp-content/uploads/2025/07/Fig-1_vulcao.jpg",
     "forum_link": "",
     "coordinates": {
       "x": 6.11,
@@ -1924,7 +1924,9 @@
     "forageable_items": [],
     "spawns": {
       "common": [],
-      "rare": [],
+      "rare": [
+        10078
+      ],
       "epic": []
     },
     "interaction_objects": [],
@@ -1966,7 +1968,7 @@
     "name": "Floresta Submersa",
     "biome": "Abyssal",
     "description": "",
-    "map_image": "",
+    "map_image": "https://i.ytimg.com/vi/QrL6bmH_Rns/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAf92bK9sSYotB4D6FUllpxzCRM7w",
     "forum_link": "",
     "coordinates": {
       "x": 22.77,
