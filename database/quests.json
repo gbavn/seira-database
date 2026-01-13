@@ -73,46 +73,5 @@
     "status": "available",
     "repeatable": false,
     "cooldown_days": 0
-  },
-  {
-    "id": "quest-1768100600429",
-    "name": "Tinka-Toka",
-    "requester": "Maníaco Christopher Terto",
-    "description": "Christopher Terto é um pesquisador de aparência extremamente comum. Ele deseja encontrar a localização da toca das Tinkatink, mas aparentemente sempre que algum ser humano descobre o local exato, elas mudam magicamente para outro lugar. Ele revela que elas se escondem em frestas nas Ruínas de Rhisis, sendo possível apenas uma FADA a entrada. O que ele não te contou é que o tesouro acumulado do enorme grupo de Tinkatinks e que está sendo protegido por uma Tinkaton anciã que atacará os forasteiros. Derrote-a para salvar sua vida e de Terto. ",
-    "objectives": [
-      {
-        "type": "battle",
-        "description": "Derrote a Tinkaton Anciã",
-        "pokemon_sheets": [
-          "[pkmn]Tinkaton|40|Mold Breaker|Amulet Coin|Gigaton Hammer|Earthquake|Play Rough|Flash Cannon|Slam|Ice Hammer"
-        ]
-      }
-    ],
-    "requirements": {
-      "level": 5,
-      "pokemon": [],
-      "items": [],
-      "perks": {
-        "mode": "any",
-        "perk_ids": []
-      },
-      "custom": "Ter uma FAIRY na Equipe."
-    },
-    "rewards": {
-      "money": 2000,
-      "fame": 2,
-      "character_exp": 5,
-      "items": [
-        {
-          "item_id": 184,
-          "quantity": 1
-        }
-      ],
-      "pokemon": [],
-      "custom": ""
-    },
-    "status": "available",
-    "repeatable": false,
-    "cooldown_days": 0
   }
 ]
