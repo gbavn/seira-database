@@ -636,6 +636,12 @@
         "name": "Hyperia",
         "posts_required": "5",
         "forum_link": ""
+      },
+      "west": {
+        "id": "DSRT",
+        "name": "Deserto Profundo",
+        "posts_required": "5",
+        "forum_link": ""
       }
     },
     "special_location": false
@@ -1778,10 +1784,10 @@
   {
     "id": "DSRT",
     "type": "landmark",
-    "name": "Deserto",
+    "name": "Deserto Profundo",
     "biome": "Árido",
-    "description": "nada feito",
-    "map_image": "",
+    "description": "O Deserto Profundo é ambiente é hostil e majestoso. O sol reflete nas partículas de mica e ouro misturadas à areia, criando um brilho ofuscante que pode desorientar viajantes sem proteção ocular adequada. \n\nLocalizada no coração do deserto profundo, a oeste de Sandridge, a Necrópole de Areia Dourada é o maior e mais perigoso sítio arqueológico de Seira. Trata-se de uma vasta cidade-templo pré-histórica que foi engolida por uma tempestade de areia cataclísmica séculos antes das histórias contadas pela oralidade. Hoje, ela não está totalmente exposta, mas sim em um estado de \"emergência\" constante: o vento move dunas gigantescas para revelar topos de pirâmides de arenito, cabeças de estátuas colossais de Pokémon antigos e ruas pavimentadas com ouro bruto, apenas para enterrá-los novamente dias depois.\n\nPara os historiadores de Sandridge, este lugar é a chave para entender a origem da vida em Seira. Para olhares gananciosos, é um cofre de armas biológicas antigas esperando para serem despertadas. Os treinadores que se aventuram aqui devem lidar não apenas com o calor extremo e Pokémon selvagens agressivos do tipo Terra e Rocha, mas também com a constante sensação de estarem caminhando sobre a história viva, onde um passo em falso pode afundá-los em uma câmara funerária esquecida pelo tempo.",
+    "map_image": "https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/01-nuri-pyramid-sudan.webp?w=1600&h=1068",
     "forum_link": "",
     "coordinates": {
       "x": 49.38,
@@ -1798,10 +1804,25 @@
     "spawns": {
       "common": [],
       "rare": [],
-      "epic": []
+      "epic": [
+        255
+      ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "west": {
+        "id": "SAN",
+        "name": "Sandridge",
+        "posts_required": "6",
+        "forum_link": ""
+      },
+      "east": {
+        "id": "R04",
+        "name": "Rota 04",
+        "posts_required": "5",
+        "forum_link": "https://seira.forumeiros.com/f43-rota-04"
+      }
+    },
     "special_location": false
   },
   {
@@ -1971,10 +1992,10 @@
   {
     "id": "FLRT",
     "type": "landmark",
-    "name": "Floresta",
+    "name": "Bosque Prateado",
     "biome": "Florestal",
-    "description": "",
-    "map_image": "",
+    "description": "O Bosque é uma anomalia biológica onde a energia dracônica ancestral de Mistralia se choca com a radiação psíquica moderna de Azurecrest. Na superfície, a floresta é um espetáculo visual: árvores de troncos prateados e folhas em tons de roxo e azul-neon que brilham suavemente no crepúsculo perpétuo da região. O ar é denso, carregado de esporos cintilantes que causam leves alucinações auditivas, fazendo com que os viajantes ouçam sussurros de seus próprios desejos. É um lugar de \"sonhos lúcidos\". Hippies e Monges são vistos com frequência meditando em comunhão com a natureza e as criaturas da floresta.\n\nNo entanto, sob o solo coberto de musgo luminescente, a floresta revela sua face predatória: as Raízes Negras. Este subterrâneo é um labirinto de túneis orgânicos formados por raízes escuras e pulsantes que parecem \"sangrar\" energia sombria. No subterrâneo, luz elétrica alguma funciona e a tecnologia falha drasticamente. É um ambiente de privação sensorial, onde o medo se manifesta fisicamente e o silêncio é apenas quebrado pelo estalar das raízes se movendo. Enquanto a superfície é o refúgio dos artistas e poetas de Azurecrest, o subterrâneo é o território proibido.\n\nAntigamente, o Bosque Prateado servia como uma zona neutra durante a Guerra das Coroas. Diz-se que os soldados de ambos os reinos que entravam na floresta para desertar acabavam se perdendo no \"abraço das raízes\", tornando-se parte do ecossistema. Quem conhece essa história acaba desistindo de atravessar o Bosque a pé, pois trata-se de uma prova de sanidade; a superfície oferece atalhos mágicos e itens raros, mas o subterrâneo é o único caminho para acessar os segredos que alguns tentam desesperadamente apagar da memória de Seira.",
+    "map_image": "https://i.imgur.com/6eDMnGt.jpeg",
     "forum_link": "",
     "coordinates": {
       "x": 37.86,
@@ -1989,12 +2010,37 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
-      "epic": []
+      "common": [
+        920,
+        669,
+        585
+      ],
+      "rare": [
+        682,
+        827,
+        10082
+      ],
+      "epic": [
+        175,
+        702,
+        495
+      ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "north": {
+        "id": "MTL",
+        "name": "Mistralia",
+        "posts_required": "10",
+        "forum_link": ""
+      },
+      "south": {
+        "id": "AZR",
+        "name": "Azurecrest",
+        "posts_required": "10",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
