@@ -964,7 +964,7 @@
     "name": "Azurecrest",
     "biome": "Litorâneo",
     "description": "Brilhante, exuberante e eternamente desperta, Azurecrest ergue-se ao longo da costa como o maior símbolo de fama, ambição e imaginação de Seira. Inspirada pelo brilho urbano de grandes metrópoles litorâneas, a cidade é composta por avenidas largas iluminadas por letreiros holográficos, arranha-céus espelhados, estúdios de produção, passarelas a céu aberto e cassinos luxuosos que nunca fecham as portas. O mar reflete as luzes da cidade durante a noite, criando um espetáculo visual contínuo onde moda, entretenimento e ostentação se misturam. Azurecrest é conhecida como a “cidade dos sonhos” porque ali tudo parece possível, sucesso, reconhecimento e reinvenção caminham lado a lado com o som constante de aplausos, música e apostas altas.\n\nPor trás do glamour e da vida noturna intensa, Azurecrest abriga uma poderosa essência psíquica que permeia sua cultura e seu ginásio. Artistas, estilistas, performers e visionários são atraídos não apenas pela fama, mas pela energia criativa imprevisível que pulsa na cidade, capaz de transformar ideias em realidade concreta. Cassinos e teatros coexistem com centros de criação, galerias experimentais e academias mentais, onde o foco, a imaginação e a força da mente são lapidados. Apesar do ritmo acelerado e da aparência extravagante, Azurecrest também carrega um lado instável: sonhos podem florescer rapidamente, mas também se desfazer com a mesma velocidade. Ainda assim, é exatamente essa dualidade entre brilho e pressão, fantasia e verdade que torna Azurecrest o coração psíquico e aspiracional de Seira.",
-    "map_image": "https://i.imgur.com/CbNSaL4.jpeg",
+    "map_image": "https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/hollywood-boulevard-los-angeles-california.webp?w=1600&h=900",
     "forum_link": "",
     "coordinates": {
       "x": 37.82,
@@ -1007,7 +1007,7 @@
     "name": "Mistralia",
     "biome": "Montanhoso",
     "description": "Antiga, solene e envolta por mistério, Mistralia é reconhecida como a cidade mais antiga de toda Seira e o berço do conhecimento dracônico da região. Erguida entre montanhas escarpadas constantemente cobertas por névoa e florestas densas de coníferas, a cidade parece emergir de uma lenda viva. Torres góticas, muralhas de pedra negra e castelos imponentes inspirados em fortalezas ancestrais, dominam o horizonte, testemunhando eras em que dragões sobrevoavam os céus e domadores lendários moldavam o destino do território. O clima frio e a luz difusa reforçam a atmosfera austera, enquanto sinos antigos e o bater do vento contra as ameias ecoam pelas ruas estreitas de pedra.\n\nApesar de sua aparência severa e quase intimidadora, Mistralia exala uma elegância atemporal baseada na disciplina, no estudo e na força controlada. A cidade é lar de academias dracônicas, bibliotecas milenares, ordens de treinadores e estudiosos que dedicam suas vidas a compreender o poder ancestral dos Pokémon Dragão. Tradições rigorosas convivem com rituais de passagem, batalhas cerimoniais e festivais históricos que celebram feitos do passado. Em Mistralia, poder não é ostentação, mas legado e cada treinador que pisa em suas ruas sabe que ali, força e sabedoria caminham juntas sob a sombra majestosa das montanhas.",
-    "map_image": "https://i.imgur.com/YbqVh9H.jpeg",
+    "map_image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bran_Castle_TB1.jpg",
     "forum_link": "",
     "coordinates": {
       "x": 37.82,
@@ -1212,7 +1212,7 @@
     "id": "ARD",
     "type": "city",
     "name": "Ardozart",
-    "biome": "",
+    "biome": "Urbano",
     "description": "Ardozart é uma metrópole vibrante que nunca dorme, localizada às margens do Rio Magma (um rio de águas termais que desce das montanhas de Hando em direção ao sul de Nassael). A cidade é um mosaico de letreiros de neon, arquitetura art déco e teatros imponentes. O ar é perenemente morno e carrega um leve aroma de madeira queimada e especiarias. É conhecida como o berço do \"Soul de Seira\", um gênero musical que utiliza o som de Pokémon de fogo e elétricos para criar harmonias únicas.",
     "map_image": "https://wearememphis.com/wp-content/uploads/2025/09/Beale-Street.jpg",
     "forum_link": "",
@@ -1235,9 +1235,19 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
+      "common": [
+        88,
+        92,
+        396
+      ],
+      "rare": [
+        684,
+        835,
+        228
+      ],
       "epic": [
+        924,
+        777,
         909
       ]
     },
