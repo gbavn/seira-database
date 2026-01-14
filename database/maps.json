@@ -1909,7 +1909,7 @@
     "type": "landmark",
     "name": "Selva de Kalla",
     "biome": "Selvático",
-    "description": "Kalla",
+    "description": "A Selva de Kalla é uma muralha verde impenetrável que marca a transição entre o sertão seco da Rota 08 e as encostas montanhosas de Mistralia. É um ecossistema de força bruta e biodiversidade esmagadora, onde o dossel das árvores ancestrais é tão denso que a luz do sol mal atinge o solo, criando um ambiente de penumbra perpétua, alta umidade e calor abafado. O ar é saturado com o cheiro de terra molhada, resina e flores gigantescas, enquanto o som predominante é um coro ensurdecedor de insetos, gritos de Pokémon selvagens e o estrondo de cachoeiras ocultas.\n\nDiferente do restante de Seira, Kalla é um \"ponto cego\" intocado. Não há sinal de redes digitais, drones de monitoramento ou asfalto. A selva é protegida e governada pelo Povo Kalla, uma tribo indígena milenar que resistiu a todas as tentativas de integração tecnológica. Eles veem a natureza não como um recurso a ser gerido, mas como uma divindade a ser respeitada. Para os Kalla, a eletrônica interfere nas frequências naturais da vida; por isso, qualquer dispositivo avançado que cruze suas fronteiras costuma falhar ou atrair a fúria dos Pokémon territoriais, que agem como guardiões naturais sob a influência da tribo.\n\nAtravessar Kalla é um desafio de sobrevivência pura. Os Pokémon aqui são maiores, mais agressivos e mantêm instintos primitivos, alheios ao treinamento urbano. O povo Kalla permite a passagem de treinadores apenas se demonstrarem respeito absoluto pela mata, proibindo o uso de máquinas ou capturas em massa dentro de seus domínios. É um dos últimos lugares no mundo onde se pode sentir a conexão bruta entre humanos e Pokémon, longe da vigilância invisível que domina a modernidade.",
     "map_image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Selva_tropical_en_la_biosfera_de_el_rio_pl%C3%A1tano_Honduras.jpg",
     "forum_link": "",
     "coordinates": {
@@ -1917,20 +1917,48 @@
       "y": 24.85
     },
     "metadata": {
-      "population": "",
-      "economy": [],
-      "based_on": ""
+      "population": "Aproximadamente 5.000 (Membros da tribo Kalla espalhados em aldeias ocultas).",
+      "economy": [
+        "Coleta de ervas medicinais",
+        "caça de subsistência",
+        "artesanato ritualístico e proteção ambiental."
+      ],
+      "based_on": "Honduras."
     },
     "quest_ids": [],
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
-      "epic": []
+      "common": [
+        46,
+        406,
+        69
+      ],
+      "rare": [
+        511,
+        944
+      ],
+      "epic": [
+        123,
+        766,
+        810
+      ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "east": {
+        "id": "R08",
+        "name": "Rota 08",
+        "posts_required": "10",
+        "forum_link": ""
+      },
+      "west": {
+        "id": "HBZ",
+        "name": "Halzbury",
+        "posts_required": "10",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
