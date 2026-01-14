@@ -1010,11 +1010,21 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
+      "common": [
+        173,
+        56,
+        66
+      ],
       "rare": [
+        207,
+        610,
         10086
       ],
-      "epic": []
+      "epic": [
+        780,
+        234,
+        252
+      ]
     },
     "interaction_objects": [],
     "accesses": {},
