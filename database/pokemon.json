@@ -31815,8 +31815,6 @@
     "id": 133,
     "name": "Eevee",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -31853,6 +31851,134 @@
     "dex_entry": "Ele tem a capacidade de alterar a composição do próprio corpo para se adequar ao ambiente ao seu redor.",
     "classification": "Pokémon Evolução",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Vaporeon",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 18
+          },
+          {
+            "type": "item",
+            "item_id": 84,
+            "item_name": "Water Stone"
+          }
+        ]
+      },
+      {
+        "pokemon": "Jolteon",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 18
+          },
+          {
+            "type": "item",
+            "item_id": 83,
+            "item_name": "Thunder Stone"
+          }
+        ]
+      },
+      {
+        "pokemon": "Flareon",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 18
+          },
+          {
+            "type": "item",
+            "item_id": 82,
+            "item_name": "Fire Stone"
+          }
+        ]
+      },
+      {
+        "pokemon": "Espeon",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 15
+          },
+          {
+            "type": "friendship"
+          },
+          {
+            "type": "time",
+            "time": "day"
+          }
+        ]
+      },
+      {
+        "pokemon": "Umbreon",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 15
+          },
+          {
+            "type": "friendship"
+          },
+          {
+            "type": "time",
+            "time": "night"
+          }
+        ]
+      },
+      {
+        "pokemon": "Leafeon",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 18
+          },
+          {
+            "type": "item",
+            "item_id": 85,
+            "item_name": "Leaf Stone"
+          }
+        ]
+      },
+      {
+        "pokemon": "Glaceon",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 18
+          },
+          {
+            "type": "item",
+            "item_id": 455,
+            "item_name": "Ice Stone"
+          }
+        ]
+      },
+      {
+        "pokemon": "Sylveon",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 15
+          },
+          {
+            "type": "friendship"
+          },
+          {
+            "type": "move_type",
+            "move_type": "Fairy"
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "epico",
@@ -32025,91 +32151,6 @@
       "Captivate",
       "Synchronoise",
       "Stored power"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Vaporeon",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Water stone"
-          }
-        ]
-      },
-      {
-        "pokemon": "Jolteon",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Thunder stone"
-          }
-        ]
-      },
-      {
-        "pokemon": "Flareon",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Fire stone"
-          }
-        ]
-      },
-      {
-        "pokemon": "Espeon",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      },
-      {
-        "pokemon": "Umbreon",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      },
-      {
-        "pokemon": "Leafeon",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      },
-      {
-        "pokemon": "Glaceon",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      },
-      {
-        "pokemon": "Sylveon",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -66663,8 +66704,6 @@
     "id": 281,
     "name": "Kirlia",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Psychic",
       "Fairy"
@@ -66703,6 +66742,37 @@
     "dex_entry": "Se seu Treinador fica feliz, Kirlia transborda energia e dança animadamente enquanto gira.",
     "classification": "Pokémon Emoção",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Gardevoir",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 30
+          }
+        ]
+      },
+      {
+        "pokemon": "Gallade",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 105,
+            "item_name": "Dawn Stone"
+          },
+          {
+            "type": "gender",
+            "gender": "male"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "epico",
@@ -66895,29 +66965,6 @@
       "Ally switch",
       "Misty terrain",
       "Mystical fire"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Gardevoir",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 30
-          }
-        ]
-      },
-      {
-        "pokemon": "Gallade",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Dawn stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -85041,8 +85088,6 @@
     "id": 361,
     "name": "Snorunt",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ice"
     ],
@@ -85089,6 +85134,37 @@
         "item_id": "689",
         "item_name": "Snowball",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Glalie",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 42
+          }
+        ]
+      },
+      {
+        "pokemon": "Froslass",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 30
+          },
+          {
+            "type": "item",
+            "item_id": 105,
+            "item_name": "Dawn Stone"
+          },
+          {
+            "type": "gender",
+            "gender": "female"
+          }
+        ]
       }
     ],
     "is_starter": true,
@@ -85236,29 +85312,6 @@
       "Avalanche",
       "Hex",
       "Icicle crash"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Glalie",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 42
-          }
-        ]
-      },
-      {
-        "pokemon": "Froslass",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Dawn stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -199957,16 +200010,6 @@
             "item_name": "Dusk Stone"
           }
         ]
-      },
-      {
-        "pokemon": "Brambleghast",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Other (especificar condição completa)"
-          }
-        ]
       }
     ],
     "is_starter": false,
@@ -201133,16 +201176,6 @@
             "type": "item",
             "item_id": 105,
             "item_name": "Dawn Stone"
-          }
-        ]
-      },
-      {
-        "pokemon": "Rabsca",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Other (especificar condição completa)"
           }
         ]
       }
