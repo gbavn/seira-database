@@ -1148,7 +1148,7 @@
     "metadata": {
       "population": "",
       "economy": [],
-      "based_on": ""
+      "based_on": "Romênia"
     },
     "quest_ids": [],
     "points_of_interest": [],
@@ -1171,7 +1171,14 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "south": {
+        "id": "BSQP",
+        "name": "Bosque Prateado",
+        "posts_required": "",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
@@ -2059,9 +2066,9 @@
     "forageable_items": [],
     "spawns": {
       "common": [
-        920,
         669,
-        585
+        585,
+        919
       ],
       "rare": [
         682,
