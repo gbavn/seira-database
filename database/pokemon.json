@@ -210866,12 +210866,27 @@
     "dex_entry": "Dipplin são duas criaturas em um único Pokémon. Sua evolução foi desencadeada por uma maçã especial cultivada apenas em um único lugar.",
     "classification": "Maçã Doce",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Hydrapple",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 32
+          },
+          {
+            "type": "move",
+            "move_name": "Dragon Cheer"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "raro",
     "is_producer": false,
     "production": [],
-    "evolution_moves": [],
     "moveset_by_level": [
       {
         "move": "Withdraw",
@@ -210969,8 +210984,7 @@
       "Recycle",
       "Rollout",
       "Sucker Punch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 1012,
