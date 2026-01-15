@@ -200013,7 +200013,7 @@
       }
     ],
     "is_starter": false,
-    "in_seira_pokedex": false,
+    "in_seira_pokedex": true,
     "rarity": "comum",
     "is_producer": false,
     "production": [],
@@ -200123,8 +200123,6 @@
     "id": 947,
     "name": "Brambleghast",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Grass",
       "Ghost"
@@ -200161,8 +200159,9 @@
     "dex_entry": "Ele abre os galhos de sua cabeça para envolver sua presa. Depois de absorver toda a energia vital de que precisa, expulsa a presa e a descarta.",
     "classification": "Pokémon Erva-Seca",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
+    "in_seira_pokedex": true,
     "rarity": "comum",
     "is_producer": false,
     "production": [],
@@ -200269,8 +200268,7 @@
       "Block",
       "Shadow sneak",
       "Strength sap"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 948,
