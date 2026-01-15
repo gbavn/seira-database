@@ -56,22 +56,6 @@
           ],
           "buys": []
         }
-      },
-      {
-        "id": "MercadoFlut",
-        "name": "Mercado Flutuante",
-        "type": "shop",
-        "description": "Pequenas embarcações coloridas e quiosques de madeira formam um mosaico vibrante sobre os canais de Veldhavn, atraindo visitantes que percorrem o mercado em passarelas ou barcos lentos. Entre lembranças artesanais, objetos decorativos e curiosidades trazidas de outras regiões, comerciantes oferecem itens escolhidos especialmente para turistas e treinadores de passagem.",
-        "forum_link": "",
-        "linked_pokemon": [],
-        "linked_items": [],
-        "custom_effect": "",
-        "shop_data": {
-          "sells": [
-            103
-          ],
-          "buys": []
-        }
       }
     ],
     "forageable_items": [],
@@ -1217,7 +1201,24 @@
       "based_on": "Romênia"
     },
     "quest_ids": [],
-    "points_of_interest": [],
+    "points_of_interest": [
+      {
+        "id": "565",
+        "name": "Empório Ancestral",
+        "type": "shop",
+        "description": "Instalado em um edifício de pedra negra próximo às rotas mais antigas da cidade, o Empório Ancestral atende viajantes e estudiosos que desejam levar consigo recordações ligadas à história de Mistralia. O ambiente é austero e organizado, com prateleiras de madeira escura exibindo pequenos objetos entalhados, medalhões simbólicos, estandartes em miniatura e curiosidades inspiradas nas antigas ordens dracônicas. Comerciantes mantêm um tom respeitoso e tradicional, reforçando a sensação de que cada item carrega parte do legado milenar da cidade.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": {
+          "sells": [
+            103
+          ],
+          "buys": []
+        }
+      }
+    ],
     "forageable_items": [],
     "spawns": {
       "common": [
@@ -1699,7 +1700,28 @@
       "based_on": "Hangzhou, China"
     },
     "quest_ids": [],
-    "points_of_interest": [],
+    "points_of_interest": [
+      {
+        "id": "6565",
+        "name": "Ateliê da Fibra",
+        "type": "service",
+        "description": "Localizado às margens de um dos canais mais tranquilos de Halzbury, o Ateliê da Fibra é um espaço dedicado à avaliação e ao reaproveitamento de matérias-primas têxteis utilizadas na moda da cidade. O interior combina madeira clara, vidro translúcido e mesas de análise onde fibras naturais são examinadas quanto à qualidade, resistência e pureza. Estilistas, artesãos e visitantes circulam pelo local trazendo materiais coletados em diversas regiões, que são integrados aos processos criativos que definem o vestuário elegante e mutável de Halzbury",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": {
+          "sells": [],
+          "buys": [
+            705,
+            706,
+            707,
+            708,
+            709
+          ]
+        }
+      }
+    ],
     "forageable_items": [],
     "spawns": {
       "common": [
