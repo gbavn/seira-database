@@ -435,7 +435,7 @@
         "forum_link": "",
         "linked_pokemon": [],
         "linked_items": [],
-        "custom_effect": "Requer 60 de Fama para vender itens",
+        "custom_effect": "Requer 60 de Fama para vender itens.",
         "shop_data": {
           "sells": [
             81
@@ -684,6 +684,19 @@
         "forum_link": "",
         "shop_data": null,
         "custom_effect": "(O personagem pode descansar na cabana a cada 8 Postagens, recuperando totalmente a vida dos seus Pokémon.)"
+      },
+      {
+        "id": "5656565",
+        "name": "Cratera Silente",
+        "type": "other",
+        "description": "Em meio a uma depressão circular esculpida na rocha, a Cratera Silente quebra a linearidade da Rota 05 com um silêncio inquietante. As paredes internas apresentam marcas vitrificadas e veios metálicos irregulares, como se o solo tivesse sido fundido por um impacto antigo. No centro, fragmentos escuros parcialmente enterrados emitem um brilho tênue sob certas condições de luz, distorcendo sombras e interferindo levemente em equipamentos elétricos próximos. Visitantes relatam uma sensação de pressão no ar e mudanças sutis no ambiente, como se a própria cratera pulsasse com uma energia desconhecida, antiga e instável, que parece reagir à presença de certos Pokémon.",
+        "forum_link": "",
+        "linked_pokemon": [
+          386
+        ],
+        "linked_items": [],
+        "custom_effect": "Pode mudar a forma do Deoxys",
+        "shop_data": null
       }
     ],
     "forageable_items": [],
@@ -1159,6 +1172,30 @@
           ],
           "buys": []
         }
+      },
+      {
+        "id": "599",
+        "name": "Azure Paw",
+        "type": "service",
+        "description": "Situado próximo às varandas costeiras de Azurecrest, o Azure Paw é um espaço refinado dedicado ao cuidado e à apresentação de Pokémon. O ambiente mistura pedra clara, madeira tratada e amplas aberturas voltadas para o mar, permitindo que a brisa salgada circule suavemente pelo interior. Áreas de limpeza, escovação e repouso foram pensadas para diferentes espécies, com atenção especial a Pokémon aquáticos e costeiros. Além dos serviços, o local oferece produtos exclusivos feitos com algas, sais minerais e essências naturais da região, muito procurados por treinadores e visitantes que valorizam bem-estar e estética.",
+        "forum_link": "",
+        "linked_pokemon": [
+          676
+        ],
+        "linked_items": [],
+        "custom_effect": "Permite alterar o corte de um Furfrou por $1.000, escolhendo qualquer estilo disponível. Uma vez por mês, um Pokémon pode receber um tratamento completo no Azure Paw por 2.500$, aumentando sua Felicidade em +25.",
+        "shop_data": null
+      },
+      {
+        "id": "6565",
+        "name": "Casino da Miragem",
+        "type": "service",
+        "description": "Erguido à beira-mar e envolto por fachadas de vidro espelhado, o Casino da Miragem é um dos ícones mais cintilantes de Azurecrest. Durante o dia, reflete o azul do oceano e o céu aberto; à noite, transforma-se em um espetáculo de luzes holográficas, música pulsante e movimento incessante. Salões amplos misturam luxo clássico e tecnologia discreta, com mesas de jogos elegantes, máquinas reluzentes e áreas reservadas para apostas de alto risco. O ambiente é carregado de expectativa e fantasia, onde fortuna e frustração caminham lado a lado, e cada visitante sente que a sorte está sempre a um passo de distância, mesmo que apenas como uma miragem.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": null
       }
     ],
     "forageable_items": [],
@@ -1720,6 +1757,32 @@
             709
           ]
         }
+      },
+      {
+        "id": "656",
+        "name": "Pavilhão Jinsi",
+        "type": "service",
+        "description": "Pavilhão Jinsi é um espaço elegante e tradicional de Halzbury dedicado à arte do vestuário e da expressão visual. Instalado à margem de um canal sereno, o edifício combina madeira entalhada, estruturas curvas e painéis de seda que ondulam suavemente com a brisa. No interior, expositores cuidadosamente iluminados apresentam trajes temáticos, adornos cerimoniais e peças personalizáveis inspiradas tanto na herança cultural da cidade quanto em tendências contemporâneas. Mestres artesãos acompanham cada visitante com atenção silenciosa, transformando a escolha de roupas e estilos em um ritual refinado, valorizado tanto por moradores quanto por turistas.",
+        "forum_link": "",
+        "linked_pokemon": [
+          25
+        ],
+        "linked_items": [],
+        "custom_effect": "Pode trocar o cosplay de um Pikachu por 2.000$",
+        "shop_data": null
+      },
+      {
+        "id": "6565",
+        "name": "Halz Eletrocenter",
+        "type": "service",
+        "description": "Referência em eletrodomésticos e utilidades domésticas de Halzbury, a Halz Eletrocenter ocupa um grande prédio de esquina sempre movimentado. O interior é amplo, com corredores bem sinalizados, pilhas de caixas, mostruários ligados o dia todo e vendedores chamando atenção para ofertas imperdíveis. Geladeiras, fogões, máquinas de lavar, aquecedores e pequenos aparelhos dividem espaço com itens básicos para o lar. É o tipo de loja onde moradores resolvem necessidades práticas, negociam prazos e saem com tudo o que precisam para equipar a casa, sem luxo, mas com eficiência.",
+        "forum_link": "",
+        "linked_pokemon": [
+          479
+        ],
+        "linked_items": [],
+        "custom_effect": "Pode alterar a forma de um Rotom por 2.500$",
+        "shop_data": null
       }
     ],
     "forageable_items": [],
