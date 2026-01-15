@@ -1443,9 +1443,9 @@
         602
       ],
       "epic": [
-        912,
+        973,
         780,
-        973
+        912
       ]
     },
     "interaction_objects": [],
@@ -1490,9 +1490,14 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
+      "common": [
+        940,
+        580,
+        90
+      ],
       "rare": [
-        10084
+        10084,
+        739
       ],
       "epic": [
         656
@@ -1534,9 +1539,19 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
+      "common": [
+        265,
+        415,
+        736
+      ],
+      "rare": [
+        831,
+        431,
+        684
+      ],
       "epic": [
+        417,
+        83,
         133
       ]
     },
@@ -1584,8 +1599,16 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
+      "common": [
+        946,
+        23,
+        10080
+      ],
+      "rare": [
+        451,
+        749,
+        556
+      ],
       "epic": [
         255
       ]
@@ -1628,9 +1651,15 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
+      "common": [
+        129
+      ],
+      "rare": [
+        118,
+        688
+      ],
       "epic": [
+        211,
         728
       ]
     },
@@ -1672,9 +1701,16 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
+      "common": [
+        129
+      ],
+      "rare": [
+        118,
+        341,
+        846
+      ],
       "epic": [
+        320,
         7
       ]
     },
@@ -1733,8 +1769,8 @@
         207
       ],
       "epic": [
-        704,
-        765
+        765,
+        704
       ]
     },
     "interaction_objects": [],
@@ -1768,10 +1804,14 @@
         940
       ],
       "rare": [
-        333
+        333,
+        921,
+        325
       ],
       "epic": [
-        152
+        131,
+        152,
+        11525
       ]
     },
     "interaction_objects": [
@@ -1816,18 +1856,18 @@
     "spawns": {
       "common": [
         27,
-        328,
-        50
+        953,
+        328
       ],
       "rare": [
         551,
-        451,
-        843
+        843,
+        331
       ],
       "epic": [
-        4,
         874,
-        968
+        968,
+        4
       ]
     },
     "interaction_objects": [],
@@ -1883,8 +1923,8 @@
         529
       ],
       "epic": [
-        387,
-        870
+        870,
+        387
       ]
     },
     "interaction_objects": [],
@@ -1936,7 +1976,8 @@
       ],
       "rare": [
         511,
-        944
+        944,
+        708
       ],
       "epic": [
         123,
@@ -1988,9 +2029,9 @@
         736
       ],
       "rare": [
-        10078,
         322,
-        757
+        757,
+        10078
       ],
       "epic": [
         935,
@@ -2046,7 +2087,7 @@
     "type": "landmark",
     "name": "Floresta Submersa",
     "biome": "Abyssal",
-    "description": "",
+    "description": "Abaixo da superfície agitada da Rota 10 e das raízes térmicas da Ilha da Chama Ardente, encontra-se o reino mais enigmático de Seira: As Veias Abissais das profundezas. Este é um mundo de silêncio absoluto e pressão esmagadora, onde a luz do sol é uma memória esquecida e a gravidade parece operar sob regras próprias. O cenário é dominado por uma escuridão densa, de um azul tão profundo que beira o negro, rasgada apenas por explosões de cores neon vindas de ecossistemas bioluminescentes que evoluíram em total isolamento. Esse pequeno aglomerado é conhecido como Floresta Submersa. Aqui, a água não é apenas um meio, mas uma presença pesada que exige que tanto humanos quanto Pokémon possuam adaptações biológicas ou tecnológicas extremas para não serem esmagados pelo peso do oceano.\n\nO bioma das Veias Abissais é composto por florestas de vidro-coral e algas filamentosas que emitem pulsações de luz rítmica, comunicando-se através de frequências visuais. As plantas subaquáticas não realizam fotossíntese, mas sim quimiossíntese, alimentando-se dos minerais expelidos por chaminés hidrotermais que pontilham o leito oceânico como vulcões em miniatura. As criaturas que habitam este abismo são as mais peculiares de Seira. É um jardim alienígena onde a beleza é tão letal quanto a escuridão.",
     "map_image": "https://i.ytimg.com/vi/QrL6bmH_Rns/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAf92bK9sSYotB4D6FUllpxzCRM7w",
     "forum_link": "",
     "coordinates": {
@@ -2062,9 +2103,20 @@
     "points_of_interest": [],
     "forageable_items": [],
     "spawns": {
-      "common": [],
-      "rare": [],
+      "common": [
+        550,
+        90,
+        767
+      ],
+      "rare": [
+        847,
+        690
+      ],
       "epic": [
+        349,
+        366,
+        977,
+        978,
         147
       ]
     },
@@ -2094,9 +2146,9 @@
     "forageable_items": [],
     "spawns": {
       "common": [
-        669,
         585,
-        919
+        919,
+        669
       ],
       "rare": [
         682,
@@ -2104,7 +2156,6 @@
         10082
       ],
       "epic": [
-        175,
         702,
         495
       ]
