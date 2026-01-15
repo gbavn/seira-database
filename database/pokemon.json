@@ -22783,8 +22783,6 @@
     "id": 95,
     "name": "Onix",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Ground"
@@ -22826,6 +22824,23 @@
         "item_id": "215",
         "item_name": "Hard stone",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Steelix",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 26
+          },
+          {
+            "type": "item",
+            "item_id": 194,
+            "item_name": "Metal Coat"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -23034,21 +23049,6 @@
       "Heavy slam",
       "Dragon tail",
       "Rototiller"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Steelix",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Metal coat during trade"
-          }
-        ]
-      }
     ]
   },
   {
@@ -26939,8 +26939,6 @@
     "id": 112,
     "name": "Rhydon",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ground",
       "Rock"
@@ -26979,6 +26977,23 @@
     "dex_entry": "Ele começa a andar sobre as patas traseiras após evoluir. Pode perfurar rochas com seu chifre.",
     "classification": "Pokémon Broca",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Rhyperior",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 40
+          },
+          {
+            "type": "item",
+            "item_id": 282,
+            "item_name": "Protector"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -27246,21 +27261,6 @@
       "Rock climb",
       "Guard split",
       "Rototiller"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Rhyperior",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Protector during trade"
-          }
-        ]
-      }
     ]
   },
   {
@@ -28324,8 +28324,6 @@
     "id": 117,
     "name": "Seadra",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water"
     ],
@@ -28367,6 +28365,23 @@
         "item_id": "212",
         "item_name": "Dragon scale",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Kingdra",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 38
+          },
+          {
+            "type": "item",
+            "item_id": 196,
+            "item_name": "Dragon Scale"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -28533,21 +28548,6 @@
       "Muddy water",
       "Water pulse",
       "Clear smog"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Kingdra",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Dragon scale during trade"
-          }
-        ]
-      }
     ]
   },
   {
@@ -30268,8 +30268,6 @@
     "id": 125,
     "name": "Electabuzz",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric"
     ],
@@ -30309,6 +30307,23 @@
         "item_id": "299",
         "item_name": "Electirizer",
         "rarity": 50
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Electivire",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 283,
+            "item_name": "Electirizer"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -30491,29 +30506,12 @@
       "Follow me",
       "Hammer arm",
       "Feint"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Electivire",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Electirizer during trade"
-          }
-        ]
-      }
     ]
   },
   {
     "id": 126,
     "name": "Magmar",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fire"
     ],
@@ -30558,6 +30556,23 @@
         "item_id": "300",
         "item_name": "Magmarizer",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Magmortar",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 284,
+            "item_name": "Magmarizer"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -30752,21 +30767,6 @@
       "Power swap",
       "Flare blitz",
       "Belch"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Magmortar",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Magmarizer during trade"
-          }
-        ]
-      }
     ]
   },
   {
@@ -33026,8 +33026,6 @@
     "id": 137,
     "name": "Porygon",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -33044,7 +33042,10 @@
     "egg_groups": [
       "Mineral"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 79,
     "stats": {
@@ -33061,6 +33062,23 @@
     "dex_entry": "Tecnologia de ponta foi usada para criar Porygon. Ele foi o primeiro Pokémon artificial criado por programação de computador.",
     "classification": "Pokémon Virtual",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Porygon2",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 20
+          },
+          {
+            "type": "item",
+            "item_id": 213,
+            "item_name": "Upgrade"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "epico",
@@ -33235,22 +33253,7 @@
       "Zap cannon",
       "Zen headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": [
-      {
-        "pokemon": "Porygon2",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Up grade during trade"
-          }
-        ]
-      }
-    ]
+    "egg_moves": []
   },
   {
     "id": 138,
@@ -49728,8 +49731,6 @@
     "id": 207,
     "name": "Gligar",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ground",
       "Flying"
@@ -49767,6 +49768,23 @@
     "dex_entry": "Voando direto no rosto da presa, agarra o alvo assustado e injeta veneno.",
     "classification": "Pokémon Escorpião-Voador",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Gliscor",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 288,
+            "item_name": "Razor Fang"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -49973,18 +49991,6 @@
       "Night slash",
       "Rock climb",
       "Cross poison"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Gliscor",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -51804,8 +51810,6 @@
     "id": 215,
     "name": "Sneasel",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dark",
       "Ice"
@@ -51852,6 +51856,27 @@
         "item_id": "263",
         "item_name": "Grip claw",
         "rarity": 50
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Weavile",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 26
+          },
+          {
+            "type": "item",
+            "item_id": 287,
+            "item_name": "Razor Claw"
+          },
+          {
+            "type": "time",
+            "time": "night"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -52061,28 +52086,6 @@
       "Double hit",
       "Icicle crash",
       "Throat chop"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Weavile",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      },
-      {
-        "pokemon": "Sneasler",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -56086,8 +56089,6 @@
     "id": 233,
     "name": "Porygon2",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -56104,7 +56105,10 @@
     "egg_groups": [
       "Mineral"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 180,
     "stats": {
@@ -56125,6 +56129,23 @@
         "item_id": "229",
         "item_name": "Up grade",
         "rarity": 100
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Porygon-z",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 30
+          },
+          {
+            "type": "item",
+            "item_id": 285,
+            "item_name": "Dubious Disc"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -56275,22 +56296,7 @@
       "Zap cannon",
       "Zen headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": [
-      {
-        "pokemon": "Porygon-z",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Dubious disc during trade"
-          }
-        ]
-      }
-    ]
+    "egg_moves": []
   },
   {
     "id": 234,
@@ -82532,8 +82538,6 @@
     "id": 349,
     "name": "Feebas",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water"
     ],
@@ -82571,6 +82575,23 @@
     "dex_entry": "Embora pouco atraente e impopular, a vitalidade impressionante deste Pokémon o tornou objeto de pesquisa.",
     "classification": "Pokémon Peixe",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Milotic",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 20
+          },
+          {
+            "type": "item",
+            "item_id": 332,
+            "item_name": "Prism Scale"
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "epico",
@@ -82650,18 +82671,6 @@
       "Brine",
       "Dragon pulse",
       "Captivate"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Milotic",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -84033,8 +84042,6 @@
     "id": 356,
     "name": "Dusclops",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ghost"
     ],
@@ -84069,16 +84076,22 @@
     "weight": 30.6,
     "dex_entry": "Seu corpo é completamente oco. Quando abre a boca, ele suga tudo ao redor como se fosse um buraco negro.",
     "classification": "Pokémon Atração",
-    "held_items": [
+    "held_items": [],
+    "evolves_to": [
       {
-        "item_id": "173",
-        "item_name": "Kasib berry",
-        "rarity": 5
-      },
-      {
-        "item_id": "224",
-        "item_name": "Spell tag",
-        "rarity": 5
+        "pokemon": "Dusknoir",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 40
+          },
+          {
+            "type": "item",
+            "item_id": 286,
+            "item_name": "Reaper Cloth"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -84294,21 +84307,6 @@
       "Grudge",
       "Dark pulse",
       "Ominous wind"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Dusknoir",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Reaper cloth during trade"
-          }
-        ]
-      }
     ]
   },
   {
@@ -86322,6 +86320,38 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Huntail",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 187,
+            "item_name": "Deep Sea Tooth"
+          }
+        ]
+      },
+      {
+        "pokemon": "Gorebyss",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 188,
+            "item_name": "Deep Sea Scale"
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "epico",
@@ -86409,34 +86439,6 @@
       "Water pulse",
       "Brine",
       "Aqua ring"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Huntail",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Deep sea-tooth during trade"
-          }
-        ]
-      },
-      {
-        "pokemon": "Gorebyss",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Deep sea-scale during trade"
-          }
-        ]
-      }
     ]
   },
   {
@@ -102426,8 +102428,6 @@
     "id": 440,
     "name": "Happiny",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -102463,21 +102463,22 @@
     "weight": 24.4,
     "dex_entry": "Imitando Chansey, Happiny coloca uma pedra em forma de ovo em sua bolsa abdominal. Ela valoriza muito essa pedra.",
     "classification": "Pokémon Casinha",
-    "held_items": [
+    "held_items": [],
+    "evolves_to": [
       {
-        "item_id": "110",
-        "item_name": "Oval stone",
-        "rarity": 50
-      },
-      {
-        "item_id": "208",
-        "item_name": "Lucky egg",
-        "rarity": 5
-      },
-      {
-        "item_id": "233",
-        "item_name": "Lucky punch",
-        "rarity": 5
+        "pokemon": "Chansey",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 12
+          },
+          {
+            "type": "item",
+            "item_id": 106,
+            "item_name": "Oval Stone"
+          }
+        ]
       }
     ],
     "is_starter": true,
@@ -102629,18 +102630,6 @@
       "Natural gift",
       "Last resort",
       "Mud bomb"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Chansey",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -153261,8 +153250,6 @@
     "id": 682,
     "name": "Spritzee",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fairy"
     ],
@@ -153298,6 +153285,23 @@
     "dex_entry": "Uma bolsa de aroma dentro de seu corpo permite que crie fragrâncias variadas. Mudanças em sua dieta alteram o perfume produzido.",
     "classification": "Pokémon Perfume",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Aromatisse",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 22
+          },
+          {
+            "type": "item",
+            "item_id": 386,
+            "item_name": "Sachet"
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -153429,21 +153433,6 @@
       "Nasty plot",
       "Captivate",
       "After you"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Aromatisse",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Sachet during trade"
-          }
-        ]
-      }
     ]
   },
   {
@@ -153647,8 +153636,6 @@
     "id": 684,
     "name": "Swirlix",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fairy"
     ],
@@ -153684,6 +153671,23 @@
     "dex_entry": "Come seu próprio peso em açúcar todos os dias. Se não recebe açúcar suficiente, fica incrivelmente mal-humorado.",
     "classification": "Pokémon Algodão-Doce",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Slurpuff",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 22
+          },
+          {
+            "type": "item",
+            "item_id": 385,
+            "item_name": "Whipped Dream"
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -153812,21 +153816,6 @@
       "Copycat",
       "After you",
       "Sticky web"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Slurpuff",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Whipped dream during trade"
-          }
-        ]
-      }
     ]
   },
   {
@@ -187424,8 +187413,6 @@
     "id": 868,
     "name": "Milcery",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fairy"
     ],
@@ -187462,6 +187449,23 @@
     "dex_entry": "Esse Pokémon nasceu de partículas doces no ar. Seu corpo é feito de creme.",
     "classification": "Pokémon Creme",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Alcremie",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 22
+          },
+          {
+            "type": "item",
+            "item_id": 548,
+            "item_name": "Strawberry Sweet"
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "comum",
@@ -187543,18 +187547,6 @@
     "egg_moves": [
       "Last resort",
       "Baby doll-eyes"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Alcremie",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Use Sweet item and spin (Alcremie forms)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -221937,6 +221929,27 @@
     "dex_entry": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
     "classification": "Sharp Claw Pokémon",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Sneasler",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 287,
+            "item_name": "Razor Claw"
+          },
+          {
+            "type": "time",
+            "time": "day"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -222069,8 +222082,7 @@
       "Night slash",
       "Quick guard",
       "Switcheroo"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 10045,
@@ -228999,18 +229011,7 @@
     "weight": 28,
     "dex_entry": "Seu corpo resiste a temperaturas extremas desde o nascimento. As garras que esconde em suas patas aquecem rapidamente, permitindo golpes repentinos capazes de cortar metal ainda frio.",
     "classification": "Pokémon Garra Ígnea",
-    "held_items": [
-      {
-        "item_id": "194",
-        "item_name": "Quick claw",
-        "rarity": 5
-      },
-      {
-        "item_id": "263",
-        "item_name": "Grip claw",
-        "rarity": 50
-      }
-    ],
+    "held_items": [],
     "evolves_to": [
       {
         "pokemon": "Seirian Sneasler",
