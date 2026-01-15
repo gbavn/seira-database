@@ -1934,7 +1934,35 @@
       "based_on": "Khiva"
     },
     "quest_ids": [],
-    "points_of_interest": [],
+    "points_of_interest": [
+      {
+        "id": "BazaarSol",
+        "name": "Bazaar do Sol",
+        "type": "shop",
+        "description": "Situado sob arcos de pedra calcária e toldos de tecido dourado, o Bazaar do Sol Imóvel é um mercado antigo onde o calor do deserto parece ser capturado e preservado. Comerciantes exibem relíquias, cristais e artefatos que absorvem a luz intensa de Sandridge, enquanto incensos queimam lentamente, perfumando o ar com resinas solares. Diz-se que as Sun Stones vendidas aqui são expostas durante dias ao sol do deserto e depois resfriadas com a brisa marinha, alcançando um equilíbrio raro entre calor e energia vital.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": {
+          "sells": [
+            80
+          ],
+          "buys": []
+        }
+      },
+      {
+        "id": "InstPale",
+        "name": "Instituto Paleogenético de Sandridge",
+        "type": "other",
+        "description": "Localizado abaixo das muralhas de pedra da cidade, o Instituto Paleogenético de Sandridge é um laboratório dedicado à análise e reconstrução de fósseis descobertos no deserto e nas zonas costeiras próximas. Suas salas climatizadas reproduzem condições ambientais de eras remotas, enquanto equipamentos avançados permitem a recuperação de material genético preservado em fragmentos fossilizados. Pesquisadores acompanham cada reativação com rigor científico, transformando achados arqueológicos em Pokémon vivos que revelam capítulos esquecidos da história natural da região.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "Ressurreição de Fósseis",
+        "shop_data": null
+      }
+    ],
     "forageable_items": [],
     "spawns": {
       "common": [
