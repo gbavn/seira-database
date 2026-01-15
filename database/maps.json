@@ -1629,6 +1629,22 @@
           ],
           "buys": []
         }
+      },
+      {
+        "id": "poi-1768503232849",
+        "name": "Aulas de Mergulho",
+        "type": "service",
+        "description": "Muitos turistas gostam de explorar as belezas subaquáticas aos arredores de Silvershore, por isso alguns Resorts oferecem aulas de mergulho por um valor fixo por pessoa (material incluso).",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [
+          791
+        ],
+        "custom_effect": "Pode aprender a mergulhar e adquirir Scuba Gear por 5.000$",
+        "shop_data": {
+          "sells": [],
+          "buys": []
+        }
       }
     ],
     "forageable_items": [],
@@ -1728,17 +1744,6 @@
             455
           ]
         }
-      },
-      {
-        "id": "poi-1768502624918",
-        "name": "",
-        "type": "facility",
-        "description": "",
-        "forum_link": "",
-        "linked_pokemon": [],
-        "linked_items": [],
-        "custom_effect": "",
-        "shop_data": null
       }
     ],
     "forageable_items": [],
@@ -1774,7 +1779,7 @@
     "type": "city",
     "name": "Halzbury",
     "biome": "",
-    "description": "Localizada no Norte Montanhoso, Halzbury é a joia da coroa do antigo Reino de Hando. A cidade é um labirinto poético de canais de águas cristalinas que serpenteiam entre arranha-céus modernos e templos ancestrais de telhados curvos. Diferente das cidades portuárias do sul, aqui o ritmo é ditado pela contemplação e pela elegância. O ar é fresco, carregado com o aroma persistente de flores de amoreira e chá verde, enquanto o som predominante não é o do tráfego, mas o suave zumbido rítmico de milhares de Pokémon Inseto que vivem em harmonia com a infraestrutura urbana.\n\nA arquitetura de Halzbury é uma fusão impecável de tradição e tecnologia. Painéis de vidro translúcido protegem jardins verticais onde o ciclo de vida dos Pokémon é exibido como arte viva. Nas ruas, a moda é a linguagem principal; os cidadãos vestem sedas tecnológicas que mudam de cor conforme o humor ou o clima, produzidas em colaboração com colônias de Leavanny e Vivillon. A presença da Rede Helix é onipresente, manifestando-se em drones polinizadores prateados e projeções holográficas que flutuam sobre o Lago dos Reflexos, guiando os habitantes com uma precisão matemática que beira o espiritual.",
+    "description": "Localizada no Norte Montanhoso, Halzbury é a joia da coroa do antigo Reino de Hando. A cidade é um labirinto poético de canais de águas cristalinas que serpenteiam entre arranha-céus modernos e templos ancestrais de telhados curvos. Diferente das cidades portuárias do sul, aqui o ritmo é ditado pela contemplação e pela elegância. O ar é fresco, carregado com o aroma persistente de flores de amoreira e chá verde, enquanto o som predominante não é o do tráfego, mas o suave zumbido rítmico de milhares de Pokémon Inseto que vivem em harmonia com a infraestrutura urbana.\n\nA arquitetura de Halzbury é uma fusão impecável de tradição e tecnologia. Painéis de vidro translúcido protegem jardins verticais onde o ciclo de vida dos Pokémon é exibido como arte viva. Nas ruas, a moda é a linguagem principal; os cidadãos vestem sedas tecnológicas que mudam de cor conforme o humor ou o clima, produzidas em colaboração com colônias de Beautifly e Dustox. A presença da Rede Helix é onipresente, manifestando-se em drones polinizadores prateados e projeções holográficas que flutuam sobre o Lago dos Reflexos, guiando os habitantes com uma precisão matemática que beira o espiritual.",
     "map_image": "https://www.china-admissions.com/wp-content/uploads/2020/07/Hangzhou-City-China.jpg",
     "forum_link": "",
     "coordinates": {
@@ -1858,7 +1863,8 @@
       ]
     },
     "interaction_objects": [
-      "FishSea"
+      "FishSea",
+      "FishLake"
     ],
     "accesses": {
       "south": {
@@ -1887,7 +1893,7 @@
     "type": "route",
     "name": "Rota 08",
     "biome": "Árido",
-    "description": "A Rota 08 estende-se por um território de solo avermelhado e rachado, onde a vegetação xerofítica — composta por arbustos retorcidos de galhos cinzentos e cactos monumentais — cria um labirinto natural de espinhos. O calor aqui é diferente do de Cragport; é um calor seco que \"suga\" a energia, onde o silêncio é interrompido apenas pelo estalo da madeira ressecada e pelo canto estridente de Pokémon carnívoros, frequentemente observando os aventureiros que esquecem de se munir com água para atravessar a rota. A paisagem é pontuada por \"serrotes\" (pequenas colinas rochosas) que oferecem os únicos pontos de sombra real contra o sol implacável do Oeste.\n\nNesta rota, a Rede Helix enfrenta um desafio constante de equilíbrio. Como é uma zona de transição, a IA tenta manter sistemas de irrigação subterrânea para impedir que o deserto de Sandridge consuma a Selva vizinha. No entanto, as falhas recentes criaram \"oásis fantasmas\": áreas onde a grama cresce verdejante por alguns metros antes de desaparecer em uma miragem digital, confundindo treinadores e Pokémon. Para atravessar a Rota 08 exige gestão de recursos; é um lugar onde a água é mais valiosa que poções e onde a resiliência da flora local ensina que, em Seira, a vida sempre encontra um caminho, mesmo nas condições mais duras.\n\nHistoricamente, a Rota 08 era o território dos \"Vaqueiros de Nassael\", cavaleiros que criavam Pokémon de carga em condições extremas e que serviam como batedores durante a Guerra das Coroas. Eles conheciam cada fonte de água escondida e cada caverna nos serrotes. Hoje, os vestígios dessa cultura — currais de pedra e trilhas marcadas por gravuras em cactos — misturam-se aos sensores prateados da Helix, criando um cenário que une o rústico ao futurista, preparando o viajante para o choque de umidade que o aguarda.",
+    "description": "A Rota 08 estende-se por um território de solo avermelhado e rachado, onde a vegetação xerofítica — composta por arbustos retorcidos de galhos cinzentos e cactos monumentais — cria um labirinto natural de espinhos. O calor aqui é diferente do de Cragport; é um calor seco que \"suga\" a energia, onde o silêncio é interrompido apenas pelo estalo da madeira ressecada e pelo canto estridente de Pokémon carnívoros, frequentemente observando os aventureiros que esquecem de se munir com água para atravessar a rota. A paisagem é pontuada por \"serrotes\" (pequenas colinas rochosas) que oferecem os únicos pontos de sombra real contra o sol implacável do Oeste.\n\nNesta rota, a Rede Helix enfrenta um desafio constante de equilíbrio. Como é uma zona de transição, a IA tenta manter sistemas de irrigação subterrânea para impedir que o deserto de Sandridge consuma a Selva vizinha - uma vez que os nativos não permitem a entrada de tecnologia. No entanto, as falhas recentes criaram \"oásis fantasmas\": áreas onde a grama cresce verdejante por alguns metros antes de desaparecer em uma miragem digital, confundindo treinadores e Pokémon. Para atravessar a Rota 08 exige gestão de recursos; é um lugar onde a água é mais valiosa que poções e onde a resiliência da flora local ensina que, em Seira, a vida sempre encontra um caminho, mesmo nas condições mais duras.\n\nHistoricamente, a Rota 08 era o território dos \"Vaqueiros de Nassael\", cavaleiros que criavam Pokémon de carga em condições extremas e que serviam como batedores durante a Guerra das Coroas. Eles conheciam cada fonte de água escondida e cada caverna nos serrotes. Hoje, os vestígios dessa cultura — currais de pedra e trilhas marcadas por gravuras em cactos — misturam-se a sensores prateados, criando um cenário que une estranhamente o rústico ao futurista, preparando o viajante para o choque de umidade que o aguarda.",
     "map_image": "https://i.imgur.com/cofuZiE.jpeg",
     "forum_link": "",
     "coordinates": {
@@ -1900,7 +1906,26 @@
       "based_on": ""
     },
     "quest_ids": [],
-    "points_of_interest": [],
+    "points_of_interest": [
+      {
+        "id": "poi-1768503801246",
+        "name": "Posto de Revezamento \"Velho Vaqueiro\"",
+        "type": "restaurant",
+        "description": "Uma antiga estalagem feita de taipa que foi restaurada e agora abriga um pequeno centro de suporte a viajantes, servindo bebidas frescas e um pouco de sombra. É possível encontrar todo tipo de gente, então cuidado para não criar confusão!",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": {
+          "sells": [
+            30,
+            32,
+            31
+          ],
+          "buys": []
+        }
+      }
+    ],
     "forageable_items": [],
     "spawns": {
       "common": [
@@ -1989,7 +2014,7 @@
     "type": "route",
     "name": "Rota 10",
     "biome": "Marinho",
-    "description": "A Rota 10 começa nos arredores de Halzbury, onde as águas dos rios de montanha se encontram com uma falha geológica massiva, despencando em uma sucessão de cascatas que terminam diretamente no oceano. O caminho é composto por uma série de passarelas de vidro e elevadores hidráulicos monumentais, reforçados por cabos de seda de Pokémon Inseto tratados com tecnologia da Rede Helix. À medida que os treinadores descem, a vegetação exuberante da região vai dando lugar a paredões rochosos úmidos e, finalmente, ao mergulho nas águas escuras, onde a luz do sol começa a falhar e a pressão aumenta a cada metro.\n\nO ambiente inicial é marcado por uma transição cromática: do verde esmeralda das montanhas ao azul profundo e, eventualmente, ao breu total, iluminado apenas pelos sensores azuis da Helix e pela bioluminescência natural da fauna local. Já no mar aberto só é possível ver o azul-mar, isto é, se ignorar as pequenas ilhas no caminho.\n\nPara facilitar a logística entre os centros de pesquisa subaquática de Cragport e o continente, a Rota 11 foi estabelecida como um ramal expresso. Enquanto a Rota 10 é uma descida técnica e lenta para exploração, a Rota 11 é um acesso exclusivo para pesquisadores, conectando as cidades à costa de Azurecrest por uma entrada no Submerso, utilizando correntes psíquicas e túneis de vácuo para encurtar a distância e permitir que a elite da cidade dos sonhos acesse os tesouros do abismo com rapidez.\n\nEssa é a rota aquática mais perigosa da região por sua extensão, apesar de conectar Cragport com o continente po Hazbury ou por Azurecrest. Caso viaje sem os equipamentos, suprimentos ou experiências necessários, é melhor deixar o contato de emergência sobre aviso.",
+    "description": "A Rota 10 começa nos arredores de Halzbury, onde as águas dos rios de montanha se encontram com uma falha geológica massiva, despencando em uma sucessão de cascatas que terminam diretamente no oceano. O caminho é composto por uma série de passarelas de vidro e elevadores hidráulicos monumentais, reforçados por cabos de seda de Pokémon Inseto tratados com tecnologia da Rede Helix. À medida que os treinadores descem, a vegetação exuberante da região vai dando lugar a paredões rochosos úmidos e, finalmente, ao mergulho nas águas escuras, onde a luz do sol começa a falhar e a pressão aumenta a cada metro.\n\nO ambiente inicial é marcado por uma transição cromática: do verde esmeralda das montanhas ao azul profundo e, eventualmente, ao breu total, iluminado apenas pelos sensores azuis e pela bioluminescência natural da fauna local. Já no mar aberto só é possível ver o azul-mar, isto é, se ignorar as pequenas ilhas no caminho.\n\nPara facilitar a logística entre os centros de pesquisa subaquática de Cragport e o continente, a Rota 11 foi estabelecida como um ramal expresso. Enquanto a Rota 10 é uma descida técnica e lenta para exploração, a Rota 11 é um acesso exclusivo para pesquisadores, conectando as cidades à costa de Azurecrest por uma entrada no Submerso, utilizando correntes psíquicas e túneis de vácuo para encurtar a distância e permitir que a elite da cidade dos sonhos acesse os tesouros do abismo com rapidez.\n\nEssa é a rota aquática mais perigosa da região por sua extensão, apesar de conectar Cragport com o continente po Hazbury ou por Azurecrest. Caso viaje sem os equipamentos, suprimentos ou experiências necessários, é melhor deixar o contato de emergência sobre aviso.",
     "map_image": "https://cimcwetrans.com.br/wp-content/uploads/2025/06/Design-sem-nome-1.jpg",
     "forum_link": "",
     "coordinates": {
@@ -2060,7 +2085,20 @@
     },
     "quest_ids": [],
     "points_of_interest": [],
-    "forageable_items": [],
+    "forageable_items": [
+      {
+        "item_id": 175,
+        "posts_to_collect": 1
+      },
+      {
+        "item_id": 232,
+        "posts_to_collect": 1
+      },
+      {
+        "item_id": 180,
+        "posts_to_collect": 1
+      }
+    ],
     "spawns": {
       "common": [
         92,
