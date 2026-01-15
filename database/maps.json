@@ -278,6 +278,7 @@
     "biome": "Campestre",
     "description": "Entre colinas suaves e vinhedos dourados, Hillshire floresce como o coração verde de Seira. Suas origens estão fincadas nos vales do antigo Reino de Hando, mas a cidade recebeu forte influência externa, dando-lhe um charme cosmopolita que muitos associam a Nassael. É uma cidade que celebra a natureza em cada detalhe: casarões de pedra cobertos de hera, pomares aromáticos, praças floridas e cafés ao ar livre que exalam o aroma de vinho local e pão recém-assado.\n\nAs ruas serpenteiam pelos campos, seguindo trilhas antigas que conectam fazendas, jardins botânicos e pequenas vinícolas. Apesar da aparência pastoral, Hillshire não é uma cidade isolada: estradas bem conservadas, pequenos centros comerciais e mercados conectam a cidade às demais regiões de Seira, permitindo que produtos agrícolas e artesanais ganhem fama continental.\n\nO ritmo em Hillshire é diferente do acelerado das metrópoles como Hyperia. Aqui, o tempo parece desacelerar: moradores conversam à sombra das oliveiras, artistas pintam murais nas paredes antigas e treinadores de Pokémon do tipo Planta utilizam os vastos campos para treinar e realizar competições sazonais. A cidade possui uma forte tradição ecológica, com jardins verticais, hortas comunitárias e reservas naturais que convivem com o espaço urbano, evidenciando a harmonização entre progresso e preservação.\n\nApesar do clima sereno, Hillshire tem seus contrastes: áreas turísticas e vinícolas prosperam com turistas e visitantes, enquanto pequenas comunidades rurais enfrentam dificuldades com tecnologia limitada e infraestrutura precária. Essa dualidade cria uma atmosfera única, em que o passado e o presente se encontram e se complementam.",
     "map_image": "https://2img.net/i.imgur.com/WHB7ssW.png",
+    "forum_link": "",
     "coordinates": {
       "x": 61.256,
       "y": 28.992
@@ -292,6 +293,7 @@
       ],
       "based_on": "Tuscany, Itália"
     },
+    "quest_ids": [],
     "points_of_interest": [
       {
         "id": "GymGrass",
@@ -314,14 +316,6 @@
           ],
           "buys": []
         }
-      },
-      {
-        "id": "DoratiVine",
-        "name": "Vinhedos Dorati",
-        "type": "other",
-        "description": "Grandes plantações de uvas e oliveiras se estendem pelos Vinhedos Dorati, onde trilhas sinuosas permitem que turistas e treinadores pratiquem batalhas em meio à paisagem dourada. O cenário combina tradição agrícola com a beleza natural da região.",
-        "forum_link": "",
-        "shop_data": null
       },
       {
         "id": "FeiraVale",
