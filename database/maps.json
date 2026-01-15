@@ -245,7 +245,8 @@
           "sells": [
             283,
             284,
-            754
+            754,
+            83
           ],
           "buys": []
         }
@@ -1336,7 +1337,9 @@
         258
       ]
     },
-    "interaction_objects": [],
+    "interaction_objects": [
+      "FishRiver"
+    ],
     "accesses": {
       "east": {
         "id": "VER",
@@ -1565,7 +1568,9 @@
         912
       ]
     },
-    "interaction_objects": [],
+    "interaction_objects": [
+      "FishSea"
+    ],
     "accesses": {
       "east": {
         "id": "R09",
@@ -1604,7 +1609,46 @@
       "based_on": "Santorini"
     },
     "quest_ids": [],
-    "points_of_interest": [],
+    "points_of_interest": [
+      {
+        "id": "56989",
+        "name": "Oficina de Síntese",
+        "type": "service",
+        "description": "Escondida entre ateliês e escadarias que descem em direção ao porto antigo, a Oficina de Síntese Mineral ocupa um galpão restaurado de paredes claras e ferramentas expostas. O espaço é dedicado a experimentações com gemas e fragmentos cristalinos, combinando técnicas artesanais tradicionais com processos modernos de fusão e lapidação. Visitantes observam o trabalho a partir de áreas delimitadas, enquanto artesãos testam combinações pouco convencionais, buscando novas formas, cores e estruturas.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [
+          722
+        ],
+        "custom_effect": "Pode transformar 3 gemas aleatórias em 1 a escolha.",
+        "shop_data": null
+      },
+      {
+        "id": "65656",
+        "name": "Casa Lítica",
+        "type": "shop",
+        "description": "Instalada em um terraço escavado diretamente na falésia, a Casa Lítica é um estabelecimento tradicional de Cragport dedicado à negociação de pedras especiais vindas de diversas regiões de Seira. Seu interior aproveita a própria rocha como estrutura, com nichos naturais onde diferentes pedras são expostas de forma simples e organizada. Visitantes, artistas e viajantes circulam pelos balcões de avaliação enquanto a luz do fim de tarde atravessa as aberturas voltadas para o mar.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "Requer 50 de Fama",
+        "shop_data": {
+          "sells": [],
+          "buys": [
+            82,
+            84,
+            83,
+            85,
+            81,
+            80,
+            105,
+            104,
+            103,
+            455
+          ]
+        }
+      }
+    ],
     "forageable_items": [],
     "spawns": {
       "common": [
@@ -1620,7 +1664,9 @@
         656
       ]
     },
-    "interaction_objects": [],
+    "interaction_objects": [
+      "FishSea"
+    ],
     "accesses": {
       "east": {
         "id": "R10",
@@ -1672,7 +1718,9 @@
         133
       ]
     },
-    "interaction_objects": [],
+    "interaction_objects": [
+      "FishSea"
+    ],
     "accesses": {
       "south": {
         "id": "ILHA",
@@ -1890,7 +1938,9 @@
         704
       ]
     },
-    "interaction_objects": [],
+    "interaction_objects": [
+      "FishSwamp"
+    ],
     "accesses": {
       "north": {
         "id": "ARD",
@@ -1945,7 +1995,7 @@
       ]
     },
     "interaction_objects": [
-      "FishLake"
+      "FishSea"
     ],
     "accesses": {
       "east": {
@@ -2236,7 +2286,9 @@
         158
       ]
     },
-    "interaction_objects": [],
+    "interaction_objects": [
+      "FishSea"
+    ],
     "accesses": {},
     "special_location": false
   },
