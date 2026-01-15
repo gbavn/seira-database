@@ -164834,8 +164834,6 @@
     "id": 739,
     "name": "Crabrawler",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fighting"
     ],
@@ -164876,6 +164874,23 @@
         "item_id": "130",
         "item_name": "Aspear berry",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Crabominable",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 455,
+            "item_name": "Ice Stone"
+          }
+        ]
       }
     ],
     "is_starter": true,
@@ -165018,18 +165033,6 @@
       "Superpower",
       "Endeavor",
       "Wide guard"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Crabominable",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -204631,8 +204634,6 @@
     "id": 974,
     "name": "Cetoddle",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ice"
     ],
@@ -204669,6 +204670,23 @@
     "dex_entry": "Esta espécie deixou o oceano e começou a viver em terra há muito tempo. Parece ser próxima de Wailmer.",
     "classification": "Pokémon Baleia-Terrestre",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Cetitan",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 455,
+            "item_name": "Ice Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -204780,19 +204798,6 @@
       "Yawn",
       "Entrainment",
       "Icicle crash"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Cetitan",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Ice stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -213666,6 +213671,23 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Alolan Sandslash",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 22
+          },
+          {
+            "type": "item",
+            "item_id": 455,
+            "item_name": "Ice Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -213853,8 +213875,7 @@
       "Metal claw",
       "Mirror coat",
       "Night slash"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 10005,
@@ -219916,7 +219937,23 @@
     "dex_entry": "It derives its power from fire burning inside its body. If the fire dwindles, this Pokémon will immediately fall asleep.",
     "classification": "Zen Charm Pokémon",
     "held_items": [],
-    "evolves_to": [],
+    "evolves_to": [
+      {
+        "pokemon": "Galarian Darmanitan",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 455,
+            "item_name": "Ice Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "raro",
