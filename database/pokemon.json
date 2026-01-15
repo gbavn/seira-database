@@ -18757,6 +18757,46 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Slowbro",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 37
+          }
+        ]
+      },
+      {
+        "pokemon": "Slowking",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 182,
+            "item_name": "King’s Rock"
+          }
+        ]
+      },
+      {
+        "pokemon": "Slowking",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "trade"
+          },
+          {
+            "type": "custom",
+            "description": "Holding Kings rock during trade"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "raro",
@@ -18959,41 +18999,6 @@
       "Zen headbutt",
       "Wonder room",
       "Belch"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Slowbro",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 37
-          }
-        ]
-      },
-      {
-        "pokemon": "Slowking",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": 182
-          }
-        ]
-      },
-      {
-        "pokemon": "Slowking",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Kings rock during trade"
-          }
-        ]
-      }
     ]
   },
   {
@@ -29724,8 +29729,6 @@
     "id": 123,
     "name": "Scyther",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Bug",
       "Flying"
@@ -29763,6 +29766,38 @@
     "dex_entry": "À medida que Scyther luta cada vez mais batalhas, suas foices ficam cada vez mais afiadas. Com um único corte, Scyther pode derrubar uma árvore enorme.",
     "classification": "Pokémon Louva-a-deus",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Scizor",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 194,
+            "item_name": "Metal Coat"
+          }
+        ]
+      },
+      {
+        "pokemon": "Kleavor",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 787,
+            "item_name": "Black Augurite"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "epico",
@@ -29953,32 +29988,6 @@
       "Bug buzz",
       "Defog",
       "Quick guard"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Scizor",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Metal coat during trade"
-          }
-        ]
-      },
-      {
-        "pokemon": "Kleavor",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Black augurite"
-          }
-        ]
-      }
     ]
   },
   {
@@ -182746,12 +182755,59 @@
     "dex_entry": "Ele passa a vida inteira dentro de uma maçã. Esconde-se de seus predadores, os Pokémon pássaro, fingindo ser apenas uma maçã.",
     "classification": "Pokémon Núcleo de Maçã",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Appletun",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "item",
+            "item_id": 555,
+            "item_name": "Sweet Apple"
+          }
+        ]
+      },
+      {
+        "pokemon": "Flapple",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "item",
+            "item_id": 556,
+            "item_name": "Tart Apple"
+          }
+        ]
+      },
+      {
+        "pokemon": "Dipplin",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "item",
+            "item_id": null,
+            "item_name": ""
+          },
+          {
+            "type": "item",
+            "item_id": 756,
+            "item_name": "Syrup Apple"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "raro",
     "is_producer": false,
     "production": [],
-    "evolution_moves": [],
     "moveset_by_level": [
       {
         "move": "Withdraw",
@@ -182771,8 +182827,7 @@
       "Recycle",
       "Rollout",
       "Sucker Punch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 841,
@@ -184793,8 +184848,6 @@
     "id": 854,
     "name": "Sinistea",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ghost"
     ],
@@ -184811,7 +184864,10 @@
       "Mineral",
       "Indeterminate"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 62,
     "stats": {
@@ -184828,6 +184884,23 @@
     "dex_entry": "Dizem que esse Pokémon nasceu quando um espírito solitário possuiu uma xícara de chá fria e esquecida.",
     "classification": "Pokémon Chá Preto",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Polteageist",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "item",
+            "item_id": 570,
+            "item_name": "Chipped Pot"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -184928,27 +185001,12 @@
     ],
     "egg_moves": [
       "Ally switch"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Polteageist",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Cracked pot"
-          }
-        ]
-      }
     ]
   },
   {
     "id": 855,
     "name": "Polteageist",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ghost"
     ],
@@ -184965,7 +185023,10 @@
       "Mineral",
       "Indeterminate"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 178,
     "stats": {
@@ -184982,6 +185043,7 @@
     "dex_entry": "Essa espécie vive em bules antigos. A maioria é falsificação, mas ocasionalmente um bule autêntico é encontrado.",
     "classification": "Pokémon Chá Preto",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -185100,8 +185162,7 @@
     ],
     "egg_moves": [
       "Ally switch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 856,
@@ -198278,8 +198339,6 @@
     "id": 935,
     "name": "Charcadet",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fire"
     ],
@@ -198315,6 +198374,38 @@
     "dex_entry": "Carvão queimado ganhou vida e tornou-se um Pokémon. Possuindo um espírito de luta ardente, Charcadet enfrenta até oponentes difíceis.",
     "classification": "Pokémon Criança de Fogo",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Armarouge",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 685,
+            "item_name": "Auspicious Armor"
+          }
+        ]
+      },
+      {
+        "pokemon": "Ceruledge",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 598,
+            "item_name": "Malicious Armor"
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "epico",
@@ -198388,30 +198479,6 @@
       "Disable",
       "Spite",
       "Destiny bond"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Armarouge",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Auspicious armor"
-          }
-        ]
-      },
-      {
-        "pokemon": "Ceruledge",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Malicious armor"
-          }
-        ]
-      }
     ]
   },
   {
@@ -210922,12 +210989,28 @@
     "dex_entry": "Dizem que os arrependimentos de um mestre de cerimônia do chá que morreu antes de aperfeiçoar seu ofício permaneceram em um pouco de matcha e se tornaram um Pokémon.",
     "classification": "Matcha",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Poltchageist",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 788,
+            "item_name": "Unremarkable Teacup"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "raro",
     "is_producer": false,
     "production": [],
-    "evolution_moves": [],
     "moveset_by_level": [
       {
         "move": "Stun Spore",
@@ -211014,8 +211097,7 @@
       "Trick Room",
       "Uproar"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 1013,
@@ -217666,6 +217748,38 @@
     "dex_entry": "Slow-witted and oblivious, this Pokémon won’t feel any pain if its tail gets eaten. It won’t notice when its tail grows back, either.",
     "classification": "Dopey Pokémon",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Galarian Slowbro",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 584,
+            "item_name": "Galarica Cuff"
+          }
+        ]
+      },
+      {
+        "pokemon": "Galarian Slowking",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 587,
+            "item_name": "Galarica Wreath"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -217819,8 +217933,7 @@
       "Belly drum",
       "Block",
       "Stomp"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 10023,
