@@ -55,7 +55,10 @@
             554
           ],
           "buys": []
-        }
+        },
+        "linked_pokemon": [
+          869
+        ]
       }
     ],
     "forageable_items": [],
@@ -841,6 +844,17 @@
         "description": "O principal portal de entrada das Ruínas de Rhisis, com colunas partidas e inscrições antigas. Treinadores e exploradores usam o local como ponto de referência antes de iniciar a exploração, enquanto pequenos Pokémon se escondem entre as pedras.",
         "forum_link": "",
         "shop_data": null
+      },
+      {
+        "id": "poi-1768501315286",
+        "name": "Acampamento de Pesquisa Rhisis",
+        "type": "facility",
+        "description": "As ruínas detêm muitos segredos que ainda não foram descobertos pela humanidade contemporânea, nem mesmo com auxílio da tecnologia da Rede Helix, por isso um grupo de pesquisadores é frequentemente visto com acampamento armado próximo do Altar Esquecido. Ao conversar com o encarregado, pode descobrir o que se sabe sobre Rhisis e até ajudar na pesquisa para revelar a verdade sobre a locação.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": null
       }
     ],
     "forageable_items": [],
@@ -1105,7 +1119,7 @@
       "rare": [
         739,
         613,
-        333
+        363
       ],
       "epic": [
         774,
@@ -1476,7 +1490,7 @@
     "type": "city",
     "name": "Ardozart",
     "biome": "Urbano",
-    "description": "Ardozart é uma metrópole vibrante que nunca dorme, localizada às margens do Rio Magma (um rio de águas termais que desce das montanhas de Hando em direção ao sul de Nassael). A cidade é um mosaico de letreiros de neon, arquitetura art déco e teatros imponentes. O ar é perenemente morno e carrega um leve aroma de madeira queimada e especiarias. É conhecida como o berço do \"Soul de Seira\", um gênero musical que utiliza o som de Pokémon de fogo e elétricos para criar harmonias únicas.",
+    "description": "Ardozart é uma metrópole vibrante que nunca dorme, localizada às margens do Rio Magma (um rio de águas termais que desce das montanhas do norte em direção ao sul). A cidade é um mosaico de letreiros de neon, arquitetura art déco e teatros imponentes. O ar é perenemente morno e carrega um leve aroma de madeira queimada e especiarias. É conhecida como o berço do \"Soul de Seira\", um gênero musical que utiliza o som de Pokémon de fogo e elétricos para criar harmonias únicas. Ponto de parada quase obrigatório da classe artística.",
     "map_image": "https://wearememphis.com/wp-content/uploads/2025/09/Beale-Street.jpg",
     "forum_link": "",
     "coordinates": {
@@ -1564,7 +1578,7 @@
     "type": "city",
     "name": "Silvershore",
     "biome": "Litorâneo",
-    "description": "Situada no Sul Costeiro de Seira, Silvershore é o ápice do luxo e da beleza tropical, servindo como o refúgio paradisíaco da região. A cidade é um arquipélago de ilhotas interconectadas por passarelas de madeira polida e pontes de vidro que permitem observar o ecossistema marinho vibrante logo abaixo dos pés. Conhecida mundialmente como a \"Ilha do Amor\", Silvershore é o destino preferido para luas de mel e celebrações, onde o sol brilha quase o ano todo e a neve, comum no Leste, é um fenômeno cientificamente impossível graças à regulação térmica da Rede Helix.\n\nA cidade exala uma atmosfera de serenidade e opulência. Bangalôs sobre as águas turquesa misturam o design rústico do antigo Reino de Nassael com conveniências tecnológicas invisíveis. Durante o dia, o som predominante é o das ondas quebrando suavemente nos recifes de coral e o canto dos Wingull; à noite, Silvershore se transforma em um espetáculo de luzes subaquáticas, com jardins de corais bioluminescentes iluminando as águas para os nadadores noturnos. A economia local é movida pelo turismo de alto padrão, pela preservação de espécies marinhas e pela pérola de prata, uma gema orgânica rara produzida apenas pelos Shellder desta baía.\n\nApesar da fachada perfeita, Silvershore é um ponto estratégico vital para a unificação de Seira. Como antiga possessão de Nassael, ela detém os segredos das correntes marítimas que conectam o continente às ilhas distantes. A Rede Helix aqui atua de forma intensiva, controlando as marés e mantendo a temperatura da água constante para proteger os corais sensíveis.",
+    "description": "Situada no Oeste Costeiro de Seira, Silvershore é o ápice do luxo e da beleza tropical, servindo como o refúgio paradisíaco da região. A cidade é um arquipélago de ilhotas interconectadas por passarelas de madeira polida e pontes de vidro que permitem observar o ecossistema marinho vibrante logo abaixo dos pés. Conhecida mundialmente como a \"Ilha do Amor\", Silvershore é o destino preferido para luas de mel e celebrações, onde o sol brilha quase o ano todo e a neve, comum no Leste, é um fenômeno cientificamente impossível graças à regulação térmica da Rede Helix.\n\nA cidade exala uma atmosfera de serenidade e opulência. Bangalôs sobre as águas turquesa misturam o design rústico do antigo Reino de Nassael com conveniências tecnológicas invisíveis. Durante o dia, o som predominante é o das ondas quebrando suavemente nos recifes de coral e o canto dos Wattrel; à noite, Silvershore se transforma em um espetáculo de luzes subaquáticas, com jardins de corais bioluminescentes iluminando as águas para os nadadores noturnos. A economia local é movida pelo turismo de alto padrão, pela preservação de espécies marinhas e pela pérola de prata, uma gema orgânica rara produzida apenas pelos Binacle desta baía.\n",
     "map_image": "https://digital.ihg.com/is/image/ihg/intercontinental-bora-bora-9636653008-2x1?",
     "forum_link": "",
     "coordinates": {
@@ -1714,6 +1728,17 @@
             455
           ]
         }
+      },
+      {
+        "id": "poi-1768502624918",
+        "name": "",
+        "type": "facility",
+        "description": "",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": null
       }
     ],
     "forageable_items": [],
@@ -2288,7 +2313,29 @@
       "based_on": "Honduras."
     },
     "quest_ids": [],
-    "points_of_interest": [],
+    "points_of_interest": [
+      {
+        "id": "TriboKalla",
+        "name": "Reserva Natural da Tribo Kalla",
+        "type": "other",
+        "description": "Em algum momento você deve encontrar os Guerreiros de Kalla - defensores da selva - e lutar contra eles ou aceitar uma vivência imersiva nos costumes de um dos povos mais tracionais de Seira. Apesar de comunicarem entre si na língua nativa, os membros da comunidade conseguem se comunicar com estrangeiros devido a frequência com que são visitados por aventureiros. Caso tenha boas intenções, eles te mostrarão os costumes dos Kalla com plantação, colheita, pesca, te apresentando os rios, como respeitar a natureza como membro da família e convidarão para participar de um ritual ao Deus Ogerpon.\nO Pajé Ko'Kan pode ser visitado na manhã seguinte ao ritual caso queira trocar 10 Berries por 1 Erva.",
+        "forum_link": "",
+        "linked_pokemon": [
+          812
+        ],
+        "linked_items": [],
+        "custom_effect": "Pode curar seus pokémon a cada 8 post",
+        "shop_data": {
+          "sells": [
+            37,
+            34,
+            36,
+            35
+          ],
+          "buys": []
+        }
+      }
+    ],
     "forageable_items": [],
     "spawns": {
       "common": [
@@ -2299,7 +2346,7 @@
       "rare": [
         511,
         944,
-        708
+        177
       ],
       "epic": [
         123,
