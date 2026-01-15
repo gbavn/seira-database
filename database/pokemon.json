@@ -42542,8 +42542,6 @@
     "id": 176,
     "name": "Togetic",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fairy",
       "Flying"
@@ -42582,6 +42580,23 @@
     "dex_entry": "Dizem que ele aparece diante de pessoas bondosas e carinhosas e as presenteia com felicidade.",
     "classification": "Pokémon Felicidade",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Togekiss",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 103,
+            "item_name": "Shiny Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "epico",
@@ -42821,19 +42836,6 @@
       "Lucky chant",
       "Nasty plot",
       "Stored power"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Togekiss",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Shiny stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -47773,8 +47775,6 @@
     "id": 198,
     "name": "Murkrow",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dark",
       "Flying"
@@ -47812,6 +47812,23 @@
     "dex_entry": "É fascinado por coisas brilhantes. Sabe invadir ninhos de Gabite — famosos colecionadores de joias — em busca de tesouros.",
     "classification": "Pokémon Trevas",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Honchkrow",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "item",
+            "item_id": 104,
+            "item_name": "Dusk Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -48015,19 +48032,6 @@
       "Psycho shift",
       "Punishment",
       "Brave bird"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Honchkrow",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Dusk stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -48319,8 +48323,6 @@
     "id": 200,
     "name": "Misdreavus",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ghost"
     ],
@@ -48358,6 +48360,23 @@
         "item_id": "224",
         "item_name": "Spell tag",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Mismagius",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "item",
+            "item_id": 104,
+            "item_name": "Dusk Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -48550,19 +48569,6 @@
       "Shadow sneak",
       "Ominous wind",
       "Wonder room"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Mismagius",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Dusk stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -74678,8 +74684,6 @@
     "id": 315,
     "name": "Roselia",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Grass",
       "Poison"
@@ -74727,6 +74731,23 @@
         "item_id": "588",
         "item_name": "Absorb bulb",
         "rarity": 1
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Roserade",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 103,
+            "item_name": "Shiny Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -74897,19 +74918,6 @@
       "Seed bomb",
       "Leaf storm",
       "Life dew"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Roserade",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Shiny stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -125392,6 +125400,23 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Whimsicott",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 80,
+            "item_name": "Sun Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -125538,19 +125563,6 @@
       "Switcheroo",
       "Captivate",
       "Misty terrain"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Whimsicott",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Sun stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -125785,8 +125797,6 @@
     "id": 548,
     "name": "Petilil",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Grass"
     ],
@@ -125827,6 +125837,23 @@
         "item_id": "588",
         "item_name": "Absorb bulb",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Lilligant",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 80,
+            "item_name": "Sun Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -125973,19 +126000,6 @@
       "Healing wish",
       "Natural gift",
       "Worry seed"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Lilligant",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Sun stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -131034,8 +131048,6 @@
     "id": 572,
     "name": "Minccino",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -131076,6 +131088,23 @@
         "item_id": "127",
         "item_name": "Chesto berry",
         "rarity": 50
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Cinccino",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "item",
+            "item_id": 103,
+            "item_name": "Shiny Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -131231,19 +131260,6 @@
       "Fake tears",
       "Aqua tail",
       "Tidy up"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Cinccino",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Shiny stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -138175,8 +138191,6 @@
     "id": 608,
     "name": "Lampent",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ghost",
       "Fire"
@@ -138214,6 +138228,23 @@
     "dex_entry": "Este Pokémon aparece pouco antes de alguém falecer, sendo temido como um emissário da morte.",
     "classification": "Pokémon Lâmpada",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Chandelure",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 41
+          },
+          {
+            "type": "item",
+            "item_id": 104,
+            "item_name": "Dusk Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -138361,19 +138392,6 @@
       "Captivate",
       "Power split",
       "Clear smog"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Chandelure",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Dusk stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -150926,8 +150944,6 @@
     "id": 670,
     "name": "Floette",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fairy"
     ],
@@ -150963,6 +150979,23 @@
     "dex_entry": "Ela cultiva flores e as usa como armas. Quanto mais deslumbrante a flor, maior o poder que contém.",
     "classification": "Pokémon Flor Única",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Florges",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 103,
+            "item_name": "Shiny Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "comum",
@@ -151101,19 +151134,6 @@
       "Copycat",
       "Captivate",
       "Tearful look"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Florges",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Shiny stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -152876,8 +152896,6 @@
     "id": 680,
     "name": "Doublade",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Steel",
       "Ghost"
@@ -152912,6 +152930,23 @@
     "dex_entry": "Honedge evolui em gêmeos. As duas lâminas se esfregam para emitir um som metálico que perturba seus oponentes.",
     "classification": "Pokémon Espada",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Aegislash",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 38
+          },
+          {
+            "type": "item",
+            "item_id": 104,
+            "item_name": "Dusk Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -153031,19 +153066,6 @@
       "Block",
       "Shadow sneak",
       "Wide guard"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Aegislash",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Dusk stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -155629,8 +155651,6 @@
     "id": 694,
     "name": "Helioptile",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric",
       "Normal"
@@ -155669,6 +155689,23 @@
     "dex_entry": "Quando abertas, as abas de sua cabeça funcionam como painéis solares, gerando a energia que alimenta seus ataques elétricos.",
     "classification": "Pokémon Gerador",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Heliolisk",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 80,
+            "item_name": "Sun Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -155792,19 +155829,6 @@
       "Dragon rush",
       "Dragon tail",
       "Electric terrain"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Heliolisk",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Sun stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -226183,6 +226207,23 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Hisuian Lilligant",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 80,
+            "item_name": "Sun Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -226327,8 +226368,7 @@
       "Natural gift",
       "Sweet scent",
       "Worry seed"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 10067,
