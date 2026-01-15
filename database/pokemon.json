@@ -4915,6 +4915,23 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Raichu",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 22
+          },
+          {
+            "type": "item",
+            "item_id": 83,
+            "item_name": "Thunder Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -5130,33 +5147,6 @@
       "Bestow",
       "Disarming voice",
       "Electric terrain"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Raichu",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 22
-          },
-          {
-            "type": "item",
-            "item_id": 83
-          }
-        ]
-      },
-      {
-        "pokemon": "Raichu",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Thunder stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -8103,9 +8093,13 @@
         "method": "primary",
         "triggers": [
           {
+            "type": "level",
+            "level": 23
+          },
+          {
             "type": "item",
             "item_id": 82,
-            "item_name": "Fire stone"
+            "item_name": "Fire Stone"
           }
         ]
       },
@@ -13466,8 +13460,6 @@
     "id": 58,
     "name": "Growlithe",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fire"
     ],
@@ -13508,6 +13500,23 @@
         "item_id": "129",
         "item_name": "Rawst berry",
         "rarity": 100
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Arcanine",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 23
+          },
+          {
+            "type": "item",
+            "item_id": 82,
+            "item_name": "Fire Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -13685,19 +13694,6 @@
       "Flare blitz",
       "Burn up",
       "Raging fury"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Arcanine",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Fire stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -14163,8 +14159,6 @@
     "id": 61,
     "name": "Poliwhirl",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water"
     ],
@@ -14205,6 +14199,38 @@
         "item_id": "198",
         "item_name": "Kings rock",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Poliwrath",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 32
+          },
+          {
+            "type": "item",
+            "item_id": 84,
+            "item_name": "Water Stone"
+          }
+        ]
+      },
+      {
+        "pokemon": "Politoed",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 32
+          },
+          {
+            "type": "item",
+            "item_id": 182,
+            "item_name": "King’s Rock"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -14384,32 +14410,6 @@
       "Mud shot",
       "Water sport",
       "Water pulse"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Poliwrath",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Water stone"
-          }
-        ]
-      },
-      {
-        "pokemon": "Politoed",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          },
-          {
-            "type": "custom",
-            "description": "Holding Kings rock during trade"
-          }
-        ]
-      }
     ]
   },
   {
@@ -19479,8 +19479,6 @@
     "id": 82,
     "name": "Magneton",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric",
       "Steel"
@@ -19498,7 +19496,10 @@
     "egg_groups": [
       "Mineral"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 163,
     "stats": {
@@ -19524,6 +19525,23 @@
         "item_id": "219",
         "item_name": "Magnet",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Magnezone",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 36
+          },
+          {
+            "type": "item",
+            "item_id": 83,
+            "item_name": "Thunder Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -19698,18 +19716,6 @@
     "egg_moves": [
       "Explosion",
       "Electroweb"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Magnezone",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -21512,6 +21518,23 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Cloyster",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 84,
+            "item_name": "Water Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "comum",
@@ -21671,19 +21694,6 @@
       "Aqua ring",
       "Avalanche",
       "Life dew"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Cloyster",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Water stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -28929,8 +28939,6 @@
     "id": 120,
     "name": "Staryu",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water"
     ],
@@ -28947,7 +28955,10 @@
     "egg_groups": [
       "Water3"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 68,
     "stats": {
@@ -28973,6 +28984,23 @@
         "item_id": "91",
         "item_name": "Star piece",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Starmie",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 84,
+            "item_name": "Water Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -29139,19 +29167,6 @@
       "Supersonic",
       "Aurora beam",
       "Barrier"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Starmie",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Water stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -41542,8 +41557,6 @@
     "id": 172,
     "name": "Pichu",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric"
     ],
@@ -41583,6 +41596,27 @@
         "item_id": "132",
         "item_name": "Oran berry",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Pikachu",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "friendship"
+          }
+        ]
+      },
+      {
+        "pokemon": "Pikachu",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "custom",
+            "description": "Level up (especificar condição: friendship, location, move, etc)"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -41737,27 +41771,6 @@
       "Bestow",
       "Disarming voice",
       "Electric terrain"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Pikachu",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "friendship"
-          }
-        ]
-      },
-      {
-        "pokemon": "Pikachu",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -64366,8 +64379,6 @@
     "id": 271,
     "name": "Lombre",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water",
       "Grass"
@@ -64410,6 +64421,23 @@
         "item_id": "196",
         "item_name": "Mental herb",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Ludicolo",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "item",
+            "item_id": 84,
+            "item_name": "Water Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -64603,19 +64631,6 @@
       "Synthesis",
       "Teeter dance",
       "Tickle"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Ludicolo",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Water stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -70845,8 +70860,6 @@
     "id": 299,
     "name": "Nosepass",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock"
     ],
@@ -70892,6 +70905,23 @@
         "item_id": "219",
         "item_name": "Magnet",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Probopass",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "item",
+            "item_id": 83,
+            "item_name": "Thunder Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -71055,18 +71085,6 @@
       "Stealth rock",
       "Head smash",
       "Wide guard"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Probopass",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -118898,6 +118916,23 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Simisear",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "item",
+            "item_id": 82,
+            "item_name": "Fire Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -119039,19 +119074,6 @@
       "Nasty plot",
       "Belch",
       "Disarming voice"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Simisear",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Fire stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -119262,6 +119284,23 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Simipour",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "item",
+            "item_id": 84,
+            "item_name": "Water Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -119403,19 +119442,6 @@
       "Aqua tail",
       "Nasty plot",
       "Disarming voice"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Simipour",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Water stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -137109,8 +137135,6 @@
     "id": 603,
     "name": "Eelektrik",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric"
     ],
@@ -137144,6 +137168,23 @@
     "dex_entry": "Eles se enrolam em seus inimigos e os eletrocutam com órgãos geradores de eletricidade que parecem simples padrões circulares.",
     "classification": "Pokémon ElePeixe",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Eelektross",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 39
+          },
+          {
+            "type": "item",
+            "item_id": 83,
+            "item_name": "Thunder Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -137267,20 +137308,7 @@
       "Volt switch",
       "Wild charge"
     ],
-    "egg_moves": [],
-    "evolves_to": [
-      {
-        "pokemon": "Eelektross",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Thunder stone"
-          }
-        ]
-      }
-    ]
+    "egg_moves": []
   },
   {
     "id": 604,
@@ -164356,8 +164384,6 @@
     "id": 737,
     "name": "Charjabug",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Bug",
       "Electric"
@@ -164396,6 +164422,23 @@
         "item_id": "589",
         "item_name": "Cell battery",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Vikavolt",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 83,
+            "item_name": "Thunder Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -164518,18 +164561,6 @@
       "Mud shot",
       "Discharge",
       "Electroweb"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Vikavolt",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -198671,8 +198702,6 @@
     "id": 938,
     "name": "Tadbulb",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric"
     ],
@@ -198709,6 +198738,23 @@
     "dex_entry": "Tadbulb sacode sua cauda para gerar eletricidade. Se sentir perigo, fará sua cabeça piscar repetidamente para alertar seus aliados.",
     "classification": "Pokémon Girino Elétrico",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Bellibolt",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 20
+          },
+          {
+            "type": "item",
+            "item_id": 83,
+            "item_name": "Thunder Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -198804,19 +198850,6 @@
       "Muddy water",
       "Soak",
       "Parabolic charge"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Bellibolt",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Thunder stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -200810,8 +200843,6 @@
     "id": 951,
     "name": "Capsakid",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Grass"
     ],
@@ -200848,6 +200879,23 @@
     "dex_entry": "Quanto mais luz solar este Pokémon recebe, mais produtos químicos picantes seu corpo produz — e, portanto, mais ardidos seus golpes se tornam.",
     "classification": "Pokémon Pimenta Picante",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Scovillain",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 20
+          },
+          {
+            "type": "item",
+            "item_id": 82,
+            "item_name": "Fire Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -200939,19 +200987,6 @@
       "Ingrain",
       "Worry seed",
       "Rage powder"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Scovillain",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Fire stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -214053,7 +214088,23 @@
         "rarity": 5
       }
     ],
-    "evolves_to": [],
+    "evolves_to": [
+      {
+        "pokemon": "Alolan Ninetales",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 23
+          },
+          {
+            "type": "item",
+            "item_id": 455,
+            "item_name": "Ice Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "raro",
@@ -220460,6 +220511,23 @@
     "dex_entry": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
     "classification": "Puppy Pokémon",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Hisuian Arcanine",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 23
+          },
+          {
+            "type": "item",
+            "item_id": 82,
+            "item_name": "Fire Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -220593,8 +220661,7 @@
       "Head smash",
       "Morning sun",
       "Thrash"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 10039,
@@ -223874,6 +223941,17 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Alolan Pikachu",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "friendship"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -224026,8 +224104,7 @@
       "Thunder punch",
       "Tickle",
       "Wish"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 10057,
@@ -224080,6 +224157,23 @@
         "item_id": "213",
         "item_name": "Light ball",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Alolan Raichu",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 22
+          },
+          {
+            "type": "item",
+            "item_id": 83,
+            "item_name": "Thunder Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -224280,8 +224374,7 @@
       "Wild charge",
       "Zap cannon"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 10058,
