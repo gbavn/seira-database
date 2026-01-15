@@ -1493,6 +1493,17 @@
           ],
           "buys": []
         }
+      },
+      {
+        "id": "56566",
+        "name": "Cinema Balaban",
+        "type": "service",
+        "description": "Erguido em um prédio art déco restaurado, o Cinema Balaban é um dos marcos culturais mais tradicionais de Ardozart. Sua fachada iluminada por letreiros de néon anuncia sessões contínuas desde o início da noite até a madrugada, atraindo tanto moradores quanto visitantes. No interior, poltronas amplas, cortinas pesadas e o aroma constante de pipoca e especiarias criam uma atmosfera nostálgica, contrastando com sistemas de projeção modernos e efeitos sonoros potentes. O Balaban é famoso por exibições musicais, documentários urbanos e estreias experimentais, mantendo viva a relação da cidade com o espetáculo, a memória e o entretenimento coletivo.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": null
       }
     ],
     "forageable_items": [],
