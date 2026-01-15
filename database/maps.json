@@ -1418,7 +1418,31 @@
       "based_on": ""
     },
     "quest_ids": [],
-    "points_of_interest": [],
+    "points_of_interest": [
+      {
+        "id": "6564",
+        "name": "Pátio de Reaproveitamento 03",
+        "type": "service",
+        "description": "Espalhado ao redor de antigos trilhos enferrujados, o Pátio de Reaproveitamento 03 ocupa uma área aberta cercada por galpões baixos e estruturas metálicas corroídas pelo tempo. Montanhas de sucata se organizam de forma quase funcional: peças elétricas empilhadas, carcaças de máquinas desmontadas e contêineres reaproveitados servindo como oficinas improvisadas. O ar vibra com estalos, motores sendo testados e o zumbido constante de energia residual. Técnicos, catadores e curiosos circulam livremente, negociando componentes, explorando achados inesperados ou apenas observando o lento ciclo de descarte e reutilização que define esse ponto essencial da Rota 03.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": {
+          "sells": [],
+          "buys": [
+            213,
+            285,
+            284,
+            283,
+            754,
+            282,
+            194,
+            789
+          ]
+        }
+      }
+    ],
     "forageable_items": [],
     "spawns": {
       "common": [
