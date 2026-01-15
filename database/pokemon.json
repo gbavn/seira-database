@@ -182786,9 +182786,8 @@
         "method": "primary",
         "triggers": [
           {
-            "type": "item",
-            "item_id": null,
-            "item_name": ""
+            "type": "level",
+            "level": 24
           },
           {
             "type": "item",
