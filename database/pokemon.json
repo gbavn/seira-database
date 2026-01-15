@@ -13173,8 +13173,6 @@
     "id": 57,
     "name": "Primeape",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fighting"
     ],
@@ -13210,11 +13208,21 @@
     "weight": 32,
     "dex_entry": "Ele nunca perdoa oponentes que o irritaram. Mesmo depois de derrotá-los até que não consigam se mover, ele nunca, jamais, perdoa.",
     "classification": "Pokémon Macaco Porco",
-    "held_items": [
+    "held_items": [],
+    "evolves_to": [
       {
-        "item_id": "170",
-        "item_name": "Payapa berry",
-        "rarity": 5
+        "pokemon": "Annihilape",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 32
+          },
+          {
+            "type": "move",
+            "move_name": "Rage Fist"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -13461,18 +13469,6 @@
       "Close combat",
       "Night slash",
       "Power trip"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Annihilape",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Other (especificar condição completa)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -25937,8 +25933,6 @@
     "id": 108,
     "name": "Lickitung",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -25979,6 +25973,22 @@
         "item_id": "256",
         "item_name": "Lagging tail",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Lickilicky",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 22
+          },
+          {
+            "type": "move",
+            "move_name": "Rollout"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -26204,18 +26214,6 @@
       "Hammer arm",
       "Zen headbutt",
       "Belch"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Lickilicky",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -27610,8 +27608,6 @@
     "id": 114,
     "name": "Tangela",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Grass"
     ],
@@ -27648,6 +27644,22 @@
     "dex_entry": "Escondido sob um emaranhado de vinhas que cresce sem parar, mesmo que sejam arrancadas, sua verdadeira aparência permanece um mistério.",
     "classification": "Pokémon Trepadeira",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Tangrowth",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "move",
+            "move_name": "Ancient power"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -27835,18 +27847,6 @@
       "Power swap",
       "Leaf storm",
       "Rage powder"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Tangrowth",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -45914,6 +45914,22 @@
     "dex_entry": "À medida que passou a fazer mais coisas com a cauda, suas mãos ficaram desajeitadas. Ele faz seu ninho no alto das copas das árvores.",
     "classification": "Pokémon Cauda Longa",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Ambipom",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 23
+          },
+          {
+            "type": "move",
+            "move_name": "Double hit"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -46114,18 +46130,6 @@
       "Switcheroo",
       "Quick guard",
       "Tail slap"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Ambipom",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -46559,8 +46563,6 @@
     "id": 193,
     "name": "Yanma",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Bug",
       "Flying"
@@ -46597,11 +46599,21 @@
     "weight": 38,
     "dex_entry": "Ao bater as asas rápido demais, consegue gerar ondas de choque que estilhaçam janelas ao redor.",
     "classification": "Pokémon Asa Translúcida",
-    "held_items": [
+    "held_items": [],
+    "evolves_to": [
       {
-        "item_id": "242",
-        "item_name": "Wide lens",
-        "rarity": 5
+        "pokemon": "Yanmega",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "move",
+            "move_name": "Ancient power"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -46776,18 +46788,6 @@
       "Silver wind",
       "Signal beam",
       "Feint"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Yanmega",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -48730,8 +48730,6 @@
     "id": 203,
     "name": "Girafarig",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal",
       "Psychic"
@@ -48773,6 +48771,22 @@
         "item_id": "133",
         "item_name": "Persim berry",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Farigiraf",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "move",
+            "move_name": "Twin Beam"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -48969,18 +48983,6 @@
       "Ally switch",
       "Psychic terrain",
       "Psychic fangs"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Farigiraf",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -49452,8 +49454,6 @@
     "id": 206,
     "name": "Dunsparce",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -49490,6 +49490,22 @@
     "dex_entry": "Suas pequenas asas fazem alguns cientistas dizerem que Dunsparce já voou pelos céus em tempos antigos.",
     "classification": "Pokémon Cobra-Terrestre",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Dudunsparce",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "move",
+            "move_name": "Hyper Drill"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -49713,18 +49729,6 @@
       "Last resort",
       "Aqua tail",
       "Hex"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Dudunsparce",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -53303,8 +53307,6 @@
     "id": 221,
     "name": "Piloswine",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ice",
       "Ground"
@@ -53341,16 +53343,21 @@
     "weight": 55.8,
     "dex_entry": "Quando investe contra um inimigo, os pelos de suas costas ficam totalmente eriçados. É extremamente sensível a sons.",
     "classification": "Pokémon Suíno",
-    "held_items": [
+    "held_items": [],
+    "evolves_to": [
       {
-        "item_id": "130",
-        "item_name": "Aspear berry",
-        "rarity": 50
-      },
-      {
-        "item_id": "223",
-        "item_name": "Never melt-ice",
-        "rarity": 5
+        "pokemon": "Mamoswine",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 37
+          },
+          {
+            "type": "move",
+            "move_name": "Ancient power"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -53546,18 +53553,6 @@
       "Stealth rock",
       "Icicle crash",
       "Freeze dry"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Mamoswine",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -56302,8 +56297,6 @@
     "id": 234,
     "name": "Stantler",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -56340,6 +56333,22 @@
     "dex_entry": "Os chifres curvados alteram sutilmente o fluxo do ar para criar um espaço estranho onde a realidade é distorcida.",
     "classification": "Pokémon Grande Chifre",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Wyrdeer",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 20
+          },
+          {
+            "type": "move",
+            "move_name": "Psyshield Bash"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "epico",
@@ -56534,18 +56543,6 @@
       "Me first",
       "Zen headbutt",
       "Psyshield bash"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Wyrdeer",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Use Agile Style move (Legends Arceus mechanic)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -101950,8 +101947,6 @@
     "id": 438,
     "name": "Bonsly",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock"
     ],
@@ -101988,6 +101983,22 @@
     "dex_entry": "Expulsa suor e lágrimas pelos olhos. O suor é um pouco salgado, enquanto as lágrimas têm um leve amargor.",
     "classification": "Pokémon Bonsai",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Sudowoodo",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 12
+          },
+          {
+            "type": "move",
+            "move_name": "Mimic"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -102152,18 +102163,6 @@
       "Sand tomb",
       "Rock polish",
       "Stealth rock"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Sudowoodo",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -102211,6 +102210,22 @@
         "item_id": "131",
         "item_name": "Leppa berry",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Mr. Mime",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 12
+          },
+          {
+            "type": "move",
+            "move_name": "Mimic"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -102421,8 +102436,7 @@
       "Power split",
       "Magic room",
       "Psychic terrain"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 440,
@@ -169300,8 +169314,6 @@
     "id": 762,
     "name": "Steenee",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Grass"
     ],
@@ -169342,6 +169354,22 @@
         "item_id": "901",
         "item_name": "Grassy seed",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Tsareena",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 26
+          },
+          {
+            "type": "move",
+            "move_name": "Stomp"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -169469,18 +169497,6 @@
       "Feint",
       "Acupressure",
       "Play rough"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Tsareena",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -176952,8 +176968,6 @@
     "id": 803,
     "name": "Poipole",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Poison"
     ],
@@ -176967,7 +176981,10 @@
     "egg_groups": [
       "No eggs"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 189,
     "stats": {
@@ -176984,6 +177001,22 @@
     "dex_entry": "Esta Ultra Beast é tão bem quista em seu mundo que chega a ser escolhida como parceiro inicial.",
     "classification": "Pokémon Espinho Venenoso",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Naganadel",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 34
+          },
+          {
+            "type": "move",
+            "move_name": "Dragon pulse"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "especial",
@@ -177081,19 +177114,7 @@
       "Venom drench",
       "Venoshock"
     ],
-    "egg_moves": [],
-    "evolves_to": [
-      {
-        "pokemon": "Naganadel",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
-    ]
+    "egg_moves": []
   },
   {
     "id": 804,
@@ -184538,8 +184559,6 @@
     "id": 852,
     "name": "Clobbopus",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fighting"
     ],
@@ -184576,6 +184595,22 @@
     "dex_entry": "Muito curioso, ele investiga tudo tentando socar com seus tentáculos. A busca por comida é o que o traz à terra firme.",
     "classification": "Pokémon Birrento",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Grapploct",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 30
+          },
+          {
+            "type": "move",
+            "move_name": "Taunt"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -184666,18 +184701,6 @@
       "Soak",
       "Circle throw",
       "Power up-punch"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Grapploct",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -186971,10 +186994,8 @@
   },
   {
     "id": 866,
-    "name": "Mr rime",
+    "name": "Mr. Rime",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ice",
       "Psychic"
@@ -187012,6 +187033,7 @@
     "dex_entry": "Extremamente habilidoso em sapateado, ele balança sua bengala de gelo no ritmo de seus passos graciosos.",
     "classification": "Pokémon Comediante",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -187212,8 +187234,7 @@
       "Wonder room",
       "Zen headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 867,
@@ -218598,6 +218619,18 @@
     "dex_entry": "The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming.",
     "classification": "Barrier Pokémon",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Mr. Rime",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 42
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -218786,8 +218819,7 @@
       "Fake out",
       "Power split",
       "Tickle"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 10027,
@@ -221720,6 +221752,22 @@
     "dex_entry": "When faced with a larger opponent, it swallows as much water as it can to match the opponent’s size.",
     "classification": "Balloon Pokémon",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Overqwil",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "move",
+            "move_name": "Barb Barrage"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -221882,8 +221930,7 @@
       "Self destruct",
       "Supersonic",
       "Water pulse"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 10044,
@@ -225379,11 +225426,21 @@
     "weight": 13,
     "dex_entry": "Imita todos que vê, mas dedica esforço extra para copiar os passos de dança elegantes de Mr. Rime como prática.",
     "classification": "Pokémon Mímico",
-    "held_items": [
+    "held_items": [],
+    "evolves_to": [
       {
-        "item_id": "131",
-        "item_name": "Leppa berry",
-        "rarity": 5
+        "pokemon": "Galarian Mr. Mime",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 12
+          },
+          {
+            "type": "move",
+            "move_name": "Mimic"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -225594,8 +225651,7 @@
       "Tickle",
       "Trick",
       "Wake up-slap"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 10062,
