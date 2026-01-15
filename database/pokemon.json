@@ -52360,8 +52360,6 @@
     "id": 217,
     "name": "Ursaring",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -52407,6 +52405,27 @@
         "item_id": "135",
         "item_name": "Sitrus berry",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Ursaluna",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 35
+          },
+          {
+            "type": "item",
+            "item_id": 790,
+            "item_name": "Peat Block"
+          },
+          {
+            "type": "time",
+            "time": "night"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -52627,19 +52646,6 @@
       "Night slash",
       "Chip away",
       "Play rough"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Ursaluna",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Peat block"
-          }
-        ]
-      }
     ]
   },
   {
@@ -190874,8 +190880,6 @@
     "id": 891,
     "name": "Kubfu",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fighting"
     ],
@@ -190909,6 +190913,38 @@
     "dex_entry": "Kubfu treina arduamente para aperfeiçoar seus golpes. As técnicas que ele dominar determinarão sua forma evolutiva.",
     "classification": "Pokémon Wushu",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Urshifu",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 30
+          },
+          {
+            "type": "item",
+            "item_id": 596,
+            "item_name": "Scroll of Darkness"
+          }
+        ]
+      },
+      {
+        "pokemon": "",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 30
+          },
+          {
+            "type": "item",
+            "item_id": 597,
+            "item_name": "Scroll of Waters"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -191020,19 +191056,7 @@
       "Work up",
       "Zen headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": [
-      {
-        "pokemon": "Urshifu",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Complete Tower of Darkness (Urshifu form)"
-          }
-        ]
-      }
-    ]
+    "egg_moves": []
   },
   {
     "id": 892,
