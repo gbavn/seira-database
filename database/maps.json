@@ -624,6 +624,12 @@
         "name": "Deserto Profundo",
         "posts_required": "5",
         "forum_link": ""
+      },
+      "east": {
+        "id": "R05",
+        "name": "Rota 05",
+        "posts_required": "5",
+        "forum_link": ""
       }
     },
     "special_location": false
@@ -689,6 +695,12 @@
         "id": "RRHI",
         "name": "Ruinas de Rhisis",
         "posts_required": "3",
+        "forum_link": ""
+      },
+      "west": {
+        "id": "R04",
+        "name": "Rota 04",
+        "posts_required": "5",
         "forum_link": ""
       }
     },
@@ -1741,7 +1753,7 @@
     "id": "PTVY",
     "type": "landmark",
     "name": "Pântano de Veyra",
-    "biome": "",
+    "biome": "Pantanoso",
     "description": "O Pântano de Veyra se estende como uma ferida úmida no sul da região de Seira. Nenhuma cidade ousou se estabelecer em suas margens: o terreno instável, os gases tóxicos e a aura sombria que paira constantemente sobre a área afastaram qualquer tentativa de colonização.\n\nO Pântano de Veyra é uma bacia de drenagem natural situada logo abaixo do planalto onde Ardozard foi construída. O Rio Magma, que atravessa a cidade boêmia, despenca em uma série de cascatas térmicas antes de se ramificar em um labirinto de canais lentos e águas paradas. O calor do rio, ao encontrar o ar úmido do pântano, gera a famosa Névoa de Fuligem, que dá ao lugar sua aura fantasmagórica. Névoa essa cobre a paisagem em quase todas as horas do dia, tornando a visibilidade precária. As árvores, retorcidas e cobertas por musgos, erguem-se como sombras vivas, enquanto a água parada reflete formas distorcidas que confundem até os mais experientes exploradores. Não é incomum ouvir sons de passos, coaxares e sussurros, embora ninguém esteja por perto.\n\nOs treinadores que se arriscam em Veyra raramente entram sozinhos, o pântano não apenas é traiçoeiro, como também abriga Pokémon de natureza agressiva e desconfiada. Apesar do perigo, o lugar guarda segredos valiosos: ervas medicinais raríssimas crescem ali, e alguns Pokémon lendários são rumores entre os que retornaram vivos.",
     "map_image": "https://2img.net/i.imgur.com/84pqFpE.png",
     "forum_link": "",
@@ -1766,7 +1778,7 @@
       "rare": [
         198,
         451,
-        207
+        325
       ],
       "epic": [
         765,
@@ -1774,7 +1786,20 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "north": {
+        "id": "ARD",
+        "name": "Ardozart",
+        "posts_required": "6",
+        "forum_link": ""
+      },
+      "south": {
+        "id": "R02",
+        "name": "Rota 02",
+        "posts_required": "4",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
