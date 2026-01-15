@@ -6191,6 +6191,37 @@
     "dex_entry": "O chifre em sua cabeça atrofiou. Acredita-se que isso ocorra para que os filhotes de Nidorina não sejam espetados enquanto são alimentados.",
     "classification": "Pokémon Espinho Venenoso",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Nidoqueen",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 81,
+            "item_name": "Moon Stone"
+          }
+        ]
+      },
+      {
+        "pokemon": "Nidoqueen",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 81
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -6335,34 +6366,7 @@
       "Water gun",
       "Water pulse"
     ],
-    "egg_moves": [],
-    "evolves_to": [
-      {
-        "pokemon": "Nidoqueen",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Moon stone"
-          }
-        ]
-      },
-      {
-        "pokemon": "Nidoqueen",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 25
-          },
-          {
-            "type": "item",
-            "item_id": 81
-          }
-        ]
-      }
-    ]
+    "egg_moves": []
   },
   {
     "id": 31,
@@ -6863,6 +6867,37 @@
     "dex_entry": "Com um chifre mais duro que diamante, este Pokémon sai por aí despedaçando rochas enquanto procura por uma pedra da lua.",
     "classification": "Pokémon Espinho Venenoso",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Nidoking",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 81,
+            "item_name": "Moon Stone"
+          }
+        ]
+      },
+      {
+        "pokemon": "Nidoking",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 81
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -7004,34 +7039,7 @@
       "Water gun",
       "Water pulse"
     ],
-    "egg_moves": [],
-    "evolves_to": [
-      {
-        "pokemon": "Nidoking",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Moon stone"
-          }
-        ]
-      },
-      {
-        "pokemon": "Nidoking",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 25
-          },
-          {
-            "type": "item",
-            "item_id": 81
-          }
-        ]
-      }
-    ]
+    "egg_moves": []
   },
   {
     "id": 34,
@@ -7348,6 +7356,34 @@
         "rarity": 1
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Clefable",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 22
+          },
+          {
+            "type": "item",
+            "item_id": 81,
+            "item_name": "Moon Stone"
+          }
+        ]
+      },
+      {
+        "pokemon": "Clefable",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "item",
+            "item_id": null,
+            "item_name": "Moon stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "comum",
@@ -7657,33 +7693,6 @@
       "Stored power",
       "Heal pulse",
       "Misty terrain"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Clefable",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 22
-          },
-          {
-            "type": "item",
-            "item_id": 81
-          }
-        ]
-      },
-      {
-        "pokemon": "Clefable",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Moon stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -8632,6 +8641,34 @@
         "rarity": 50
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Wigglytuff",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 22
+          },
+          {
+            "type": "item",
+            "item_id": 81,
+            "item_name": "Moon Stone"
+          }
+        ]
+      },
+      {
+        "pokemon": "Wigglytuff",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "item",
+            "item_id": null,
+            "item_name": "Moon stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "comum",
@@ -8897,30 +8934,6 @@
       "Captivate",
       "Heal pulse",
       "Misty terrain"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Wigglytuff",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": 81,
-            "item_name": "Moon stone"
-          }
-        ]
-      },
-      {
-        "pokemon": "Wigglytuff",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Moon stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -9936,8 +9949,6 @@
     "id": 44,
     "name": "Gloom",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Grass",
       "Poison"
@@ -9978,6 +9989,38 @@
         "item_id": "588",
         "item_name": "Absorb bulb",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Vileplume",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 85,
+            "item_name": "Leaf Stone"
+          }
+        ]
+      },
+      {
+        "pokemon": "Bellossom",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 80,
+            "item_name": "Sun Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -10140,30 +10183,6 @@
       "Tickle",
       "After you",
       "Strength sap"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Vileplume",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Leaf stone"
-          }
-        ]
-      },
-      {
-        "pokemon": "Bellossom",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Sun stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -16486,8 +16505,6 @@
     "id": 70,
     "name": "Weepinbell",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Grass",
       "Poison"
@@ -16524,6 +16541,23 @@
     "dex_entry": "Ele cospe PÓ VENENO para imobilizar o inimigo e então o finaliza com um jato de ÁCIDO.",
     "classification": "Pokémon Papa-Moscas",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Victreebel",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 28
+          },
+          {
+            "type": "item",
+            "item_id": 85,
+            "item_name": "Leaf Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "comum",
@@ -16680,19 +16714,6 @@
       "Clear smog",
       "Belch",
       "Strength sap"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Victreebel",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Leaf stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -24402,8 +24423,6 @@
     "id": 102,
     "name": "Exeggcute",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Grass",
       "Psychic"
@@ -24444,6 +24463,23 @@
         "item_id": "899",
         "item_name": "Psychic seed",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Exeggutor",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 85,
+            "item_name": "Leaf Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -24635,19 +24671,6 @@
       "Power swap",
       "Leaf storm",
       "Grassy terrain"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Exeggutor",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Leaf stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -46095,8 +46118,6 @@
     "id": 191,
     "name": "Sunkern",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Grass"
     ],
@@ -46137,6 +46158,23 @@
         "item_id": "169",
         "item_name": "Coba berry",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Sunflora",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 17
+          },
+          {
+            "type": "item",
+            "item_id": 80,
+            "item_name": "Sun Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -46283,19 +46321,6 @@
       "Grass whistle",
       "Natural gift",
       "Grassy terrain"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Sunflora",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Sun stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -65082,8 +65107,6 @@
     "id": 274,
     "name": "Nuzleaf",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Grass",
       "Dark"
@@ -65126,6 +65149,23 @@
         "item_id": "248",
         "item_name": "Power herb",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Shiftry",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "item",
+            "item_id": 85,
+            "item_name": "Leaf Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -65337,19 +65377,6 @@
       "Defog",
       "Foul play",
       "Grassy terrain"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Shiftry",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Leaf stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -71091,8 +71118,6 @@
     "id": 300,
     "name": "Skitty",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -71139,6 +71164,23 @@
         "item_id": "131",
         "item_name": "Leppa berry",
         "rarity": 5
+      }
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Delcatty",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 20
+          },
+          {
+            "type": "item",
+            "item_id": 81,
+            "item_name": "Moon Stone"
+          }
+        ]
       }
     ],
     "is_starter": false,
@@ -71321,19 +71363,6 @@
       "Zen headbutt",
       "Captivate",
       "Simple beam"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Delcatty",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Moon stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -118556,6 +118585,23 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Simisage",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "item",
+            "item_id": 85,
+            "item_name": "Leaf Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -118695,19 +118741,6 @@
       "Leaf storm",
       "Disarming voice",
       "Spiky shield"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Simisage",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Leaf stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -119604,8 +119637,6 @@
     "id": 517,
     "name": "Munna",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Psychic"
     ],
@@ -119642,6 +119673,23 @@
     "dex_entry": "Tarde da noite, aparece ao lado do travesseiro das pessoas. Enquanto se alimenta de sonhos, os padrões em seu corpo emitem um brilho fraco.",
     "classification": "Pokémon Devorador de Sonhos",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Musharna",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "item",
+            "item_id": 81,
+            "item_name": "Moon Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -119802,19 +119850,6 @@
       "Magic coat",
       "Secret power",
       "Healing wish"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Musharna",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "item",
-            "item_id": null,
-            "item_name": "Moon stone"
-          }
-        ]
-      }
     ]
   },
   {
@@ -220903,6 +220938,23 @@
     "dex_entry": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
     "classification": "Ball Pokémon",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Hisuian Electrode",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          },
+          {
+            "type": "item",
+            "item_id": 85,
+            "item_name": "Leaf Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -221038,8 +221090,7 @@
       "Leech seed",
       "Recycle",
       "Worry seed"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 10041,
@@ -224651,6 +224702,23 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Alolan Exeggutor",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          },
+          {
+            "type": "item",
+            "item_id": 85,
+            "item_name": "Leaf Stone"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -224840,8 +224908,7 @@
       "Sleep powder",
       "Stun spore",
       "Synthesis"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 10060,
