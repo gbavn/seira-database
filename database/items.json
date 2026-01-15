@@ -2893,14 +2893,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": [
-      44,
-      191,
-      546,
-      548,
-      694
-    ]
+    "posts_to_collect": 0
   },
   {
     "id": 81,
@@ -2933,15 +2926,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": [
-      30,
-      33,
-      35,
-      39,
-      300,
-      517
-    ]
+    "posts_to_collect": 0
   },
   {
     "id": 82,
@@ -2974,14 +2959,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": [
-      37,
-      58,
-      133,
-      513,
-      951
-    ]
+    "posts_to_collect": 0
   },
   {
     "id": 83,
@@ -3014,16 +2992,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": [
-      25,
-      82,
-      133,
-      299,
-      603,
-      737,
-      938
-    ]
+    "posts_to_collect": 0
   },
   {
     "id": 84,
@@ -3056,15 +3025,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": [
-      61,
-      90,
-      120,
-      133,
-      271,
-      515
-    ]
+    "posts_to_collect": 0
   },
   {
     "id": 85,
@@ -3097,15 +3058,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": [
-      44,
-      70,
-      102,
-      133,
-      274,
-      511
-    ]
+    "posts_to_collect": 0
   },
   {
     "id": 86,
@@ -3676,13 +3629,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": [
-      176,
-      315,
-      572,
-      670
-    ]
+    "posts_to_collect": 0
   },
   {
     "id": 104,
@@ -3715,13 +3662,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": [
-      198,
-      200,
-      608,
-      680
-    ]
+    "posts_to_collect": 0
   },
   {
     "id": 105,
@@ -3754,11 +3695,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": [
-      281,
-      361
-    ]
+    "posts_to_collect": 0
   },
   {
     "id": 106,
@@ -3791,10 +3728,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": [
-      440
-    ]
+    "posts_to_collect": 0
   },
   {
     "id": 107,
@@ -14689,12 +14623,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": [
-      133,
-      739,
-      974
-    ]
+    "posts_to_collect": 0
   },
   {
     "id": 456,
