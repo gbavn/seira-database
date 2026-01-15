@@ -56,6 +56,22 @@
           ],
           "buys": []
         }
+      },
+      {
+        "id": "MercadoFlut",
+        "name": "Mercado Flutuante",
+        "type": "shop",
+        "description": "Pequenas embarcações coloridas e quiosques de madeira formam um mosaico vibrante sobre os canais de Veldhavn, atraindo visitantes que percorrem o mercado em passarelas ou barcos lentos. Entre lembranças artesanais, objetos decorativos e curiosidades trazidas de outras regiões, comerciantes oferecem itens escolhidos especialmente para turistas e treinadores de passagem.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": {
+          "sells": [
+            103
+          ],
+          "buys": []
+        }
       }
     ],
     "forageable_items": [],
@@ -425,6 +441,26 @@
           ]
         },
         "custom_effect": "(Requer 50 de Fama e Nível 3 de Treinador)"
+      },
+      {
+        "id": "589459",
+        "name": "Observatório Urbano de Astralton",
+        "type": "facility",
+        "description": "Suspenso entre passarelas elevadas e torres de vidro, o Observatório Urbano de Astralton é um centro dedicado ao estudo do céu em meio ao brilho constante da metrópole. Cúpulas retráteis e plataformas móveis permitem observar estrelas, constelações e fenômenos atmosféricos raros, mesmo sob a névoa e a poluição luminosa da cidade. No interior, exposições técnicas, mapas celestes e instrumentos especializados atraem visitantes, pesquisadores e curiosos.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "Requer 60 de Fama para vender itens",
+        "shop_data": {
+          "sells": [
+            81
+          ],
+          "buys": [
+            90,
+            91,
+            373
+          ]
+        }
       }
     ],
     "forageable_items": [],
@@ -1122,7 +1158,24 @@
       "based_on": "Los Angeles"
     },
     "quest_ids": [],
-    "points_of_interest": [],
+    "points_of_interest": [
+      {
+        "id": "066",
+        "name": "Arquivo Onírico",
+        "type": "facility",
+        "description": "Discreto e reservado, o Arquivo Onírico opera como um estabelecimento especializado na curadoria de itens desenvolvidos a partir de padrões mentais, ilusões sensoriais e técnicas avançadas de concentração. O local recebe artistas, estrategistas e treinadores que buscam ferramentas raras para potencializar foco, percepção e habilidades psíquicas.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": {
+          "sells": [
+            105
+          ],
+          "buys": []
+        }
+      }
+    ],
     "forageable_items": [],
     "spawns": {
       "common": [
@@ -1383,7 +1436,24 @@
       "based_on": "Memphis, EUA"
     },
     "quest_ids": [],
-    "points_of_interest": [],
+    "points_of_interest": [
+      {
+        "id": "CasaEmber",
+        "name": "Casa Ember & Cordas",
+        "type": "shop",
+        "description": "A Casa Ember & Cordas é um estabelecimento tradicional frequentado por músicos, treinadores e turistas curiosos. O interior combina madeira escura, cobre aquecido e vitrines discretas onde itens especiais são apresentados como instrumentos ou acessórios culturais. Muitos produtos são inspirados no Soul de Seira, explorando a relação entre ritmo, energia térmica e estímulos elétricos usados por Pokémon.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": {
+          "sells": [
+            82
+          ],
+          "buys": []
+        }
+      }
+    ],
     "forageable_items": [],
     "spawns": {
       "common": [
@@ -1441,7 +1511,42 @@
       "based_on": "Bora Bora"
     },
     "quest_ids": [],
-    "points_of_interest": [],
+    "points_of_interest": [
+      {
+        "id": "0222",
+        "name": "Ateliê Pérola Serena",
+        "type": "shop",
+        "description": "Construído sobre estacas de madeira clara acima das águas rasas, o Ateliê Pérola Serena é um espaço elegante dedicado à lapidação e ao preparo de itens raros ligados ao mar. Artesãos especializados trabalham com gemas orgânicas, incensos refinados e materiais coletados de forma controlada nos recifes locais. Visitantes observam o processo enquanto exploram peças exclusivas, muitas delas impossíveis de reproduzir fora de Silvershore devido às condições únicas da baía.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "Requer 40 de Fama",
+        "shop_data": {
+          "sells": [],
+          "buys": [
+            88,
+            89,
+            372
+          ]
+        }
+      },
+      {
+        "id": "65625",
+        "name": "Casa das Marés",
+        "type": "shop",
+        "description": "Localizada em uma das ilhotas centrais, a Casa das Marés Claras é um estabelecimento especializado em itens influenciados pelas correntes marítimas únicas de Silvershore. O espaço funciona parcialmente submerso, com salas envidraçadas que permitem observar o movimento da água enquanto técnicos monitoram a qualidade e a origem dos materiais utilizados.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": {
+          "sells": [
+            84
+          ],
+          "buys": []
+        }
+      }
+    ],
     "forageable_items": [],
     "spawns": {
       "common": [
