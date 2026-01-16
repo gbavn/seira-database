@@ -1172,5 +1172,18 @@
         ]
       }
     }
+  },
+  {
+    "id": "Playground",
+    "name": "Exemplo Objeto",
+    "icon": "allied-star",
+    "category": "generic",
+    "is_rollable": false,
+    "description": "Permite usar um Pokemon bebe",
+    "linked_pokemon": [
+      439,
+      438,
+      172
+    ]
   }
 ]
