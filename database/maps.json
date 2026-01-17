@@ -108,6 +108,7 @@
     "biome": "Florestal",
     "description": "A Rota 06 é uma longa estrada sinuosa que corta um mar de vegetação densa e bem preservada, cercada por colinas verdejantes e árvores de copas amplas. O asfalto escuro e recém-pavimentado contrasta com o verde vibrante das margens, onde a natureza parece tocar a estrada sem cerimônia, invadindo seus limites com raízes, folhas e flores. À medida que os viajantes deixam Veldhavn para trás, o canto dos pássaros e o farfalhar das folhas acompanham cada passo — mas ao longe, já é possível ver a luz fria de letreiros digitais piscando nas encostas montanhosas que anunciam a chegada de Astralton.\n\nApesar da tranquilidade aparente, a Rota 06 é um ponto de transição simbólico entre dois mundos. Treinadores a percorrem em busca de um momento de respiro entre a rusticidade de Veldhavn e o frenesi tecnológico de Astralton. Há relatos de que a estrada possui sensores embutidos e sinalizações inteligentes, legados da influência tecnológica do norte, mas eles coexistem com postes simples de madeira e placas feitas à mão, ainda mantidas pelos moradores do sul. O contraste entre o natural e o artificial está por toda parte, e a estrada se tornou não apenas um caminho, mas uma metáfora viva da convivência (e tensão) entre tradição e progresso.",
     "map_image": "https://2img.net/i.imgur.com/Xhrbstg.png",
+    "forum_link": "",
     "coordinates": {
       "x": 76,
       "y": 74.066
@@ -121,6 +122,7 @@
       ],
       "based_on": ""
     },
+    "quest_ids": [],
     "points_of_interest": [
       {
         "id": "TravelersCamp",
@@ -138,6 +140,17 @@
           ]
         },
         "custom_effect": "(Requer 30 de Fama e Nível 2 de Treinador)"
+      },
+      {
+        "id": "poi-1768680199080",
+        "name": "Barraca Intinerante do Sr. Koi",
+        "type": "shop",
+        "description": "Sr. Koi é um andarilho e com sua barraquinha móvel, ele e seu fiel Stantler percorrem Seira fazendo trocas para viajantes interessados em seus serviços. É comum encontrá-lo na Rota 06, porém apenas em um dia específico da semana. Troca qualquer Berry por outra de mesma raridade. O mesmo vale para Apricorns (menos Spoiled). Cobra o valor de $200 pela transação.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "Aparece apenas em dias de Domingo (OFF)",
+        "shop_data": null
       }
     ],
     "forageable_items": [],
@@ -210,9 +223,10 @@
         "id": "VibeDome",
         "name": "Estúdio V!be Dome",
         "type": "other",
-        "description": "O V!be Dome é a arena mais famosa de Seira, onde batalhas Pokémon se transformam em performances coreografadas. Telas holográficas, luzes pulsantes e plateias digitais criam uma experiência imersiva, e muitos ídolos locais começaram suas carreiras como treinadores nesse palco icônico.",
+        "description": "O V!be Dome é a arena mais famosa de Seira, onde batalhas Pokémon se transformam em performances coreografadas. Telas holográficas, luzes pulsantes e plateias digitais criam uma experiência imersiva, e muitos ídolos locais começaram suas carreiras como treinadores nesse palco icônico.\nÉ possível reservar uma data e realizar uma performance no palco do V!be Dome por mês. É cobrado a taxa de $4.000 para manutenção do espaço e remunerar equipe técnica. Performances artísticas rendem +20 de Fama.",
         "forum_link": "",
-        "shop_data": null
+        "shop_data": null,
+        "custom_effect": "(Requer 100 de Fama e Nível 3 de Treinador)"
       },
       {
         "id": "GymElectric",
@@ -310,7 +324,7 @@
         "id": "HillMuseum",
         "name": "Museu Botânico de Hillshire",
         "type": "shop",
-        "description": "O Museu Botânico apresenta exposições detalhadas sobre a flora local e técnicas de cultivo sustentável. Espaços interativos permitem observar Pokémon do tipo Planta em habitats simulados, tornando o local educativo e encantador para visitantes de todas as idades.",
+        "description": "O Museu Botânico apresenta exposições detalhadas sobre a flora local e técnicas de cultivo sustentável. Espaços interativos permitem observar Pokémon do tipo Planta em habitats simulados, tornando o local educativo e encantador para visitantes de todas as idades. Trabalhos de pesquisa geram +1 de Fama e +20% em Dinheiro.",
         "forum_link": "",
         "shop_data": {
           "sells": [
@@ -318,7 +332,8 @@
             279
           ],
           "buys": []
-        }
+        },
+        "custom_effect": "Possível aprender Grass Pledge por $10.000"
       },
       {
         "id": "FeiraVale",
@@ -358,7 +373,14 @@
       "BerryTree",
       "ApriTree"
     ],
-    "accesses": {},
+    "accesses": {
+      "south": {
+        "id": "R04",
+        "name": "Rota 04",
+        "posts_required": "",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
@@ -443,6 +465,17 @@
             373
           ]
         }
+      },
+      {
+        "id": "karma",
+        "name": "BAILE do K4RWA",
+        "type": "facility",
+        "description": "Em meio ao complexos de favelas de Astralton existe um baile onde os moradores frequentam com fins de diversão, já que o centro da cidade fica muito distante e a segregação de classes é notória. Estilos como Trap, Rap e Funk são comuns por aqui e sempre tem um artista novo subindo no palco. Para se apresentar no BAILE do K4RWA é necessário pedir bença ao dono antes. Ao pagar a quantia de $1.000 terá permissão para se apresentar e ganhar 10 de Fama com seu trabalho artístico.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "(Requer 50 de Fama e Nível 2 de Treinador)",
+        "shop_data": null
       }
     ],
     "forageable_items": [],
@@ -531,7 +564,8 @@
         "type": "other",
         "description": "Cercado por florestas densas e encostas montanhosas, o Lago Phantom é envolto por névoa constante, onde se diz que Pokémon desaparecem entre as brumas. O reflexo suave da água e o som silencioso do vento entre as árvores criam um ambiente místico e contemplativo.",
         "forum_link": "",
-        "shop_data": null
+        "shop_data": null,
+        "custom_effect": "Possível Pescar"
       }
     ],
     "forageable_items": [],
@@ -694,6 +728,17 @@
         "linked_items": [],
         "custom_effect": "Pode mudar a forma do Deoxys",
         "shop_data": null
+      },
+      {
+        "id": "incubadora",
+        "name": "Incubadora",
+        "type": "facility",
+        "description": "Em uma das muralhas mais baixas, próximo a entrada da Mina Dourada, está o local que chamam carinhosamente de Incubadora. Trata-se de um paredão com diversos buracos irregulares. É impossível contabilizar a quantidade de deformações no rochedo, mas há uma indicação de que antigamente era um ambiente usado para exploração de joias. Será que ainda existem algumas?",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "Pode extrair 1 Gem aleatória a cada 5 postagens",
+        "shop_data": null
       }
     ],
     "forageable_items": [],
@@ -772,13 +817,14 @@
         "type": "other",
         "description": "Túneis lacrados e antigos, conhecidos por ruídos misteriosos e ecos metálicos. Embora fechados ao público, há relatos de treinadores e exploradores sobre Pokémon que se movimentam nas sombras, reforçando o mistério da mina.",
         "forum_link": "",
-        "shop_data": null
+        "shop_data": null,
+        "custom_effect": "Ao derrotar 10 Zubats com o mesmo Pokémon, é possível aprender Echoed Voice (caso aprenda)."
       },
       {
         "id": "GeoObserv",
         "name": "Observatório Geológico",
         "type": "other",
-        "description": "Área equipada com painéis informativos, amostras minerais e espaços de estudo, onde visitantes e pesquisadores aprendem sobre geologia, bioluminescência e a história da extração mineral na Mina Dourada.",
+        "description": "Área equipada com painéis informativos, amostras minerais e espaços de estudo, onde visitantes e pesquisadores aprendem sobre geologia, bioluminescência e a história da extração mineral na Mina Dourada. Trabalhos de pesquisa geram +1 de Fama e +20% em Dinheiro.",
         "forum_link": "",
         "shop_data": null
       }
@@ -850,6 +896,17 @@
         "name": "Acampamento de Pesquisa Rhisis",
         "type": "facility",
         "description": "As ruínas detêm muitos segredos que ainda não foram descobertos pela humanidade contemporânea, nem mesmo com auxílio da tecnologia da Rede Helix, por isso um grupo de pesquisadores é frequentemente visto com acampamento armado próximo do Altar Esquecido. Ao conversar com o encarregado, pode descobrir o que se sabe sobre Rhisis e até ajudar na pesquisa para revelar a verdade sobre a locação.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": null
+      },
+      {
+        "id": "TocaTesouor",
+        "name": "Toka do Tesouro",
+        "type": "facility",
+        "description": "Há um mito de uma toca de Tinkatink repleta de metais preciosos escondida pelas Ruínas de Rhisis. Só é possível encontrar via quest. ",
         "forum_link": "",
         "linked_pokemon": [],
         "linked_items": [],
@@ -987,6 +1044,24 @@
           "sells": [
             455,
             759
+          ],
+          "buys": []
+        }
+      },
+      {
+        "id": "confeitaria1",
+        "name": "Café e Confeitaria Beco dos Artistas",
+        "type": "shop",
+        "description": "Longe do centro dos turistas o \"Beco dos Artistas\" - carinhosamente apelidado pela classe - se esconde em um lugar estratégico com vista para um lago congelado. É pequeno, tímido, mas confere uma aura acolhedora e nunca está exageradamente cheio.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "",
+        "shop_data": {
+          "sells": [
+            331,
+            42,
+            715
           ],
           "buys": []
         }
@@ -1225,7 +1300,26 @@
       ]
     },
     "interaction_objects": [],
-    "accesses": {},
+    "accesses": {
+      "east": {
+        "id": "R02",
+        "name": "Rota 02",
+        "posts_required": "",
+        "forum_link": ""
+      },
+      "north": {
+        "id": "BSQP",
+        "name": "Bosque Prateado",
+        "posts_required": "",
+        "forum_link": ""
+      },
+      "west": {
+        "id": "R10",
+        "name": "Rota 10",
+        "posts_required": "",
+        "forum_link": ""
+      }
+    },
     "special_location": false
   },
   {
@@ -1262,6 +1356,19 @@
           ],
           "buys": []
         }
+      },
+      {
+        "id": "catedral",
+        "name": "Catedral das Dores",
+        "type": "facility",
+        "description": "Aos pés de Mistralia você consegue encontrar uma construção religiosa em meio a diversos mausoléus. A aura que emana do edifício gótico é sombria. Não existe uma alma viva que passe muito tempo no ambiente. A decoração é de vitrais quebrados, fios de teia do chão ao teto e muita poeira. Há apenas um artefato trancafiado em um altar de pedra com as inscrições \"A dor do abandono liberta a armadura dos males\".\n\nAo abandonar um Pokémon com 140+ de Felicidade na Catedral, o Item irá absorver o ressentimento e será liberado, no entanto, o Pokémon recém liberado irá ficar entre você e o artefato, além de estar muito agressivo e com +1 em todos os Stats (Não podendo ser capturado novamente). Para pegar o Malicious Armor é necessário derrotar o Pokémon Agressivo.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [
+          598
+        ],
+        "custom_effect": "",
+        "shop_data": null
       }
     ],
     "forageable_items": [],
@@ -1536,6 +1643,25 @@
         "linked_items": [],
         "custom_effect": "",
         "shop_data": null
+      },
+      {
+        "id": "poi-1768685918911",
+        "name": "Casa das Dançarinas do Fogo",
+        "type": "restaurant",
+        "description": "Há quem chame as irmãs Mei-mei, Rei-rei e Tey-Tey de \"Dobradoras do Fogo\" pelo talento com qual dançam entre as labaredas de seus Pokémon. Apesar dos boatos maldosos, o ambiente trata-se apenas de uma Casa de Chá onde as mulheres costumam se apresentar para manter a tradição iniciada pela avó das trigêmeas anos atrás. Caso queira assistir, as performances ocorrem sempre às Sextas-Feiras. Elas também oferecem aulas pela manhã e abrem espaço para apresentações noturnas, após o show principal. Apresentações artísticas usando Pokémon de fogo geram 10 de Fama.",
+        "forum_link": "",
+        "linked_pokemon": [
+          136
+        ],
+        "linked_items": [],
+        "custom_effect": "Possível aprender Fire Pledge por $10.000",
+        "shop_data": {
+          "sells": [
+            54,
+            43
+          ],
+          "buys": []
+        }
       }
     ],
     "forageable_items": [],
