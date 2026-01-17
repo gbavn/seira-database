@@ -6571,12 +6571,17 @@
     "name": "Dragon Scale",
     "category": "evolution-item",
     "subcategory": "evolution-trigger",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dragon-scale.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/dragonscale.png",
     "price": {
       "buy": 2000,
       "sell": 1000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -6592,8 +6597,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 197,
