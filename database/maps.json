@@ -1369,6 +1369,23 @@
         ],
         "custom_effect": "",
         "shop_data": null
+      },
+      {
+        "id": "academiadragao",
+        "name": "Academia Dente de Dragão",
+        "type": "facility",
+        "description": "Em estilo renascentista, a Academia Dente de Dragão é um instituto renomado que abriga os filhos da Elite da cidade, com trabalho filantropo admitindo dois bolsistas por ano. Caso tenha +150 de Fama, deverá pagar $2.000 para realizar as aulas, com menos de 149 de Fama pagará apenas a taxa de matrícula de $200.\nPode aprender Dual Chop ou Twister após 5 aulas (RP) na Academia.\nPode aprender Dragon Pulse ou Outrage após 10 aulas (RP) na Academia.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "custom_effect": "Pode aprender 1 Move Tutor Dragon.",
+        "shop_data": {
+          "sells": [
+            196,
+            211
+          ],
+          "buys": []
+        }
       }
     ],
     "forageable_items": [],
@@ -1651,7 +1668,7 @@
         "description": "Há quem chame as irmãs Mei-mei, Rei-rei e Tey-Tey de \"Dobradoras do Fogo\" pelo talento com qual dançam entre as labaredas de seus Pokémon. Apesar dos boatos maldosos, o ambiente trata-se apenas de uma Casa de Chá onde as mulheres costumam se apresentar para manter a tradição iniciada pela avó das trigêmeas anos atrás. Caso queira assistir, as performances ocorrem sempre às Sextas-Feiras. Elas também oferecem aulas pela manhã e abrem espaço para apresentações noturnas, após o show principal. Apresentações artísticas usando Pokémon de fogo geram 10 de Fama.",
         "forum_link": "",
         "linked_pokemon": [
-          136
+          390
         ],
         "linked_items": [],
         "custom_effect": "Possível aprender Fire Pledge por $10.000",
@@ -1771,6 +1788,20 @@
           "sells": [],
           "buys": []
         }
+      },
+      {
+        "id": "velhaabu",
+        "name": "Cabana da Velha Abu",
+        "type": "service",
+        "description": "Em uma das pontas de Silvershore, você encontrará uma senhora reclusa. A pele é bronzeada e ressecada pela incidência solar e sal marinho. Ela quase sempre acorda no mesmo horário que o amanhecer e está com os pés no mar até o entardecer. Ela some durante as noites, então nem adiantar procurar. ",
+        "forum_link": "",
+        "linked_pokemon": [
+          195,
+          158
+        ],
+        "linked_items": [],
+        "custom_effect": "Possível aprender Water Pledge por $10.000",
+        "shop_data": null
       }
     ],
     "forageable_items": [],
