@@ -55,7 +55,7 @@
   {
     "id": "BerryTree",
     "name": "Árvore de Berry",
-    "icon": "raspberry",
+    "icon": "tree",
     "category": "generic",
     "is_rollable": true,
     "description": "",
@@ -191,24 +191,6 @@
     }
   },
   {
-    "id": "Heb",
-    "name": "Erva Aleatória",
-    "icon": "herbs-bundle",
-    "category": "generic",
-    "is_rollable": true,
-    "description": "",
-    "roll_config": {
-      "type": "equal_chance",
-      "gives": "items_only",
-      "items": [
-        37,
-        175,
-        180,
-        232
-      ]
-    }
-  },
-  {
     "id": "FishLake",
     "name": "Ponto de Pesca (Lago)",
     "icon": "fish",
@@ -257,7 +239,7 @@
   {
     "id": "Pickup10",
     "name": "Pickup (Level 1 - 10)",
-    "icon": "grab",
+    "icon": "hand-lizard",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -315,7 +297,7 @@
   {
     "id": "Pickup20",
     "name": "Pickup (Level 11 - 20)",
-    "icon": "grab",
+    "icon": "hand-lizard",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -401,7 +383,7 @@
   {
     "id": "Pickup 30",
     "name": "Pickup (Level 21 - 31)",
-    "icon": "grab",
+    "icon": "hand-lizard",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -503,7 +485,7 @@
   {
     "id": "Pickup40",
     "name": "Pickup (Level 31 - 40)",
-    "icon": "grab",
+    "icon": "hand-lizard",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -593,7 +575,7 @@
   {
     "id": "Pickup50",
     "name": "Pickup (Level 41 - 50)",
-    "icon": "grab",
+    "icon": "hand-lizard",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -679,7 +661,7 @@
   {
     "id": "Pickup60",
     "name": "Pickup (Level 51 - 60)",
-    "icon": "grab",
+    "icon": "hand-lizard",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -769,7 +751,7 @@
   {
     "id": "Pickup70",
     "name": "Pickup (Level 61 - 70)",
-    "icon": "grab",
+    "icon": "hand-lizard",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -851,7 +833,7 @@
   {
     "id": "Pickup80",
     "name": "Pickup (Level 71 - 80)",
-    "icon": "grab",
+    "icon": "hand-lizard",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -933,7 +915,7 @@
   {
     "id": "Pickup90",
     "name": "Pickup (Level 81 - 90)",
-    "icon": "grab",
+    "icon": "hand-lizard",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -1011,7 +993,7 @@
   {
     "id": "Pickup100",
     "name": "Pickup (Level 91 - 100)",
-    "icon": "grab",
+    "icon": "hand-lizard",
     "category": "pickup",
     "is_rollable": true,
     "description": "",
@@ -1089,7 +1071,7 @@
   {
     "id": "FishRiver",
     "name": "Ponto de Pesca (Rio)",
-    "icon": "fishing-pole",
+    "icon": "fish",
     "category": "fishing_spot",
     "is_rollable": true,
     "description": "",
@@ -1118,7 +1100,7 @@
   {
     "id": "FishSea",
     "name": "Ponto de Pesca (Mar)",
-    "icon": "",
+    "icon": "fish",
     "category": "fishing_spot",
     "is_rollable": true,
     "description": "",
@@ -1147,7 +1129,7 @@
   {
     "id": "FishSwamp",
     "name": "Ponto de Pesca (Charco)",
-    "icon": "",
+    "icon": "fish",
     "category": "fishing_spot",
     "is_rollable": true,
     "description": "",
@@ -1171,6 +1153,24 @@
           258
         ]
       }
+    }
+  },
+  {
+    "id": "Herb",
+    "name": "Erva Aleatória",
+    "icon": "envira",
+    "category": "generic",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "equal_chance",
+      "gives": "items_only",
+      "items": [
+        37,
+        175,
+        180,
+        232
+      ]
     }
   }
 ]
