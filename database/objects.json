@@ -1158,7 +1158,7 @@
   {
     "id": "Herb",
     "name": "Erva Aleatória",
-    "icon": "envira",
+    "icon": "leaf",
     "category": "generic",
     "is_rollable": true,
     "description": "",
