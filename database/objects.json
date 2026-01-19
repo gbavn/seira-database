@@ -2,7 +2,7 @@
   {
     "id": "ApriTree",
     "name": "Árvore de Apricorn",
-    "icon": "apple-seeds",
+    "icon": "tree",
     "category": "generic",
     "is_rollable": true,
     "description": "",
@@ -161,7 +161,7 @@
   {
     "id": "Gem",
     "name": "Gema Aleatória",
-    "icon": "crystal-shine",
+    "icon": "gem",
     "category": "generic",
     "is_rollable": true,
     "description": "",
@@ -211,7 +211,7 @@
   {
     "id": "FishLake",
     "name": "Ponto de Pesca (Lago)",
-    "icon": "fishing-pole",
+    "icon": "fish",
     "category": "fishing_spot",
     "is_rollable": true,
     "description": "",
