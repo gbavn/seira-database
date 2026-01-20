@@ -64,11 +64,11 @@
     "forageable_items": [
       {
         "item_id": 688,
-        "posts_to_collect": 1
+        "collected_quantity": 1
       },
       {
         "item_id": 692,
-        "posts_to_collect": 1
+        "collected_quantity": 1
       }
     ],
     "spawns": {
