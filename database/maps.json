@@ -20,7 +20,11 @@
       ],
       "based_on": "Giethoorn, Países Baixos"
     },
-    "quest_ids": [],
+    "quest_ids": [
+      "quest-001",
+      "quest-1768921486151",
+      "quest-1768921492033"
+    ],
     "points_of_interest": [
       {
         "id": "VelkovaLab",
