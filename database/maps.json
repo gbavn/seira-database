@@ -64,11 +64,11 @@
     "forageable_items": [
       {
         "item_id": 688,
-        "collected_quantity": 1
+        "posts_to_collect": 1
       },
       {
         "item_id": 692,
-        "collected_quantity": 1
+        "posts_to_collect": 1
       }
     ],
     "spawns": {
@@ -1558,7 +1558,9 @@
       "economy": [],
       "based_on": ""
     },
-    "quest_ids": [],
+    "quest_ids": [
+      "quest-001"
+    ],
     "points_of_interest": [
       {
         "id": "6564",
