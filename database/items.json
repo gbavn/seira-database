@@ -25788,5 +25788,71 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0
+  },
+  {
+    "id": 793,
+    "name": "Cozy Silver Box",
+    "category": "other",
+    "subcategory": "Premium",
+    "sprite": "https://i.imgur.com/7LNarFl.png",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "Um pacote de apoio premium que recompensa o treinador com recursos essenciais para a jornada, contém:\n- Pack de Balls Comum (3x Pokeball, 2x Great Ball, 1x Ultra Ball)\n- 2.500$\n- Voucher de Viagem\n- Cargo Desbloqueado no Discord: Lendário",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "raro",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 794,
+    "name": "Cozy Gold Box",
+    "category": "other",
+    "subcategory": "Premium",
+    "sprite": "https://i.imgur.com/0JEEywB.png",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "Um pacote de suporte avançado voltado para treinadores que desejam vantagens adicionais, contém:\n- 2 Ball Artesanais (à escolha, exceto Shiny)\n- 2.500$\n- 1 Voucher de Desconto (50%)\n- 50 Milhas\n- Cargo Desbloqueado no Discord: Mítico",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "epico",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
   }
 ]
