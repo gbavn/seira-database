@@ -25176,6 +25176,7 @@
     "id": 774,
     "name": "Character Slot",
     "category": "other",
+    "subcategory": "Premium",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tealstylecard.png",
     "price": {
       "buy": 0,
@@ -25208,6 +25209,7 @@
     "id": 775,
     "name": "Enhanced Character Slot",
     "category": "other",
+    "subcategory": "Premium",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/indigostylecard.png",
     "price": {
       "buy": 0,
@@ -25240,6 +25242,7 @@
     "id": 776,
     "name": "Regional Egg Voucher I",
     "category": "other",
+    "subcategory": "Premium",
     "sprite": "https://i.imgur.com/zBKoUUG.png",
     "price": {
       "buy": 0,
@@ -25272,6 +25275,7 @@
     "id": 777,
     "name": "Regional Egg Voucher II",
     "category": "other",
+    "subcategory": "Premium",
     "sprite": "https://i.imgur.com/ux7kY3F.png",
     "price": {
       "buy": 0,
@@ -25304,6 +25308,7 @@
     "id": 778,
     "name": "Regional Egg Voucher III",
     "category": "other",
+    "subcategory": "Premium",
     "sprite": "https://i.imgur.com/dsevAtT.png",
     "price": {
       "buy": 0,
@@ -25336,6 +25341,7 @@
     "id": 779,
     "name": "National Egg Voucher I",
     "category": "other",
+    "subcategory": "Premium",
     "sprite": "https://i.imgur.com/0mQAjnG.png",
     "price": {
       "buy": 0,
@@ -25368,6 +25374,7 @@
     "id": 780,
     "name": "National Egg Voucher II",
     "category": "other",
+    "subcategory": "Premium",
     "sprite": "https://i.imgur.com/Kv5DvQU.png",
     "price": {
       "buy": 0,
@@ -25400,6 +25407,7 @@
     "id": 781,
     "name": "National Egg Voucher III",
     "category": "other",
+    "subcategory": "Premium",
     "sprite": "https://i.imgur.com/vGkfts5.png",
     "price": {
       "buy": 0,
@@ -25752,6 +25760,7 @@
     "id": 792,
     "name": "Relearning Essence",
     "category": "medicine",
+    "subcategory": "Premium",
     "sprite": "https://i.imgur.com/Zsjv5Zd.png",
     "price": {
       "buy": 0,
