@@ -12157,12 +12157,12 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 0
+      "mile": 180
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
-      "mile_shop": false
+      "mile_shop": true
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -19032,12 +19032,12 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 0
+      "mile": 300
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
-      "mile_shop": false
+      "mile_shop": true
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -22147,12 +22147,12 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 0
+      "mile": 600
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
-      "mile_shop": false
+      "mile_shop": true
     },
     "is_key_item": false,
     "is_craftable": true,
@@ -25182,12 +25182,12 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 0
+      "mile": 250
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
-      "mile_shop": false
+      "mile_shop": true
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -25215,12 +25215,12 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 0
+      "mile": 600
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
-      "mile_shop": false
+      "mile_shop": true
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -25248,12 +25248,12 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 0
+      "mile": 34
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
-      "mile_shop": false
+      "mile_shop": true
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -25281,12 +25281,12 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 0
+      "mile": 120
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
-      "mile_shop": false
+      "mile_shop": true
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -25314,12 +25314,12 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 0
+      "mile": 200
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
-      "mile_shop": false
+      "mile_shop": true
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -25347,12 +25347,12 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 0
+      "mile": 180
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
-      "mile_shop": false
+      "mile_shop": true
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -25380,12 +25380,12 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 0
+      "mile": 300
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
-      "mile_shop": false
+      "mile_shop": true
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -25413,12 +25413,12 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 0
+      "mile": 500
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
-      "mile_shop": false
+      "mile_shop": true
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -25766,12 +25766,12 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 0
+      "mile": 500
     },
     "shop_availability": {
       "pokemart": false,
       "casino": false,
-      "mile_shop": false
+      "mile_shop": true
     },
     "is_key_item": false,
     "is_craftable": false,
