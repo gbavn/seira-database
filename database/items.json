@@ -22013,12 +22013,17 @@
     "id": 683,
     "name": "Gimmighoul Coin",
     "category": "craft-material",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/gimmighoulcoin.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/za/gimmighoulcoin.png",
     "price": {
       "buy": 800,
       "sell": 400,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -22034,8 +22039,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 684,
@@ -24445,39 +24449,6 @@
     ]
   },
   {
-    "id": 755,
-    "name": "Gimmighoul Hoard Pouch",
-    "category": "other",
-    "subcategory": "Item Evolutivo",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/gimmighoulcoin.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "Um saco reforçado abarrotado de moedas antigas. Cada movimento faz ecoar o som de dezenas de Gimmighoul Coins, revelando um estoque considerável desse material raro e cobiçado.",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "epico",
-    "is_unique": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
     "id": 756,
     "name": "Syrup Apple",
     "category": "other",
@@ -25431,38 +25402,6 @@
     "is_consumable": false,
     "modified_for_rpg": false,
     "rarity": "epico",
-    "is_unique": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0
-  },
-  {
-    "id": 782,
-    "name": "Gimmighoul Coin",
-    "category": "other",
-    "sprite": "https://www.serebii.net/itemdex/sprites/za/gimmighoulcoin.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": false,
-    "is_craftable": false,
-    "description": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
