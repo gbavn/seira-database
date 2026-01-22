@@ -19032,7 +19032,7 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 300
+      "mile": 500
     },
     "shop_availability": {
       "pokemart": false,
@@ -22147,7 +22147,7 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 600
+      "mile": 900
     },
     "shop_availability": {
       "pokemart": false,
@@ -25215,7 +25215,7 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 600
+      "mile": 700
     },
     "shop_availability": {
       "pokemart": false,
@@ -25224,7 +25224,7 @@
     },
     "is_key_item": false,
     "is_craftable": false,
-    "description": "Um voucher que concede ao jogador o direito de criar um personagem adicional no RPG com 1 bônus inicial à escolha: Pokémon inicial Shiny, Color/Colorido, da Pokédex Nacional, Pseudo-Lendário, com Hidden Ability, ou +50 de Fama inicial.",
+    "description": "Um voucher especial que concede ao jogador o direito de criar um personagem adicional no RPG, incluindo 1 bônus inicial à escolha entre as opções abaixo:\n\n- Pokémon inicial Shiny ou Color\n- Pokémon da Pokédex Nacional ou Restrito, incluindo pseudo-lendários\n- Pokémon com Hidden Ability\n\nO bônus escolhido é aplicado no momento da criação do personagem. Após o uso, o voucher é consumido.",
     "held_effect": "",
     "fling_power": 0,
     "fling_effect": "",
@@ -25248,7 +25248,7 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 34
+      "mile": 80
     },
     "shop_availability": {
       "pokemart": false,
@@ -25281,7 +25281,7 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 120
+      "mile": 200
     },
     "shop_availability": {
       "pokemart": false,
@@ -25314,7 +25314,7 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 200
+      "mile": 500
     },
     "shop_availability": {
       "pokemart": false,
@@ -25347,7 +25347,7 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 180
+      "mile": 200
     },
     "shop_availability": {
       "pokemart": false,
@@ -25380,7 +25380,7 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 300
+      "mile": 600
     },
     "shop_availability": {
       "pokemart": false,
@@ -25413,7 +25413,7 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 500
+      "mile": 900
     },
     "shop_availability": {
       "pokemart": false,
@@ -25766,7 +25766,7 @@
       "buy": 0,
       "sell": 0,
       "casino": 0,
-      "mile": 500
+      "mile": 700
     },
     "shop_availability": {
       "pokemart": false,
@@ -25808,7 +25808,7 @@
     },
     "is_key_item": false,
     "is_craftable": false,
-    "description": "Um pacote de apoio premium que recompensa o treinador com recursos essenciais para a jornada, contém:\n- Pack de Balls Comum (3x Pokeball, 2x Great Ball, 1x Ultra Ball)\n- 2.500$\n- Voucher de Viagem\n- Cargo Desbloqueado no Discord: Mítico",
+    "description": "Um pacote de apoio premium que recompensa o treinador com recursos essenciais para a jornada, contém:\n- Pack de Balls Comum (3x Pokeball, 2x Great Ball, 1x Ultra Ball)\n- 2.500$\n- x1 Travel Voucher\n- Cargo Desbloqueado no Discord: Mítico",
     "held_effect": "",
     "fling_power": 0,
     "fling_effect": "",
@@ -25841,7 +25841,205 @@
     },
     "is_key_item": false,
     "is_craftable": false,
-    "description": "Um pacote de suporte avançado voltado para treinadores que desejam vantagens adicionais, contém:\n- 2 Ball Artesanais (à escolha, exceto Shiny)\n- 2.500$\n- 1 Voucher de Desconto (50%)\n- 50 Milhas\n- Cargo Desbloqueado no Discord: Lendário",
+    "description": "Um pacote de suporte avançado voltado para treinadores que desejam vantagens adicionais, contém:\n- 2 Ball Artesanais (à escolha, exceto Shiny)\n- 2.500$\n- x1 Mart Coupon (50%)\n- 50 Milhas\n- Cargo Desbloqueado no Discord: Lendário",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "epico",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 795,
+    "name": "Travel Voucher",
+    "category": "other",
+    "subcategory": "Premium",
+    "sprite": "",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "Permite realizar uma viagem gratuita de ida e volta entre cidades. Após o uso, o item é consumido.",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 796,
+    "name": "Mart Coupon (50%)",
+    "category": "other",
+    "subcategory": "Premium",
+    "sprite": "",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "Concede 50% de desconto em uma única compra na Pokémart. Não é cumulativo com outros cupons ou promoções e é consumido após o uso.",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 797,
+    "name": "TM Voucher (Comum)",
+    "category": "other",
+    "subcategory": "Premium",
+    "sprite": "",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 100
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": true
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "Um pergaminho simples que pode ser trocado por um TM comum na Loja de Discos.",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 798,
+    "name": "TM Voucher (Raro)",
+    "category": "other",
+    "subcategory": "Premium",
+    "sprite": "",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 300
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": true
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "Um pergaminho aprimorado que pode ser trocado por um TM raro na Loja de Discos.",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "raro",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 799,
+    "name": "TM Voucher (Épico)",
+    "category": "other",
+    "subcategory": "Premium",
+    "sprite": "",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 600
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": true
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "Um pergaminho especial que pode ser trocado por um TM épico na Loja de Discos.",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "epico",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
+  },
+  {
+    "id": 800,
+    "name": "Evolution Item",
+    "category": "other",
+    "subcategory": "Premium",
+    "sprite": "",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 700
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": true
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "Permite escolher um item evolutivo disponível no RPG. O item escolhido é recebido imediatamente após a compra.",
     "held_effect": "",
     "fling_power": 0,
     "fling_effect": "",
