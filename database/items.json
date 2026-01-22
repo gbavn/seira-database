@@ -25926,7 +25926,7 @@
     "name": "TM Voucher (Comum)",
     "category": "other",
     "subcategory": "Premium",
-    "sprite": "",
+    "sprite": "https://i.imgur.com/DHwoaT9.png",
     "price": {
       "buy": 0,
       "sell": 0,
@@ -25959,7 +25959,7 @@
     "name": "TM Voucher (Raro)",
     "category": "other",
     "subcategory": "Premium",
-    "sprite": "",
+    "sprite": "https://i.imgur.com/R6fVTy0.png",
     "price": {
       "buy": 0,
       "sell": 0,
@@ -25992,7 +25992,7 @@
     "name": "TM Voucher (Épico)",
     "category": "other",
     "subcategory": "Premium",
-    "sprite": "",
+    "sprite": "https://i.imgur.com/oOpxnvm.png",
     "price": {
       "buy": 0,
       "sell": 0,
@@ -26025,7 +26025,7 @@
     "name": "Evolution Item",
     "category": "other",
     "subcategory": "Premium",
-    "sprite": "",
+    "sprite": "https://i.imgur.com/vWQAM1H.png",
     "price": {
       "buy": 0,
       "sell": 0,
