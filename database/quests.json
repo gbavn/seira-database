@@ -1,9 +1,11 @@
 [
   {
-    "id": "0001",
+    "id": 1,
     "name": "A Mina Abandonada",
     "requester": "Minerador Jonas",
     "description": "Explore a mina abandonada e derrote os Pokémon de Rocha que tomaram conta do local.",
+    "quest_type": "comum",
+    "assigned_character": "",
     "objectives": [
       {
         "type": "battle",
@@ -69,79 +71,6 @@
         }
       ],
       "custom": "Acesso à Área Secreta da Mina"
-    },
-    "status": "available",
-    "repeatable": false,
-    "cooldown_days": 0
-  },
-  {
-    "id": "0002",
-    "name": "gfddfg",
-    "requester": "fgfd",
-    "description": "fgdf",
-    "objectives": [
-      {
-        "type": "battle",
-        "description": "",
-        "pokemon_sheets": []
-      }
-    ],
-    "requirements": {
-      "level": null,
-      "pokemon": [],
-      "items": [],
-      "perks": {
-        "mode": "all",
-        "perk_ids": []
-      },
-      "custom": ""
-    },
-    "rewards": {
-      "money": 0,
-      "fame": 0,
-      "character_exp": 0,
-      "items": [],
-      "pokemon": [],
-      "custom": ""
-    },
-    "status": "available",
-    "repeatable": false,
-    "cooldown_days": 0
-  },
-  {
-    "id": "0003",
-    "name": "testetdete",
-    "requester": "ggfhgf",
-    "description": "",
-    "objectives": [
-      {
-        "type": "battle",
-        "description": "",
-        "pokemon_sheets": []
-      }
-    ],
-    "requirements": {
-      "level": null,
-      "pokemon": [],
-      "items": [],
-      "perks": {
-        "mode": "all",
-        "perk_ids": []
-      },
-      "custom": ""
-    },
-    "rewards": {
-      "money": 0,
-      "fame": 0,
-      "character_exp": 0,
-      "items": [
-        {
-          "item_id": 2,
-          "quantity": 1
-        }
-      ],
-      "pokemon": [],
-      "custom": ""
     },
     "status": "available",
     "repeatable": false,
