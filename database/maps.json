@@ -2382,6 +2382,18 @@
         "poi_image": "https://i.imgur.com/h5rnS6l.jpeg",
         "custom_effect": [],
         "shop_data": null
+      },
+      {
+        "id": "poi-1769136483112",
+        "name": "Praia Formosa",
+        "type": "other",
+        "description": "Conhecida apenas por poucos locais e amantes da natureza e da liberdade, a Praia Formosa é um espaço frequentado por naturalistas.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "poi_image": "https://conhecimentocientifico.r7.com/wp-content/uploads/2020/09/praias-o-que-sao-caracteristicas-e-importancia-para-o-meio-ambiente-5.jpg",
+        "custom_effect": [],
+        "shop_data": null
       }
     ],
     "forageable_items": [],
