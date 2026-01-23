@@ -24025,8 +24025,6 @@
     "id": 100,
     "name": "Voltorb",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric"
     ],
@@ -24043,7 +24041,10 @@
     "egg_groups": [
       "Mineral"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 66,
     "stats": {
@@ -24060,8 +24061,20 @@
     "dex_entry": "Geralmente encontrado em usinas elétricas. Facilmente confundido com uma Poké Bola, já eletrocutou muitas pessoas.",
     "classification": "Pokémon Bola",
     "held_items": [],
-    "is_starter": true,
-    "in_seira_pokedex": true,
+    "evolves_to": [
+      {
+        "pokemon": "Electrode",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 30
+          }
+        ]
+      }
+    ],
+    "is_starter": false,
+    "in_seira_pokedex": false,
     "rarity": "raro",
     "is_producer": false,
     "production": [],
@@ -24207,26 +24220,12 @@
     "egg_moves": [
       "Recycle",
       "Metal sound"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Electrode",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 30
-          }
-        ]
-      }
     ]
   },
   {
     "id": 101,
     "name": "Electrode",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric"
     ],
@@ -24243,7 +24242,10 @@
     "egg_groups": [
       "Mineral"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 172,
     "stats": {
@@ -24260,8 +24262,9 @@
     "dex_entry": "Armazena energia elétrica sob altíssima pressão. Frequentemente explode com pouca ou nenhuma provocação.",
     "classification": "Pokémon Bola",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": true,
+    "in_seira_pokedex": false,
     "rarity": "raro",
     "is_producer": false,
     "production": [],
@@ -24417,8 +24420,7 @@
     "egg_moves": [
       "Recycle",
       "Metal sound"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 102,
@@ -73781,8 +73783,6 @@
     "id": 311,
     "name": "Plusle",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric"
     ],
@@ -73824,8 +73824,9 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": true,
+    "in_seira_pokedex": false,
     "rarity": "epico",
     "is_producer": false,
     "production": [],
@@ -74012,15 +74013,12 @@
       "Discharge",
       "Nuzzle",
       "Tearful look"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 312,
     "name": "Minun",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric"
     ],
@@ -74062,8 +74060,9 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": true,
+    "in_seira_pokedex": false,
     "rarity": "epico",
     "is_producer": false,
     "production": [],
@@ -74244,8 +74243,7 @@
       "Discharge",
       "Nuzzle",
       "Tearful look"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 313,
@@ -79454,8 +79452,6 @@
     "id": 335,
     "name": "Zangoose",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -79497,9 +79493,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -79709,15 +79706,12 @@
       "Double hit",
       "Quick guard",
       "Final gambit"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 336,
     "name": "Seviper",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Poison"
     ],
@@ -79765,9 +79759,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
-    "rarity": "comum",
+    "in_seira_pokedex": true,
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -79956,8 +79951,7 @@
       "Night slash",
       "Switcheroo",
       "Final gambit"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 337,
@@ -152194,8 +152188,6 @@
     "id": 676,
     "name": "Furfrou",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -152229,9 +152221,10 @@
     "dex_entry": "Houve uma era em que aristocratas competiam para ver quem conseguia estilizar o pelo de seus Furfrou da forma mais requintada.",
     "classification": "Pokémon Poodle",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
-    "rarity": "comum",
+    "in_seira_pokedex": true,
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -152338,8 +152331,7 @@
       "Refresh",
       "Captivate",
       "Work up"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 677,
@@ -188674,9 +188666,10 @@
     "dex_entry": "Usa os chifres na cabeça para sentir as emoções dos outros. Os machos atuam como criados, cuidando de todas as necessidades de quem servem.",
     "classification": "Pokémon Emoção",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
-    "rarity": "comum",
+    "in_seira_pokedex": true,
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -188792,8 +188785,7 @@
       "Extrasensory",
       "Fake out",
       "Psych up"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 877,
@@ -202480,8 +202472,6 @@
     "id": 960,
     "name": "Wiglett",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water"
     ],
@@ -202518,8 +202508,20 @@
     "dex_entry": "Este Pokémon consegue detectar o cheiro de um Veluza a mais de 20 metros de distância e se esconde na areia.",
     "classification": "Pokémon Enguia-Jardim",
     "held_items": [],
-    "is_starter": false,
-    "in_seira_pokedex": false,
+    "evolves_to": [
+      {
+        "pokemon": "Wugtrio",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 26
+          }
+        ]
+      }
+    ],
+    "is_starter": true,
+    "in_seira_pokedex": true,
     "rarity": "comum",
     "is_producer": false,
     "production": [],
@@ -202608,26 +202610,12 @@
     "egg_moves": [
       "Memento",
       "Final gambit"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Wugtrio",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 26
-          }
-        ]
-      }
     ]
   },
   {
     "id": 961,
     "name": "Wugtrio",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water"
     ],
@@ -202664,8 +202652,9 @@
     "dex_entry": "Possui um temperamento feroz, ao contrário do que sua aparência sugere. Ele envolve suas presas com seus longos corpos e as arrasta para sua toca.",
     "classification": "Pokémon Enguia-Jardim",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
+    "in_seira_pokedex": true,
     "rarity": "comum",
     "is_producer": false,
     "production": [],
@@ -202761,8 +202750,7 @@
     "egg_moves": [
       "Memento",
       "Final gambit"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 962,
@@ -249366,9 +249354,10 @@
     "dex_entry": "It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.",
     "classification": "Emotion Pokémon",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
-    "rarity": "comum",
+    "in_seira_pokedex": true,
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -249482,8 +249471,7 @@
       "Heal pulse",
       "Psych up",
       "Psycho shift"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 13501,
