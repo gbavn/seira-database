@@ -159031,6 +159031,23 @@
     "dex_entry": "Espíritos que vagam por este mundo são colocados dentro do corpo de Pumpkaboo. De lá, são guiados para o pós-vida.",
     "classification": "Pokémon Abóbora",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Gourgeist",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 23
+          },
+          {
+            "type": "item",
+            "item_id": 754,
+            "item_name": "Linking Cord"
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -159166,22 +159183,11 @@
       "Curse",
       "Destiny bond",
       "Bestow"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Gourgeist",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          }
-        ]
-      }
     ]
   },
   {
     "id": 711,
-    "name": "Gourgeist average",
+    "name": "Gourgeist",
     "base_form": true,
     "types": [
       "Ghost",
@@ -159220,6 +159226,7 @@
     "dex_entry": "Gritos assustadores ecoam de seu corpo durante a noite. Dizem ser os lamentos de espíritos que sofrem no além.",
     "classification": "Pokémon Abóbora",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -159369,8 +159376,7 @@
       "Will o-wisp",
       "Worry seed"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 712,
