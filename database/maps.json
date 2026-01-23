@@ -32,7 +32,8 @@
         "type": "other",
         "description": "Às margens de um canal tranquilo, ergue-se uma casa de madeira antiga adaptada para a pesquisa, com estufas de vidro e jardins ao redor. O interior mistura rusticidade com ciência, onde livros, mapas e equipamentos se espalham em meio ao cheiro de madeira e ervas frescas.",
         "forum_link": "",
-        "shop_data": null
+        "shop_data": null,
+        "poi_image": "https://i.imgur.com/RHH30f0.jpeg"
       },
       {
         "id": "GymNormal",
@@ -62,7 +63,8 @@
         },
         "linked_pokemon": [
           869
-        ]
+        ],
+        "poi_image": "https://i.imgur.com/C6dvjst.jpeg"
       }
     ],
     "forageable_items": [
@@ -230,7 +232,8 @@
         "type": "other",
         "description": "Localizado no topo da Colina Prisma, o Laboratório Banyan é o epicentro científico de Hyperia e o núcleo da Rede Helix. Estruturas translúcidas, jardins energéticos e drones assistentes fazem do lugar uma extensão da própria IA, onde a Professora Banyan coordena pesquisas avançadas em ecossistemas, dados e Pokémon.",
         "forum_link": "",
-        "shop_data": null
+        "shop_data": null,
+        "poi_image": "https://i.imgur.com/FtyXJxI.jpeg"
       },
       {
         "id": "VibeDome",
@@ -239,7 +242,8 @@
         "description": "O V!be Dome é a arena mais famosa de Seira, onde batalhas Pokémon se transformam em performances coreografadas. Telas holográficas, luzes pulsantes e plateias digitais criam uma experiência imersiva, e muitos ídolos locais começaram suas carreiras como treinadores nesse palco icônico.\nÉ possível reservar uma data e realizar uma performance no palco do V!be Dome por mês. É cobrado a taxa de $4.000 para manutenção do espaço e remunerar equipe técnica. Performances artísticas rendem +20 de Fama.",
         "forum_link": "",
         "shop_data": null,
-        "custom_effect": "(Requer 100 de Fama e Nível 3 de Treinador)"
+        "custom_effect": "(Requer 100 de Fama e Nível 3 de Treinador)",
+        "poi_image": "https://i.imgur.com/aytLyVZ.jpeg"
       },
       {
         "id": "GymElectric",
@@ -346,11 +350,12 @@
           ],
           "buys": []
         },
-        "custom_effect": "Possível aprender Grass Pledge por $10.000"
+        "custom_effect": "Possível aprender Grass Pledge por $10.000",
+        "poi_image": "https://i.imgur.com/zIoQZrS.jpeg"
       },
       {
         "id": "FeiraVale",
-        "name": "Feira do Vale",
+        "name": "Feira do Vale Dourado",
         "type": "shop",
         "description": "Sob a sombra de carvalhos centenários, a Feira do Vale Dourado desperta os sentidos. O ar carrega o perfume doce de colheitas recém-apanhadas, expostas em cestas de vime por agricultores locais. Entre risos e negociações, viajantes encontram as frutas mais suculentas da região, cultivadas em harmonia com a terra.",
         "forum_link": "",
@@ -361,7 +366,8 @@
             756
           ],
           "buys": []
-        }
+        },
+        "poi_image": "https://cdn.zero.eu/uploads/2016/08/fiera_santo_spirito.jpg"
       }
     ],
     "forageable_items": [],
@@ -1292,6 +1298,22 @@
         "linked_items": [],
         "custom_effect": "",
         "shop_data": null
+      },
+      {
+        "id": "poi-1769127823184",
+        "name": "TV SATO",
+        "type": "facility",
+        "description": "A sede da TV Sato é mais do que apenas um edifício de comunicações; é o coração cultural e a voz da região de Seira. O prédio, uma torre imponente de vidro e aço com painéis de LED gigantes que transmitem notícias 24 horas por dia, é um símbolo de prestígio e modernidade.\n\nDiferente de outros sistemas de informação, a TV Sato foca no fator humano e na conexão direta com os habitantes das cidades e rotas. Seus estúdios de última geração recebem desde líderes de ginásio até criadores de Pokémon locais, mantendo a população informada e entretida com uma grade de programação diversificada e carismática.\n\nManhã: \"Seira em Harmonia\" com Edna Canuto (Fornece 5 Pontos de Personagem e 5 de Fama)\nTarde: \"Giro Regional\" com Tumb Stray (Fornece 10 Pontos de Personagem e 15 de Fama)\nNoite: \"Jornal de Seira\" com William Gonner e Faty BenGrande (Fornece 15 Pontos de Personagem e 25 de Fama)\n\nObs.: Só é possível aparecer na TV Sato 1x por mês.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "poi_image": "",
+        "custom_effect": [
+          "Manhã: Requer 30 de Fama e Nível 2 de Treinador",
+          "Tarde: Requer 50 de Fama e Nível 3 de Treinador",
+          "Noite: Requer 100 de Fama e Nível 5 de Treinador"
+        ],
+        "shop_data": null
       }
     ],
     "forageable_items": [],
@@ -1399,6 +1421,18 @@
           ],
           "buys": []
         }
+      },
+      {
+        "id": "poi-1769127174785",
+        "name": "Battle Castelul",
+        "type": "facility",
+        "description": "Inspirado no Battle Chateau de Kalos, o Battle Castelul é o local perfeito se você quer se especializar em batalhas e ainda participar de um clube exclusivo da elite. Só não se engane! Não é qualquer um que pode entrar no estabelecimento. É necessário uma Carta Convite (item ofertado como recompensa de Quest na Academia Dente de Dragão).",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "poi_image": "https://i.imgur.com/kk9jZLu.jpeg",
+        "custom_effect": [],
+        "shop_data": null
       }
     ],
     "forageable_items": [],
@@ -2324,7 +2358,20 @@
       "based_on": "Valencia, Espanha"
     },
     "quest_ids": [],
-    "points_of_interest": [],
+    "points_of_interest": [
+      {
+        "id": "poi-1769129385478",
+        "name": "Escola Pokémon Sunshine",
+        "type": "facility",
+        "description": "Dominando a paisagem costeira com sua imponente arquitetura de tijolos vermelhos e telhados de cobre esverdeado pelo tempo, a Escola Pokémon Sunshine (EPS) é o orgulho da cidade e uma das instituições de ensino Pokémon mais prestigiadas do continente. A icônica torre do relógio, adornada com o símbolo da Poké Bola, não apenas marca as horas, mas serve como um farol para aspirantes a treinadores que chegam pelo porto.\n\nO ambiente da EPS é uma mistura de disciplina acadêmica e a vivacidade de um porto movimentado. O ar no pátio central é sempre fresco, carregando a brisa salgada do mar, enquanto estudantes em seus uniformes azuis e laranjas circulam apressados entre aulas, acompanhados de seus Pokémon parceiros. Diferente das escolas do interior, a EPS tem um foco prático intenso: seus alunos aprendem navegação, biologia marinha, comércio e, claro, a arte da batalha Pokémon.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "poi_image": "https://i.imgur.com/h5rnS6l.jpeg",
+        "custom_effect": [],
+        "shop_data": null
+      }
+    ],
     "forageable_items": [],
     "spawns": {
       "common": [
@@ -2543,7 +2590,20 @@
             35
           ],
           "buys": []
-        }
+        },
+        "poi_image": "https://i.imgur.com/5PGHUVB.jpeg"
+      },
+      {
+        "id": "poi-1769131877460",
+        "name": "Coração de Kalla (Grande Árvore da Vida)",
+        "type": "other",
+        "description": "Erguendo-se muito acima das nuvens que acariciam a Selva de Kalla, o Coração de Kalla (conhecido pelos locais como a Grande Árvore da Vida) é uma visão que desafia a lógica biológica. Ela não é apenas uma árvore, mas um ecossistema vertical completo. Seus galhos são tão largos que abrigam rios suspensos e pequenos lagos, enquanto seu tronco colossal possui uma circunferência que levaria dias para ser percorrida a pé. A casca, grossa e prateada, pulsa com uma luminescência verde suave durante a noite, seguindo o ritmo das batidas do coração da terra.\n\nPara o povo Kalla, esta árvore é a ancestral de toda a vida em Seira. Acredita-se que suas raízes penetram tão profundamente que tocam o núcleo do planeta, filtrando a energia bruta e transformando-a na umidade e oxigênio que alimentam a região. Ao redor da árvore, a gravidade e o tempo parecem fluir de forma diferente: o ar é incrivelmente puro e as cores da vegetação são tão vibrantes que parecem irreais. É um local de paz absoluta, onde Pokémon predadores e presas coexistem em harmonia sob a sombra protetora da \"Grande Mãe\".\n\nQualquer tecnologia avançada que tente mapear a árvore de perto sofre pane imediata devido ao intenso campo magnético natural que ela emite. É um santuário de pureza onde o silêncio é sagrado, interrompido apenas pelo som do vento nas folhas gigantescas, que soa como um sussurro antigo em uma língua esquecida.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "poi_image": "",
+        "custom_effect": [],
+        "shop_data": null
       }
     ],
     "forageable_items": [],
