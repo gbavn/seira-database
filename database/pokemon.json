@@ -56130,7 +56130,7 @@
     ],
     "evolves_to": [
       {
-        "pokemon": "Porygon-z",
+        "pokemon": "Porygon-Z",
         "method": "primary",
         "triggers": [
           {
@@ -110677,10 +110677,8 @@
   },
   {
     "id": 474,
-    "name": "Porygon z",
+    "name": "Porygon-Z",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -110697,7 +110695,10 @@
     "egg_groups": [
       "Mineral"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 241,
     "stats": {
@@ -110714,6 +110715,7 @@
     "dex_entry": "Programaram Porygon-Z para viajar entre dimensões, mas o software causou instabilidade em seu comportamento.",
     "classification": "Pokémon Virtual",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "epico",
@@ -110889,8 +110891,7 @@
       "Wonder room",
       "Zen headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 475,
