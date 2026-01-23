@@ -1,6 +1,6 @@
 [
   {
-    "id": "quest-001",
+    "id": "0001",
     "name": "A Mina Abandonada",
     "requester": "Minerador Jonas",
     "description": "Explore a mina abandonada e derrote os Pokémon de Rocha que tomaram conta do local.",
@@ -75,7 +75,7 @@
     "cooldown_days": 0
   },
   {
-    "id": "quest-1768921486151",
+    "id": "0002",
     "name": "gfddfg",
     "requester": "fgfd",
     "description": "fgdf",
@@ -109,7 +109,7 @@
     "cooldown_days": 0
   },
   {
-    "id": "quest-1768921492033",
+    "id": "0003",
     "name": "testetdete",
     "requester": "ggfhgf",
     "description": "",
