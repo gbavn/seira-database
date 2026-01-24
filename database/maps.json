@@ -1437,12 +1437,14 @@
         "id": "poi-1769127174785",
         "name": "Battle Castelul",
         "type": "facility",
-        "description": "Inspirado no Battle Chateau de Kalos, o Battle Castelul é o local perfeito se você quer se especializar em batalhas e ainda participar de um clube exclusivo da elite. Só não se engane! Não é qualquer um que pode entrar no estabelecimento. É necessário uma Carta Convite (item ofertado como recompensa de Quest na Academia Dente de Dragão).",
+        "description": "Inspirado no Battle Chateau de Kalos, o Battle Castelul é o local perfeito se você quer se especializar em batalhas e ainda participar de um clube exclusivo da elite. Só não se engane! Não é qualquer um que pode entrar no estabelecimento. ",
         "forum_link": "",
         "linked_pokemon": [],
         "linked_items": [],
         "poi_image": "https://i.imgur.com/kk9jZLu.jpeg",
-        "custom_effect": [],
+        "custom_effect": [
+          "É necessário uma Carta Convite (recompensa de Quest na Academia Dente de Dragão)."
+        ],
         "shop_data": null
       }
     ],
