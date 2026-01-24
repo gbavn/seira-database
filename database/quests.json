@@ -75,5 +75,135 @@
     "status": "available",
     "repeatable": false,
     "cooldown_days": 0
+  },
+  {
+    "id": 2,
+    "name": "O Enigma do Brilho Salino",
+    "requester": "Professor Velkova",
+    "description": "Leonard Velkova notou que os Pokémon do tipo Água que habitam os canais de Veldhavn possuem uma pigmentação ligeiramente diferente dos encontrados em mar aberto. Ele suspeita que a dieta à base de algas ricas em minerais de alguma empresa que descarta resíduos orgânicos na água está acelerando uma mutação estética.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Capturar ou obter uma amostra de DNA (narrativo) de um Pokémon aquático que viva especificamente nos canais da cidade e compará-lo com um exemplar de qualquer outra localidade.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 1,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 1500,
+      "fame": 2,
+      "character_exp": 6,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 3,
+    "name": "Marcadores de Resiliência",
+    "requester": "Professor Velkova",
+    "description": "Leonard Velkova está fascinado pela Selva de Kalla. Ele acredita que os Pokémon de lá possuem um \"marcador genético de resistência\" que os torna imunes à interferência eletrônica da Rede Helix. Ele está disposto a contratar assistentes corajosos que possam coletar amostras de pólen que ficam presas no pelo/penas de Pokémon que habitam no coração da selva.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Coletar 5 amostras de pelos ou penas de Pokémon sem usar tecnologia avançada (captura).",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 2,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 5000,
+      "fame": 5,
+      "character_exp": 10,
+      "items": [
+        {
+          "item_id": 200,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 4,
+    "name": "Diabos Geminados",
+    "requester": "Professor Velkova",
+    "description": "Leonard Velkova ganhou umas espécie de Impidimp diferente da forma regional encontrada em Seira. Eles está interessado em escrever um artigo comparando ambas as espécies, mas não tem tempo de caçar um na natureza, por isso precisa contratar alguém para buscar uma por ele. Em troca, lhe dará um Galarian Impidimp, que até lá já deve ter realizado todos os testes necessários para o estudo.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Trocar Seiran Impidimp com Professor",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 3,
+      "completed_quests": [],
+      "pokemon": [
+        {
+          "pokemon_id": 10086,
+          "min_level": 1
+        }
+      ],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 5,
+      "character_exp": 10,
+      "items": [],
+      "pokemon": [
+        {
+          "type": "encounter",
+          "pokemon_id": 859,
+          "level_range": [
+            1,
+            25
+          ]
+        }
+      ],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
   }
 ]
