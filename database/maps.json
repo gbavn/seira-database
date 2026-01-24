@@ -23,7 +23,9 @@
     "quest_ids": [
       "quest-001",
       "quest-1768921486151",
-      "quest-1768921492033"
+      "quest-1768921492033",
+      2,
+      3
     ],
     "points_of_interest": [
       {
@@ -226,7 +228,8 @@
     },
     "quest_ids": [
       5,
-      6
+      6,
+      7
     ],
     "points_of_interest": [
       {
@@ -2374,7 +2377,11 @@
       "economy": [],
       "based_on": "Valencia, Espanha"
     },
-    "quest_ids": [],
+    "quest_ids": [
+      8,
+      9,
+      10
+    ],
     "points_of_interest": [
       {
         "id": "poi-1769129385478",
@@ -2423,17 +2430,16 @@
       "FishSea"
     ],
     "accesses": {
-      "east": {
-        "id": "R02",
-        "name": "Rota 02",
-        "posts_required": "2 posts",
-        "forum_link": ""
-      },
       "west": {
         "id": "R02",
         "name": "Rota 02",
-        "posts_required": "2 posts",
+        "posts_required": "",
         "forum_link": ""
+      },
+      "east": {
+        "id": "R01",
+        "name": "Rota 01",
+        "posts_required": ""
       }
     },
     "special_location": false
