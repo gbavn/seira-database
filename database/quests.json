@@ -186,7 +186,7 @@
       "custom": []
     },
     "rewards": {
-      "money": 0,
+      "money": 3000,
       "fame": 5,
       "character_exp": 10,
       "items": [],
@@ -200,6 +200,48 @@
           ]
         }
       ],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 5,
+    "name": "Sincronia de Pulso",
+    "requester": "Professora Banyan",
+    "description": "Amara Banyan está desenvolvendo uma interface que permite traduzir o bem-estar emocional de um Pokémon em frequências sonoras. Ela precisa testar se a arquitetura de Hyperia — com suas luzes e ruídos — está estressando os Pokémon locais ou se eles se adaptaram ao \"ritmo digital\" da cidade.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Calibrar o \"Helix Link\" com o seu Pokémon inicial enquanto caminha por três pontos distintos de Hyperia: O Estúdio V!be Dome, o Centro Comercial e o Parque Neon (3 Posts)",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 5,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 1500,
+      "fame": 2,
+      "character_exp": 10,
+      "items": [
+        {
+          "item_id": 179,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
       "custom": []
     },
     "status": "available",
