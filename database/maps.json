@@ -25,7 +25,9 @@
       "quest-1768921486151",
       "quest-1768921492033",
       2,
-      3
+      3,
+      4,
+      11
     ],
     "points_of_interest": [
       {
@@ -1391,7 +1393,12 @@
       "economy": [],
       "based_on": "Romênia"
     },
-    "quest_ids": [],
+    "quest_ids": [
+      12,
+      13,
+      14,
+      15
+    ],
     "points_of_interest": [
       {
         "id": "565",
@@ -1413,7 +1420,7 @@
         "id": "catedral",
         "name": "Catedral das Dores",
         "type": "facility",
-        "description": "Aos pés de Mistralia você consegue encontrar uma construção religiosa em meio a diversos mausoléus. A aura que emana do edifício gótico é sombria. Não existe uma alma viva que passe muito tempo no ambiente. A decoração é de vitrais quebrados, fios de teia do chão ao teto e muita poeira. Há apenas um artefato trancafiado em um altar de pedra com as inscrições \"A dor do abandono liberta a armadura dos males\".\n\nAo abandonar um Pokémon com 140+ de Felicidade na Catedral, o Item irá absorver o ressentimento e será liberado, no entanto, o Pokémon recém liberado irá ficar entre você e o artefato, além de estar muito agressivo e com +1 em todos os Stats (Não podendo ser capturado novamente). Para pegar o Malicious Armor é necessário derrotar o Pokémon Agressivo.",
+        "description": "Aos pés de Mistralia você consegue encontrar uma construção religiosa em meio a diversos mausoléus. A aura que emana do edifício gótico é sombria. Não existe uma alma viva que passe muito tempo no ambiente. A decoração é de vitrais quebrados, fios de teia do chão ao teto e muita poeira. Há apenas um artefato trancafiado em um altar de pedra com as inscrições \"A dor do abandono liberta a armadura dos males\".",
         "forum_link": "",
         "linked_pokemon": [],
         "linked_items": [
