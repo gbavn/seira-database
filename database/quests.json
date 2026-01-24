@@ -247,5 +247,49 @@
     "status": "available",
     "repeatable": false,
     "cooldown_days": 0
+  },
+  {
+    "id": 6,
+    "name": "O Fantasma no Sistema",
+    "requester": "Professora Banyan",
+    "description": "Uma instabilidade estranha está causando \"glitches\" nos terminais de transporte de Hyperia. Imagens de um Pokémon antigo não identificado estão aparecendo brevemente nas telas holográficas sem explicação. Prof. Banyan acredita que não é um erro, mas uma \"memória genética\" sendo transmitida via sinal de rádio.\nO jogador deve seguir pistas visuais (telas que piscam ou drones que agem estranho) até chegar aos subsolos da Colina Prisma. Lá, você encontrará um Pokémon selvagem \"sobrecarregado\" por energia estática que está atuando como repetidor involuntário.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Rastrear a origem da interferência usando um Pokémon do tipo Elétrico ou Fantasma como \"antena viva\" e acabar com o problema.",
+        "pokemon_sheets": [
+          "[pkm]Rotom|25|G|Levitate|Shadow Ball|Shock Wave|Double Team|Uproar|Charge Beam|Discharge[/pkm]"
+        ]
+      }
+    ],
+    "requirements": {
+      "level": 5,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 2000,
+      "fame": 2,
+      "character_exp": 10,
+      "items": [
+        {
+          "item_id": 783,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
   }
 ]
