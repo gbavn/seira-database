@@ -670,5 +670,42 @@
     "status": "available",
     "repeatable": false,
     "cooldown_days": 0
+  },
+  {
+    "id": 16,
+    "name": "Assistente de Produção",
+    "requester": "Big T.",
+    "description": "O diretor de produção do V!be Dome está contratando um assistente para um serviço freelancer. Haverá um grande festival e a equipe está desfalcada. O RH já avisa que o trabalho não é fácil, e o diretor tem a péssima mania de gritar com os assistentes, mas oferece um bônus incrível de conhecer os artistas.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Auxilie o Big. T na pré-produção (antes), produção (durante) e prós-produção (depois) do evento. Mínimo de 1.500 palavras.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 3,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 5000,
+      "fame": 15,
+      "character_exp": 10,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": true,
+    "cooldown_days": 30
   }
 ]
