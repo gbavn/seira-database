@@ -463,5 +463,212 @@
     "status": "available",
     "repeatable": false,
     "cooldown_days": 0
+  },
+  {
+    "id": 11,
+    "name": "Doce Mel, Roubo Amargo",
+    "requester": "Gerente da Brilho do Canal",
+    "description": "Está rolando um boato de que há roedores na Doceria Brilho do Canal. A gerente está desesperada, pois a fofoca pode acabar com os negócios. Ela está disposta a pagar uma boa recompensa para quem capturar o invasor que devora sua mercadoria pela noite.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Derrote os invasores e relate para a gerente.",
+        "pokemon_sheets": [
+          "[pkm]Pachirisu|15|F|Pickup|Spark|Baby Doll-Eyes|Charm|Bite|Quick Attack|Thunderbolt[/pkm]"
+        ]
+      }
+    ],
+    "requirements": {
+      "level": 2,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 4200,
+      "fame": 5,
+      "character_exp": 5,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 12,
+    "name": "Recomendação: Battle Castelul #1",
+    "requester": "Sra. Cadente",
+    "description": "Ao frequentar a Academia Dente de Dragão poderá fazer uma tarefa para a Sra. Cadente, professora de Astrologia, lhe doando 1 Pokémon que tenha relação com o cosmos a professora lhe dará a Carta Convite para ingressar no Battle Castelul.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Doar 1 Pokémon com ligação com o espaço, astros, planetas, etc.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 2,
+      "character_exp": 5,
+      "items": [
+        {
+          "item_id": 801,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 13,
+    "name": "Recomendação: Battle Castelul #2",
+    "requester": "Dr. Troper",
+    "description": "Ao frequentar a Academia Dente de Dragão poderá fazer uma tarefa para o Dr. Troper, professor de Biologia Pokémon. Ele deseja ver estudar 3 Pokémon Azul de diferentes Types [url=https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color](Referência)[/url]. Mostre a ele que o professor lhe dará a Carta Convite para ingressar no Battle Castelul.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Mostrar 3 Pokémon Azul.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 3,
+      "character_exp": 6,
+      "items": [
+        {
+          "item_id": 801,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 14,
+    "name": "Recomendação: Battle Castelul #3",
+    "requester": "Dra. Obstink",
+    "description": "Ao frequentar a Academia Dente de Dragão poderá fazer uma tarefa para a Dra. Obstink, professora de Estudos Dracônicos. Ela deseja estudar a relação de atributos entre dois Pokémon considerados Pseudo-Lendários. Se conseguir mostrar 2 Pseudos a ela, a Dr. Obstink lhe dará a Carta Convite para ingressar no Battle Castelul.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Mostrar 2 Pseudos.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 5,
+      "character_exp": 5,
+      "items": [
+        {
+          "item_id": 801,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 15,
+    "name": "Dor da Partida",
+    "requester": "",
+    "description": "Ao abandonar um Pokémon com 140+ de Felicidade na Catedral, o Item disposto no local irá absorver o ressentimento e será liberado, no entanto, o Pokémon recém-liberado irá ficar entre você e o artefato, além de estar muito agressivo e com +1 em todos os Stats (Não podendo ser capturado novamente). Para pegar o Malicious Armor é necessário derrotar o Pokémon Agressivo em uma batalha.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Libertar um Pokémon com mais de 140 de Felicidade e derrotá-lo em uma batalha.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 3,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 0,
+      "character_exp": 10,
+      "items": [
+        {
+          "item_id": 598,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
   }
 ]
