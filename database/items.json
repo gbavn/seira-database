@@ -6030,12 +6030,17 @@
     "id": 177,
     "name": "Exp. Share",
     "category": "key-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/expshare.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/pgl/exp.share.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -6051,8 +6056,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 178,
