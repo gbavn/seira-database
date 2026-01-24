@@ -224,7 +224,10 @@
       ],
       "based_on": "Seoul, Coreia do Sul"
     },
-    "quest_ids": [],
+    "quest_ids": [
+      5,
+      6
+    ],
     "points_of_interest": [
       {
         "id": "BanyanLab",
