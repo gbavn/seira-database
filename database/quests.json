@@ -291,5 +291,177 @@
     "status": "available",
     "repeatable": false,
     "cooldown_days": 0
+  },
+  {
+    "id": 7,
+    "name": "A Arca Digital",
+    "requester": "Professora Banyan",
+    "description": "Amara Banyan quer criar um \"Backup Biológico\" de Seira para garantir que, caso ocorra um desastre ambiental, a biodiversidade possa ser restaurada. Ela vai afirmar que você não precisa saber dos detalhes, só precisa de dados de campo sobre Pokémon que vivem em condições extremas de isolamento tecnológico — o oposto de Hyperia.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Viajar até a Selva de Kalla ou a Montanha Glacio e registrar o padrão de ondas cerebrais de um Pokémon alfa dessas regiões.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 5,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 5000,
+      "fame": 5,
+      "character_exp": 15,
+      "items": [
+        {
+          "item_id": 177,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 8,
+    "name": "A Paciência do Pescador",
+    "requester": "Professor Bóia",
+    "description": "O instrutor de biologia marinha idoso do colégio, sempre vestindo galochas e com um Wattrel dormindo em seu ombro, pode ser localizado nas docas atrás da escola.\nAo lhe ver ele dirá: \"Ora, ora, um calouro com cheiro de terra firme! Em Veldhavn, o mar é nosso maior professor, e a primeira lição que ele ensina é a paciência. Você não pode comandar um Gyarados se não tiver a calma para fisgar um Magikarp. Vamos, pegue uma boa vara. Quero ver se você consegue tirar algo bom destas águas além de uma bota velha.\"",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Usar o Ponto de Pesca e apresentar 1 Pokémon do tipo Água (Raro ou Épico) e mostrar para o Professor Bóia.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 1,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 2,
+      "character_exp": 5,
+      "items": [
+        {
+          "item_id": 6,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 9,
+    "name": "O Batismo do Pátio",
+    "requester": "Instrutora Valeska",
+    "description": "Uma mulher de postura rígida e olhar analítico, prancheta na mão está parada no centro do pátio principal. Ao ver que todos seus estudantes chegaram na aula ela dirá: \"Atenção! Ter um Pokémon e ser um Treinador são coisas distintas. A teoria da sala de aula termina aqui, no pátio. Eu preciso avaliar se vocês tem o controle básico sobre seu parceiro antes de permitir que saia pelos portões da cidade. Vou designar um aluno veterano para um duelo rápido. Não espero uma vitória espetacular, espero competência. Mostre-me o que sabe.\"",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Vencer uma batalha contra um NPC (gerado pelo bot) no pátio da escola.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 1,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 0,
+      "character_exp": 0,
+      "items": [
+        {
+          "item_id": 4,
+          "quantity": 3
+        },
+        {
+          "item_id": 17,
+          "quantity": 3
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 10,
+    "name": "A História nas Pedras",
+    "requester": "Diretor Magnus",
+    "description": "O homem idoso e sábio que observa tudo do alto da torre do relógio. Ao subir até lá para falar com ele, ouvirá: \"Bem-vindo ao topo de Verta, jovem. Muitos olham para o mar, mas poucos olham para onde pisam. Esta academia foi construída sobre séculos de tradição naval. Antes de querer desbravar o mundo, prove que você sabe observar o que está bem na sua frente. Espalhadas pelo campus existem três placas de bronze antigas contando nossa história. Encontre-as, leia suas inscrições e volte aqui para responder à minha pergunta.\"\nPonto A (Estátua do Fundador no saguão): Lê-se sobre a fundação da cidade após a \"Grande Tempestade\".\nPonto B (Placa na base da Torre do Relógio): Lê-se sobre a aliança entre humanos e Pokémon aquáticos para construir o porto.\nPonto C (Monumento da Âncora perto do portão): Lê-se sobre o lema da escola: \"Disciplina como a maré, coragem como a tempestade\".",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Localizar e interagir com 3 pontos específicos no mapa da escola para ler a lore. Ao retornar, deve responder corretamente qual é o lema da escola.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 2,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 5,
+      "character_exp": 10,
+      "items": [
+        {
+          "item_id": 783,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
   }
 ]
