@@ -229927,177 +229927,253 @@
   },
   {
     "id": 10082,
-    "name": "Seirian Buneary",
+    "name": "Seirian Ponyta",
     "base_form": false,
-    "form_of": 427,
+    "form_of": 77,
     "form_type": "regional",
     "types": [
-      "Fairy"
+      "Psychic"
     ],
     "abilities": {
       "normal": [
         "Run away",
-        "Klutz"
+        "Pastel veil"
       ],
       "hidden": [
-        "Limber"
+        "Anticipation"
       ],
-      "exotic": [
-        "Fur coat"
-      ]
+      "exotic": []
     },
     "egg_groups": [
-      "Ground",
-      "Humanshape"
+      "Ground"
     ],
     "gender": {
       "male": 50,
       "female": 50
     },
     "can_breed": true,
-    "base_experience": 70,
+    "base_experience": 82,
     "stats": {
-      "hp": 55,
-      "attack": 66,
-      "defense": 44,
-      "special_attack": 44,
-      "special_defense": 56,
-      "speed": 85
+      "hp": 50,
+      "attack": 85,
+      "defense": 55,
+      "special_attack": 65,
+      "special_defense": 65,
+      "speed": 90
     },
-    "artwork": "https://i.imgur.com/Bl3Bxav.png",
-    "height": 0.4,
-    "weight": 5.5,
-    "dex_entry": "Se ambas as orelhas de Buneary estiverem enroladas, algo está errado com seu corpo ou mente. É um sinal claro de que precisa de cuidados.",
-    "classification": "Pokémon Coelho",
-    "held_items": [
-      {
-        "item_id": "128",
-        "item_name": "Pecha berry",
-        "rarity": 50
-      },
-      {
-        "item_id": "166",
-        "item_name": "Chople berry",
-        "rarity": 5
-      }
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Seirian Lopunny",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 24
-          },
-          {
-            "type": "item",
-            "item_id": 81,
-            "item_name": "Moon Stone"
-          }
-        ]
-      }
-    ],
-    "is_starter": true,
-    "in_seira_pokedex": true,
-    "rarity": "raro",
+    "artwork": "https://www.serebii.net/pokemon/art/077-g.png",
+    "height": 0.8,
+    "weight": 24,
+    "dex_entry": "It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger.",
+    "classification": "Fire Horse Pokémon",
+    "held_items": [],
+    "is_starter": false,
+    "in_seira_pokedex": false,
+    "rarity": "comum",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
       {
-        "move": "Pound",
+        "move": "Tackle",
         "level": 1
       },
       {
-        "move": "Defense curl",
+        "move": "Growl",
         "level": 1
       },
       {
-        "move": "Splash",
-        "level": 1
+        "move": "Tail whip",
+        "level": 5
       },
       {
-        "move": "Foresight",
-        "level": 1
-      },
-      {
-        "move": "Frustration",
-        "level": 1
-      },
-      {
-        "move": "Endure",
-        "level": 6
-      },
-      {
-        "move": "Swift",
+        "move": "Confusion",
         "level": 10
       },
       {
-        "move": "Baby doll-eyes",
-        "level": 13
-      },
-      {
-        "move": "Quick attack",
-        "level": 16
-      },
-      {
-        "move": "Draining kiss",
-        "level": 16
-      },
-      {
-        "move": "Double kick",
-        "level": 20
-      },
-      {
-        "move": "Jump kick",
-        "level": 23
-      },
-      {
-        "move": "Double hit",
-        "level": 23
-      },
-      {
-        "move": "Baton pass",
-        "level": 26
-      },
-      {
-        "move": "Play rough",
-        "level": 31
-      },
-      {
-        "move": "Headbutt",
-        "level": 32
+        "move": "Fairy wind",
+        "level": 15
       },
       {
         "move": "Agility",
-        "level": 33
+        "level": 20
       },
       {
-        "move": "Dizzy punch",
-        "level": 36
+        "move": "Psybeam",
+        "level": 25
       },
       {
-        "move": "Double edge",
-        "level": 40
+        "move": "Stomp",
+        "level": 30
       },
       {
-        "move": "After you",
-        "level": 43
+        "move": "Heal pulse",
+        "level": 35
       },
       {
-        "move": "Flatter",
-        "level": 44
+        "move": "Take down",
+        "level": 41
       },
       {
-        "move": "Charm",
-        "level": 46
+        "move": "Dazzling gleam",
+        "level": 45
       },
       {
-        "move": "Entrainment",
+        "move": "Psychic",
         "level": 50
       },
       {
-        "move": "Bounce",
+        "move": "Healing wish",
+        "level": 55
+      }
+    ],
+    "learnable_moves": [
+      "Agility",
+      "Ally switch",
+      "Attract",
+      "Body slam",
+      "Bounce",
+      "Calm mind",
+      "Charm",
+      "Dazzling gleam",
+      "Endure",
+      "Expanding force",
+      "Facade",
+      "Future sight",
+      "High horsepower",
+      "Imprison",
+      "Iron tail",
+      "Low kick",
+      "Mystical fire",
+      "Play rough",
+      "Protect",
+      "Psychic",
+      "Rest",
+      "Round",
+      "Sleep talk",
+      "Snore",
+      "Stored power",
+      "Substitute",
+      "Swift",
+      "Wild charge",
+      "Zen headbutt"
+    ],
+    "egg_moves": [
+      "Double edge",
+      "Double kick",
+      "Horn drill",
+      "Hypnosis",
+      "Morning sun",
+      "Thrash"
+    ],
+    "evolves_to": []
+  },
+  {
+    "id": 10083,
+    "name": "Seirian Rapidash",
+    "base_form": false,
+    "form_of": 78,
+    "form_type": "regional",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "abilities": {
+      "normal": [
+        "Run away",
+        "Pastel veil"
+      ],
+      "hidden": [
+        "Anticipation"
+      ],
+      "exotic": []
+    },
+    "egg_groups": [
+      "Ground"
+    ],
+    "gender": {
+      "male": 50,
+      "female": 50
+    },
+    "can_breed": true,
+    "base_experience": 175,
+    "stats": {
+      "hp": 65,
+      "attack": 100,
+      "defense": 70,
+      "special_attack": 80,
+      "special_defense": 80,
+      "speed": 105
+    },
+    "artwork": "https://www.serebii.net/pokemon/art/078-g.png",
+    "height": 1.7,
+    "weight": 80,
+    "dex_entry": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
+    "classification": "Fire Horse Pokémon",
+    "held_items": [],
+    "is_starter": false,
+    "in_seira_pokedex": false,
+    "rarity": "comum",
+    "is_producer": false,
+    "production": [],
+    "moveset_by_level": [
+      {
+        "move": "Psycho cut",
+        "level": 0
+      },
+      {
+        "move": "Tackle",
+        "level": 1
+      },
+      {
+        "move": "Tail whip",
+        "level": 1
+      },
+      {
+        "move": "Growl",
+        "level": 1
+      },
+      {
+        "move": "Confusion",
+        "level": 1
+      },
+      {
+        "move": "Quick attack",
+        "level": 1
+      },
+      {
+        "move": "Megahorn",
+        "level": 1
+      },
+      {
+        "move": "Fairy wind",
+        "level": 15
+      },
+      {
+        "move": "Agility",
+        "level": 20
+      },
+      {
+        "move": "Psybeam",
+        "level": 25
+      },
+      {
+        "move": "Stomp",
+        "level": 30
+      },
+      {
+        "move": "Heal pulse",
+        "level": 35
+      },
+      {
+        "move": "Take down",
+        "level": 43
+      },
+      {
+        "move": "Dazzling gleam",
+        "level": 49
+      },
+      {
+        "move": "Psychic",
         "level": 56
       },
       {
@@ -230106,376 +230182,53 @@
       }
     ],
     "learnable_moves": [
-      "After you",
       "Agility",
-      "Assurance",
+      "Ally switch",
       "Attract",
       "Baton pass",
+      "Body slam",
       "Bounce",
-      "Captivate",
-      "Charge beam",
+      "Calm mind",
       "Charm",
-      "Confide",
-      "Cosmic power",
-      "Covet",
-      "Cut",
-      "Dig",
-      "Double team",
-      "Drain punch",
-      "Encore",
-      "Endeavor",
+      "Dazzling gleam",
+      "Drill run",
       "Endure",
+      "Expanding force",
       "Facade",
-      "Fake tears",
-      "Fire punch",
-      "Fling",
-      "Focus punch",
-      "Frustration",
-      "Grass knot",
-      "Headbutt",
-      "Heal bell",
-      "Helping hand",
-      "Hidden power",
-      "Hyper voice",
-      "Ice beam",
-      "Ice punch",
-      "Iron tail",
-      "Last resort",
-      "Low kick",
-      "Low sweep",
-      "Magic coat",
-      "Mega kick",
-      "Mega punch",
-      "Mud slap",
-      "Natural gift",
-      "Payback",
-      "Play rough",
-      "Power up-punch",
-      "Protect",
-      "Rain dance",
-      "Rest",
-      "Retaliate",
-      "Return",
-      "Rock smash",
-      "Round",
-      "Secret power",
-      "Shadow ball",
-      "Shock wave",
-      "Sleep talk",
-      "Snore",
-      "Solar beam",
-      "Substitute",
-      "Sunny day",
-      "Swagger",
-      "Swift",
-      "Thunder punch",
-      "Thunder wave",
-      "Thunderbolt",
-      "Toxic",
-      "Triple axel",
-      "Uproar",
-      "Water pulse",
-      "Work up"
-    ],
-    "egg_moves": [
-      "Attract",
-      "Circle throw",
-      "Copycat",
-      "Cosmic power",
-      "Double hit",
-      "Encore",
-      "Fake out",
-      "Fake tears",
-      "Fire punch",
-      "Flail",
-      "Focus punch",
-      "Ice punch",
-      "Low kick",
-      "Mud sport",
-      "Power up-punch",
-      "Sky uppercut",
-      "Sweet kiss",
-      "Switcheroo",
-      "Teeter dance",
-      "Thunder punch"
-    ]
-  },
-  {
-    "id": 10083,
-    "name": "Seirian Lopunny",
-    "base_form": false,
-    "form_of": 428,
-    "form_type": "regional",
-    "types": [
-      "Fairy",
-      "Ice"
-    ],
-    "abilities": {
-      "normal": [
-        "Cute charm",
-        "Klutz"
-      ],
-      "hidden": [
-        "Limber"
-      ],
-      "exotic": [
-        "Fur coat"
-      ]
-    },
-    "egg_groups": [
-      "Ground",
-      "Humanshape"
-    ],
-    "gender": {
-      "male": 50,
-      "female": 50
-    },
-    "can_breed": true,
-    "base_experience": 168,
-    "stats": {
-      "hp": 65,
-      "attack": 76,
-      "defense": 84,
-      "special_attack": 54,
-      "special_defense": 96,
-      "speed": 105
-    },
-    "artwork": "https://i.imgur.com/GFptdj0.png",
-    "height": 1.2,
-    "weight": 33.3,
-    "dex_entry": "Lopunny está constantemente atento ao ambiente ao seu redor. Se o perigo se aproxima, responde com chutes altamente destrutivos.",
-    "classification": "Pokémon Coelho",
-    "held_items": [
-      {
-        "item_id": "128",
-        "item_name": "Pecha berry",
-        "rarity": 50
-      },
-      {
-        "item_id": "166",
-        "item_name": "Chople berry",
-        "rarity": 5
-      }
-    ],
-    "evolves_to": [],
-    "is_starter": false,
-    "in_seira_pokedex": true,
-    "rarity": "raro",
-    "is_producer": false,
-    "production": [],
-    "moveset_by_level": [
-      {
-        "move": "Return",
-        "level": 0
-      },
-      {
-        "move": "Pound",
-        "level": 1
-      },
-      {
-        "move": "Defense curl",
-        "level": 1
-      },
-      {
-        "move": "Splash",
-        "level": 1
-      },
-      {
-        "move": "Mach punch",
-        "level": 1
-      },
-      {
-        "move": "Foresight",
-        "level": 1
-      },
-      {
-        "move": "Mirror coat",
-        "level": 1
-      },
-      {
-        "move": "Magic coat",
-        "level": 1
-      },
-      {
-        "move": "Bounce",
-        "level": 1
-      },
-      {
-        "move": "Healing wish",
-        "level": 1
-      },
-      {
-        "move": "Rototiller",
-        "level": 1
-      },
-      {
-        "move": "Endure",
-        "level": 6
-      },
-      {
-        "move": "Swift",
-        "level": 10
-      },
-      {
-        "move": "Baby doll-eyes",
-        "level": 13
-      },
-      {
-        "move": "Quick attack",
-        "level": 16
-      },
-      {
-        "move": "Draining kiss",
-        "level": 16
-      },
-      {
-        "move": "Double kick",
-        "level": 20
-      },
-      {
-        "move": "Jump kick",
-        "level": 23
-      },
-      {
-        "move": "Double hit",
-        "level": 23
-      },
-      {
-        "move": "Baton pass",
-        "level": 26
-      },
-      {
-        "move": "Play rough",
-        "level": 31
-      },
-      {
-        "move": "Headbutt",
-        "level": 32
-      },
-      {
-        "move": "Agility",
-        "level": 33
-      },
-      {
-        "move": "Dizzy punch",
-        "level": 36
-      },
-      {
-        "move": "Double edge",
-        "level": 40
-      },
-      {
-        "move": "Close combat",
-        "level": 40
-      },
-      {
-        "move": "After you",
-        "level": 43
-      },
-      {
-        "move": "Flatter",
-        "level": 44
-      },
-      {
-        "move": "Charm",
-        "level": 46
-      },
-      {
-        "move": "Entrainment",
-        "level": 53
-      },
-      {
-        "move": "High jump-kick",
-        "level": 66
-      }
-    ],
-    "learnable_moves": [
-      "Acrobatics",
-      "After you",
-      "Agility",
-      "Assurance",
-      "Attract",
-      "Aura sphere",
-      "Baton pass",
-      "Blizzard",
-      "Bounce",
-      "Brutal swing",
-      "Captivate",
-      "Charge beam",
-      "Charm",
-      "Close combat",
-      "Confide",
-      "Cosmic power",
-      "Covet",
-      "Cut",
-      "Dig",
-      "Double team",
-      "Drain punch",
-      "Encore",
-      "Endeavor",
-      "Endure",
-      "Facade",
-      "Fake tears",
-      "Fire punch",
-      "Fling",
-      "Focus blast",
-      "Focus punch",
-      "Frustration",
-      "Fury cutter",
+      "Future sight",
       "Giga impact",
-      "Grass knot",
-      "Headbutt",
-      "Heal bell",
-      "Helping hand",
-      "Hidden power",
+      "High horsepower",
       "Hyper beam",
-      "Hyper voice",
-      "Ice beam",
-      "Ice punch",
+      "Imprison",
       "Iron tail",
-      "Laser focus",
-      "Last resort",
       "Low kick",
-      "Low sweep",
-      "Magic coat",
-      "Mega kick",
-      "Mega punch",
-      "Mud slap",
-      "Natural gift",
-      "Payback",
+      "Magic room",
+      "Megahorn",
+      "Misty terrain",
+      "Mystical fire",
+      "Pay day",
       "Play rough",
-      "Power up-punch",
       "Protect",
-      "Rain dance",
+      "Psychic",
+      "Psychic terrain",
+      "Psycho cut",
       "Rest",
-      "Retaliate",
-      "Return",
-      "Reversal",
-      "Rock smash",
       "Round",
-      "Secret power",
-      "Shadow ball",
-      "Shock wave",
       "Sleep talk",
+      "Smart strike",
       "Snore",
-      "Solar beam",
-      "Strength",
+      "Stored power",
       "Substitute",
-      "Sunny day",
-      "Swagger",
       "Swift",
-      "Thunder",
-      "Thunder punch",
-      "Thunder wave",
-      "Thunderbolt",
-      "Toxic",
-      "Triple axel",
-      "U turn",
-      "Uproar",
-      "Water pulse",
-      "Work up"
+      "Swords dance",
+      "Throat chop",
+      "Trick room",
+      "Wild charge",
+      "Wonder room",
+      "Zen headbutt"
     ],
-    "egg_moves": []
+    "egg_moves": [],
+    "evolves_to": []
   },
   {
     "id": 10084,
@@ -232147,6 +231900,510 @@
       "Stomp",
       "Zen headbutt"
     ]
+  },
+  {
+    "id": 10092,
+    "name": "Hatenna",
+    "base_form": true,
+    "form_of": null,
+    "form_type": null,
+    "types": [
+      "Psychic"
+    ],
+    "abilities": {
+      "normal": [
+        "Healer",
+        "Anticipation"
+      ],
+      "hidden": [
+        "Magic bounce"
+      ],
+      "exotic": []
+    },
+    "egg_groups": [
+      "Fairy"
+    ],
+    "gender": {
+      "male": 0,
+      "female": 100
+    },
+    "can_breed": true,
+    "base_experience": 53,
+    "stats": {
+      "hp": 42,
+      "attack": 30,
+      "defense": 45,
+      "special_attack": 56,
+      "special_defense": 53,
+      "speed": 39
+    },
+    "artwork": "https://www.serebii.net/pokemon/art/856.png",
+    "height": 0.4,
+    "weight": 3.4,
+    "dex_entry": "A ponta em sua cabeça sente as emoções de outras criaturas. Se você não for calmo, ela jamais vai se aproximar de você.",
+    "classification": "Pokémon Calmo",
+    "held_items": [],
+    "is_starter": false,
+    "in_seira_pokedex": false,
+    "rarity": "comum",
+    "is_producer": false,
+    "production": [],
+    "moveset_by_level": [
+      {
+        "move": "Confusion",
+        "level": 1
+      },
+      {
+        "move": "Play nice",
+        "level": 1
+      },
+      {
+        "move": "Life dew",
+        "level": 5
+      },
+      {
+        "move": "Disarming voice",
+        "level": 10
+      },
+      {
+        "move": "Aromatherapy",
+        "level": 15
+      },
+      {
+        "move": "Aromatic mist",
+        "level": 15
+      },
+      {
+        "move": "Psybeam",
+        "level": 20
+      },
+      {
+        "move": "Heal pulse",
+        "level": 25
+      },
+      {
+        "move": "Dazzling gleam",
+        "level": 30
+      },
+      {
+        "move": "Calm mind",
+        "level": 35
+      },
+      {
+        "move": "Psychic",
+        "level": 40
+      },
+      {
+        "move": "Healing wish",
+        "level": 45
+      }
+    ],
+    "learnable_moves": [
+      "Attract",
+      "Baton pass",
+      "Calm mind",
+      "Charm",
+      "Dark pulse",
+      "Dazzling gleam",
+      "Disarming voice",
+      "Draining kiss",
+      "Endure",
+      "Expanding force",
+      "Facade",
+      "Future sight",
+      "Giga drain",
+      "Helping hand",
+      "Imprison",
+      "Light screen",
+      "Magical leaf",
+      "Metronome",
+      "Misty terrain",
+      "Mystical fire",
+      "Play rough",
+      "Protect",
+      "Psybeam",
+      "Psych up",
+      "Psychic",
+      "Psychic terrain",
+      "Psyshock",
+      "Reflect",
+      "Rest",
+      "Round",
+      "Safeguard",
+      "Skill swap",
+      "Sleep talk",
+      "Snore",
+      "Stored power",
+      "Substitute",
+      "Swift",
+      "Tera blast",
+      "Thunder wave",
+      "Trick",
+      "Trick room"
+    ],
+    "egg_moves": [
+      "After you",
+      "Quash",
+      "Mystical fire",
+      "Aromatic mist",
+      "Nuzzle"
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Hattrem",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10093,
+    "name": "Hattrem",
+    "base_form": true,
+    "form_of": null,
+    "form_type": null,
+    "types": [
+      "Psychic"
+    ],
+    "abilities": {
+      "normal": [
+        "Healer",
+        "Anticipation"
+      ],
+      "hidden": [
+        "Magic bounce"
+      ],
+      "exotic": []
+    },
+    "egg_groups": [
+      "Fairy"
+    ],
+    "gender": {
+      "male": 0,
+      "female": 100
+    },
+    "can_breed": true,
+    "base_experience": 130,
+    "stats": {
+      "hp": 57,
+      "attack": 40,
+      "defense": 65,
+      "special_attack": 86,
+      "special_defense": 73,
+      "speed": 49
+    },
+    "artwork": "https://www.serebii.net/pokemon/art/857.png",
+    "height": 0.6,
+    "weight": 4.8,
+    "dex_entry": "Não importa quem você seja — se trouxer emoções fortes perto dela, será silenciado de forma violenta.",
+    "classification": "Pokémon Sereno",
+    "held_items": [],
+    "is_starter": false,
+    "in_seira_pokedex": false,
+    "rarity": "comum",
+    "is_producer": false,
+    "production": [],
+    "moveset_by_level": [
+      {
+        "move": "Brutal swing",
+        "level": 0
+      },
+      {
+        "move": "Confusion",
+        "level": 1
+      },
+      {
+        "move": "Disarming voice",
+        "level": 1
+      },
+      {
+        "move": "Play nice",
+        "level": 1
+      },
+      {
+        "move": "Life dew",
+        "level": 1
+      },
+      {
+        "move": "Aromatherapy",
+        "level": 15
+      },
+      {
+        "move": "Aromatic mist",
+        "level": 15
+      },
+      {
+        "move": "Psybeam",
+        "level": 20
+      },
+      {
+        "move": "Heal pulse",
+        "level": 25
+      },
+      {
+        "move": "Dazzling gleam",
+        "level": 30
+      },
+      {
+        "move": "Calm mind",
+        "level": 37
+      },
+      {
+        "move": "Psychic",
+        "level": 44
+      },
+      {
+        "move": "Healing wish",
+        "level": 51
+      }
+    ],
+    "learnable_moves": [
+      "Attract",
+      "Baton pass",
+      "Brutal swing",
+      "Calm mind",
+      "Charm",
+      "Dark pulse",
+      "Dazzling gleam",
+      "Disarming voice",
+      "Draining kiss",
+      "Endure",
+      "Expanding force",
+      "Facade",
+      "Future sight",
+      "Giga drain",
+      "Helping hand",
+      "Imprison",
+      "Light screen",
+      "Magical leaf",
+      "Metronome",
+      "Misty terrain",
+      "Mystical fire",
+      "Play rough",
+      "Protect",
+      "Psybeam",
+      "Psych up",
+      "Psychic",
+      "Psychic terrain",
+      "Psyshock",
+      "Reflect",
+      "Rest",
+      "Round",
+      "Safeguard",
+      "Skill swap",
+      "Sleep talk",
+      "Snore",
+      "Stored power",
+      "Substitute",
+      "Swift",
+      "Tera blast",
+      "Thunder wave",
+      "Trick",
+      "Trick room"
+    ],
+    "egg_moves": [
+      "After you",
+      "Quash",
+      "Mystical fire",
+      "Aromatic mist",
+      "Nuzzle"
+    ],
+    "evolves_to": [
+      {
+        "pokemon": "Hatterene",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10094,
+    "name": "Hatterene",
+    "base_form": true,
+    "form_of": null,
+    "form_type": null,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "abilities": {
+      "normal": [
+        "Healer",
+        "Anticipation"
+      ],
+      "hidden": [
+        "Magic bounce"
+      ],
+      "exotic": []
+    },
+    "egg_groups": [
+      "Fairy"
+    ],
+    "gender": {
+      "male": 0,
+      "female": 100
+    },
+    "can_breed": true,
+    "base_experience": 255,
+    "stats": {
+      "hp": 57,
+      "attack": 90,
+      "defense": 95,
+      "special_attack": 136,
+      "special_defense": 103,
+      "speed": 29
+    },
+    "artwork": "https://www.serebii.net/pokemon/art/858.png",
+    "height": 2.1,
+    "weight": 5.1,
+    "dex_entry": "Ela emite um poder psíquico tão intenso que causa dores de cabeça, servindo como aviso para manter distância.",
+    "classification": "Pokémon Silencioso",
+    "held_items": [],
+    "is_starter": false,
+    "in_seira_pokedex": false,
+    "rarity": "comum",
+    "is_producer": false,
+    "production": [],
+    "moveset_by_level": [
+      {
+        "move": "Psycho cut",
+        "level": 0
+      },
+      {
+        "move": "Confusion",
+        "level": 1
+      },
+      {
+        "move": "Disarming voice",
+        "level": 1
+      },
+      {
+        "move": "Play nice",
+        "level": 1
+      },
+      {
+        "move": "Brutal swing",
+        "level": 1
+      },
+      {
+        "move": "Life dew",
+        "level": 1
+      },
+      {
+        "move": "Aromatherapy",
+        "level": 15
+      },
+      {
+        "move": "Aromatic mist",
+        "level": 15
+      },
+      {
+        "move": "Psybeam",
+        "level": 20
+      },
+      {
+        "move": "Heal pulse",
+        "level": 25
+      },
+      {
+        "move": "Dazzling gleam",
+        "level": 30
+      },
+      {
+        "move": "Calm mind",
+        "level": 37
+      },
+      {
+        "move": "Psychic",
+        "level": 46
+      },
+      {
+        "move": "Healing wish",
+        "level": 55
+      },
+      {
+        "move": "Magic powder",
+        "level": 64
+      }
+    ],
+    "learnable_moves": [
+      "Agility",
+      "Attract",
+      "Baton pass",
+      "Brutal swing",
+      "Calm mind",
+      "Charm",
+      "Dark pulse",
+      "Dazzling gleam",
+      "Disarming voice",
+      "Draining kiss",
+      "Endure",
+      "Expanding force",
+      "Facade",
+      "Future sight",
+      "Giga drain",
+      "Giga impact",
+      "Gravity",
+      "Guard swap",
+      "Helping hand",
+      "Hyper beam",
+      "Imprison",
+      "Light screen",
+      "Magic room",
+      "Magical leaf",
+      "Metronome",
+      "Misty explosion",
+      "Misty terrain",
+      "Mystical fire",
+      "Pain split",
+      "Play rough",
+      "Power swap",
+      "Power whip",
+      "Protect",
+      "Psybeam",
+      "Psych up",
+      "Psychic",
+      "Psychic noise",
+      "Psychic terrain",
+      "Psycho cut",
+      "Psyshock",
+      "Reflect",
+      "Rest",
+      "Round",
+      "Safeguard",
+      "Shadow ball",
+      "Shadow claw",
+      "Skill swap",
+      "Sleep talk",
+      "Snore",
+      "Stored power",
+      "Substitute",
+      "Swift",
+      "Swords dance",
+      "Tera blast",
+      "Thunder wave",
+      "Trick",
+      "Trick room",
+      "Wonder room"
+    ],
+    "egg_moves": [
+      "After you",
+      "Quash",
+      "Mystical fire",
+      "Aromatic mist",
+      "Nuzzle"
+    ],
+    "evolves_to": []
   },
   {
     "id": 10501,
