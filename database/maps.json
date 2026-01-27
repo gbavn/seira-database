@@ -739,7 +739,40 @@
         "shop_data": null
       }
     ],
-    "forageable_items": [],
+    "forageable_items": [
+      {
+        "item_id": 94,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 691,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 692,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 695,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 696,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 697,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 689,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 466,
+        "collected_quantity": 1
+      }
+    ],
     "spawns": {
       "common": [
         659,
@@ -844,7 +877,20 @@
         "shop_data": null
       }
     ],
-    "forageable_items": [],
+    "forageable_items": [
+      {
+        "item_id": 698,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 690,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 700,
+        "collected_quantity": 1
+      }
+    ],
     "spawns": {
       "common": [
         220,
