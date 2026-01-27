@@ -73,12 +73,24 @@
     ],
     "forageable_items": [
       {
-        "item_id": 688,
-        "posts_to_collect": 1
+        "item_id": 695,
+        "collected_quantity": 1
       },
       {
-        "item_id": 692,
-        "posts_to_collect": 1
+        "item_id": 696,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 703,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 93,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 699,
+        "collected_quantity": 1
       }
     ],
     "spawns": {
@@ -384,7 +396,28 @@
         "poi_image": "https://cdn.zero.eu/uploads/2016/08/fiera_santo_spirito.jpg"
       }
     ],
-    "forageable_items": [],
+    "forageable_items": [
+      {
+        "item_id": 688,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 691,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 695,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 689,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 467,
+        "collected_quantity": 1
+      }
+    ],
     "spawns": {
       "common": [
         919,
@@ -613,7 +646,32 @@
         "shop_data": null
       }
     ],
-    "forageable_items": [],
+    "forageable_items": [
+      {
+        "item_id": 688,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 691,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 694,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 692,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 690,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 467,
+        "collected_quantity": 1
+      }
+    ],
     "spawns": {
       "common": [
         163,
