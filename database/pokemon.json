@@ -231903,10 +231903,10 @@
   },
   {
     "id": 10092,
-    "name": "Hatenna",
-    "base_form": true,
-    "form_of": null,
-    "form_type": null,
+    "name": "Seirian Hatenna",
+    "base_form": false,
+    "form_of": 856,
+    "form_type": "regional",
     "types": [
       "Psychic"
     ],
@@ -231943,6 +231943,18 @@
     "dex_entry": "A ponta em sua cabeça sente as emoções de outras criaturas. Se você não for calmo, ela jamais vai se aproximar de você.",
     "classification": "Pokémon Calmo",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Hattrem",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 32
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -232047,26 +232059,14 @@
       "Mystical fire",
       "Aromatic mist",
       "Nuzzle"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Hattrem",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 32
-          }
-        ]
-      }
     ]
   },
   {
     "id": 10093,
-    "name": "Hattrem",
-    "base_form": true,
-    "form_of": null,
-    "form_type": null,
+    "name": "Seirian Hattrem",
+    "base_form": false,
+    "form_of": 857,
+    "form_type": "regional",
     "types": [
       "Psychic"
     ],
@@ -232103,6 +232103,18 @@
     "dex_entry": "Não importa quem você seja — se trouxer emoções fortes perto dela, será silenciado de forma violenta.",
     "classification": "Pokémon Sereno",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Hatterene",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 42
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -232212,26 +232224,14 @@
       "Mystical fire",
       "Aromatic mist",
       "Nuzzle"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Hatterene",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 42
-          }
-        ]
-      }
     ]
   },
   {
     "id": 10094,
-    "name": "Hatterene",
-    "base_form": true,
-    "form_of": null,
-    "form_type": null,
+    "name": "Seirian Hatterene",
+    "base_form": false,
+    "form_of": 858,
+    "form_type": "regional",
     "types": [
       "Psychic",
       "Fairy"
@@ -232269,6 +232269,7 @@
     "dex_entry": "Ela emite um poder psíquico tão intenso que causa dores de cabeça, servindo como aviso para manter distância.",
     "classification": "Pokémon Silencioso",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -232402,8 +232403,7 @@
       "Mystical fire",
       "Aromatic mist",
       "Nuzzle"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 10501,
