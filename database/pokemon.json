@@ -234291,50 +234291,6 @@
     "evolves_to": []
   },
   {
-    "id": 10554,
-    "name": "Mega Seirian Lopunny",
-    "base_form": false,
-    "form_of": 10083,
-    "form_type": "mega",
-    "types": [
-      "Fairy",
-      "Ice"
-    ],
-    "abilities": {
-      "normal": [
-        "Cute charm",
-        "Klutz"
-      ],
-      "hidden": [
-        "Limber"
-      ],
-      "exotic": [
-        "Fur coat"
-      ]
-    },
-    "base_experience": 168,
-    "stats": {
-      "hp": 65,
-      "attack": 76,
-      "defense": 84,
-      "special_attack": 54,
-      "special_defense": 96,
-      "speed": 105
-    },
-    "artwork": "https://i.imgur.com/pUK9NIt.png",
-    "height": 1.2,
-    "weight": 33.3,
-    "dex_entry": "Lopunny está constantemente atento ao ambiente ao seu redor. Se o perigo se aproxima, responde com chutes altamente destrutivos.",
-    "classification": "Pokémon Coelho",
-    "held_items": [],
-    "is_starter": false,
-    "in_seira_pokedex": false,
-    "rarity": "comum",
-    "is_producer": false,
-    "production": [],
-    "evolves_to": []
-  },
-  {
     "id": 11001,
     "name": "Gigamax Venusaur",
     "base_form": false,
