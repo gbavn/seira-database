@@ -301,11 +301,11 @@
         "id": "VibeDome",
         "name": "Estúdio V!be Dome",
         "type": "other",
-        "description": "O V!be Dome é a arena mais famosa de Seira, onde batalhas Pokémon se transformam em performances coreografadas. Telas holográficas, luzes pulsantes e plateias digitais criam uma experiência imersiva, e muitos ídolos locais começaram suas carreiras como treinadores nesse palco icônico.\nÉ possível reservar uma data e realizar uma performance no palco do V!be Dome por mês. É cobrado a taxa de $4.000 para manutenção do espaço e remunerar equipe técnica. Performances artísticas rendem +20 de Fama.",
+        "description": "O V!be Dome é a arena mais famosa de Seira, onde batalhas Pokémon se transformam em performances coreografadas. Telas holográficas, luzes pulsantes e plateias digitais criam uma experiência imersiva, e muitos ídolos locais começaram suas carreiras como treinadores nesse palco icônico.\nÉ possível reservar uma data e realizar uma performance no palco do V!be Dome por mês, por uma taxa fixa de manutenção.",
         "forum_link": "",
         "shop_data": null,
         "custom_effect": "(Requer 100 de Fama e Nível 3 de Treinador)",
-        "poi_image": "https://i.imgur.com/aytLyVZ.jpeg"
+        "poi_image": "https://i.imgur.com/7oZqSAi.jpeg"
       },
       {
         "id": "GymElectric",
