@@ -732,7 +732,8 @@
     },
     "interaction_objects": [
       "apricorn-tree-01",
-      "BerryTree"
+      "BerryTree",
+      "FishLake"
     ],
     "accesses": {
       "south": {
