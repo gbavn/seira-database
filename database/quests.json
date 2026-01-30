@@ -984,5 +984,126 @@
     "status": "available",
     "repeatable": true,
     "cooldown_days": 30
+  },
+  {
+    "id": 23,
+    "name": "Explorando Seira #1",
+    "requester": "Liga Pokémon",
+    "description": "A Liga Pokémon anuncia o início de uma campanha regional de exploração em Seira.\n\nDurante o período do evento, treinadores são convidados a registrar encontros e capturas, contribuindo para a ampliação dos registros oficiais da região. Essa é uma iniciativa coletiva, e o progresso será acompanhado globalmente.",
+    "quest_type": "global",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "10 Pokémon capturados",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 1000,
+      "fame": 0,
+      "character_exp": 0,
+      "items": [],
+      "pokemon": [],
+      "custom": [
+        "Liberação da Rota 01 + Nova Cidade"
+      ]
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 24,
+    "name": "Explorando Seira #2",
+    "requester": "Liga Pokémon",
+    "description": "A Liga Pokémon anuncia o início de uma campanha regional de exploração em Seira.\n\nDurante o período do evento, treinadores são convidados a registrar encontros e capturas, contribuindo para a ampliação dos registros oficiais da região. Essa é uma iniciativa coletiva, e o progresso será acompanhado globalmente.",
+    "quest_type": "global",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "20 Pokémon capturados",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [
+        23
+      ],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 2000,
+      "fame": 0,
+      "character_exp": 0,
+      "items": [],
+      "pokemon": [],
+      "custom": [
+        "Liberação da Rota 03 + Nova Cidade"
+      ]
+    },
+    "status": "locked",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 25,
+    "name": "Explorando Seira #3",
+    "requester": "Liga Pokémon",
+    "description": "A Liga Pokémon anuncia o início de uma campanha regional de exploração em Seira.\n\nDurante o período do evento, treinadores são convidados a registrar encontros e capturas, contribuindo para a ampliação dos registros oficiais da região. Essa é uma iniciativa coletiva, e o progresso será acompanhado globalmente.",
+    "quest_type": "global",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "30 Pokémon capturados",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [
+        24
+      ],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 5000,
+      "fame": 0,
+      "character_exp": 0,
+      "items": [],
+      "pokemon": [],
+      "custom": [
+        "Liberação de uma nova Landmark"
+      ]
+    },
+    "status": "locked",
+    "repeatable": false,
+    "cooldown_days": 0
   }
 ]
