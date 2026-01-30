@@ -290,7 +290,7 @@
     },
     {
       "id": "avaliacao_de_reliquias",
-      "nome": "Avaliação de Relíquias",
+      "nome": "Avaliação de Relíquias (Inativa)",
       "icone": "jeweled-chalice",
       "descricao_curta": "Aumenta em +40% o valor de venda de relíquias e itens raros.",
       "descricao_completa": "Artefatos antigos e itens raros guardam histórias e valor. Pesquisadores e exploradores desenvolvem olhar atento para autenticidade, desgaste, brilho e detalhes que muitos deixariam passar. Saber identificar uma peça legítima de uma imitação pode ser a diferença entre um negócio comum e uma venda excepcional. Com essa perícia, relíquias, pérolas, Nuggets, Comet Shards e itens semelhantes podem ser vendidos com <b>+40% de valor adicional</b>, garantindo sempre o melhor retorno possível."
