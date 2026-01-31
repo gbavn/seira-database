@@ -1812,5 +1812,138 @@
     "status": "available",
     "repeatable": false,
     "cooldown_days": 0
+  },
+  {
+    "id": 42,
+    "name": "Vigilância de Vidro",
+    "requester": "Inspetora Lúcia",
+    "description": "A Unidade de Crimes Cibernéticos de Astralton (UCCA) está com um problema difícil de resolver. A Inspetora Lúcia pode ser encontrada perto de uma viatura de luzes azul-vibrante nos níveis superiores da cidade, analisando hologramas de drones desaparecidos.\n\nAlguém está usando Pokémon do tipo Noturno e dispositivos de interferência para derrubar os drones de entrega de luxo que cruzam os arranha-céus. Os pacotes contêm chips de memória da Rede Helix. A polícia não consegue descer aos becos sem causar um alvoroço, então precisam de um \"consultor externo\".\n\nO Desafio é dividido em 3 Etapas:\n\n1) Rastreamento: O jogador deve usar um Pokémon com alta audição ou visão aprimorada (descrita na pokédex) para localizar as frequências de rádio fantasmas entre as passarelas suspensas;\n\n2) Infiltração Discreta: Seguir um sinal até um laboratório independente escondido atrás de um anúncio holográfico de café;\n\n3) Confronto: Uma batalha contra um grupo de 3 Scraggy treinados para o furto.\n\nA Escolha Moral: Ao encontrar os chips, você descobre que o \"criminoso\" é um jovem engenheiro de 16 anos tentando recuperar dados de sua própria pesquisa que a corporação central confiscou ilegalmente. Seu nome é Damian e ele trabalha com a Equipe Códice.",
+    "quest_type": "unica",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Cumprir as ordens da UCCA",
+        "pokemon_sheets": [
+          "<div class=\"tabpokecard\">\n<h2><img src=\"https://www.serebii.net/itemdex/sprites/sv/ultraball.png\"> Scraggy</h2><div class=\"tabpoketop\"><div class=\"tabpokeimage\"><img src=\"https://www.serebii.net/pokemon/art/559.png\"></div><div class=\"tabpokeinfo\"><div class=\"tabpokeinforow\"><span class=\"label\">Espécie</span><span class=\"value\">#559 – Scraggy</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Tipo</span><span class=\"value\">:dark: :fighting:</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Gênero</span><span class=\"value\">Masculino ♂</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Habilidade</span><span class=\"value\">Moxie</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Level</span><span class=\"value\">20 (0/1290)</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Felicidade</span><span class=\"value\">100/255</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Item Equipado</span><span class=\"value\">Nada</span></div><div class=\"tabpokeinforow\"><span class=\"label\">OT</span><span class=\"value\">Damian</span></div>\n</div>\n</div><div class=\"tabpokepart\">\n<h4><i class=\"gmi gmi-polar-star\"></i>Particularidades</h4><div class=\"fitext\">Horda de 3 Scraggy</div></div><div class=\"tabpokebottom\"><div class=\"tabpokesidelabel\"><i class=\"gmi gmi-spell-book\"></i>Traços</div><div class=\"tabpoketraits\"><div class=\"tabpokemoves\"><div class=\"move normal\">Protect</div><div class=\"move dark\">Torment</div><div class=\"move dark\">Payback</div><div class=\"move fighting\">Low Kick</div><div class=\"move normal\">Swagger</div><div class=\"move dark\">Feint Attack</div>\n</div><div class=\"tabpokestatus\"><div class=\"tabpokestat\"><i class=\"gmi gmi-glass-heart\"></i><span class=\"stat-name\">HP</span><span class=\"tabpokestatbase\">50</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-fist\"></i><span class=\"stat-name\">ATQ</span><span class=\"tabpokestatbase\">75</span><span class=\"tabpokestatvalue\"> (+15)</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bordered-shield\"></i><span class=\"stat-name\">DEF</span><span class=\"tabpokestatbase\">70</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-hypersonic-bolt\"></i><span class=\"stat-name\">ATQ ESP.</span><span class=\"tabpokestatbase\">35</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bolt-shield\"></i><span class=\"stat-name\">DEF ESP.</span><span class=\"tabpokestatbase\">70</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-steelwing-emblem\"></i><span class=\"stat-name\">VEL</span><span class=\"tabpokestatbase\">48</span></div>\n</div>\n</div>\n</div>\n</div>"
+        ]
+      }
+    ],
+    "requirements": {
+      "level": 5,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": [
+        "Pokémon com habilidades sonoras ou visuais para captar interferências nas ondas de transmissão."
+      ]
+    },
+    "rewards": {
+      "money": 3000,
+      "fame": 10,
+      "character_exp": 10,
+      "items": [],
+      "pokemon": [],
+      "custom": [
+        "Caso escolha liberar Damian e mentir para a Inspetora, recebe um Códice Pass (Item Especial)."
+      ]
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 43,
+    "name": "O Golpe do Mural Digital",
+    "requester": "O Corretor",
+    "description": "O Problema: Um protótipo de \"I.A. Pokémon\" foi roubado de um laboratório periférico e levado para o cofre de segurança máxima de um Shopping Center Vertical. O Corretor quer que você recupere o Drive de Memória antes que ele seja leiloado no mercado negro corporativo.\n\nO Desafio deve ser dividido em 3 Postagens:\n\n1) Hacking: O jogador deve interagir com o Mural para baixar um vírus de desativação de câmeras. Isso exige um Pokémon do tipo Elétrico ou Psíquico para \"injetar\" o código no terminal. Algum NPC Genérico (sortear) tentará lhe impedir.\n\n2) A Escala: Usar os elevadores externos de vidro para subir pelo lado de fora do arranha-céu, evitando os drones de patrulha.\n\n3) O Roubo: Dentro do cofre, o jogador enfrenta um sistema de segurança automatizado com 5 Beldum.\n\nApós cumprir os 3 Posts você conseguirá reaver o que foi roubado. Reviravolta: O Drive não contém uma I.A., mas sim evidências de que a corporação está poluindo o rio subterrâneo de Astralton. Entregue para O Corretor e ganhe uma Dusk Stone e perca 10 de Fama, sujando seu nome. Entregue para a Inspetora Lúcia e ganhe o dobro de Fama e de Dinheiro.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Resolva o roubo do drive.",
+        "pokemon_sheets": [
+          "<div class=\"tabpokecard\">\n<h2><img src=\"https://www.serebii.net/itemdex/sprites/sv//luxuryball.png\"> Beldum</h2><div class=\"tabpoketop\"><div class=\"tabpokeimage\"><img src=\"https://www.serebii.net/pokemon/art/374.png\"></div><div class=\"tabpokeinfo\"><div class=\"tabpokeinforow\"><span class=\"label\">Espécie</span><span class=\"value\">#374 – Beldum</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Tipo</span><span class=\"value\">:steel: :psychic:</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Gênero</span><span class=\"value\">Masculino ♂</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Habilidade</span><span class=\"value\">Clear Body</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Level</span><span class=\"value\">20 (0/1290)</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Felicidade</span><span class=\"value\">70/255</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Item Equipado</span><span class=\"value\">Nada</span></div><div class=\"tabpokeinforow\"><span class=\"label\">OT</span><span class=\"value\">Shopping Vertical</span></div>\n</div>\n</div><div class=\"tabpokepart\">\n<h4><i class=\"gmi gmi-polar-star\"></i>Particularidades</h4><div class=\"fitext\">Horda de 5.</div></div><div class=\"tabpokebottom\"><div class=\"tabpokesidelabel\"><i class=\"gmi gmi-spell-book\"></i>Traços</div><div class=\"tabpoketraits\"><div class=\"tabpokemoves\"><div class=\"move normal\">Tackle</div><div class=\"move normal\">Take Down</div><div class=\"move psychic\">Zen Headbutt (TM)</div><div class=\"move steel\">Iron Head (TM)</div><div class=\"move\">vazio</div><div class=\"move\">vazio</div>\n</div><div class=\"tabpokestatus\"><div class=\"tabpokestat\"><i class=\"gmi gmi-glass-heart\"></i><span class=\"stat-name\">HP</span><span class=\"tabpokestatbase\">40</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-fist\"></i><span class=\"stat-name\">ATQ</span><span class=\"tabpokestatbase\">55</span><span class=\"tabpokestatvalue\"> (+15)</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bordered-shield\"></i><span class=\"stat-name\">DEF</span><span class=\"tabpokestatbase\">80</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-hypersonic-bolt\"></i><span class=\"stat-name\">ATQ ESP.</span><span class=\"tabpokestatbase\">35</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bolt-shield\"></i><span class=\"stat-name\">DEF ESP.</span><span class=\"tabpokestatbase\">60</span><span class=\"tabpokestatvalue\"> (+20)</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-steelwing-emblem\"></i><span class=\"stat-name\">VEL</span><span class=\"tabpokestatbase\">30</span></div>\n</div>\n</div>\n</div>\n</div>"
+        ]
+      }
+    ],
+    "requirements": {
+      "level": 3,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": [
+        "Mínimo de 50 de Fama."
+      ]
+    },
+    "rewards": {
+      "money": 2500,
+      "fame": 10,
+      "character_exp": 8,
+      "items": [
+        {
+          "item_id": 104,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 44,
+    "name": "O Brilho que não deveria Existir",
+    "requester": "Dr. Cosmo Orion",
+    "description": "Ao visitar o observatório, você encontra o Dr. Orion frustrado (Um astrônomo veterano que prefere a companhia das estrelas à das pessoas, sempre ajustando seus óculos de grau grosso), chutando levemente a base de uma das cúpulas retráteis.\n\nDr. Orion: \"Impossível! A Rede Helix deveria filtrar a poluição luminosa de Astralton, mas há um sinal... uma 'estrela' que se move em um padrão geométrico perfeito sobre o Beco dos Hackers. Isso não é um corpo celeste, é um intruso digital!\"\n\nCom instrução do Dr. Orion você consegue usar os consoles do observatório para alinhar três telescópios principais. Uma vez focado, o objeto se revela como um Porygon-Z. Ao subir até a plataforma móvel externa, suspensa sobre o abismo da cidade, para confrontar o Pokémon, você descobre que ele está usando as superfícies de vidro dos arranha-céus para refletir sinais e criar uma \"constelação falsa\" que está confundindo os sistemas de navegação dos drones de Astralton, na simples intenção de prejudicar o espaço aéreo destinado aos artefatos da Rede Helix. Quando derrotado ele irá sumir pelas redes digitais.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Derrote o Intruso Digital.",
+        "pokemon_sheets": [
+          "<div class=\"tabpokecard\">\n<h2><img src=\"https://www.serebii.net/itemdex/sprites/sv//dreamball.png\"> Porygon-Z</h2><div class=\"tabpoketop\"><div class=\"tabpokeimage\"><img src=\"https://www.serebii.net/pokemon/art/474.png\"></div><div class=\"tabpokeinfo\"><div class=\"tabpokeinforow\"><span class=\"label\">Espécie</span><span class=\"value\">#474 – Porygon-Z</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Tipo</span><span class=\"value\">:normal:</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Gênero</span><span class=\"value\">Sem Gênero </span></div><div class=\"tabpokeinforow\"><span class=\"label\">Habilidade</span><span class=\"value\">Analytic</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Level</span><span class=\"value\">30 (0/2906)</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Felicidade</span><span class=\"value\">120/255</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Item Equipado</span><span class=\"value\">Nada</span></div><div class=\"tabpokeinforow\"><span class=\"label\">OT</span><span class=\"value\">Damian</span></div>\n</div>\n</div><div class=\"tabpokepart\">\n<h4><i class=\"gmi gmi-polar-star\"></i>Particularidades</h4><div class=\"fitext\"> </div></div><div class=\"tabpokebottom\"><div class=\"tabpokesidelabel\"><i class=\"gmi gmi-spell-book\"></i>Traços</div><div class=\"tabpoketraits\"><div class=\"tabpokemoves\"><div class=\"move electric\">Thunderbolt</div><div class=\"move bug\">Signal Beam</div><div class=\"move electric\">Magnet Rise</div><div class=\"move normal\">Recover</div><div class=\"move normal\">Conversion</div><div class=\"move normal\">Tri Attack</div>\n</div><div class=\"tabpokestatus\"><div class=\"tabpokestat\"><i class=\"gmi gmi-glass-heart\"></i><span class=\"stat-name\">HP</span><span class=\"tabpokestatbase\">85</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-fist\"></i><span class=\"stat-name\">ATQ</span><span class=\"tabpokestatbase\">80</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bordered-shield\"></i><span class=\"stat-name\">DEF</span><span class=\"tabpokestatbase\">70</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-hypersonic-bolt\"></i><span class=\"stat-name\">ATQ ESP.</span><span class=\"tabpokestatbase\">135</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bolt-shield\"></i><span class=\"stat-name\">DEF ESP.</span><span class=\"tabpokestatbase\">75</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-steelwing-emblem\"></i><span class=\"stat-name\">VEL</span><span class=\"tabpokestatbase\">90</span></div>\n</div>\n</div>\n</div>\n</div>"
+        ]
+      }
+    ],
+    "requirements": {
+      "level": 4,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 5,
+      "character_exp": 5,
+      "items": [
+        {
+          "item_id": 90,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
   }
 ]
