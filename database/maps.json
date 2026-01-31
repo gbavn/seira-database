@@ -1008,7 +1008,10 @@
       ],
       "based_on": "Gwangmyeong Cave (Coreia do Sul), Naica Mine (México) e na Ikuno Silver Mine (Japão)"
     },
-    "quest_ids": [],
+    "quest_ids": [
+      47,
+      48
+    ],
     "points_of_interest": [
       {
         "id": "MineEntrance",
