@@ -1701,8 +1701,23 @@
       "economy": [],
       "based_on": ""
     },
-    "quest_ids": [],
-    "points_of_interest": [],
+    "quest_ids": [
+      49
+    ],
+    "points_of_interest": [
+      {
+        "id": "poi-1769883625729",
+        "name": "Lago Veldhavn",
+        "type": "other",
+        "description": "O reflexo do lago da Rota 01 às vezes mostra \"sombras de cidades que ainda não foram construídas\", uma lenda urbana que circula entre os pesquisadores de Veldhavn.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "poi_image": "",
+        "custom_effect": [],
+        "shop_data": null
+      }
+    ],
     "forageable_items": [
       {
         "item_id": 688,
