@@ -1105,5 +1105,180 @@
     "status": "locked",
     "repeatable": false,
     "cooldown_days": 0
+  },
+  {
+    "id": 26,
+    "name": "A Bruxa da Rota 06: Lenda Urbana",
+    "requester": "Campista Josh",
+    "description": "Ao chegar no acampamento da Rota 06 à noite, você verá diversos campistas sentados ao redor de uma fogueira. A música alegre que preenchia a rota fica mais baixa e é substituída pelo som do fogo crepitando e Pokémon inseto cantando. Ao se aproximar, será convidado a se juntar. O grupo está em silêncio, ouvindo atentamente um homem mais velho com uma lanterna no rosto:\n\"...E dizem que ela só aparece quando a névoa que vem de Astralton sobe. Primeiro, você sente o cheiro. Não é cheiro de Koffing, é pior. Cheiro de Fruta Nanab podre misturada com lodo velho. Depois, você ouve o borbulhar do caldeirão dela... Bloop. Bloop. Dizem que a 'Bruxa da Rota 6' era uma antiga treinadora que se perdeu na floresta e enlouqueceu, e agora ela captura Pokémon perdidos para fazer suas poções fedorentas. Se você vir uma figura encapuzada no meio da neblina... corra para o lado oposto.\"\nAo findar da história, alguns campistas riem e afirmam se tratar apenas de uma lenda urbana. No entanto, um campista está incomodado. Ao conversar com ele, descobrirá que ele viu a bruxa, mas os colegas acham que ele é um mentiroso ou que está louco. Ele quer ajuda para provar que ela é real e está disposto a todos os cogumelos que encontrou se você conseguir retornar com uma prova de que ela é real.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Ouvir e aceitar a missão do Campista Josh",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": [
+        "Visitar o acampamento durante o período da noite."
+      ]
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 0,
+      "character_exp": 3,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 27,
+    "name": "A Bruxa da Rota 06: Investigação",
+    "requester": "Campista Josh",
+    "description": "Pista 1: A Vegetação Morta\nLocalização: Na borda da estrada principal, onde o caminho de terra começa a entrar na floresta.\nDescrição Visual: Uma mancha circular de grama completamente murcha e enegrecida, destoando do resto da rota verde.\nAo interagir: \"A grama aqui morreu recentemente. Há um resíduo roxo e pegajoso no solo. Cheira a produtos químicos baratos e esgoto.\"\n\nPista 2: O Totem Estranho\nLocalização: Mais profundamente na floresta, fora do caminho principal, perto de algumas árvores grandes.\nDescrição Visual: Um \"totem\" rudimentar feito de galhos retorcidos amarrados com vinhas sujas. Pendurado nele está uma Fruta Oran mordida e podre.\nAo interagir: \"Uma estrutura bizarra feita de gravetos e lixo. Parece um aviso territorial... ou um ingrediente deixado para curar.\"\n\nPista 3: O Frasco Perdido\nLocalização: Perto de um pequeno riacho lamacento.\nDescrição Visual: Um objeto brilhante meio enterrado na lama.\nAo interagir: \"Você encontrou um 'Frasco Fedorento'. É uma cabaça oca, tampada com uma rolha de musgo. O líquido dentro já secou, mas o cheiro que sai dele faz seus olhos lacrimejarem. Definitivamente é o cheiro que Josh descreveu.\"\n\n\nApós encontrar a terceira pista / terceiro post:\nO cheiro horrível fica mais forte. Seguindo o rastro do odor, você percebe uma trilha estreita entre arbustos espinhosos que você não tinha notado antes. No final da trilha, há uma pequena construção.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Realizar 3 Postagens de RP explorando o cenário da Rota 06 para encontrar a localização final.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [
+        26
+      ],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 0,
+      "character_exp": 3,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 28,
+    "name": "A Casa da Bruxa da Rota 06",
+    "requester": "Campista Josh",
+    "description": "Você chega a um pequeno casebre feito de madeira podre e chapas de metal enferrujado, escondido em uma clareira escura. Fumaça roxa sai de uma chaminé torta. Ao tentar entrar você percebe que a porta está trancada, mas a madeira está tão podre que com um empurrão, ela cede. Dentro do casebre é escuro, iluminado apenas por um caldeirão borbulhante no centro que emite o cheiro insuportável. Há pilhas de \"ingredientes\" (lixo, frutas podres, latas velhas) pelos cantos. De trás do caldeirão, uma figura se levanta. Ela é alta, coberta por uma capa de trapos de aniagem que esconde sua forma, deixando apenas uma silhueta corcunda visível na fumaça.\nA figura misteriosa ataca!\nNo segundo turno os trapos caem, revelando que não era uma bruxa humana, mas sim um Pokémon muito territorial e sujo que estava \"cozinhando\" seu jantar de lixo! Um Garbodor!",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Derrotar a Lenda Urbana.",
+        "pokemon_sheets": [
+          "<div class=\"tabpokecard\">\n<h2><img src=\"https://www.serebii.net/itemdex/sprites/sv//duskball.png\"> Garbodor</h2><div class=\"tabpoketop\"><div class=\"tabpokeimage\"><img src=\"https://www.serebii.net/pokemon/art/569.png\"></div><div class=\"tabpokeinfo\"><div class=\"tabpokeinforow\"><span class=\"label\">Espécie</span><span class=\"value\">#569 – Garbodor</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Tipo</span><span class=\"value\">:poison:</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Gênero</span><span class=\"value\">Feminino</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Habilidade</span><span class=\"value\">Stench</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Level</span><span class=\"value\">25 (0/2017)</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Felicidade</span><span class=\"value\">170/255</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Item Equipado</span><span class=\"value\">Black Sludge</span></div><div class=\"tabpokeinforow\"><span class=\"label\">OT</span><span class=\"value\">Bruxa da Rota 06</span></div>\n</div>\n</div><div class=\"tabpokepart\">\n<h4><i class=\"gmi gmi-polar-star\"></i>Particularidades</h4><div class=\"fitext\">O cheiro é tão forte que pode causar Flinch no primeiro turno do seu Pokémon (50%).</div></div><div class=\"tabpokebottom\"><div class=\"tabpokesidelabel\"><i class=\"gmi gmi-spell-book\"></i>Traços</div><div class=\"tabpoketraits\"><div class=\"tabpokemoves\"><div class=\"move poison\">Sludge</div><div class=\"move normal\">Double Slap</div><div class=\"move normal\">Stockpile</div><div class=\"move normal\">Swallow</div><div class=\"move normal\">Take Down</div><div class=\"move poison\">Toxic (TM)</div>\n</div><div class=\"tabpokestatus\"><div class=\"tabpokestat\"><i class=\"gmi gmi-glass-heart\"></i><span class=\"stat-name\">HP</span><span class=\"tabpokestatbase\">80</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-fist\"></i><span class=\"stat-name\">ATQ</span><span class=\"tabpokestatbase\">95</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bordered-shield\"></i><span class=\"stat-name\">DEF</span><span class=\"tabpokestatbase\">82</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-hypersonic-bolt\"></i><span class=\"stat-name\">ATQ ESP.</span><span class=\"tabpokestatbase\">60</span><span class=\"tabpokestatvalue\"> (+15)</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bolt-shield\"></i><span class=\"stat-name\">DEF ESP.</span><span class=\"tabpokestatbase\">82</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-steelwing-emblem\"></i><span class=\"stat-name\">VEL</span><span class=\"tabpokestatbase\">75</span></div>\n</div>\n</div>\n</div>\n</div>"
+        ]
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [
+        26,
+        27
+      ],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 5,
+      "character_exp": 5,
+      "items": [
+        {
+          "item_id": 242,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 29,
+    "name": "A Bruxa da Rota 06: Evidências",
+    "requester": "Campista Josh",
+    "description": "Ao retornar ao acampamento da Rota 06. Josh ainda está acordado, roendo as unhas. Ao se aproximar, ele fica empolgado querendo saber se conseguiu as provas da existência da bruxa.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Explicar a Lenda Urbana para Josh.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [
+        26,
+        27,
+        28
+      ],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 10,
+      "character_exp": 3,
+      "items": [
+        {
+          "item_id": 26,
+          "quantity": 3
+        },
+        {
+          "item_id": 86,
+          "quantity": 10
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
   }
 ]
