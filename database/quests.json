@@ -1583,7 +1583,7 @@
   {
     "id": 37,
     "name": "A Grande Obra do Mestre Artesão: Parte 4",
-    "requester": "",
+    "requester": "Mestre Silas",
     "description": "Névoa Floral: Encontrada nos jardins comunitários.",
     "quest_type": "comum",
     "assigned_character": "",
@@ -1661,6 +1661,105 @@
         {
           "item_id": 757,
           "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 39,
+    "name": "A Revolta dos Moinhos Uivantes",
+    "requester": "Seu Arnaldo",
+    "description": "O moinho de vento mais antigo e importante da Rota 04 começou a girar descontroladamente na direção oposta ao vento, emitindo um som metálico horrível que está estressando os Pokémon de rebanho locais. O fazendeiro responsável acredita que é interferência das novas torres de transmissão de Hyperia, mas a verdade é mais travessa.\n\nVocê encontra Seu Arnaldo, um fazendeiro idoso, de chapéu de palha amassado e braços cruzados, olhando feio para o moinho barulhento.\n\n\"Olha só essa bagunça! Cem anos esse moinho mói nosso trigo na paz de Arceus. Aí, aquelas luzes chiques de Hyperia começam a piscar lá embaixo e, de repente, meu moinho vira uma máquina de tortura! O vento tá vindo do norte, mas as pás tão girando pro sul! Meus Wooloo não produzem boa lã desse jeito. Ei, jovem! Você tem cara de quem entende dessas 'modernidades'. Vá lá dentro e veja se desliga o que quer que esteja causando essa barreira de som, antes que eu marrete a estrutura toda!\"\n\nAo entrar no moinho o interior é rústico, cheio de engrenagens de madeira gigantes e o cheiro de grãos moídos. O barulho é ensurdecedor por dentro.\n\nPista 1 (Térreo): O personagem encontra marcas de chamuscado perto do eixo principal da engrenagem. Ao interagir: \"Cheira a ozônio e madeira queimada. Algo elétrico passou por aqui recentemente.\"\n\nPista 2 (Primeiro Andar): O personagem deve subir uma escada de mão. Lá em cima, perto do mecanismo que gira as pás, há peças metálicas presas na graxa das engrenagens. \n\nAo chegar no topo, onde fica o gerador antigo que converte o vento em energia para a fazenda, o jogador encontra o problema. Uma horda de 5 Magnemite invadiram o local e estão criando seu próprio campo magnético. Derrote os selvagens e dê a boa notícia a Seu Arnaldo.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Investigar a causa do mau funcionamento do Moinho Central e corrigir o erro.",
+        "pokemon_sheets": [
+          "Derrotar Horda de 5 Magnemite | Lv. 15 (cada)"
+        ]
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 6,
+      "character_exp": 6,
+      "items": [
+        {
+          "item_id": 33,
+          "quantity": 10
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 40,
+    "name": "Rodeio Dourado",
+    "requester": "McDonnies",
+    "description": "Os McDonnies organizam seu rodeio anual para celebrar a colheita do trigo. Não é uma batalha Pokémon tradicional; é um teste de coragem entre o treinador, seu parceiro Tauros e o \"Campeão da Arena\". Eles enfrentarão o lendário \"Tornado\", um Bouffalant imenso, com status de HP e Defesa aumentados para a competição. \n\nO Objetivo não é nocautear o Bouffalant. O objetivo é sobreviver por 8 turnos sem que o seu Tauros seja nocauteado. Tornado é impossível de capturar e, se seu HP chegar a zero, ele apenas se acalma e a prova termina com a vitória do desafiante.\n\nOS DADOS: A imprevisibilidade do rodeio é representada pelo d10. No início de cada turno do oponente (Tornado, o Bouffalant) rola 1d10 para determinar o comportamento da fera.\n\nRoll 1-6: \"Bufada Tensa\" (Nenhuma Ação Ofensiva)\nNarrativa: Tornado bate o casco no chão, encara a multidão ou tenta se livrar da sela, mas não foca no seu Tauros.\nEfeito: O Bouffalant usa um movimento de status inofensivo (Scary Face ou Cotton Guard) ou simplesmente \"perde o turno\" devido à frustração. É o momento para o jogador curar seu Tauros ou usar buffs.\nGrito do Capataz: \"Ele tá só fazendo pose! Aproveita pra respirar, vaqueiro!\"\n\nRoll 7-9: \"Investida Padrão\" (Uma Ação)\nNarrativa: Tornado abaixa a cabeça e avança com força controlada.\nEfeito: O Bouffalant usa UM movimento de ataque físico padrão do seu arsenal (Horn Attack ou Stomp).\nGrito do Capataz: \"Segura a rédea! Aí vem o tranco!\"\n\nRoll 10: \"Fúria do Campeão\" (Duas Ações - O Momento Crítico)\nNarrativa: A multidão grita enquanto Tornado perde o controle completamente, desferindo uma sequência brutal de golpes.\nEfeito: O Bouffalant executa DOIS movimentos de ataque seguidos no mesmo turno. Geralmente, seus golpes mais fortes (Mega Horn e Wild Charge). Se o seu Tauros sobreviver a isso, a multidão vai à loucura.\nGrito do Capataz: \"PELA MÃE DOS MILTANKS! ELE TÁ DESCONTROLADO! AGUENTA FIRME!\"\n\nRegras Adicionais do Rodeio\nRestrição de Itens: O jogador só pode usar 2 itens de cura durante toda a prova de 8 turnos. O rodeio é sobre a resistência do Pokémon, não sobre o estoque de itens do treinador.\nBônus de \"Estilo\" (Opcional): Se o jogador usar movimentos que aumentam seus próprios status ou causam confusão/intimidação no oponente (ex: Work Up, Swagger, Scary Face) em vez de apenas atacar, ele ganha 1 \"Ponto de Estilo\" por cada movimento. Se sobreviver ao Round 10 (Fúria), ele também ganha 2 Pontos de Estilo.\nEfeito: Se terminar a prova com 10 Pontos de Estilo, a recompensa em dinheiro é dobrada.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Aguentar o Rodeio Dourado por 8 Turnos",
+        "pokemon_sheets": [
+          "<div class=\"tabpokecard\">\n<h2><img src=\"https://www.serebii.net/itemdex/sprites/sv/heavyball.png\"> Bouffalant</h2><div class=\"tabpoketop\"><div class=\"tabpokeimage\"><img src=\"https://www.serebii.net/pokemon/art/626.png\"></div><div class=\"tabpokeinfo\"><div class=\"tabpokeinforow\"><span class=\"label\">Espécie</span><span class=\"value\">#626 – Bouffalant</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Tipo</span><span class=\"value\">:normal:</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Gênero</span><span class=\"value\">Masculino ♂</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Habilidade</span><span class=\"value\">Reckless</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Level</span><span class=\"value\">30 (0/2906)</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Felicidade</span><span class=\"value\">255/255</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Item Equipado</span><span class=\"value\">Nenhum</span></div><div class=\"tabpokeinforow\"><span class=\"label\">OT</span><span class=\"value\">McDonnie</span></div>\n</div>\n</div><div class=\"tabpokepart\">\n<h4><i class=\"gmi gmi-polar-star\"></i>Particularidades</h4><div class=\"fitext\">Bruto.</div></div><div class=\"tabpokebottom\"><div class=\"tabpokesidelabel\"><i class=\"gmi gmi-spell-book\"></i>Traços</div><div class=\"tabpoketraits\"><div class=\"tabpokemoves\"><div class=\"move normal\">Stomp (EM)</div><div class=\"move normal\">Scary Face</div><div class=\"move normal\">Horn Attack</div><div class=\"move grass\">Cotton Guard (EM)</div><div class=\"move bug\">Megahorn</div><div class=\"move electric\">Wild Charge (TM)</div>\n</div><div class=\"tabpokestatus\"><div class=\"tabpokestat\"><i class=\"gmi gmi-glass-heart\"></i><span class=\"stat-name\">HP</span><span class=\"tabpokestatbase\">95</span><span class=\"tabpokestatvalue\"> (+35)</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-fist\"></i><span class=\"stat-name\">ATQ</span><span class=\"tabpokestatbase\">110</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bordered-shield\"></i><span class=\"stat-name\">DEF</span><span class=\"tabpokestatbase\">95</span><span class=\"tabpokestatvalue\"> (+35)</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-hypersonic-bolt\"></i><span class=\"stat-name\">ATQ ESP.</span><span class=\"tabpokestatbase\">40</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bolt-shield\"></i><span class=\"stat-name\">DEF ESP.</span><span class=\"tabpokestatbase\">95</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-steelwing-emblem\"></i><span class=\"stat-name\">VEL</span><span class=\"tabpokestatbase\">55</span></div>\n</div>\n</div>\n</div>\n</div>"
+        ]
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [],
+      "pokemon": [
+        {
+          "pokemon_id": 128,
+          "min_level": 1
+        },
+        {
+          "pokemon_id": 10054,
+          "min_level": 1
+        }
+      ],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": [
+        "Caso falhe, pode tentar novamente pagando $500 pela inscrição."
+      ]
+    },
+    "rewards": {
+      "money": 5000,
+      "fame": 10,
+      "character_exp": 3,
+      "items": [
+        {
+          "item_id": 33,
+          "quantity": 6
         }
       ],
       "pokemon": [],
