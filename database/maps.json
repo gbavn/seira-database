@@ -646,7 +646,10 @@
       ],
       "based_on": "Hokkaido, Japão"
     },
-    "quest_ids": [],
+    "quest_ids": [
+      30,
+      34
+    ],
     "points_of_interest": [
       {
         "id": "GymGhost",
@@ -767,7 +770,10 @@
       "economy": [],
       "based_on": ""
     },
-    "quest_ids": [],
+    "quest_ids": [
+      39,
+      40
+    ],
     "points_of_interest": [
       {
         "id": "MiniFarm",
@@ -789,35 +795,35 @@
     "forageable_items": [
       {
         "item_id": 94,
-        "collected_quantity": 1
+        "collected_quantity": 2
       },
       {
         "item_id": 691,
-        "collected_quantity": 1
+        "collected_quantity": 2
       },
       {
         "item_id": 692,
-        "collected_quantity": 1
+        "collected_quantity": 4
       },
       {
         "item_id": 695,
-        "collected_quantity": 1
+        "collected_quantity": 4
       },
       {
         "item_id": 696,
-        "collected_quantity": 1
+        "collected_quantity": 4
       },
       {
         "item_id": 697,
-        "collected_quantity": 1
+        "collected_quantity": 4
       },
       {
         "item_id": 689,
-        "collected_quantity": 1
+        "collected_quantity": 6
       },
       {
         "item_id": 466,
-        "collected_quantity": 1
+        "collected_quantity": 6
       }
     ],
     "spawns": {
