@@ -1280,5 +1280,184 @@
     "status": "available",
     "repeatable": false,
     "cooldown_days": 0
+  },
+  {
+    "id": 30,
+    "name": "O Último Suspiro de Elias: Parte 1",
+    "requester": "Delegado Reese",
+    "description": "A cidade está abalada. Elias Thorne, o historiador local conhecido por tentar mapear os limites seguros da Floresta das Almas Perdidas, foi encontrado morto na fronteira entre a cidade e a mata. Não há marcas de violência física, mas seu rosto está congelado em uma expressão de terror absoluto. As autoridades locais estão com medo de investigar muito profundamente, temendo que o \"assassino\" não seja deste mundo.\nO chefe da guarda local (um homem prático, negro, alto, forte, cabelo corte militar) está fora de sua zona de conforto lidando com algo que suas armas não podem ferir. Ele está desesperado por ajuda externa.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Investigar o local onde o corpo foi encontrado, na orla da floresta. O Pokémon Psíquico ou Fantasma notará um \"resíduo ectoplasmático\" frio no chão e pegadas que não afundam na lama, indo em direção à floresta.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 3,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": [
+        "Pokémon Psíquico ou Fantasma na Equipe."
+      ]
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 0,
+      "character_exp": 3,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 31,
+    "name": "O Último Suspiro de Elias: Parte 2",
+    "requester": "Delegado Reese",
+    "description": "Na noite seguinte, você poderá visitar a casa do falecido Elias com seu Pokémon Psíquico ou Fantasma.\nO espírito de Elias aparece. Ele não pode falar, é apenas uma sombra angustiada. Ele aponta freneticamente para sua estante de livros vazia e depois para a floresta. Você descobrirá (de alguma forma) que alguém roubou seu \"Diário de Mapeamento\" antes de ele morrer, e sua alma não pode descansar sem ele, correndo o risco de ser puxada para a Floresta das Almas Perdidas para sempre.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Visitar a casa de Elias e descobrir mais pistas do que aconteceu.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 3,
+      "completed_quests": [
+        30
+      ],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": [
+        "Pokémon Psíquico ou Fantasma na Equipe."
+      ]
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 0,
+      "character_exp": 3,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 32,
+    "name": "O Último Suspiro de Elias: Parte 3",
+    "requester": "Delegado Reese",
+    "description": "Ao seguir os rastros espirituais para dentro da borda da Floresta das Almas Perdidas. A névoa causa alucinações leves, podendo fazer você ver um fantasma do passado. Deve passar rápido por ela antes que se perca, mas terá que enfrentar os Pokémon mais agressivos da floresta (caso queira capturar, somente após derrotá-los).",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Derrotar os Fantasmas agressivos.",
+        "pokemon_sheets": [
+          "<div class=\"tabpokecard\">\n<h2><img src=\"https://2img.net/i.imgur.com/jh5nntd.png\"> Haunter</h2><div class=\"tabpoketop\"><div class=\"tabpokeimage\"><img src=\"https://www.serebii.net/pokemon/art/093.png\"></div><div class=\"tabpokeinfo\"><div class=\"tabpokeinforow\"><span class=\"label\">Espécie</span><span class=\"value\">#093 – Haunter</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Tipo</span><span class=\"value\">:ghost: :poison:</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Gênero</span><span class=\"value\">Masculino ♂</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Habilidade</span><span class=\"value\">Levitate</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Level</span><span class=\"value\">25 (0/2017)</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Felicidade</span><span class=\"value\">50/255</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Item Equipado</span><span class=\"value\">Nada</span></div><div class=\"tabpokeinforow\"><span class=\"label\">OT</span><span class=\"value\">Treinador</span></div>\n</div>\n</div><div class=\"tabpokepart\">\n<h4><i class=\"gmi gmi-polar-star\"></i>Particularidades</h4><div class=\"fitext\">Agressivo.</div></div><div class=\"tabpokebottom\"><div class=\"tabpokesidelabel\"><i class=\"gmi gmi-spell-book\"></i>Traços</div><div class=\"tabpoketraits\"><div class=\"tabpokemoves\"><div class=\"move dark\">Sucker Punch</div><div class=\"move poison\">Toxic</div><div class=\"move ghost\">Confuse Ray</div><div class=\"move poison\">Venoshock</div><div class=\"move ghost\">Night Shade</div><div class=\"move\">Will-O-Wisp</div>\n</div><div class=\"tabpokestatus\"><div class=\"tabpokestat\"><i class=\"gmi gmi-glass-heart\"></i><span class=\"stat-name\">HP</span><span class=\"tabpokestatbase\">45</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-fist\"></i><span class=\"stat-name\">ATQ</span><span class=\"tabpokestatbase\">50</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bordered-shield\"></i><span class=\"stat-name\">DEF</span><span class=\"tabpokestatbase\">45</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-hypersonic-bolt\"></i><span class=\"stat-name\">ATQ ESP.</span><span class=\"tabpokestatbase\">115</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bolt-shield\"></i><span class=\"stat-name\">DEF ESP.</span><span class=\"tabpokestatbase\">55</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-steelwing-emblem\"></i><span class=\"stat-name\">VEL</span><span class=\"tabpokestatbase\">95</span></div>\n</div>\n</div>\n</div>\n</div>",
+          "<div class=\"tabpokecard\">\n<h2><img src=\"https://2img.net/i.imgur.com/jh5nntd.png\"> Yamask</h2><div class=\"tabpoketop\"><div class=\"tabpokeimage\"><img src=\"https://www.serebii.net/pokemon/art/562.png\"></div><div class=\"tabpokeinfo\"><div class=\"tabpokeinforow\"><span class=\"label\">Espécie</span><span class=\"value\">#562 – Yamask</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Tipo</span><span class=\"value\">:ghost:</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Gênero</span><span class=\"value\">Feminino ♀</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Habilidade</span><span class=\"value\">Mummy</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Level</span><span class=\"value\">25 (0/2017)</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Felicidade</span><span class=\"value\">50/255</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Item Equipado</span><span class=\"value\">Nada</span></div><div class=\"tabpokeinforow\"><span class=\"label\">OT</span><span class=\"value\">Treinador</span></div>\n</div>\n</div><div class=\"tabpokepart\">\n<h4><i class=\"gmi gmi-polar-star\"></i>Particularidades</h4><div class=\"fitext\">Agressivo.</div></div><div class=\"tabpokebottom\"><div class=\"tabpokesidelabel\"><i class=\"gmi gmi-spell-book\"></i>Traços</div><div class=\"tabpoketraits\"><div class=\"tabpokemoves\"><div class=\"move ghost\">Ominous Wind</div><div class=\"move\">Will-O-Wisp</div><div class=\"move fairy\">Crafty Shield</div><div class=\"move ghost\">Hex</div><div class=\"move ghost\">Night Shade</div><div class=\"move ice\">Haze</div>\n</div><div class=\"tabpokestatus\"><div class=\"tabpokestat\"><i class=\"gmi gmi-glass-heart\"></i><span class=\"stat-name\">HP</span><span class=\"tabpokestatbase\">38</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-fist\"></i><span class=\"stat-name\">ATQ</span><span class=\"tabpokestatbase\">30</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bordered-shield\"></i><span class=\"stat-name\">DEF</span><span class=\"tabpokestatbase\">85</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-hypersonic-bolt\"></i><span class=\"stat-name\">ATQ ESP.</span><span class=\"tabpokestatbase\">55</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bolt-shield\"></i><span class=\"stat-name\">DEF ESP.</span><span class=\"tabpokestatbase\">65</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-steelwing-emblem\"></i><span class=\"stat-name\">VEL</span><span class=\"tabpokestatbase\">30</span></div>\n</div>\n</div>\n</div>\n</div>",
+          "<div class=\"tabpokecard\">\n<h2><img src=\"https://2img.net/i.imgur.com/jh5nntd.png\"> Oricorio (sensu)</h2><div class=\"tabpoketop\"><div class=\"tabpokeimage\"><img src=\"https://www.serebii.net/pokemon/art/741-s.png\"></div><div class=\"tabpokeinfo\"><div class=\"tabpokeinforow\"><span class=\"label\">Espécie</span><span class=\"value\">#741 – Oricorio (sensu)</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Tipo</span><span class=\"value\">:ghost: :flying:</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Gênero</span><span class=\"value\">Feminino ♀</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Habilidade</span><span class=\"value\">Dancer</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Level</span><span class=\"value\">25 (0/2017)</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Felicidade</span><span class=\"value\">50/255</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Item Equipado</span><span class=\"value\">Nada</span></div><div class=\"tabpokeinforow\"><span class=\"label\">OT</span><span class=\"value\">Treinador</span></div>\n</div>\n</div><div class=\"tabpokepart\">\n<h4><i class=\"gmi gmi-polar-star\"></i>Particularidades</h4><div class=\"fitext\">Agressivo.</div></div><div class=\"tabpokebottom\"><div class=\"tabpokesidelabel\"><i class=\"gmi gmi-spell-book\"></i>Traços</div><div class=\"tabpoketraits\"><div class=\"tabpokemoves\"><div class=\"move normal\">Double Slap</div><div class=\"move flying\">Acrobatics</div><div class=\"move flying\">Feather Dance</div><div class=\"move normal\">Baton Pass</div><div class=\"move flying\">Air Cutter</div><div class=\"move normal\">Helping Hand</div>\n</div><div class=\"tabpokestatus\"><div class=\"tabpokestat\"><i class=\"gmi gmi-glass-heart\"></i><span class=\"stat-name\">HP</span><span class=\"tabpokestatbase\">75</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-fist\"></i><span class=\"stat-name\">ATQ</span><span class=\"tabpokestatbase\">70</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bordered-shield\"></i><span class=\"stat-name\">DEF</span><span class=\"tabpokestatbase\">70</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-hypersonic-bolt\"></i><span class=\"stat-name\">ATQ ESP.</span><span class=\"tabpokestatbase\">98</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bolt-shield\"></i><span class=\"stat-name\">DEF ESP.</span><span class=\"tabpokestatbase\">70</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-steelwing-emblem\"></i><span class=\"stat-name\">VEL</span><span class=\"tabpokestatbase\">93</span></div>\n</div>\n</div>\n</div>\n</div>"
+        ]
+      }
+    ],
+    "requirements": {
+      "level": 3,
+      "completed_quests": [
+        30,
+        31,
+        32
+      ],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": [
+        "Pokémon Psíquico ou Fantasma na Equipe."
+      ]
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 0,
+      "character_exp": 3,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 33,
+    "name": "O Último Suspiro de Elias: Parte 4",
+    "requester": "Delegado Reese",
+    "description": "Em algum momento você encontrará um acampamento improvisado escondido na névoa. Eis que é revelado: O assassino não é um fantasma, mas um ladrão de relíquias paranóico chamado Vane, que confrontou Elias para roubar seu diário (que continha rotas seguras). Elias morreu de susto (literalmente, um ataque cardíaco induzido pelo medo) quando o ladrão usou um Haunter para ameaçá-lo.\n",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Derrotar Vane, recuperar o Diário de Elias e levá-lo de volta à cidade. Ao apresentar o diário ao espírito de Elias, ele acena em agradecimento e desaparece pacificamente, salvo do destino da floresta.",
+        "pokemon_sheets": [
+          "<div class=\"tabpokecard\">\n<h2><img src=\"https://www.serebii.net/itemdex/sprites/sv/moonball.png\"> Haunter</h2><div class=\"tabpoketop\"><div class=\"tabpokeimage\"><img src=\"https://www.serebii.net/pokemon/art/093.png\"></div><div class=\"tabpokeinfo\"><div class=\"tabpokeinforow\"><span class=\"label\">Espécie</span><span class=\"value\">#093 – Haunter</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Tipo</span><span class=\"value\">:ghost: :poison:</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Gênero</span><span class=\"value\">Masculino ♂</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Habilidade</span><span class=\"value\">Levitate</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Level</span><span class=\"value\">30 (0/2906)</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Felicidade</span><span class=\"value\">170/255</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Item Equipado</span><span class=\"value\">Black Glasses</span></div><div class=\"tabpokeinforow\"><span class=\"label\">OT</span><span class=\"value\">Vane</span></div>\n</div>\n</div><div class=\"tabpokepart\">\n<h4><i class=\"gmi gmi-polar-star\"></i>Particularidades</h4><div class=\"fitext\"> </div></div><div class=\"tabpokebottom\"><div class=\"tabpokesidelabel\"><i class=\"gmi gmi-spell-book\"></i>Traços</div><div class=\"tabpoketraits\"><div class=\"tabpokemoves\"><div class=\"move dark\">Payback</div><div class=\"move dark\">Sucker Punch</div><div class=\"move poison\">Toxic</div><div class=\"move ghost\">Confuse Ray</div><div class=\"move poison\">Venoshock</div><div class=\"move ghost\">Night Shade</div>\n</div><div class=\"tabpokestatus\"><div class=\"tabpokestat\"><i class=\"gmi gmi-glass-heart\"></i><span class=\"stat-name\">HP</span><span class=\"tabpokestatbase\">45</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-fist\"></i><span class=\"stat-name\">ATQ</span><span class=\"tabpokestatbase\">50</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bordered-shield\"></i><span class=\"stat-name\">DEF</span><span class=\"tabpokestatbase\">45</span><span class=\"tabpokestatvalue\"> (+20)</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-hypersonic-bolt\"></i><span class=\"stat-name\">ATQ ESP.</span><span class=\"tabpokestatbase\">115</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bolt-shield\"></i><span class=\"stat-name\">DEF ESP.</span><span class=\"tabpokestatbase\">55</span><span class=\"tabpokestatvalue\"> (+10)</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-steelwing-emblem\"></i><span class=\"stat-name\">VEL</span><span class=\"tabpokestatbase\">95</span><span class=\"tabpokestatvalue\"> (+20)</span></div>\n</div>\n</div>\n</div>\n</div>"
+        ]
+      }
+    ],
+    "requirements": {
+      "level": 3,
+      "completed_quests": [
+        30,
+        31,
+        32
+      ],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 8000,
+      "fame": 10,
+      "character_exp": 10,
+      "items": [
+        {
+          "item_id": 381,
+          "quantity": 1
+        },
+        {
+          "item_id": 201,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
   }
 ]
