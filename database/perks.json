@@ -38,9 +38,9 @@
     {
       "id": "academico",
       "nome": "Acadêmico",
-      "icone": "secret-book",
+      "icone": "graduate-cap",
       "descricao_curta": "Recebe recompensas em dinheiro e fama ao registrar novas espécies na Pokédex.",
-      "descricao_completa": "O rigor científico e a paixão por catalogar o desconhecido definem aqueles que dedicam suas jornadas ao conhecimento. Acadêmicos e pesquisadores transformam cada captura em dados valiosos, contribuindo ativamente para a compreensão da fauna regional. Laboratórios e instituições reconhecem esse trabalho com incentivos proporcionais à raridade das descobertas. Essa perícia garante recompensas sempre que uma nova espécie for registrada na Pokédex: <b>2 de Fama e $300</b> para Pokémon comuns, <b>3 de Fama e $500</b> para raros, <b>5 de Fama e $1.000</b> para épicos, e <b>10 de Fama e $5.000</b> para especiais, transformando cada captura inédita em reconhecimento tangível."
+      "descricao_completa": "O rigor científico e a paixão por catalogar o desconhecido definem aqueles que dedicam suas jornadas ao conhecimento. Acadêmicos e pesquisadores transformam cada captura em dados valiosos, contribuindo ativamente para a compreensão da fauna regional. Laboratórios e instituições reconhecem esse trabalho com incentivos proporcionais à raridade das descobertas. Essa perícia garante recompensas sempre que uma nova espécie for registrada na Pokédex: <b>2 de Fama e $300</b> para Pokémon comuns, <b>3 de Fama e $400</b> para raros, <b>4 de Fama e $800</b> para épicos, e <b>10 de Fama e $5.000</b> para especiais, transformando cada captura inédita em reconhecimento tangível."
     },
     {
       "id": "figura_publica",
@@ -48,13 +48,6 @@
       "icone": "sensuousness",
       "descricao_curta": "Aumenta ganhos de fama e torna imune a perdas por derrotas públicas.",
       "descricao_completa": "Alguns treinadores não apenas batalham: eles performam. Figuras públicas entendem que cada aparição é uma oportunidade de fortalecer sua imagem e expandir sua influência. Celebridades e personalidades conhecidas sabem como transformar vitórias em espetáculo e como blindar sua reputação contra revezes temporários. Essa perícia concede <b>+2 de Fama</b> em postagens de profissão e confrontos contra NPCs, além de <b>+20% de Fama</b> em missões concluídas. Vitórias em <b>concursos e ginásios geram o dobro de Fama</b>, e o Treinador torna-se <b>imune a quedas de Fama</b> causadas por derrotas públicas, mantendo sua reputação intacta mesmo diante de reveses."
-    },
-    {
-      "id": "negocios_alternativos",
-      "nome": "Negócios Alternativos",
-      "icone": "hood",
-      "descricao_curta": "Pode vender Pokémon no mercado negro até 3 vezes por mês.",
-      "descricao_completa": "Nem todos os caminhos para o lucro passam por lojas oficiais e contratos regulamentados. Quem domina negócios alternativos conhece os becos, os contatos certos e os compradores dispostos a pagar premium por discrição e exclusividade. Essas transações acontecem longe dos olhos das autoridades, envolvendo espécimes raros, especiais ou simplesmente valiosos demais para o mercado convencional. Essa perícia permite ao Treinador <b>vender Pokémon no mercado negro até 3 vezes por mês</b>. O valor varia conforme raridade, nível, características especiais e outras qualidades que tornam o Pokémon mais valioso, transformando capturas estratégicas em fonte alternativa de renda."
     }
   ],
   "treinamento": [
@@ -235,7 +228,7 @@
       "nome": "Criador Nômade",
       "icone": "egg-pod",
       "descricao_curta": "Permite criação de ovos durante viagens e concede bônus de SP ao atingir nível 5.",
-      "descricao_completa": "A vida em movimento não precisa significar abrir mão da criação. Criadores nômades desenvolvem técnicas especiais para manter Pokémon reprodutores saudáveis e confortáveis mesmo durante jornadas constantes. Com atenção aos ciclos naturais, nutrição adequada e ambientes adaptados, conseguem resultados que rivalizam com Day-Cares estabelecidos. Essa perícia permite que <b>dois Pokémon da equipe gerem um ovo enquanto você viaja</b>, sem precisar deixá-los no Day-Care. Além disso, ao atingir o <b>nível 5 de Treinador</b>, Pokémon chocados pelo Treinador podem nascer com <b>+20 SP no maior status da sua evolução final</b>, garantindo filhotes excepcionais que carregam a marca da excelência de seu criador."
+      "descricao_completa": "A vida em movimento não precisa significar abrir mão da criação. Criadores nômades desenvolvem técnicas especiais para manter Pokémon reprodutores saudáveis e confortáveis mesmo durante jornadas constantes. Com atenção aos ciclos naturais, nutrição adequada e ambientes adaptados, conseguem resultados que rivalizam com Day-Cares estabelecidos. Essa perícia permite que <b>dois Pokémon da equipe gerem um ovo enquanto você viaja</b>, sem precisar deixá-los no Day-Care. Além disso, ao atingir o <b>nível 7 de Treinador</b>, Pokémon chocados pelo Treinador podem nascer com <b>+20 SP no maior status da sua evolução final</b>, garantindo filhotes excepcionais que carregam a marca da excelência de seu criador."
     },
     {
       "id": "pastoril",
@@ -312,9 +305,9 @@
     {
       "id": "comercio_remoto",
       "nome": "Comércio Remoto",
-      "icone": "trade",
-      "descricao_curta": "Vende itens remotamente com 20% de valorização.",
-      "descricao_completa": "A era digital transformou o comércio: fronteiras físicas não limitam mais quem possui os contatos certos. Especialistas em comércio remoto mantêm redes de compradores espalhadas por toda a região, negociando através de mensagens, chamadas e plataformas digitais. Sua reputação estabelecida garante que itens sejam vendidos com valorização premium, refletindo a conveniência e exclusividade do serviço. Essa perícia permite <b>vender itens em qualquer lugar</b>, sem necessidade de presença física, contanto que o Ponto de Interesse exista no mapa. Além disso, esses itens são vendidos com <b>acréscimo de 20% no valor</b>, transformando cada transação em lucro maximizado."
+      "icone": "shopping-bag",
+      "descricao_curta": "Compra e vende itens remotamente. Vendas tem 20% de valorização.",
+      "descricao_completa": "A era digital transformou o comércio: fronteiras físicas não limitam mais quem possui os contatos certos. Especialistas em comércio remoto mantêm redes de compradores espalhadas por toda a região, negociando através de mensagens, chamadas e plataformas digitais. Sua reputação estabelecida garante que itens sejam vendidos com valorização premium, refletindo a conveniência e exclusividade do serviço. Essa perícia permite <b>comprar e vender itens em qualquer lugar</b>, sem necessidade de presença física, contanto que o Ponto de Interesse exista no mapa. Além disso, esses itens vendidos tem um <b>acréscimo de 20% no valor</b>, transformando cada transação em lucro maximizado."
     },
     {
       "id": "marca_pessoal",
@@ -371,8 +364,8 @@
       "id": "viajante_experiente",
       "nome": "Viajante Experiente",
       "icone": "compass",
-      "descricao_curta": "Reduz tempo de deslocamento e ganha fama ao visitar novos lugares.",
-      "descricao_completa": "Há quem viaje, e há quem domine a arte de viajar. Viajantes experientes conhecem atalhos que não aparecem em mapas, sabem onde economizar tempo sem sacrificar segurança e transformam longas jornadas em travessias eficientes. Cada novo destino alcançado adiciona à sua reputação como desbravador incansável. Essa perícia <b>reduz em 20%</b> a quantidade de <b>postagens necessárias para se deslocar</b> entre um lugar e outro. Além disso, o Treinador recebe <b>4 de Fama</b> sempre que <b>visitar um lugar pela primeira vez</b>, refletindo seu espírito explorador e o reconhecimento como alguém que expande constantemente seus horizontes."
+      "descricao_curta": "Reduz tempo de deslocamento progressivamente e ganha fama ao visitar novos lugares.",
+      "descricao_completa": "Há quem viaje, e há quem domine a arte de viajar. Viajantes experientes conhecem atalhos que não aparecem em mapas, e quanto mais percorrem um caminho, mais eficientes se tornam. Cada travessia ensina novas rotas, pontos de descanso e técnicas de navegação. Essa perícia funciona de forma progressiva: <b>na primeira visita a um local, o Treinador ganha 4 de Fama</b> pelo espírito desbravador. <b>Ao percorrer o mesmo trajeto pela primeira vez, reduz em 20% as postagens necessárias</b>. <b>Na segunda passagem, a redução aumenta para 30%</b>. <b>Da terceira passagem em diante, a redução se estabiliza em 50%</b>, refletindo domínio completo daquela rota e reconhecimento como explorador experiente."
     }
   ]
 }
