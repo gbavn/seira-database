@@ -1459,5 +1459,215 @@
     "status": "available",
     "repeatable": false,
     "cooldown_days": 0
+  },
+  {
+    "id": 34,
+    "name": "A Grande Obra do Mestre Artesão: Parte 1",
+    "requester": "Mestre Silas",
+    "description": "Misthollow é famosa por seus \"Artesãos de Névoa\", especialistas que capturam e solidificam a neblina em vidros, luminárias e tecidos mágicos. O mais renomado deles, Mestre Silas, está trabalhando em sua obra-prima para o festival anual da cidade, mas está tendo um bloqueio criativo (e falta de materiais específicos).\n\nMestre Silas é m artesão idoso, excêntrico e ligeiramente dramático. Sua oficina é um caos de potes de vidro brilhantes, tubos de ensaio e nuvens de fumaça colorida. Ele fala rápido e gesticula muito.\n\nAo falar com Silas em sua oficina, perceberá que ele está ocupado com sua criação: \"Não, não, não! Está muito... aguado! A 'Luminária da Aurora' precisa de substância, precisa de vida! Vocês, viajantes com cara de quem não tem medo de se molhar! Preciso de ingredientes frescos. A névoa comum não serve!\"\n\nSilas entrega 3 \"Frascos de Captura Aérea\" e pede três tipos específicos de névoa que só podem ser coletados com a ajuda de Pokémon.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Aceitar a missão do Mestre Artesão",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 0,
+      "character_exp": 3,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 35,
+    "name": "A Grande Obra do Mestre Artesão: Parte 2",
+    "requester": "Mestre Silas",
+    "description": "Névoa Sussurrante: Encontrada perto do Lago Phantoom ao amanhecer.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Coletar a Névoa Sussurrante",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [
+        34
+      ],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": [
+        "O jogador precisa ter um Pokémon com um movimento baseado em som (ex: Sing, Supersonic, Echoed Voice) no time para \"acalmar\" a névoa agitada antes de coletá-la."
+      ]
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 0,
+      "character_exp": 4,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 36,
+    "name": "A Grande Obra do Mestre Artesão: Parte 3",
+    "requester": "Mestre Silas",
+    "description": "Névoa Carregada: Encontrada perto da torre do para-raios da cidade.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Coletar a Névoa Carregada",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [
+        34,
+        35
+      ],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": [
+        "O jogador precisa de um Pokémon do tipo Elétrico no time para \"atrair\" a névoa estática para dentro do frasco."
+      ]
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 0,
+      "character_exp": 4,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 37,
+    "name": "A Grande Obra do Mestre Artesão: Parte 4",
+    "requester": "",
+    "description": "Névoa Floral: Encontrada nos jardins comunitários.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [
+        34,
+        35,
+        36
+      ],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": [
+        "A névoa aqui é misturada com pólen. Um Pokémon tipo Planta, Voador ou Inseto precisa usar um movimento como Sweet Scent ou Gust para separar o pólen e coletar apenas a névoa pura."
+      ]
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 0,
+      "character_exp": 4,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 38,
+    "name": "A Grande Obra do Mestre Artesão: Parte 5",
+    "requester": "Mestre Silas",
+    "description": "Retornar a Silas com os três frascos cheios.\n\nSilas joga os ingredientes em uma grande caldeira de vidro. Ocorre uma pequena explosão de luzes coloridas e fumaça (sem dano), e ele emerge triunfante segurando uma lanterna que brilha com cores suaves e mutáveis.\n\nLevar a lanterna pronta até a prefeitura para ser instalada antes do festival.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Entregue as névoas coletadas e aprenda com o mestre.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 3000,
+      "fame": 10,
+      "character_exp": 10,
+      "items": [
+        {
+          "item_id": 757,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
   }
 ]
