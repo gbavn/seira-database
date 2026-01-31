@@ -966,7 +966,9 @@
         390
       ]
     },
-    "interaction_objects": [],
+    "interaction_objects": [
+      "Gem"
+    ],
     "accesses": {
       "north": {
         "id": "MNDR",
@@ -2639,7 +2641,28 @@
         "shop_data": null
       }
     ],
-    "forageable_items": [],
+    "forageable_items": [
+      {
+        "item_id": 698,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 697,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 692,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 703,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 93,
+        "collected_quantity": 1
+      }
+    ],
     "spawns": {
       "common": [
         396,
