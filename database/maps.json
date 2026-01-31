@@ -517,7 +517,9 @@
       ],
       "based_on": "Chongqing, China"
     },
-    "quest_ids": [],
+    "quest_ids": [
+      21
+    ],
     "points_of_interest": [
       {
         "id": "GymDark",
