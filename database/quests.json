@@ -1768,5 +1768,49 @@
     "status": "available",
     "repeatable": false,
     "cooldown_days": 0
+  },
+  {
+    "id": 41,
+    "name": "Toka Magika",
+    "requester": "Pesquisador Clarence",
+    "description": "",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 5,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": [
+        "Pokémon Fada"
+      ]
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 6,
+      "character_exp": 6,
+      "items": [
+        {
+          "item_id": 184,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
   }
 ]
