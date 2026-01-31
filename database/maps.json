@@ -1088,7 +1088,11 @@
       "economy": [],
       "based_on": ""
     },
-    "quest_ids": [],
+    "quest_ids": [
+      41,
+      45,
+      46
+    ],
     "points_of_interest": [
       {
         "id": "poi-1763224350210",
@@ -1694,7 +1698,36 @@
     },
     "quest_ids": [],
     "points_of_interest": [],
-    "forageable_items": [],
+    "forageable_items": [
+      {
+        "item_id": 688,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 694,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 696,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 703,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 93,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 699,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 86,
+        "collected_quantity": 1
+      }
+    ],
     "spawns": {
       "common": [
         298,
@@ -1712,7 +1745,10 @@
         501
       ]
     },
-    "interaction_objects": [],
+    "interaction_objects": [
+      "BerryTree",
+      "FishLake"
+    ],
     "accesses": {
       "east": {
         "id": "VLD",
