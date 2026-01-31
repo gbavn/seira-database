@@ -518,7 +518,10 @@
       "based_on": "Chongqing, China"
     },
     "quest_ids": [
-      21
+      21,
+      42,
+      43,
+      44
     ],
     "points_of_interest": [
       {
@@ -797,35 +800,35 @@
     "forageable_items": [
       {
         "item_id": 94,
-        "collected_quantity": 2
+        "collected_quantity": 1
       },
       {
         "item_id": 691,
-        "collected_quantity": 2
+        "collected_quantity": 1
       },
       {
         "item_id": 692,
-        "collected_quantity": 4
+        "collected_quantity": 1
       },
       {
         "item_id": 695,
-        "collected_quantity": 4
+        "collected_quantity": 1
       },
       {
         "item_id": 696,
-        "collected_quantity": 4
+        "collected_quantity": 1
       },
       {
         "item_id": 697,
-        "collected_quantity": 4
+        "collected_quantity": 1
       },
       {
         "item_id": 689,
-        "collected_quantity": 6
+        "collected_quantity": 1
       },
       {
         "item_id": 466,
-        "collected_quantity": 6
+        "collected_quantity": 1
       }
     ],
     "spawns": {
