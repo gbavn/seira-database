@@ -235,11 +235,39 @@
         ]
       },
       "pokemon_by_rarity": {
-        "common": [],
-        "rare": [],
-        "epic": [],
+        "common": [
+          129,
+          339,
+          550
+        ],
+        "rare": [
+          118,
+          341,
+          602
+        ],
+        "epic": [
+          978,
+          977,
+          349
+        ],
         "special": [
           13516
+        ]
+      },
+      "items_by_rarity": {
+        "common": [
+          93,
+          70
+        ],
+        "rare": [
+          88,
+          71
+        ],
+        "epic": [
+          89
+        ],
+        "special": [
+          372
         ]
       }
     }
