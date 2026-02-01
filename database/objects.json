@@ -1223,5 +1223,17 @@
         10070
       ]
     }
+  },
+  {
+    "id": "degelo",
+    "name": "Degelo",
+    "icon": "snowman",
+    "category": "generic",
+    "is_rollable": true,
+    "description": "",
+    "roll_config": {
+      "type": "custom_percentage",
+      "gives": "items_only"
+    }
   }
 ]
