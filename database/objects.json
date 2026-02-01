@@ -233,6 +233,14 @@
         "special": [
           372
         ]
+      },
+      "pokemon_by_rarity": {
+        "common": [],
+        "rare": [],
+        "epic": [],
+        "special": [
+          13516
+        ]
       }
     }
   },
