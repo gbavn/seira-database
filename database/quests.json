@@ -2165,5 +2165,79 @@
     "status": "available",
     "repeatable": false,
     "cooldown_days": 0
+  },
+  {
+    "id": 50,
+    "name": "O Batimento do Gelo Eterno (Caminho da Códice)",
+    "requester": "O Filósofo",
+    "description": "O Filósofo descobriu que a Rede Helix está enviando pulsos de alta frequência para o Monte Glacio, tentando forçar a montanha a revelar seus caminhos térmicos. Ele acredita que isso está ferindo o espírito da montanha e os Pokémon que nela habitam. O solicitante pede que você leve um instrumento rudimentar até o Platô dos Ecos. Você deve \"ouvir\" a montanha sem a ajuda de sensores digitais e, com auxílio de um instrumento de bronze antigo, golpear contra o gelo perene, que deverá emitir uma nota que faz as fendas invisíveis vibrarem em azul profundo, revelando a entrada oculta.\n\nO Item Chave: Diapasão da Essência (EC).",
+    "quest_type": "personalizada",
+    "assigned_character": "Equipe Códice",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Encontrar a entrada da Mystery Dungeon no Monte Glacio (10 Postagens)",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 7,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 10,
+      "character_exp": 10,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 51,
+    "name": "Mapeamento do Ponto Cego (Caminho da Helix)",
+    "requester": "Professora Banyan",
+    "description": "Banyan está frustrada. Seus drones de mapeamento desaparecem ao atingir certas coordenadas no Monte Glacio. Ela suspeita de uma \"Anomalia Tectônica\" que está bloqueando o sinal da Rede Helix. Sua missão é simples! Infiltrar-se na zona de interferência e instalar um Repetidor de Sinal de Alta Potência. Ela não se importa com o que há lá, desde que o mapa seja completado. Para isso você ganhará um visor tecnológico que sobrepõe uma grade digital à realidade. Ele identifica fraturas estruturais no gelo que parecem sólidas a olho nu, permitindo que o jogador atravesse uma parede ilusória.\n\nO Item Chave: Lente de Escaneamento (RH). ",
+    "quest_type": "personalizada",
+    "assigned_character": "Rede Helix",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Encontrar a entrada da Mystery Dungeon no Monte Glacio (10 Postagens)",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 10,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 10,
+      "character_exp": 10,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
   }
 ]
