@@ -1418,18 +1418,12 @@
     "points_of_interest": [
       {
         "id": "poi-1770045966271",
-        "name": "[DG] Palácio Glacio",
+        "name": "Palácio Glacio",
         "type": "other",
-        "description": "\"Aqui, o tempo não corre; ele congela. Cada suspiro deixa um rastro de cristal no ar, e cada passo ecoa como um martelo batendo em uma bigorna de vidro.\" — Anotação no diário de um explorador antigo.",
+        "description": "MYSTERY DUNGEON\n\"Aqui, o tempo não corre; ele congela. Cada suspiro deixa um rastro de cristal no ar, e cada passo ecoa como um martelo batendo em uma bigorna de vidro.\" — Anotação no diário de um explorador antigo.",
         "forum_link": "",
         "linked_pokemon": [
-          10075,
-          996,
-          10082,
-          363,
-          10006,
-          361,
-          220
+          10075
         ],
         "linked_items": [],
         "poi_image": "",
@@ -3201,5 +3195,83 @@
       }
     },
     "special_location": false
+  },
+  {
+    "id": "map-1770050287479",
+    "type": "landmark",
+    "name": "[Mystery Dungeon] Palácio Glacio",
+    "biome": "Boreal",
+    "description": "Escondido sob camadas de neve acumulada por milênios, o Palácio Glacio não é uma construção humana, mas uma obra-prima de arquitetura biomecânica. Dizem que este era o laboratório de inverno de Rhisis, onde ela estudava a preservação da vida em condições extremas.\n\nAo atravessar a entrada oculta, o uivo do vento externo é substituído por um silêncio absoluto e gélido. O teto do palácio é formado por cristais de gelo gigantes que captam a pouca luz solar da superfície, refratando-a em padrões de azul abissal e turquesa que iluminam as galerias. Diferente das colunas partidas das ruínas externas, aqui as estruturas são inteiras, esculpidas como se o gelo tivesse sido moldado enquanto ainda era líquido. Elas brilham com uma luz interior fraca — uma bio-luminescência residual.\n\nHá sentinelas do tipo Gelo e Aço que patrulham os corredores. Eles parecem cobertos por uma fina camada de geada vítrea que funciona como uma armadura natural. Em certas salas, encontram-se painéis de controle feitos de metal fosco e cristal, semelhantes aos terminais da Rede Helix, mas operando em uma linguagem de código que a IA atual ainda não consegue decifrar totalmente.",
+    "map_image": "https://t3.ftcdn.net/jpg/09/91/15/36/360_F_991153651_UD4ISkQfcXlfSWgiAYbGPzOSWNsoNRNG.jpg",
+    "forum_link": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "metadata": {
+      "population": "",
+      "economy": [],
+      "based_on": ""
+    },
+    "quest_ids": [],
+    "points_of_interest": [
+      {
+        "id": "poi-1770050680766",
+        "name": "Galeria dos Espelhos",
+        "type": "other",
+        "description": "Paredes de gelo polido que criam cópias ilusórias do invasor.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "poi_image": "",
+        "custom_effect": [],
+        "shop_data": null
+      },
+      {
+        "id": "poi-1770050688517",
+        "name": "Câmara da Ressonância",
+        "type": "other",
+        "description": "Uma sala onde o som é amplificado. Barulhos altos podem causar desabamentos de estalactites.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "poi_image": "",
+        "custom_effect": [],
+        "shop_data": null
+      },
+      {
+        "id": "poi-1770050688967",
+        "name": "O Trono de Rhisis",
+        "type": "other",
+        "description": "O ponto mais profundo, onde reside o Boss da Dungeon, protegendo um antigo núcleo de dados.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "poi_image": "",
+        "custom_effect": [],
+        "shop_data": null
+      }
+    ],
+    "forageable_items": [
+      {
+        "item_id": 207,
+        "collected_quantity": 1
+      }
+    ],
+    "spawns": {
+      "common": [],
+      "rare": [
+        10006,
+        363,
+        10082
+      ],
+      "epic": [
+        10075,
+        996
+      ]
+    },
+    "interaction_objects": [],
+    "accesses": {},
+    "special_location": true
   }
 ]
