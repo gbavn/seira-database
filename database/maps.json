@@ -1431,6 +1431,18 @@
           "Snowstorm ad infinitum."
         ],
         "shop_data": null
+      },
+      {
+        "id": "poi-1770055183528",
+        "name": "Platô dos Ecos",
+        "type": "other",
+        "description": "Trata-se de uma vasta plataforma de gelo negro e rocha exposta que se projeta para fora da montanha como uma varanda monumental sobre o continente de Seira. O local recebe este nome devido a uma formação geológica única: uma série de fendas verticais nos penhascos circundantes que capturam o vento polar e o transformam em uma sinfonia de sons metálicos e sussurros rítmicos.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [],
+        "poi_image": "",
+        "custom_effect": [],
+        "shop_data": null
       }
     ],
     "forageable_items": [],
