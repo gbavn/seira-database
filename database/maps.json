@@ -1415,7 +1415,30 @@
       "based_on": ""
     },
     "quest_ids": [],
-    "points_of_interest": [],
+    "points_of_interest": [
+      {
+        "id": "poi-1770045966271",
+        "name": "[DG] Palácio Glacio",
+        "type": "other",
+        "description": "\"Aqui, o tempo não corre; ele congela. Cada suspiro deixa um rastro de cristal no ar, e cada passo ecoa como um martelo batendo em uma bigorna de vidro.\" — Anotação no diário de um explorador antigo.",
+        "forum_link": "",
+        "linked_pokemon": [
+          10075,
+          996,
+          10082,
+          363,
+          10006,
+          361,
+          220
+        ],
+        "linked_items": [],
+        "poi_image": "",
+        "custom_effect": [
+          "Snowstorm ad infinitum."
+        ],
+        "shop_data": null
+      }
+    ],
     "forageable_items": [],
     "spawns": {
       "common": [
@@ -1426,7 +1449,8 @@
       "rare": [
         739,
         613,
-        363
+        363,
+        10082
       ],
       "epic": [
         774,
