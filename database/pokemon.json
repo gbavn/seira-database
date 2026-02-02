@@ -234563,7 +234563,7 @@
     ],
     "abilities": {
       "normal": [
-        "Sand stream"
+        "Snow warning"
       ],
       "hidden": [
         "Unnerve"
@@ -234589,8 +234589,7 @@
     "in_seira_pokedex": false,
     "rarity": "comum",
     "is_producer": false,
-    "production": [],
-    "evolves_to": []
+    "production": []
   },
   {
     "id": 11001,
