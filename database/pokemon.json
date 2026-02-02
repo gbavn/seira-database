@@ -229964,7 +229964,7 @@
     "artwork": "https://i.imgur.com/6HA0w8h.png",
     "height": 0.8,
     "weight": 24,
-    "dex_entry": "It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger.",
+    "dex_entry": "Dizem que eles nascem das nuvens e descem ao Monte Glacio galopando em alta velocidade. São bem tímidos e não gostam de se misturar com outras espécies. Quem tocou em sua crina afirma que é como abraçar a almofada mais fofa do mundo.",
     "classification": "Flying Horse Pokémon",
     "held_items": [],
     "evolves_to": [
@@ -230124,7 +230124,7 @@
     "artwork": "https://i.imgur.com/rVZVglW.png",
     "height": 1.7,
     "weight": 80,
-    "dex_entry": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
+    "dex_entry": "É um Pokémon extremamente veloz, podendo galopar até 240 km/h em céus e terra.",
     "classification": "Flying Horse Pokémon",
     "held_items": [],
     "evolves_to": [],
@@ -249921,5 +249921,109 @@
     "form_type": "aesthetic",
     "artwork": "https://www.serebii.net/pokemon/art/999-r.png",
     "evolves_to": []
+  },
+  {
+    "id": 13527,
+    "name": " Mega",
+    "base_form": false,
+    "form_of": 13527,
+    "form_type": "mega",
+    "abilities": {
+      "normal": [],
+      "hidden": [],
+      "exotic": []
+    },
+    "base_experience": 0,
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defense": 0,
+      "special_attack": 0,
+      "special_defense": 0,
+      "speed": 0
+    },
+    "artwork": "",
+    "height": 0,
+    "weight": 0,
+    "dex_entry": "",
+    "classification": "",
+    "held_items": [],
+    "is_starter": false,
+    "in_seira_pokedex": false,
+    "rarity": "comum",
+    "is_producer": false,
+    "production": []
+  },
+  {
+    "id": 13528,
+    "name": " Mega",
+    "base_form": false,
+    "form_of": 13528,
+    "form_type": "mega",
+    "abilities": {
+      "normal": [],
+      "hidden": [],
+      "exotic": []
+    },
+    "base_experience": 0,
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defense": 0,
+      "special_attack": 0,
+      "special_defense": 0,
+      "speed": 0
+    },
+    "artwork": "",
+    "height": 0,
+    "weight": 0,
+    "dex_entry": "",
+    "classification": "",
+    "held_items": [],
+    "is_starter": false,
+    "in_seira_pokedex": false,
+    "rarity": "comum",
+    "is_producer": false,
+    "production": []
+  },
+  {
+    "id": 13529,
+    "name": "Seirian Rapidash Mega",
+    "base_form": false,
+    "form_of": 10083,
+    "form_type": "mega",
+    "form_mechanics": {
+      "mega_stone": "Rapidashite"
+    },
+    "types": [
+      "Electric"
+    ],
+    "abilities": {
+      "normal": [
+        "Electric surge"
+      ],
+      "hidden": [],
+      "exotic": []
+    },
+    "base_experience": 270,
+    "stats": {
+      "hp": 65,
+      "attack": 100,
+      "defense": 70,
+      "special_attack": 140,
+      "special_defense": 80,
+      "speed": 145
+    },
+    "artwork": "https://i.imgur.com/u4tF8Vt.png",
+    "height": 1.7,
+    "weight": 80,
+    "dex_entry": "Quando entra em campo, todo o território ao redor fica tomado pela sua energia.",
+    "classification": "Flying Horse Pokémon",
+    "held_items": [],
+    "is_starter": false,
+    "in_seira_pokedex": true,
+    "rarity": "raro",
+    "is_producer": false,
+    "production": []
   }
 ]
