@@ -3266,20 +3266,22 @@
     ],
     "forageable_items": [
       {
-        "item_id": 207,
+        "item_id": 388,
         "collected_quantity": 1
       }
     ],
     "spawns": {
-      "common": [],
+      "common": [
+        872,
+        220
+      ],
       "rare": [
-        10006,
         363,
         10082
       ],
       "epic": [
-        10075,
-        996
+        996,
+        10075
       ]
     },
     "interaction_objects": [],
