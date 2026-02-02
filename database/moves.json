@@ -14824,7 +14824,7 @@
     "id": 922,
     "name": "Honey Coat",
     "move_class": "normal",
-    "type": "Bug",
+    "type": "Normal",
     "category": "Status",
     "power": 0,
     "accuracy": 100,
