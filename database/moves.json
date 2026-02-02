@@ -14819,5 +14819,19 @@
     "target": "All opponents",
     "description": "O usuário bate suas asas pesadas, liberando um vento opressor que atinge todos os inimigos ao redor, causando 50% mais dano se tiver tido algum status reduzido no turno anterior.",
     "modified_for_rpg": false
+  },
+  {
+    "id": 922,
+    "name": "Honey Coat",
+    "move_class": "normal",
+    "type": "Bug",
+    "category": "Status",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "target": "Selected pokemon",
+    "description": "O usuário se reveste com mel nutritivo. Recupera 1/16 do seu HP máximo ao final de cada turno. Se o usuário sair do campo, este efeito termina. Este efeito é passado por Baton Pass.",
+    "modified_for_rpg": false
   }
 ]
