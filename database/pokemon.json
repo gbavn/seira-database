@@ -217486,8 +217486,9 @@
     "height": 0.8,
     "weight": 24,
     "dex_entry": "It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger.",
-    "classification": "Fire Horse Pokémon",
+    "classification": "Magic Horse Pokémon",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -217585,8 +217586,7 @@
       "Hypnosis",
       "Morning sun",
       "Thrash"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 10021,
@@ -229937,11 +229937,10 @@
     ],
     "abilities": {
       "normal": [
-        "Run away",
-        "Pastel veil"
+        "Overcoat"
       ],
       "hidden": [
-        "Anticipation"
+        "Cloud nine"
       ],
       "exotic": []
     },
@@ -229966,12 +229965,23 @@
     "height": 0.8,
     "weight": 24,
     "dex_entry": "It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger.",
-    "classification": "Fire Horse Pokémon",
+    "classification": "Flying Horse Pokémon",
     "held_items": [],
-    "evolves_to": [],
+    "evolves_to": [
+      {
+        "pokemon": "Seirian Rapidash",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 40
+          }
+        ]
+      }
+    ],
     "is_starter": false,
-    "in_seira_pokedex": false,
-    "rarity": "comum",
+    "in_seira_pokedex": true,
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -229980,52 +229990,60 @@
         "level": 1
       },
       {
-        "move": "Growl",
+        "move": "Defog",
         "level": 1
       },
       {
-        "move": "Tail whip",
-        "level": 5
+        "level": 1,
+        "move": "Gust"
       },
       {
-        "move": "Confusion",
-        "level": 10
+        "level": 5,
+        "move": "Tail whip"
       },
       {
-        "move": "Fairy wind",
-        "level": 15
+        "level": 10,
+        "move": "Air cutter"
       },
       {
-        "move": "Agility",
-        "level": 20
+        "level": 15,
+        "move": "Icy wind"
       },
       {
-        "move": "Psybeam",
-        "level": 25
+        "level": 20,
+        "move": "Agility"
       },
       {
-        "move": "Stomp",
-        "level": 30
+        "level": 25,
+        "move": "Air slash"
       },
       {
-        "move": "Heal pulse",
-        "level": 35
+        "level": 30,
+        "move": "Stomp"
       },
       {
-        "move": "Take down",
-        "level": 41
+        "level": 32,
+        "move": "Morning sun"
       },
       {
-        "move": "Dazzling gleam",
-        "level": 45
+        "level": 35,
+        "move": "Tailwind"
       },
       {
-        "move": "Psychic",
-        "level": 50
+        "level": 41,
+        "move": "Take down"
       },
       {
-        "move": "Healing wish",
-        "level": 55
+        "level": 45,
+        "move": "Weather ball"
+      },
+      {
+        "level": 50,
+        "move": "Hurricane"
+      },
+      {
+        "level": 55,
+        "move": "Sky attack"
       }
     ],
     "learnable_moves": [
@@ -230079,11 +230097,10 @@
     ],
     "abilities": {
       "normal": [
-        "Run away",
-        "Pastel veil"
+        "Overcoat"
       ],
       "hidden": [
-        "Anticipation"
+        "Cloud nine"
       ],
       "exotic": []
     },
@@ -230108,17 +230125,17 @@
     "height": 1.7,
     "weight": 80,
     "dex_entry": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
-    "classification": "Fire Horse Pokémon",
+    "classification": "Flying Horse Pokémon",
     "held_items": [],
     "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
-    "rarity": "comum",
+    "in_seira_pokedex": true,
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
       {
-        "move": "Psycho cut",
+        "move": "Extreme speed",
         "level": 0
       },
       {
@@ -230126,27 +230143,27 @@
         "level": 1
       },
       {
-        "move": "Tail whip",
+        "move": "Defog",
         "level": 1
       },
       {
-        "move": "Growl",
+        "move": "Gust",
         "level": 1
       },
       {
-        "move": "Confusion",
+        "move": "Snowscape",
         "level": 1
       },
       {
-        "move": "Quick attack",
+        "move": "Sunny day",
         "level": 1
       },
       {
-        "move": "Megahorn",
+        "move": "Rain dance",
         "level": 1
       },
       {
-        "move": "Fairy wind",
+        "move": "Icy wind",
         "level": 15
       },
       {
@@ -230154,7 +230171,7 @@
         "level": 20
       },
       {
-        "move": "Psybeam",
+        "move": "Air slash",
         "level": 25
       },
       {
@@ -230162,29 +230179,40 @@
         "level": 30
       },
       {
-        "move": "Heal pulse",
+        "move": "Morning sun",
+        "level": 32
+      },
+      {
+        "move": "Tailwind",
         "level": 35
       },
       {
         "move": "Take down",
-        "level": 43
+        "level": 41
       },
       {
-        "move": "Dazzling gleam",
-        "level": 49
+        "move": "Weather ball",
+        "level": 45
       },
       {
-        "move": "Psychic",
-        "level": 56
+        "move": "Hurricane",
+        "level": 51
       },
       {
-        "move": "Healing wish",
-        "level": 63
+        "level": 52,
+        "move": "Thunder"
+      },
+      {
+        "level": 53,
+        "move": "Blizzard"
+      },
+      {
+        "level": 60,
+        "move": "Sky attack"
       }
     ],
     "learnable_moves": [
       "Agility",
-      "Ally switch",
       "Attract",
       "Baton pass",
       "Body slam",
@@ -230194,39 +230222,51 @@
       "Dazzling gleam",
       "Drill run",
       "Endure",
-      "Expanding force",
       "Facade",
-      "Future sight",
       "Giga impact",
       "High horsepower",
       "Hyper beam",
-      "Imprison",
       "Iron tail",
       "Low kick",
-      "Magic room",
       "Megahorn",
-      "Misty terrain",
-      "Mystical fire",
       "Pay day",
       "Play rough",
       "Protect",
-      "Psychic",
-      "Psychic terrain",
-      "Psycho cut",
       "Rest",
       "Round",
       "Sleep talk",
       "Smart strike",
       "Snore",
-      "Stored power",
       "Substitute",
       "Swift",
       "Swords dance",
       "Throat chop",
-      "Trick room",
       "Wild charge",
-      "Wonder room",
-      "Zen headbutt"
+      "Zen headbutt",
+      "Discharge",
+      "Flash",
+      "Heat wave",
+      "Hurricane",
+      "Icy wind",
+      "Secret power",
+      "Shock wave",
+      "Tailwind",
+      "Toxic",
+      "Hidden power",
+      "Sunny day",
+      "Rain dance",
+      "Roost",
+      "Snowscape",
+      "Thunderbolt",
+      "Double team",
+      "Sky drop",
+      "Acrobatics",
+      "Volt switch",
+      "Thunder wave",
+      "Swagger",
+      "Charge beam",
+      "Echoed voice",
+      "Aerial ace"
     ],
     "egg_moves": []
   },
