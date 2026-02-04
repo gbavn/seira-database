@@ -229556,7 +229556,7 @@
         "level": 13
       },
       {
-        "move": "Mud slap",
+        "move": "Sludge",
         "level": 13
       },
       {
@@ -229800,7 +229800,7 @@
         "level": 13
       },
       {
-        "move": "Mud slap",
+        "move": "Sludge",
         "level": 13
       },
       {
@@ -229854,7 +229854,7 @@
       {
         "move": "Play rough",
         "level": 56
-      }      
+      }
     ],
     "learnable_moves": [
       "Attract",
