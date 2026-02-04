@@ -2411,7 +2411,7 @@
     "id": 56,
     "name": "Terror em Technicolor",
     "requester": "Sr. Ignácio Balaban",
-    "description": "Hoje é a noite de estreia de um documentário histórico muito aguardado: \"Ardozart: Antes do Neon\". A cidade inteira está presente, incluindo a elite que apoia a Rede Helix.\n\nPara a ocasião, o Cinema Balaban instalou um novo sistema experimental: o \"Projetor de Sincronia Neural\", uma tecnologia fornecida pela Helix que promete fazer o público sentir as emoções e o ambiente do filme, não apenas assistir.\n\nO Problema: Assim que o filme começou, as cortinas pesadas se fecharam e não abrem mais. O sistema de som potente começou a emitir frequências estranhas e, pior, a \"Sincronia Neural\" está forte demais. O filme está vazando para a realidade. O público está preso em um transe coletivo, acreditando que está vivendo no passado de Ardozart, enquanto elementos do filme começam a se materializar fisicamente no saguão e na sala de projeção.\n\nPara cumprir a missão, deve atingir os 3 objetivos (cada um em 1 Post): 1) O Saguão Assombrado: O jogador deve atravessar o saguão, que foi tomado por uma névoa sépia. O aroma de pipoca foi substituído por cheiro de carvão antigo. Pokémon fantasmas bloqueiam o caminho para a cabine de projeção (2 Gastly e 1 Misdreavus Lv. 15); 2) A Cabine de Projeção: O jogador deve subir as escadas Art Déco até a cabine. Lá, o Projetor de Sincronia Neural (uma máquina imensa de latão e cristal brilhante) está superaquecendo. Um técnico da Helix está desmaiado no chão. Deve priorizar o atendimento ao homem; 3) O Clímax Cinematográfico: O projetor está sendo \"alimentado\" por um Pokémon que foi atraído pela energia emocional da plateia e invadiu a máquina. Este Pokémon está distorcendo o filme, transformando o documentário histórico em um filme de terror. O jogador precisa entrar na \"luz da projeção\" e derrotar o causador do caos sem quebrar o equipamento.",
+    "description": "Hoje é a noite de estreia de um documentário histórico muito aguardado: \"Ardozart: Antes do Neon\". A cidade inteira está presente, incluindo a elite que apoia a Rede Helix.\n\nPara a ocasião, o Cinema Balaban instalou um novo sistema experimental: o \"Projetor de Sincronia Neural\", uma tecnologia fornecida pela Helix que promete fazer o público sentir as emoções e o ambiente do filme, não apenas assistir.\n\nO Problema: Assim que o filme começou, as cortinas pesadas se fecharam e não abrem mais. O sistema de som potente começou a emitir frequências estranhas e, pior, a \"Sincronia Neural\" está forte demais. O filme está vazando para a realidade. O público está preso em um transe coletivo, acreditando que está vivendo no passado de Ardozart, enquanto elementos do filme começam a se materializar fisicamente no saguão e na sala de projeção.\n\nPara cumprir a missão, deve atingir os 3 objetivos (cada um em 1 Post): 1) O Saguão Assombrado: O jogador deve atravessar o saguão, que foi tomado por uma névoa sépia. O aroma de pipoca foi substituído por cheiro de carvão antigo. Pokémon fantasmas bloqueiam o caminho para a cabine de projeção (2 Gastly e 1 Misdreavus Lv. 15); 2) A Cabine de Projeção: O jogador deve subir as escadas Art Déco até a cabine. Lá, o Projetor de Sincronia Neural (uma máquina imensa de latão e cristal brilhante) está superaquecendo. Um técnico da Helix está desmaiado no chão. Deve priorizar o atendimento ao homem; 3) O Clímax Cinematográfico: O projetor está sendo \"alimentado\" por um Pokémon que foi atraído pela energia emocional da plateia e invadiu a máquina. Este Pokémon está distorcendo o filme, transformando o documentário histórico em um filme de terror. O jogador precisa entrar na \"luz da projeção\" e derrotar o causador do caos sem quebrar o equipamento.\n\nO Sr. Balaban, aliviado, agradece por salvar a reputação do seu cinema histórico e promete nunca mais confiar cegamente na tecnologia experimental da Helix. Fará questão de molhar sua mão pelo silêncio sobre o incidente.",
     "quest_type": "unica",
     "assigned_character": "",
     "objectives": [
@@ -2438,11 +2438,58 @@
       "money": 3000,
       "fame": 0,
       "character_exp": 10,
-      "items": [],
+      "items": [
+        {
+          "item_id": 174,
+          "quantity": 1
+        }
+      ],
       "pokemon": [],
       "custom": []
     },
     "status": "locked",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 57,
+    "name": "Grande Explorador",
+    "requester": "Professor Velkova",
+    "description": "Capture todos os Pokémon Épicos (com seu OT) da Landmark.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Capture os Pokémon Épicos",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 10,
+      "character_exp": 10,
+      "items": [
+        {
+          "item_id": 92,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
     "repeatable": false,
     "cooldown_days": 0
   }
