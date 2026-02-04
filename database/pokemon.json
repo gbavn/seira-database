@@ -229792,6 +229792,10 @@
         "level": 1
       },
       {
+        "level": 1,
+        "move": "Poison fang"
+      },
+      {
         "move": "Leer",
         "level": 13
       },
@@ -229832,6 +229836,10 @@
         "level": 36
       },
       {
+        "level": 40,
+        "move": "Gunk shot"
+      },
+      {
         "move": "Yawn",
         "level": 44
       },
@@ -229846,15 +229854,7 @@
       {
         "move": "Play rough",
         "level": 56
-      },
-      {
-        "level": 1,
-        "move": "Poison fang"
-      },
-      {
-        "level": 40,
-        "move": "Gunk shot"
-      }
+      }      
     ],
     "learnable_moves": [
       "Attract",
