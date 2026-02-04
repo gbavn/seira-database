@@ -229756,7 +229756,7 @@
     "production": [],
     "moveset_by_level": [
       {
-        "move": "Snarl",
+        "move": "Shock wave",
         "level": 0
       },
       {
@@ -229772,11 +229772,11 @@
         "level": 1
       },
       {
-        "move": "Thief",
+        "move": "Toxic spikes",
         "level": 1
       },
       {
-        "move": "Crunch",
+        "move": "Cross poison",
         "level": 1
       },
       {
@@ -229816,7 +229816,7 @@
         "level": 20
       },
       {
-        "move": "Assurance",
+        "move": "Spark",
         "level": 24
       },
       {
@@ -229828,11 +229828,11 @@
         "level": 32
       },
       {
-        "move": "Embargo",
+        "move": "Charge",
         "level": 32
       },
       {
-        "move": "Taunt",
+        "move": "Thunder wave",
         "level": 36
       },
       {
@@ -229844,12 +229844,20 @@
         "level": 48
       },
       {
-        "move": "Sucker punch",
+        "move": "Wild charge",
         "level": 52
       },
       {
         "move": "Play rough",
         "level": 56
+      },
+      {
+        "level": 1,
+        "move": "Poison fang"
+      },
+      {
+        "level": 40,
+        "move": "Gunk shot"
       }
     ],
     "learnable_moves": [
