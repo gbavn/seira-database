@@ -2239,5 +2239,211 @@
     "status": "locked",
     "repeatable": false,
     "cooldown_days": 0
+  },
+  {
+    "id": 52,
+    "name": "As Joias do Poder: Parte 1",
+    "requester": "Professor Velkova",
+    "description": "Quest Inicial para conseguir a Omni Ring",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 5,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 0,
+      "character_exp": 0,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "locked",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 53,
+    "name": "Um Encontro Ardente",
+    "requester": "Mei-mei",
+    "description": "Ao visitar a Casa de Chá das Dobradoras de Fogo de Ardozard, você conhecerá as irmãs dançarinas. Mei-mei, a mais velha, tem um encontro marcado, mas não está muito confortável com a ideia. Trata-se de um cliente chato - sem contar na idade avançada - que vive insistindo na ideia. Sem querer você ouviu a insistência e percebeu que ela não conseguiu negar.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Ajude Mei-mei a sair da enrascada.",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 3,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": [
+        "Ter feito pelo menos 1 Postagem no Ponto de Interesse \"Casa das Dançarinas de Fogo\"."
+      ]
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 2,
+      "character_exp": 5,
+      "items": [
+        {
+          "item_id": 210,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 54,
+    "name": "Estação Calor e Canção",
+    "requester": "",
+    "description": "A Casa Ember & Cordas recebe semanalmente uma equipe da Rádio Calor e Canção, mas os artistas que iriam se apresentar essa semana tiveram que cancelar por questão de logística. Eles precisam de algum músico com o mínimo de Fama para cumprir a agenda. A oportunidade apareceu, vai aceitar? Serão necessários 2 Postagens: 1) Bate-papo no estilo Podcast; 2) Apresentação Musical.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Realizar uma apresentação musical e bate-papo com a rádio (estilo podcast).",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": 3,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": [
+        "50 de Fama"
+      ]
+    },
+    "rewards": {
+      "money": 2000,
+      "fame": 10,
+      "character_exp": 5,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": true,
+    "cooldown_days": 30
+  },
+  {
+    "id": 55,
+    "name": "Spray Errado",
+    "requester": "Florista Frorisbela",
+    "description": "Florisbela está chateada na frente de sua loja \"Eu achei que fosse um spray para plantas, mas é um spray pra garganta. Se me arrumar uma Flabebé, posso lhe dar isso.\" ",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Trocar uma Flabebé por um Throat Spray",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [],
+      "pokemon": [
+        {
+          "pokemon_id": 669,
+          "min_level": 1
+        }
+      ],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 2,
+      "character_exp": 3,
+      "items": [
+        {
+          "item_id": 557,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
+  },
+  {
+    "id": 56,
+    "name": "Terror em Technicolor",
+    "requester": "Sr. Ignácio Balaban",
+    "description": "Hoje é a noite de estreia de um documentário histórico muito aguardado: \"Ardozart: Antes do Neon\". A cidade inteira está presente, incluindo a elite que apoia a Rede Helix.\n\nPara a ocasião, o Cinema Balaban instalou um novo sistema experimental: o \"Projetor de Sincronia Neural\", uma tecnologia fornecida pela Helix que promete fazer o público sentir as emoções e o ambiente do filme, não apenas assistir.\n\nO Problema: Assim que o filme começou, as cortinas pesadas se fecharam e não abrem mais. O sistema de som potente começou a emitir frequências estranhas e, pior, a \"Sincronia Neural\" está forte demais. O filme está vazando para a realidade. O público está preso em um transe coletivo, acreditando que está vivendo no passado de Ardozart, enquanto elementos do filme começam a se materializar fisicamente no saguão e na sala de projeção.\n\nPara cumprir a missão, deve atingir os 3 objetivos (cada um em 1 Post): 1) O Saguão Assombrado: O jogador deve atravessar o saguão, que foi tomado por uma névoa sépia. O aroma de pipoca foi substituído por cheiro de carvão antigo. Pokémon fantasmas bloqueiam o caminho para a cabine de projeção (2 Gastly e 1 Misdreavus Lv. 15); 2) A Cabine de Projeção: O jogador deve subir as escadas Art Déco até a cabine. Lá, o Projetor de Sincronia Neural (uma máquina imensa de latão e cristal brilhante) está superaquecendo. Um técnico da Helix está desmaiado no chão. Deve priorizar o atendimento ao homem; 3) O Clímax Cinematográfico: O projetor está sendo \"alimentado\" por um Pokémon que foi atraído pela energia emocional da plateia e invadiu a máquina. Este Pokémon está distorcendo o filme, transformando o documentário histórico em um filme de terror. O jogador precisa entrar na \"luz da projeção\" e derrotar o causador do caos sem quebrar o equipamento.",
+    "quest_type": "unica",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "",
+        "pokemon_sheets": [
+          "[spoiler=\"Rotom\"]<div class=\"tabpokecard\">\n<h2><img src=\"https://2img.net/i.imgur.com/jh5nntd.png\"> Rotom</h2><div class=\"tabpoketop\"><div class=\"tabpokeimage\"><img src=\"https://www.serebii.net/pokemon/art/479.png\"></div><div class=\"tabpokeinfo\"><div class=\"tabpokeinforow\"><span class=\"label\">Espécie</span><span class=\"value\">#479 – Rotom</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Tipo</span><span class=\"value\">:electric: :ghost:</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Gênero</span><span class=\"value\">Masculino ♂</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Habilidade</span><span class=\"value\">Levitate</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Level</span><span class=\"value\">30 (0/2906)</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Felicidade</span><span class=\"value\">70/255</span></div><div class=\"tabpokeinforow\"><span class=\"label\">Item Equipado</span><span class=\"value\">Nada</span></div><div class=\"tabpokeinforow\"><span class=\"label\">OT</span><span class=\"value\">Treinador</span></div>\n</div>\n</div><div class=\"tabpokepart\">\n<h4><i class=\"gmi gmi-polar-star\"></i>Particularidades</h4><div class=\"fitext\">O Rotom usa Double Team para criar cópias de si mesmo, imitando um \"rolo de filme desenrolando\", tornando difícil acertar o verdadeiro.</div></div><div class=\"tabpokebottom\"><div class=\"tabpokesidelabel\"><i class=\"gmi gmi-spell-book\"></i>Traços</div><div class=\"tabpoketraits\"><div class=\"tabpokemoves\"><div class=\"move ghost\">Ominous Wind</div><div class=\"move ghost\">Shadow Ball</div><div class=\"move electric\">Shock Wave</div><div class=\"move normal\">Double Team</div><div class=\"move normal\">Uproar</div><div class=\"move electric\">Charge Beam</div>\n</div><div class=\"tabpokestatus\"><div class=\"tabpokestat\"><i class=\"gmi gmi-glass-heart\"></i><span class=\"stat-name\">HP</span><span class=\"tabpokestatbase\">50</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-fist\"></i><span class=\"stat-name\">ATQ</span><span class=\"tabpokestatbase\">50</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bordered-shield\"></i><span class=\"stat-name\">DEF</span><span class=\"tabpokestatbase\">77</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-hypersonic-bolt\"></i><span class=\"stat-name\">ATQ ESP.</span><span class=\"tabpokestatbase\">95</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-bolt-shield\"></i><span class=\"stat-name\">DEF ESP.</span><span class=\"tabpokestatbase\">77</span></div><div class=\"tabpokestat\"><i class=\"gmi gmi-steelwing-emblem\"></i><span class=\"stat-name\">VEL</span><span class=\"tabpokestatbase\">91</span></div>\n</div>\n</div>\n</div>\n</div>[/spoiler]"
+        ]
+      }
+    ],
+    "requirements": {
+      "level": 4,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 3000,
+      "fame": 0,
+      "character_exp": 10,
+      "items": [],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "locked",
+    "repeatable": false,
+    "cooldown_days": 0
   }
 ]
