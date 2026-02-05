@@ -2492,5 +2492,53 @@
     "status": "available",
     "repeatable": false,
     "cooldown_days": 0
+  },
+  {
+    "id": 58,
+    "name": "Você quer trabalhar na neve?",
+    "requester": "Esquimó Sven",
+    "description": "Sven tem um negócio um pouco incomum. Ele vende gelo, só que trabalha em um local rodeado de neve. E fica muito irritado quando apontam o óbvio. Só que ele adora fazer negócio com viajantes, dizendo que se lhe arrumarem uma quantidade específica de bolas de neve, vai lhe retribuir com um item de gelo.",
+    "quest_type": "comum",
+    "assigned_character": "",
+    "objectives": [
+      {
+        "type": "battle",
+        "description": "Trocar item",
+        "pokemon_sheets": []
+      }
+    ],
+    "requirements": {
+      "level": null,
+      "completed_quests": [],
+      "pokemon": [],
+      "items": [
+        {
+          "item_id": 388,
+          "quantity": 10,
+          "unique": false
+        }
+      ],
+      "perks": {
+        "mode": "all",
+        "perk_ids": []
+      },
+      "custom": []
+    },
+    "rewards": {
+      "money": 0,
+      "fame": 0,
+      "character_exp": 3,
+      "items": [
+        {
+          "item_id": 207,
+          "quantity": 1
+        }
+      ],
+      "pokemon": [],
+      "custom": []
+    },
+    "status": "available",
+    "repeatable": false,
+    "cooldown_days": 0
   }
 ]
