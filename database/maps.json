@@ -1363,7 +1363,12 @@
         "shop_data": null
       }
     ],
-    "forageable_items": [],
+    "forageable_items": [
+      {
+        "item_id": 388,
+        "collected_quantity": 1
+      }
+    ],
     "spawns": {
       "common": [
         220,
