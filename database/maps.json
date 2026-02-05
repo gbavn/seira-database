@@ -1346,10 +1346,14 @@
     },
     "metadata": {
       "population": "",
-      "economy": [],
+      "economy": [
+        "Turismo (atividades no gelo)"
+      ],
       "based_on": ""
     },
-    "quest_ids": [],
+    "quest_ids": [
+      58
+    ],
     "points_of_interest": [
       {
         "id": "poi-1768102618772",
@@ -1387,7 +1391,9 @@
         722
       ]
     },
-    "interaction_objects": [],
+    "interaction_objects": [
+      "ApriTree"
+    ],
     "accesses": {
       "south": {
         "id": "FRT",
@@ -1462,7 +1468,6 @@
         524
       ],
       "rare": [
-        739,
         613,
         363,
         10082
