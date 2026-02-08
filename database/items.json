@@ -3066,13 +3066,13 @@
     "category": "other",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/tinymushroom.png",
     "price": {
-      "buy": 900,
-      "sell": 299,
+      "buy": 0,
+      "sell": 250,
       "casino": 0,
       "mile": 0
     },
     "shop_availability": {
-      "pokemart": true,
+      "pokemart": false,
       "casino": false,
       "mile_shop": false
     },
@@ -3099,7 +3099,7 @@
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/bigmushroom.png",
     "price": {
       "buy": 0,
-      "sell": 1800,
+      "sell": 2500,
       "casino": 0,
       "mile": 0
     },
@@ -3298,8 +3298,8 @@
     "category": "craft-material",
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/honey.png",
     "price": {
-      "buy": 900,
-      "sell": 450,
+      "buy": 500,
+      "sell": 250,
       "casino": 0,
       "mile": 0
     },
@@ -10311,9 +10311,14 @@
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/slowpoketail.png",
     "price": {
       "buy": 0,
-      "sell": 0,
+      "sell": 3000,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -10329,8 +10334,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 322,
@@ -11739,9 +11743,14 @@
     "sprite": "https://www.serebii.net/itemdex/sprites/sv/balmmushroom.png",
     "price": {
       "buy": 0,
-      "sell": 4000,
+      "sell": 7500,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -11757,8 +11766,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 371,
@@ -22690,7 +22698,7 @@
     "sprite": "https://2img.net/i.imgur.com/Y1BKjP8.png",
     "price": {
       "buy": 0,
-      "sell": 0,
+      "sell": 600,
       "casino": 0,
       "mile": 0
     },
