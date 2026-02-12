@@ -208990,8 +208990,14 @@
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "epico",
-    "is_producer": false,
-    "production": [],
+    "is_producer": true,
+    "production": [
+      {
+        "item_id": 683,
+        "item_name": "Gimmighoul Coin",
+        "description": "Gimmighoul coleta moedas perdidas por onde passa, reunindo um pequeno tesouro ao longo da semana. (O jogador deve rolar 1d50 a cada postagem para determinar quantas moedas ele encontrou.)"
+      }
+    ],
     "moveset_by_level": [
       {
         "move": "Tackle",
