@@ -217371,7 +217371,7 @@
     "height": 0.8,
     "weight": 24,
     "dex_entry": "It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger.",
-    "classification": "Pokémon Cavalo Mágico",
+    "classification": "Magic Horse Pokémon",
     "held_items": [],
     "evolves_to": [],
     "is_starter": false,
@@ -217514,9 +217514,8 @@
     "height": 1.7,
     "weight": 80,
     "dex_entry": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
-    "classification": "Pokémon Cavalo Mágico",
+    "classification": "Fire Horse Pokémon",
     "held_items": [],
-    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -217634,7 +217633,8 @@
       "Wonder room",
       "Zen headbutt"
     ],
-    "egg_moves": []
+    "egg_moves": [],
+    "evolves_to": []
   },
   {
     "id": 10022,
@@ -229867,7 +229867,7 @@
     "height": 0.8,
     "weight": 24,
     "dex_entry": "Dizem que eles nascem das nuvens e descem ao Monte Glacio galopando em alta velocidade. São bem tímidos e não gostam de se misturar com outras espécies. Quem tocou em sua crina afirma que é como abraçar a almofada mais fofa do mundo.",
-    "classification": "Pokémon Cavalo Voador",
+    "classification": "Flying Horse Pokémon",
     "held_items": [],
     "evolves_to": [
       {
@@ -230027,7 +230027,7 @@
     "height": 1.7,
     "weight": 80,
     "dex_entry": "É um Pokémon extremamente veloz, podendo galopar até 240 km/h em céus e terra.",
-    "classification": "Pokémon Cavalo Voador",
+    "classification": "Flying Horse Pokémon",
     "held_items": [],
     "evolves_to": [],
     "is_starter": false,
@@ -249919,7 +249919,7 @@
     "height": 1.7,
     "weight": 80,
     "dex_entry": "Quando entra em campo, todo o território ao redor fica tomado pela sua energia.",
-    "classification": "Pokémon Cavalo Voador",
+    "classification": "Flying Horse Pokémon",
     "held_items": [],
     "is_starter": false,
     "in_seira_pokedex": true,
