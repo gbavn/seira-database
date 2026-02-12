@@ -58790,8 +58790,6 @@
     "id": 246,
     "name": "Larvitar",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Ground"
@@ -58828,9 +58826,21 @@
     "dex_entry": "Nascido profundamente no subsolo, sobe à superfície e se torna uma pupa após terminar de comer o solo ao redor.",
     "classification": "Pokémon Pele de Rocha",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Pupitar",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 30
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -58994,26 +59004,12 @@
       "Assurance",
       "Iron head",
       "Stealth rock"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Pupitar",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 30
-          }
-        ]
-      }
     ]
   },
   {
     "id": 247,
     "name": "Pupitar",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Ground"
@@ -59048,9 +59044,21 @@
     "dex_entry": "Mesmo selado em sua casca, pode se mover livremente. Rápido e resistente, possui incrível poder destrutivo.",
     "classification": "Pokémon Casca Dura",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Tyranitar",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 55
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -59221,26 +59229,12 @@
       "Assurance",
       "Iron head",
       "Stealth rock"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Tyranitar",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 55
-          }
-        ]
-      }
     ]
   },
   {
     "id": 248,
     "name": "Tyranitar",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Dark"
@@ -59277,9 +59271,10 @@
     "dex_entry": "Seu corpo não pode ser ferido por nenhum tipo de ataque, então desafia inimigos sem hesitar.",
     "classification": "Pokémon Armadura",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -59519,8 +59514,7 @@
       "Assurance",
       "Iron head",
       "Stealth rock"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 249,
@@ -71586,9 +71580,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": true,
     "production": [
       {
@@ -71817,15 +71812,12 @@
       "Sucker punch",
       "Nasty plot",
       "Captivate"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 303,
     "name": "Mawile",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Steel",
       "Fairy"
@@ -71875,9 +71867,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -72068,8 +72061,7 @@
       "Captivate",
       "Misty terrain",
       "Power up-punch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 304,
@@ -79882,8 +79874,6 @@
     "id": 337,
     "name": "Lunatone",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Psychic"
@@ -79898,7 +79888,10 @@
     "egg_groups": [
       "Mineral"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 161,
     "stats": {
@@ -79931,9 +79924,10 @@
         "rarity": 1
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -80105,15 +80099,12 @@
       "Weather ball",
       "Zen headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 338,
     "name": "Solrock",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Psychic"
@@ -80128,7 +80119,10 @@
     "egg_groups": [
       "Mineral"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 161,
     "stats": {
@@ -80161,9 +80155,10 @@
         "rarity": 1
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -80340,8 +80335,7 @@
       "Wonder room",
       "Zen headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 339,
@@ -81648,8 +81642,6 @@
     "id": 345,
     "name": "Lileep",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Grass"
@@ -81692,9 +81684,21 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Cradily",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 40
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -81835,26 +81839,12 @@
       "Tickle",
       "Wring out",
       "Stealth rock"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Cradily",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 40
-          }
-        ]
-      }
     ]
   },
   {
     "id": 346,
     "name": "Cradily",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Grass"
@@ -81897,9 +81887,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -82057,15 +82048,12 @@
       "Tickle",
       "Wring out",
       "Stealth rock"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 347,
     "name": "Anorith",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Bug"
@@ -82102,9 +82090,21 @@
     "dex_entry": "Este Pokémon foi restaurado de um fóssil. Anorith viveu no oceano há cerca de 100 milhões de anos, caçando com seu par de garras.",
     "classification": "Pokémon Camarão Antigo",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Armaldo",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 40
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -82238,26 +82238,12 @@
       "Water pulse",
       "Cross poison",
       "Aqua jet"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Armaldo",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 40
-          }
-        ]
-      }
     ]
   },
   {
     "id": 348,
     "name": "Armaldo",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Bug"
@@ -82294,9 +82280,10 @@
     "dex_entry": "Após evoluir, este Pokémon surgiu na terra firme. Sua parte inferior ficou mais forte, e os golpes de sua cauda são devastadores.",
     "classification": "Pokémon Placa",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -82447,8 +82434,7 @@
       "Water pulse",
       "Cross poison",
       "Aqua jet"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 349,
@@ -82824,8 +82810,6 @@
     "id": 351,
     "name": "Castform",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -82866,9 +82850,10 @@
         "rarity": 100
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -82992,15 +82977,12 @@
       "Clear smog",
       "Hex",
       "Reflect type"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 352,
     "name": "Kecleon",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -83042,9 +83024,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -83245,8 +83228,7 @@
       "Nasty plot",
       "Foul play",
       "Power up-punch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 353,
@@ -84267,9 +84249,10 @@
     "dex_entry": "Os cachos de frutas que crescem no pescoço dos Tropius de Alola são especialmente doces em comparação aos de outras regiões.",
     "classification": "Pokémon Fruta",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": true,
     "production": [
       {
@@ -84456,8 +84439,7 @@
       "Natural gift",
       "Leaf storm",
       "Dragon hammer"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 358,
@@ -84717,8 +84699,6 @@
     "id": 359,
     "name": "Absol",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dark"
     ],
@@ -84761,9 +84741,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -84965,8 +84946,7 @@
       "Zen headbutt",
       "Hex",
       "Play rough"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 360,
@@ -87001,8 +86981,9 @@
         "rarity": 50
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
+    "in_seira_pokedex": true,
     "rarity": "comum",
     "is_producer": true,
     "production": [
@@ -87159,8 +87140,7 @@
       "Aqua jet",
       "Entrainment",
       "Heal pulse"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 371,
@@ -95135,8 +95115,6 @@
     "id": 408,
     "name": "Cranidos",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock"
     ],
@@ -95172,9 +95150,21 @@
     "dex_entry": "Um Pokémon primevo, possui um crânio duro e resistente, mas carece de qualquer inteligência.",
     "classification": "Pokémon Cabeçada",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Rampardos",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 30
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -95354,26 +95344,12 @@
       "Crunch",
       "Hammer arm",
       "Iron head"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Rampardos",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 30
-          }
-        ]
-      }
     ]
   },
   {
     "id": 409,
     "name": "Rampardos",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock"
     ],
@@ -95409,9 +95385,10 @@
     "dex_entry": "Antigamente, as pessoas desenterravam fósseis deste Pokémon e usavam seu crânio, mais duro que aço, para fabricar capacetes.",
     "classification": "Pokémon Cabeçada",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -95613,15 +95590,12 @@
       "Crunch",
       "Hammer arm",
       "Iron head"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 410,
     "name": "Shieldon",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Steel"
@@ -95658,9 +95632,21 @@
     "dex_entry": "Um Pokémon herbívoro e dócil que usava o rosto para cavar raízes de árvores. A pele de seu rosto era extremamente resistente.",
     "classification": "Pokémon Escudo",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Bastiodon",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 30
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -95814,26 +95800,12 @@
       "Stealth rock",
       "Wide guard",
       "Guard split"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Bastiodon",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 30
-          }
-        ]
-      }
     ]
   },
   {
     "id": 411,
     "name": "Bastiodon",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Steel"
@@ -95870,9 +95842,10 @@
     "dex_entry": "Os ossos de seu rosto são enormes e duros, e por isso foram confundidos com sua espinha até que o Pokémon fosse restaurado com sucesso.",
     "classification": "Pokémon Escudo",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -96041,8 +96014,7 @@
       "Stealth rock",
       "Wide guard",
       "Guard split"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 412,
@@ -102782,8 +102754,6 @@
     "id": 442,
     "name": "Spiritomb",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ghost",
       "Dark"
@@ -102820,9 +102790,10 @@
     "dex_entry": "Exatamente 108 espíritos se juntaram para formar este Pokémon. Aparentemente, alguns desses espíritos têm natureza maligna.",
     "classification": "Pokémon Proibido",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -102988,8 +102959,7 @@
       "Captivate",
       "Foul play",
       "Ally switch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 443,
@@ -103733,9 +103703,21 @@
         "rarity": 100
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Snorlax",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "custom",
+            "description": "Level up (especificar condição: friendship, location, move, etc)"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": true,
     "production": [
       {
@@ -103960,18 +103942,6 @@
       "Zen headbutt",
       "After you",
       "Belch"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Snorlax",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -106606,8 +106576,6 @@
     "id": 458,
     "name": "Mantyke",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water",
       "Flying"
@@ -106645,9 +106613,21 @@
     "dex_entry": "Os Mantyke encontrados em Galar parecem um pouco lentos. A temperatura mais fria das águas da região pode ser a causa.",
     "classification": "Pokémon Pipa",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Mantine",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "custom",
+            "description": "Level up (especificar condição: friendship, location, move, etc)"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -106792,18 +106772,6 @@
       "Water sport",
       "Tailwind",
       "Wide guard"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Mantine",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
@@ -107249,8 +107217,6 @@
     "id": 461,
     "name": "Weavile",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dark",
       "Ice"
@@ -107298,9 +107264,10 @@
         "rarity": 50
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -107532,8 +107499,7 @@
       "Double hit",
       "Icicle crash",
       "Throat chop"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 462,
@@ -107768,8 +107734,6 @@
     "id": 463,
     "name": "Lickilicky",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -107812,9 +107776,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -108016,8 +107981,7 @@
       "Hammer arm",
       "Zen headbutt",
       "Belch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 464,
@@ -108551,8 +108515,6 @@
     "id": 466,
     "name": "Electivire",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric"
     ],
@@ -108594,9 +108556,10 @@
         "rarity": 50
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -108787,15 +108750,12 @@
       "Follow me",
       "Hammer arm",
       "Feint"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 467,
     "name": "Magmortar",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fire"
     ],
@@ -108837,9 +108797,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -109032,8 +108993,7 @@
       "Power swap",
       "Flare blitz",
       "Belch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 468,
@@ -109326,8 +109286,6 @@
     "id": 469,
     "name": "Yanmega",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Bug",
       "Flying"
@@ -109371,9 +109329,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -109555,8 +109514,7 @@
       "Silver wind",
       "Signal beam",
       "Feint"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 470,
@@ -158306,8 +158264,6 @@
     "id": 707,
     "name": "Klefki",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Steel",
       "Fairy"
@@ -158344,9 +158300,10 @@
     "dex_entry": "Este Pokémon coleciona chaves constantemente. Se você confiar a ele chaves importantes, ele as protegerá a qualquer custo.",
     "classification": "Pokémon Chaveiro",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -158487,8 +158444,7 @@
       "Iron defense",
       "Magnet rise",
       "Switcheroo"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 708,
