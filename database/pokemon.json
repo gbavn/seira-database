@@ -4934,7 +4934,7 @@
     ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -5153,8 +5153,6 @@
     "id": 26,
     "name": "Raichu",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric"
     ],
@@ -5197,9 +5195,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -5420,8 +5419,7 @@
       "Bestow",
       "Disarming voice",
       "Electric terrain"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 27,
@@ -5953,8 +5951,6 @@
     "id": 29,
     "name": "Nidoran f",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Poison"
     ],
@@ -5992,9 +5988,10 @@
     "dex_entry": "As fêmeas são mais sensíveis a cheiros do que os machos. Enquanto forrageiam, usam seus bigodes para checar a direção do vento e permanecer a favor dele.",
     "classification": "Pokémon Espinho Venenoso",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -6148,8 +6145,7 @@
       "Poison tail",
       "Chip away",
       "Venom drench"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 30,
@@ -6224,7 +6220,7 @@
     ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -6372,8 +6368,6 @@
     "id": 31,
     "name": "Nidoqueen",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Poison",
       "Ground"
@@ -6411,9 +6405,10 @@
     "dex_entry": "Nidoqueen é melhor em defesa do que em ataque. Com escamas como armadura, este Pokémon protegerá seus filhotes de qualquer tipo de ataque.",
     "classification": "Pokémon Broca",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -6622,15 +6617,12 @@
       "Water pulse",
       "Whirlpool"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 32,
     "name": "Nidoran m",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Poison"
     ],
@@ -6668,9 +6660,10 @@
     "dex_entry": "O chifre na testa de um Nidoran macho contém um veneno poderoso. Este é um Pokémon muito cauteloso, sempre forçando seus grandes ouvidos.",
     "classification": "Pokémon Espinho Venenoso",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -6823,8 +6816,7 @@
       "Head smash",
       "Chip away",
       "Venom drench"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 33,
@@ -6900,7 +6892,7 @@
     ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -7045,8 +7037,6 @@
     "id": 34,
     "name": "Nidoking",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Poison",
       "Ground"
@@ -7085,9 +7075,10 @@
     "dex_entry": "Quando entra em fúria, é impossível controlá-lo. Mas na presença de uma Nidoqueen com quem vive há muito tempo, Nidoking se acalma.",
     "classification": "Pokémon Broca",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -7297,8 +7288,7 @@
       "Water pulse",
       "Whirlpool"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 35,
@@ -14740,9 +14730,21 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Kadabra",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 16
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -14861,18 +14863,6 @@
       "Guard split",
       "Ally switch",
       "Psychic terrain"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Kadabra",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 16
-          }
-        ]
-      }
     ]
   },
   {
@@ -14921,9 +14911,20 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Alakazam",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "trade"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -15130,25 +15131,12 @@
       "Guard split",
       "Ally switch",
       "Psychic terrain"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Alakazam",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "trade"
-          }
-        ]
-      }
     ]
   },
   {
     "id": 65,
     "name": "Alakazam",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Psychic"
     ],
@@ -15191,9 +15179,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -15415,8 +15404,7 @@
       "Guard split",
       "Ally switch",
       "Psychic terrain"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 66,
@@ -18252,8 +18240,6 @@
     "id": 77,
     "name": "Ponyta",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fire"
     ],
@@ -18296,9 +18282,21 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Rapidash",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 40
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -18450,26 +18448,12 @@
       "Captivate",
       "Ally switch",
       "High horsepower"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Rapidash",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 40
-          }
-        ]
-      }
     ]
   },
   {
     "id": 78,
     "name": "Rapidash",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fire"
     ],
@@ -18512,9 +18496,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -18697,8 +18682,7 @@
       "Captivate",
       "Ally switch",
       "High horsepower"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 79,
@@ -20019,8 +20003,6 @@
     "id": 84,
     "name": "Doduo",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal",
       "Flying"
@@ -20064,9 +20046,21 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Dodrio",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 31
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -20226,26 +20220,12 @@
       "Natural gift",
       "Assurance",
       "Brave bird"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Dodrio",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 31
-          }
-        ]
-      }
     ]
   },
   {
     "id": 85,
     "name": "Dodrio",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal",
       "Flying"
@@ -20289,9 +20269,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -20469,15 +20450,12 @@
       "Natural gift",
       "Assurance",
       "Brave bird"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 86,
     "name": "Seel",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water"
     ],
@@ -20521,9 +20499,21 @@
         "rarity": 50
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Dewgong",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 34
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -20707,26 +20697,12 @@
       "Water pulse",
       "Entrainment",
       "Belch"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Dewgong",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 34
-          }
-        ]
-      }
     ]
   },
   {
     "id": 87,
     "name": "Dewgong",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water",
       "Ice"
@@ -20776,9 +20752,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -20982,8 +20959,7 @@
       "Water pulse",
       "Entrainment",
       "Belch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 88,
@@ -22841,7 +22817,7 @@
     ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -25416,8 +25392,6 @@
     "id": 106,
     "name": "Hitmonlee",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fighting"
     ],
@@ -25454,9 +25428,10 @@
     "dex_entry": "Este incrível Pokémon tem um impressionante senso de equilíbrio. Pode chutar repetidamente a partir de qualquer posição.",
     "classification": "Pokémon Chutador",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -25664,15 +25639,12 @@
       "Vacuum wave",
       "Bullet punch",
       "Ally switch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 107,
     "name": "Hitmonchan",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fighting"
     ],
@@ -25709,9 +25681,10 @@
     "dex_entry": "Seus socos cortam o ar. São lançados tão rápido que até um leve arranhão pode causar queimadura.",
     "classification": "Pokémon Socador",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -25928,8 +25901,7 @@
       "Vacuum wave",
       "Bullet punch",
       "Ally switch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 108,
@@ -25995,7 +25967,7 @@
     ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -27855,8 +27827,6 @@
     "id": 115,
     "name": "Kangaskhan",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -27893,9 +27863,10 @@
     "dex_entry": "Apesar de carregar seu filhote em uma bolsa na barriga, Kangaskhan é rápido em seus movimentos. Intimida o oponente com golpes rápidos.",
     "classification": "Pokémon Mãe",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -28105,15 +28076,12 @@
       "Hammer arm",
       "Trump card",
       "Circle throw"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 116,
     "name": "Horsea",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water"
     ],
@@ -28157,9 +28125,21 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Seadra",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 32
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -28308,18 +28288,6 @@
       "Muddy water",
       "Water pulse",
       "Clear smog"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Seadra",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 32
-          }
-        ]
-      }
     ]
   },
   {
@@ -28388,7 +28356,7 @@
     ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -29473,9 +29441,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -29724,8 +29693,7 @@
       "Zap cannon",
       "Zen headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 123,
@@ -30330,7 +30298,7 @@
     ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -30579,7 +30547,7 @@
     ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -30988,8 +30956,6 @@
     "id": 128,
     "name": "Tauros",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -31026,9 +30992,10 @@
     "dex_entry": "Quando Tauros começa a se chicotear com suas caudas, é um aviso de que está prestes a investir com velocidade assombrosa.",
     "classification": "Pokémon Touro Selvagem",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -31208,8 +31175,7 @@
     "egg_moves": [
       "Curse",
       "Endeavor"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 129,
@@ -33261,8 +33227,6 @@
     "id": 138,
     "name": "Omanyte",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Water"
@@ -33301,9 +33265,21 @@
     "dex_entry": "Como alguns Omanyte conseguem escapar após serem restaurados ou são soltos na natureza por pessoas, essa espécie está virando um problema.",
     "classification": "Pokémon Espiral",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Omastar",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 40
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -33476,26 +33452,12 @@
       "Wring out",
       "Toxic spikes",
       "Reflect type"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Omastar",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 40
-          }
-        ]
-      }
     ]
   },
   {
     "id": 139,
     "name": "Omastar",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Water"
@@ -33534,9 +33496,10 @@
     "dex_entry": "Por causa de sua concha grande e pesada, Omastar não podia se mover muito rápido. Alguns dizem que foi extinto por não conseguir capturar alimento.",
     "classification": "Pokémon Espiral",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -33732,15 +33695,12 @@
       "Wring out",
       "Toxic spikes",
       "Reflect type"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 140,
     "name": "Kabuto",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Water"
@@ -33779,9 +33739,21 @@
     "dex_entry": "Esta espécie está quase totalmente extinta. Kabuto troca de casco a cada três dias, tornando-os cada vez mais duros.",
     "classification": "Pokémon Marisco",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Kabutops",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 40
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -33955,26 +33927,12 @@
       "Rapid spin",
       "Knock off",
       "Mud shot"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Kabutops",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 40
-          }
-        ]
-      }
     ]
   },
   {
     "id": 141,
     "name": "Kabutops",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Water"
@@ -34013,9 +33971,10 @@
     "dex_entry": "Kabutops fatia suas presas e suga seus fluidos. As partes descartadas viram alimento para outros Pokémon.",
     "classification": "Pokémon Marisco",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -34235,15 +34194,12 @@
       "Rapid spin",
       "Knock off",
       "Mud shot"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 142,
     "name": "Aerodactyl",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Flying"
@@ -34281,9 +34237,10 @@
     "dex_entry": "Um Pokémon feroz dos tempos antigos. Aparentemente, nem a tecnologia moderna é capaz de produzir um exemplar restaurado perfeitamente.",
     "classification": "Pokémon Fóssil",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -34472,15 +34429,12 @@
       "Tailwind",
       "Assurance",
       "Wide guard"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 143,
     "name": "Snorlax",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -34528,9 +34482,10 @@
         "rarity": 100
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -34817,15 +34772,12 @@
       "Zen headbutt",
       "After you",
       "Belch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 144,
     "name": "Articuno",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ice",
       "Flying"
@@ -34842,7 +34794,10 @@
     "egg_groups": [
       "No eggs"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 261,
     "stats": {
@@ -34859,6 +34814,7 @@
     "dex_entry": "Dizem que as belas asas azuis deste Pokémon são feitas de gelo. Articuno voa sobre montanhas nevadas, com sua longa cauda ondulando atrás.",
     "classification": "Pokémon Congelamento",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "especial",
@@ -35034,8 +34990,7 @@
       "Weather ball",
       "Whirlwind"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 145,
@@ -41658,7 +41613,7 @@
     ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -46620,7 +46575,7 @@
     ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -48643,8 +48598,6 @@
     "id": 202,
     "name": "Wobbuffet",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Psychic"
     ],
@@ -48680,9 +48633,10 @@
     "dex_entry": "Detesta luz e choques. Se for atacado, infla o corpo para ampliar a força de seu contra-golpe.",
     "classification": "Pokémon Paciente",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -48725,8 +48679,7 @@
       "Encore",
       "Safeguard"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 203,
@@ -49510,7 +49463,7 @@
     ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -50003,8 +49956,6 @@
     "id": 208,
     "name": "Steelix",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Steel",
       "Ground"
@@ -50048,9 +49999,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -50285,15 +50237,12 @@
       "Heavy slam",
       "Dragon tail",
       "Rototiller"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 209,
     "name": "Snubbull",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fairy"
     ],
@@ -50331,9 +50280,21 @@
     "dex_entry": "Apega-se aos outros com facilidade e se estraga facilmente também. O contraste entre sua aparência e seu comportamento enlouquece muitos jovens de paixão.",
     "classification": "Pokémon Fada",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Granbull",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 23
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -50538,26 +50499,12 @@
       "Ice fang",
       "Fire fang",
       "Retaliate"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Granbull",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 23
-          }
-        ]
-      }
     ]
   },
   {
     "id": 210,
     "name": "Granbull",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fairy"
     ],
@@ -50595,9 +50542,10 @@
     "dex_entry": "Apesar de suas mandíbulas poderosas, não gosta de brigas, então raramente tem chance de mostrar sua força.",
     "classification": "Pokémon Fada",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -50816,8 +50764,7 @@
       "Ice fang",
       "Fire fang",
       "Retaliate"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 211,
@@ -51565,8 +51512,6 @@
     "id": 214,
     "name": "Heracross",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Bug",
       "Fighting"
@@ -51604,9 +51549,10 @@
     "dex_entry": "Heracross adora seiva doce e vasculha florestas atrás dela. Usa suas duas antenas para rastrear cheiros enquanto procura.",
     "classification": "Pokémon Chifre Único",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -51809,8 +51755,7 @@
       "Rock blast",
       "Feint",
       "Night slash"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 215,
@@ -51887,7 +51832,7 @@
     ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -53816,8 +53761,6 @@
     "id": 223,
     "name": "Remoraid",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water"
     ],
@@ -53855,9 +53798,21 @@
     "dex_entry": "A água que dispara pela boca pode atingir presas em movimento a mais de 90 metros de distância.",
     "classification": "Pokémon Jato",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Octillery",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -54007,26 +53962,12 @@
       "Water pulse",
       "Acid spray",
       "Entrainment"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Octillery",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 25
-          }
-        ]
-      }
     ]
   },
   {
     "id": 224,
     "name": "Octillery",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water"
     ],
@@ -54064,9 +54005,10 @@
     "dex_entry": "Tem tendência a querer viver em buracos. Prefere fendas rochosas ou potes, de onde borrifa tinta antes de atacar.",
     "classification": "Pokémon Jato",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -54250,15 +54192,12 @@
       "Water pulse",
       "Acid spray",
       "Entrainment"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 225,
     "name": "Delibird",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ice",
       "Flying"
@@ -54297,9 +54236,10 @@
     "dex_entry": "Carrega comida o dia inteiro. Há relatos de pessoas perdidas que foram salvas graças aos mantimentos que ele levava.",
     "classification": "Pokémon Entrega",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -54420,15 +54360,12 @@
       "Bestow",
       "Freeze dry",
       "Aurora veil"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 226,
     "name": "Mantine",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water",
       "Flying"
@@ -54466,9 +54403,10 @@
     "dex_entry": "Se ganhar velocidade suficiente nadando, pode saltar sobre as ondas e planar por mais de 90 metros.",
     "classification": "Pokémon Arraia",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -54647,15 +54585,12 @@
       "Water sport",
       "Tailwind",
       "Wide guard"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 227,
     "name": "Skarmory",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Steel",
       "Flying"
@@ -54704,9 +54639,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -54890,8 +54826,7 @@
       "Night slash",
       "Brave bird",
       "Stealth rock"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 228,
@@ -55394,8 +55329,6 @@
     "id": 230,
     "name": "Kingdra",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water",
       "Dragon"
@@ -55440,9 +55373,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -55605,8 +55539,7 @@
       "Muddy water",
       "Water pulse",
       "Clear smog"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 231,
@@ -56608,8 +56541,6 @@
     "id": 236,
     "name": "Tyrogue",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fighting"
     ],
@@ -56646,9 +56577,41 @@
     "dex_entry": "Está sempre cheio de energia. Para ficar mais forte, continua lutando mesmo quando perde.",
     "classification": "Pokémon Briga",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Hitmonlee",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 20
+          }
+        ]
+      },
+      {
+        "pokemon": "Hitmonchan",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 20
+          }
+        ]
+      },
+      {
+        "pokemon": "Hitmontop",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 20
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -56743,46 +56706,12 @@
       "Vacuum wave",
       "Bullet punch",
       "Ally switch"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Hitmonlee",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 20
-          }
-        ]
-      },
-      {
-        "pokemon": "Hitmonchan",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 20
-          }
-        ]
-      },
-      {
-        "pokemon": "Hitmontop",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 20
-          }
-        ]
-      }
     ]
   },
   {
     "id": 237,
     "name": "Hitmontop",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fighting"
     ],
@@ -56819,9 +56748,10 @@
     "dex_entry": "Ele desfere chutes enquanto gira. Se girar em alta velocidade, pode perfurar o solo.",
     "classification": "Pokémon Mão-Invertida",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -57001,8 +56931,7 @@
       "Vacuum wave",
       "Bullet punch",
       "Ally switch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 238,
@@ -57236,8 +57165,6 @@
     "id": 239,
     "name": "Elekid",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric"
     ],
@@ -57279,9 +57206,21 @@
         "rarity": 50
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Electabuzz",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 30
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -57439,26 +57378,12 @@
       "Follow me",
       "Hammer arm",
       "Feint"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Electabuzz",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 30
-          }
-        ]
-      }
     ]
   },
   {
     "id": 240,
     "name": "Magby",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fire"
     ],
@@ -57505,9 +57430,21 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Magmar",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 30
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -57674,18 +57611,6 @@
       "Power swap",
       "Flare blitz",
       "Belch"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Magmar",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 30
-          }
-        ]
-      }
     ]
   },
   {
