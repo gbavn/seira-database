@@ -129231,8 +129231,6 @@
     "id": 564,
     "name": "Tirtouga",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water",
       "Rock"
@@ -129271,9 +129269,21 @@
     "dex_entry": "Vivia em mares antigos. Embora só rasteje, ainda sobe à terra em busca de presas.",
     "classification": "Pokémon Prototartaruga",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Carracosta",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 37
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -129426,26 +129436,12 @@
       "Water pulse",
       "Guard swap",
       "Liquidation"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Carracosta",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 37
-          }
-        ]
-      }
     ]
   },
   {
     "id": 565,
     "name": "Carracosta",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water",
       "Rock"
@@ -129484,9 +129480,10 @@
     "dex_entry": "Carracosta devora completamente suas presas—ossos, conchas e tudo. Por isso sua própria carapaça cresce espessa e resistente.",
     "classification": "Pokémon Prototartaruga",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -129646,15 +129643,12 @@
       "Water pulse",
       "Guard swap",
       "Liquidation"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 566,
     "name": "Archen",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Flying"
@@ -129690,9 +129684,21 @@
     "dex_entry": "Foi restaurado com sucesso de um fóssil. Como sugerido por pesquisas, Archen não consegue voar—mas é ótimo em saltar.",
     "classification": "Pokémon Primeiro Pássaro",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Archeops",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 37
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -129850,26 +129856,12 @@
       "Defog",
       "Head smash",
       "Ally switch"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Archeops",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 37
-          }
-        ]
-      }
     ]
   },
   {
     "id": 567,
     "name": "Archeops",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Rock",
       "Flying"
@@ -129905,9 +129897,10 @@
     "dex_entry": "Ele precisa ganhar velocidade para decolar. Para voar, corre quase 40 km/h ao longo de cerca de 4 km.",
     "classification": "Pokémon Primeiro Pássaro",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -130073,8 +130066,7 @@
       "Defog",
       "Head smash",
       "Ally switch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 568,
@@ -130504,8 +130496,6 @@
     "id": 570,
     "name": "Zorua",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dark"
     ],
@@ -130539,9 +130529,21 @@
     "dex_entry": "Zorua é tímido. Essa disposição parece ter levado ao desenvolvimento de sua habilidade de assumir a forma de outras criaturas.",
     "classification": "Pokémon Raposa Ardilosa",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Zoroark",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 30
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -130700,26 +130702,12 @@
       "Sucker punch",
       "Dark pulse",
       "Captivate"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Zoroark",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 30
-          }
-        ]
-      }
     ]
   },
   {
     "id": 571,
     "name": "Zoroark",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dark"
     ],
@@ -130753,9 +130741,10 @@
     "dex_entry": "Ele se importa profundamente com os de sua espécie e cria ilusões aterrorizantes para proteger seu covil e sua alcateia.",
     "classification": "Pokémon Raposa da Ilusão",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -130937,8 +130926,7 @@
       "Sucker punch",
       "Dark pulse",
       "Captivate"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 572,
@@ -142017,8 +142005,6 @@
     "id": 626,
     "name": "Bouffalant",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -142055,9 +142041,10 @@
     "dex_entry": "Esses Pokémon podem esmagar um carro com apenas uma cabeçada. Bouffalant com mais cabelo na cabeça têm posições mais altas no rebanho.",
     "classification": "Pokémon Búfalo Golpeador",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -142198,8 +142185,7 @@
       "Iron head",
       "Cotton guard",
       "Belch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 627,
@@ -172233,9 +172219,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -172384,8 +172371,7 @@
       "Curse",
       "Destiny bond",
       "Grudge"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 779,
@@ -182699,7 +182685,7 @@
       }
     ],
     "is_starter": false,
-    "in_seira_pokedex": false,
+    "in_seira_pokedex": true,
     "rarity": "raro",
     "is_producer": false,
     "production": [],
@@ -182766,12 +182752,12 @@
     "dex_entry": "Ele comeu uma maçã azeda, o que induziu sua evolução. Em suas bochechas, armazena um ácido capaz de causar queimaduras químicas.",
     "classification": "Pokémon Asa de Maçã",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
+    "in_seira_pokedex": true,
     "rarity": "raro",
     "is_producer": false,
     "production": [],
-    "evolution_moves": [],
     "moveset_by_level": [
       {
         "move": "Growth",
@@ -182878,8 +182864,7 @@
       "Trailblaze",
       "U Turn"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 842,
@@ -182923,12 +182908,12 @@
     "dex_entry": "Comer uma maçã doce causou sua evolução. Um aroma adocicado exala de seu corpo, atraindo os Pokémon inseto dos quais se alimenta.",
     "classification": "Pokémon Néctar de Maçã",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
+    "in_seira_pokedex": true,
     "rarity": "raro",
     "is_producer": false,
     "production": [],
-    "evolution_moves": [],
     "moveset_by_level": [
       {
         "move": "Growth",
@@ -183041,8 +183026,7 @@
       "Trailblaze",
       "Zen Headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 843,
@@ -185065,8 +185049,6 @@
     "id": 856,
     "name": "Hatenna",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Psychic"
     ],
@@ -185103,9 +185085,21 @@
     "dex_entry": "A ponta em sua cabeça sente as emoções de outras criaturas. Se você não for calmo, ela jamais vai se aproximar de você.",
     "classification": "Pokémon Calmo",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Hattrem",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 32
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -185207,26 +185201,12 @@
       "Mystical fire",
       "Aromatic mist",
       "Nuzzle"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Hattrem",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 32
-          }
-        ]
-      }
     ]
   },
   {
     "id": 857,
     "name": "Hattrem",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Psychic"
     ],
@@ -185263,9 +185243,21 @@
     "dex_entry": "Não importa quem você seja — se trouxer emoções fortes perto dela, será silenciado de forma violenta.",
     "classification": "Pokémon Sereno",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Hatterene",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 42
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -185372,26 +185364,12 @@
       "Mystical fire",
       "Aromatic mist",
       "Nuzzle"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Hatterene",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 42
-          }
-        ]
-      }
     ]
   },
   {
     "id": 858,
     "name": "Hatterene",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Psychic",
       "Fairy"
@@ -185429,9 +185407,10 @@
     "dex_entry": "Ela emite um poder psíquico tão intenso que causa dores de cabeça, servindo como aviso para manter distância.",
     "classification": "Pokémon Silencioso",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -185562,15 +185541,12 @@
       "Mystical fire",
       "Aromatic mist",
       "Nuzzle"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 859,
     "name": "Impidimp",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dark",
       "Fairy"
@@ -185609,9 +185585,21 @@
     "dex_entry": "Ele absorve, pelo nariz, a energia produzida por pessoas e Pokémon quando estão irritados. Vive dessa energia negativa.",
     "classification": "Pokémon Arteiro",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Morgrem",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 32
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -185714,26 +185702,12 @@
     ],
     "egg_moves": [
       "Parting shot"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Morgrem",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 32
-          }
-        ]
-      }
     ]
   },
   {
     "id": 860,
     "name": "Morgrem",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dark",
       "Fairy"
@@ -185772,9 +185746,21 @@
     "dex_entry": "Quando se ajoelha como se pedisse perdão, na verdade está atraindo o inimigo para então perfurá-lo com seu cabelo em forma de lança.",
     "classification": "Pokémon Ardiloso",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Grimmsnarl",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 42
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -185883,26 +185869,12 @@
     ],
     "egg_moves": [
       "Parting shot"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Grimmsnarl",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 42
-          }
-        ]
-      }
     ]
   },
   {
     "id": 861,
     "name": "Grimmsnarl",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dark",
       "Fairy"
@@ -185941,9 +185913,10 @@
     "dex_entry": "Com os pelos envolvendo seu corpo fortalecendo seus músculos, esse Pokémon consegue superar até mesmo um Machamp.",
     "classification": "Pokémon Potencializador",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -186088,8 +186061,7 @@
     ],
     "egg_moves": [
       "Parting shot"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 862,
@@ -186916,7 +186888,7 @@
     "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -187772,8 +187744,6 @@
     "id": 871,
     "name": "Pincurchin",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric"
     ],
@@ -187810,9 +187780,10 @@
     "dex_entry": "Ele se alimenta de algas, usando seus dentes para raspar as pedras. Correntes elétricas fluem pelas pontas de seus espinhos.",
     "classification": "Pokémon Ouriço-do-Mar",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -187926,8 +187897,7 @@
     "egg_moves": [
       "Memento",
       "Sucker punch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 872,
@@ -188714,9 +188684,10 @@
     "dex_entry": "Ao comer as sementes guardadas em suas bolsas, não apenas sacia sua fome constante — também gera eletricidade.",
     "classification": "Pokémon Duas-Faces",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -188845,8 +188816,7 @@
       "Tickle",
       "Quash",
       "Parting shot"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 878,
@@ -189782,8 +189752,6 @@
     "id": 885,
     "name": "Dreepy",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dragon",
       "Ghost"
@@ -189822,9 +189790,21 @@
     "dex_entry": "Após renascer como um Pokémon fantasma, ele vagueia pelas áreas que habitava quando era vivo nos mares pré-históricos.",
     "classification": "Pokémon Remanescente",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Drakloak",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 50
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -189873,26 +189853,12 @@
       "Grudge",
       "Sucker punch",
       "Dragon tail"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Drakloak",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 50
-          }
-        ]
-      }
     ]
   },
   {
     "id": 886,
     "name": "Drakloak",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dragon",
       "Ghost"
@@ -189931,9 +189897,21 @@
     "dex_entry": "É capaz de voar acima de 120 mph. Ele batalha ao lado dos Dreepy e cuida deles até evoluírem com sucesso.",
     "classification": "Pokémon Guardião",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Dragapult",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 60
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -190067,26 +190045,12 @@
       "Grudge",
       "Sucker punch",
       "Dragon tail"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Dragapult",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 60
-          }
-        ]
-      }
     ]
   },
   {
     "id": 887,
     "name": "Dragapult",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dragon",
       "Ghost"
@@ -190125,9 +190089,10 @@
     "dex_entry": "Quando não está batalhando, mantém Dreepy nos orifícios dos chifres. Ao começar um combate, lança os Dreepy como mísseis supersônicos.",
     "classification": "Pokémon Furtivo",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -190276,15 +190241,12 @@
       "Grudge",
       "Sucker punch",
       "Dragon tail"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 888,
     "name": "Zacian",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fairy"
     ],
@@ -190298,7 +190260,10 @@
     "egg_groups": [
       "No eggs"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 335,
     "stats": {
@@ -190315,9 +190280,10 @@
     "dex_entry": "Conhecido como um herói lendário, este Pokémon absorve partículas metálicas, transformando-as em uma arma que usa em batalha.",
     "classification": "Pokémon Guerreiro",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -190438,15 +190404,12 @@
       "Wild charge",
       "Work up"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 889,
     "name": "Zamazenta",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fighting"
     ],
@@ -190460,7 +190423,10 @@
     "egg_groups": [
       "No eggs"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 335,
     "stats": {
@@ -190477,9 +190443,10 @@
     "dex_entry": "No passado, ele trabalhou com um rei dos humanos para salvar a região de Galar. Ele absorve metal para usá-lo em combate.",
     "classification": "Pokémon Guerreiro",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -190602,15 +190569,12 @@
       "Wild charge",
       "Work up"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 890,
     "name": "Eternatus",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Poison",
       "Dragon"
@@ -190625,7 +190589,10 @@
     "egg_groups": [
       "No eggs"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 345,
     "stats": {
@@ -190642,9 +190609,10 @@
     "dex_entry": "O núcleo em seu peito absorve a energia que emana das terras de Galar. Essa energia é o que permite que Eternatus permaneça ativo.",
     "classification": "Pokémon Gigante",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -190765,8 +190733,7 @@
       "Venom drench",
       "Venoshock"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 891,
@@ -190839,7 +190806,7 @@
     ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -190988,9 +190955,10 @@
     "dex_entry": "Essa forma de Urshifu acredita firmemente no golpe único e decisivo. Sua estratégia é avançar e aplicar um golpe devastador com um punho endurecido.",
     "classification": "Pokémon Wushu",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -191132,15 +191100,12 @@
       "Work up",
       "Zen headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 893,
     "name": "Zarude",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dark",
       "Grass"
@@ -191155,7 +191120,10 @@
     "egg_groups": [
       "No eggs"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 300,
     "stats": {
@@ -191172,9 +191140,10 @@
     "dex_entry": "Nas florestas densas, ele vive em bandos com seus semelhantes. É extremamente agressivo, e os demais Pokémon da floresta o temem.",
     "classification": "Pokémon Macaco Perverso",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -191319,15 +191288,12 @@
       "Trailblaze",
       "U turn"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 894,
     "name": "Regieleki",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Electric"
     ],
@@ -191341,7 +191307,10 @@
     "egg_groups": [
       "No eggs"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 290,
     "stats": {
@@ -191358,9 +191327,10 @@
     "dex_entry": "Este Pokémon é um aglomerado de energia elétrica. Dizem que remover os anéis de seu corpo liberaria seu poder latente.",
     "classification": "Pokémon Elétron",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -191463,15 +191433,12 @@
       "Volt switch",
       "Wild charge"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 895,
     "name": "Regidrago",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dragon"
     ],
@@ -191485,7 +191452,10 @@
     "egg_groups": [
       "No eggs"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 290,
     "stats": {
@@ -191502,9 +191472,10 @@
     "dex_entry": "Uma teoria acadêmica propõe que os braços de Regidrago eram, antigamente, a cabeça de um Pokémon dragão ancestral. A teoria permanece sem provas.",
     "classification": "Pokémon Orbe Dragão",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -191604,15 +191575,12 @@
       "Tera blast",
       "Thunder fang"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 896,
     "name": "Glastrier",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ice"
     ],
@@ -191626,7 +191594,10 @@
     "egg_groups": [
       "No eggs"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 290,
     "stats": {
@@ -191643,9 +191614,10 @@
     "dex_entry": "Glastrier emite um frio intenso pelas patas. Também é beligerante — qualquer coisa que deseja, ele toma à força.",
     "classification": "Pokémon Cavalo Selvagem",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -191755,15 +191727,12 @@
       "Uproar",
       "Zen headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 897,
     "name": "Spectrier",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ghost"
     ],
@@ -191777,7 +191746,10 @@
     "egg_groups": [
       "No eggs"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 290,
     "stats": {
@@ -191794,9 +191766,10 @@
     "dex_entry": "Ele sonda seu entorno com todos os sentidos, exceto a visão — ele não a usa. Dizem que seus coices separam alma do corpo.",
     "classification": "Pokémon Cavalo Veloz",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -191903,15 +191876,12 @@
       "Uproar",
       "Will o-wisp"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 898,
     "name": "Calyrex",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Psychic",
       "Grass"
@@ -191926,7 +191896,10 @@
     "egg_groups": [
       "No eggs"
     ],
-    "gender": null,
+    "gender": {
+      "male": 0,
+      "female": 0
+    },
     "can_breed": false,
     "base_experience": 250,
     "stats": {
@@ -191943,9 +191916,10 @@
     "dex_entry": "Calyrex é um Pokémon misericordioso, capaz de conceder cura e bênçãos. Reinou sobre Galar em tempos antigos.",
     "classification": "Pokémon Rei",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "especial",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -192081,8 +192055,7 @@
       "Wonder room",
       "Zen headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 899,
@@ -192878,8 +192851,6 @@
     "id": 903,
     "name": "Sneasler",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fighting",
       "Poison"
@@ -192917,9 +192888,10 @@
     "dex_entry": "Por causa de seu veneno virulento e de sua imponente força física, nenhuma outra espécie poderia superá-la nas geleiras. Preferindo a solidão, esta espécie não forma bandos.",
     "classification": "Pokémon Escaladora Livre",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -193069,15 +193041,12 @@
       "Double hit",
       "Icicle crash",
       "Throat chop"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 904,
     "name": "Overqwil",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Dark",
       "Poison"
@@ -193115,9 +193084,10 @@
     "dex_entry": "Seus espinhos em forma de lança e seu temperamento selvagem lhe renderam o apelido de “demônio do mar”. Ele sorve veneno para se nutrir.",
     "classification": "Pokémon Aglomerado de Espinhos",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -193277,8 +193247,7 @@
       "Aqua jet",
       "Acid spray",
       "Barb barrage"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 905,
@@ -202812,8 +202781,6 @@
     "id": 963,
     "name": "Finizen",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water"
     ],
@@ -202850,9 +202817,21 @@
     "dex_entry": "Gosta de brincar com outros de sua espécie usando o anel de água em sua cauda. Usa ondas ultrassônicas para sentir emoções de outros seres vivos.",
     "classification": "Pokémon Golfinho",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Palafin",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "custom",
+            "description": "Other (especificar condição completa)"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -202948,26 +202927,12 @@
       "Tickle",
       "Bounce",
       "Boomburst"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Palafin",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Other (especificar condição completa)"
-          }
-        ]
-      }
     ]
   },
   {
     "id": 964,
     "name": "Palafin zero",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Water"
     ],
@@ -203004,9 +202969,10 @@
     "dex_entry": "Este Pokémon muda sua aparência quando ouve seus aliados chamando por ajuda. Palafin nunca mostra seu momento de transformação a ninguém.",
     "classification": "Pokémon Golfinho",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "epico",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -203132,8 +203098,7 @@
       "Whirlpool",
       "Zen headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 965,
