@@ -157931,8 +157931,20 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Goodra",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 50
+          }
+        ]
+      }
+    ],
     "is_starter": false,
-    "in_seira_pokedex": false,
+    "in_seira_pokedex": true,
     "rarity": "epico",
     "is_producer": true,
     "production": [
@@ -158061,18 +158073,6 @@
       "Iron tail",
       "Poison tail",
       "Life dew"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Goodra",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 50
-          }
-        ]
-      }
     ]
   },
   {
@@ -158115,8 +158115,9 @@
     "dex_entry": "Às vezes, ele entende instruções de forma errada e parece confuso. Muitos Treinadores acham isso adorável.",
     "classification": "Pokémon Dragão",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
+    "in_seira_pokedex": true,
     "rarity": "epico",
     "is_producer": true,
     "production": [
@@ -158299,8 +158300,7 @@
       "Iron tail",
       "Poison tail",
       "Life dew"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 707,
@@ -193364,9 +193364,10 @@
     "dex_entry": "Quando voa para esta terra vindo do outro lado do mar, o inverno rigoroso chega ao fim. Segundo a lenda, o amor deste Pokémon dá origem ao brotar de nova vida por toda Hisui.",
     "classification": "Pokémon Amor-Odio",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "epico",
+    "rarity": "especial",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -193493,8 +193494,7 @@
       "Weather ball",
       "Zen headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 906,
@@ -198623,8 +198623,6 @@
     "id": 937,
     "name": "Ceruledge",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fire",
       "Ghost"
@@ -198661,8 +198659,9 @@
     "dex_entry": "As lâminas flamejantes em seus braços queimam intensamente com o ressentimento persistente de um espadachim que caiu antes de cumprir seu objetivo.",
     "classification": "Pokémon Lâminas de Fogo",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
+    "in_seira_pokedex": true,
     "rarity": "epico",
     "is_producer": false,
     "production": [],
@@ -198784,8 +198783,7 @@
       "Disable",
       "Spite",
       "Destiny bond"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 938,
