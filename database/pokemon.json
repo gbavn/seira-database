@@ -182699,8 +182699,8 @@
       }
     ],
     "is_starter": false,
-    "in_seira_pokedex": false,
-    "rarity": "raro",
+    "in_seira_pokedex": true,
+    "rarity": "comum",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -182766,12 +182766,12 @@
     "dex_entry": "Ele comeu uma maçã azeda, o que induziu sua evolução. Em suas bochechas, armazena um ácido capaz de causar queimaduras químicas.",
     "classification": "Pokémon Asa de Maçã",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
-    "rarity": "raro",
+    "in_seira_pokedex": true,
+    "rarity": "comum",
     "is_producer": false,
     "production": [],
-    "evolution_moves": [],
     "moveset_by_level": [
       {
         "move": "Growth",
@@ -182878,8 +182878,7 @@
       "Trailblaze",
       "U Turn"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 842,
@@ -182923,12 +182922,12 @@
     "dex_entry": "Comer uma maçã doce causou sua evolução. Um aroma adocicado exala de seu corpo, atraindo os Pokémon inseto dos quais se alimenta.",
     "classification": "Pokémon Néctar de Maçã",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
-    "rarity": "raro",
+    "in_seira_pokedex": true,
+    "rarity": "comum",
     "is_producer": false,
     "production": [],
-    "evolution_moves": [],
     "moveset_by_level": [
       {
         "move": "Growth",
@@ -183041,8 +183040,7 @@
       "Trailblaze",
       "Zen Headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 843,
@@ -211995,12 +211993,12 @@
     "dex_entry": "Sete serpes vivem dentro de uma maçã feita de xarope. A serpe no centro é a comandante.",
     "classification": "Hidra de Maçã",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
-    "in_seira_pokedex": false,
-    "rarity": "raro",
+    "in_seira_pokedex": true,
+    "rarity": "comum",
     "is_producer": false,
     "production": [],
-    "evolution_moves": [],
     "moveset_by_level": [
       {
         "move": "Withdraw",
@@ -212116,8 +212114,7 @@
       "Rollout",
       "Sucker Punch",
       "Yawn"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 1020,
