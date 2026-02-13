@@ -227531,8 +227531,8 @@
     "artwork": "https://i.imgur.com/KPKDdPW.png",
     "height": 0.9,
     "weight": 19.5,
-    "dex_entry": "Este Pokémon usa seus poderes psíquicos enquanto dorme. O conteúdo dos sonhos de Abra afeta os poderes que ele manifesta.",
-    "classification": "Pokémon Psi",
+    "dex_entry": "Mesmo enquanto dorme, seus músculos permanecem tensos. Ao sentir perigo, reage instintivamente com investidas rápidas envoltas em energia sombria.",
+    "classification": "Pokémon Sombrio",
     "held_items": [
       {
         "item_id": "225",
@@ -227714,8 +227714,8 @@
     "artwork": "https://i.imgur.com/3dOvbtL.png",
     "height": 1.3,
     "weight": 56.5,
-    "dex_entry": "Usando seu poder psíquico, Kadabra levita enquanto dorme. Ele usa sua cauda elástica como travesseiro.",
-    "classification": "Pokémon Psi",
+    "dex_entry": "Ele fortalece o próprio corpo com energia das trevas. Seus ataques físicos são rápidos e precisos, atingindo pontos vitais antes que o oponente consiga reagir.",
+    "classification": "Pokémon Sombrio",
     "held_items": [
       {
         "item_id": "225",
@@ -227973,8 +227973,8 @@
     "artwork": "https://i.imgur.com/o710vH5.png",
     "height": 1.5,
     "weight": 48,
-    "dex_entry": "Ele possui um nível de inteligência incrivelmente alto. Alguns dizem que Alakazam lembra de tudo que já aconteceu com ele, do nascimento até a morte.",
-    "classification": "Pokémon Psi",
+    "dex_entry": "Sua mente estratégica coordena golpes físicos devastadores. Cada movimento é calculado para maximizar dano, esmagando adversários com força e técnica implacáveis.",
+    "classification": "Pokémon Dominador das Trevas",
     "held_items": [
       {
         "item_id": "225",
