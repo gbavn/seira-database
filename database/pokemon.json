@@ -231879,8 +231879,8 @@
     "artwork": "https://i.imgur.com/dlrjDmo.png",
     "height": 0.4,
     "weight": 3.4,
-    "dex_entry": "A ponta em sua cabeça sente as emoções de outras criaturas. Se você não for calmo, ela jamais vai se aproximar de você.",
-    "classification": "Pokémon Calmo",
+    "dex_entry": "A ponta em sua cabeça percebe as vibrações dracônicas ao redor. Ela só se aproxima daqueles cujo coração esteja em perfeito equilíbrio entre gentileza e força.",
+    "classification": "Pokémon Harmônico",
     "held_items": [],
     "evolves_to": [
       {
@@ -232011,8 +232011,7 @@
     "form_of": 857,
     "form_type": "regional",
     "types": [
-      "Dragon",
-      "Fairy"
+      "Dragon"
     ],
     "abilities": {
       "normal": [
@@ -232044,8 +232043,8 @@
     "artwork": "https://i.imgur.com/icklQTm.png",
     "height": 0.6,
     "weight": 4.8,
-    "dex_entry": "Não importa quem você seja — se trouxer emoções fortes perto dela, será silenciado de forma violenta.",
-    "classification": "Pokémon Sereno",
+    "dex_entry": "Se detectar emoções turbulentas, libera uma onda dracônica cortante para restaurar o silêncio. Não tolera desordem em seu território.",
+    "classification": "Pokémon Recluso",
     "held_items": [],
     "evolves_to": [
       {
@@ -232210,8 +232209,8 @@
     "artwork": "https://i.imgur.com/YJlxFG3.png",
     "height": 2.1,
     "weight": 5.1,
-    "dex_entry": "Ela emite um poder psíquico tão intenso que causa dores de cabeça, servindo como aviso para manter distância.",
-    "classification": "Pokémon Silencioso",
+    "dex_entry": "Combinando energia feérica e poder ancestral dos dragões, ela ergue barreiras invisíveis que esmagam qualquer presença hostil antes mesmo que se aproxime.",
+    "classification": "Pokémon Matriarca Dracônica",
     "held_items": [],
     "evolves_to": [],
     "is_starter": false,
