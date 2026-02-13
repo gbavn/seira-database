@@ -217368,7 +217368,7 @@
     "height": 0.8,
     "weight": 24,
     "dex_entry": "It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger.",
-    "classification": "Magic Horse Pokémon",
+    "classification": "Pokémon Cavalo Mágico",
     "held_items": [],
     "evolves_to": [],
     "is_starter": false,
@@ -217511,8 +217511,9 @@
     "height": 1.7,
     "weight": 80,
     "dex_entry": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
-    "classification": "Fire Horse Pokémon",
+    "classification": "Pokémon Cavalo Mágico",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -217630,8 +217631,7 @@
       "Wonder room",
       "Zen headbutt"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 10022,
@@ -228231,8 +228231,8 @@
     "artwork": "https://i.imgur.com/IAFYXV7.png",
     "height": 0.6,
     "weight": 72,
-    "dex_entry": "Nascido profundamente no subsolo, sobe à superfície e se torna uma pupa após terminar de comer o solo ao redor.",
-    "classification": "Pokémon Pele de Rocha",
+    "dex_entry": "Nascido em cavernas congeladas, alimenta-se de rochas cobertas por gelo eterno. O frio extremo fortalece seu corpo antes da próxima transformação.",
+    "classification": "Pokémon Núcleo Glacial",
     "held_items": [],
     "evolves_to": [
       {
@@ -228451,8 +228451,8 @@
     "artwork": "https://i.imgur.com/J5fcoIT.png",
     "height": 1.2,
     "weight": 152,
-    "dex_entry": "Mesmo selado em sua casca, pode se mover livremente. Rápido e resistente, possui incrível poder destrutivo.",
-    "classification": "Pokémon Casca Dura",
+    "dex_entry": "Envolto em uma carapaça de aço cristalizado, armazena energia térmica em seu interior. Mesmo selado, move-se com força suficiente para despedaçar o solo congelado.",
+    "classification": "Pokémon Casulo Congelado",
     "held_items": [],
     "evolves_to": [
       {
@@ -228667,8 +228667,8 @@
     "artwork": "https://i.imgur.com/Z6sSg4Y.png",
     "height": 2,
     "weight": 202,
-    "dex_entry": "Seu corpo não pode ser ferido por nenhum tipo de ataque, então desafia inimigos sem hesitar.",
-    "classification": "Pokémon Armadura",
+    "dex_entry": "Seu corpo é revestido por aço endurecido pelo frio absoluto. Tempestades de gelo se formam ao seu redor sempre que entra em batalha, esmagando qualquer adversário que ouse enfrentá-lo.",
+    "classification": "Pokémon Fortaleza Polar",
     "held_items": [],
     "evolves_to": [],
     "is_starter": false,
@@ -229864,7 +229864,7 @@
     "height": 0.8,
     "weight": 24,
     "dex_entry": "Dizem que eles nascem das nuvens e descem ao Monte Glacio galopando em alta velocidade. São bem tímidos e não gostam de se misturar com outras espécies. Quem tocou em sua crina afirma que é como abraçar a almofada mais fofa do mundo.",
-    "classification": "Flying Horse Pokémon",
+    "classification": "Pokémon Cavalo Voador",
     "held_items": [],
     "evolves_to": [
       {
@@ -230024,7 +230024,7 @@
     "height": 1.7,
     "weight": 80,
     "dex_entry": "É um Pokémon extremamente veloz, podendo galopar até 240 km/h em céus e terra.",
-    "classification": "Flying Horse Pokémon",
+    "classification": "Pokémon Cavalo Voador",
     "held_items": [],
     "evolves_to": [],
     "is_starter": false,
