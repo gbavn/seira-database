@@ -987,6 +987,11 @@
         "name": "Rota 04",
         "posts_required": "5",
         "forum_link": ""
+      },
+      "east": {
+        "id": "MTGL",
+        "name": "Monte Glacio",
+        "posts_required": "7"
       }
     },
     "special_location": false
@@ -1404,7 +1409,7 @@
       "west": {
         "id": "MTGL",
         "name": "Monte Glacio",
-        "posts_required": "5",
+        "posts_required": "7",
         "forum_link": ""
       }
     },
