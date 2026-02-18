@@ -227,7 +227,9 @@
         "mode": "all",
         "perk_ids": []
       },
-      "custom": []
+      "custom": [
+        "Inicial com +200 de Felicidade"
+      ]
     },
     "rewards": {
       "money": 1500,
