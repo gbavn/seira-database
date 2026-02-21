@@ -1945,7 +1945,20 @@
         }
       }
     ],
-    "forageable_items": [],
+    "forageable_items": [
+      {
+        "item_id": 464,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 691,
+        "collected_quantity": 1
+      },
+      {
+        "item_id": 692,
+        "collected_quantity": 1
+      }
+    ],
     "spawns": {
       "common": [
         10080,
