@@ -1272,67 +1272,9 @@
     }
   },
   {
-    "id": "Mina",
-    "name": "Mineiração",
-    "icon": "mina",
-    "category": "generic",
-    "is_rollable": true,
-    "description": "",
-    "roll_config": {
-      "type": "custom_percentage",
-      "gives": "items_only",
-      "items": [
-        {
-          "item_id": 722,
-          "rate": 20
-        },
-        {
-          "item_id": 92,
-          "rate": 3
-        },
-        {
-          "item_id": 90,
-          "rate": 10
-        },
-        {
-          "item_id": 91,
-          "rate": 3
-        },
-        {
-          "item_id": 72,
-          "rate": 10
-        },
-        {
-          "item_id": 73,
-          "rate": 10
-        },
-        {
-          "item_id": 75,
-          "rate": 10
-        },
-        {
-          "item_id": 74,
-          "rate": 10
-        },
-        {
-          "item_id": 371,
-          "rate": 1
-        },
-        {
-          "item_id": 373,
-          "rate": 1
-        },
-        {
-          "item_id": 703,
-          "rate": 10
-        }
-      ]
-    }
-  },
-  {
     "id": "MinaCave",
     "name": "Mineração Caverna Rochosa",
-    "icon": "m",
+    "icon": "gem",
     "category": "generic",
     "is_rollable": true,
     "description": "",
@@ -1390,7 +1332,7 @@
   {
     "id": "MinaSea",
     "name": "Mineiração Caverna Marítima",
-    "icon": "m",
+    "icon": "gem",
     "category": "generic",
     "is_rollable": true,
     "description": "",
