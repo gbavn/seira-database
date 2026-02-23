@@ -698,6 +698,22 @@
         "poi_image": "",
         "custom_effect": [],
         "shop_data": null
+      },
+      {
+        "id": "poi-1771880300720",
+        "name": "Casa do Terapeuta Fantasma",
+        "type": "service",
+        "description": "A Casa do Terapeuta Fantasma não é tão assustadora como fazem parecer. Fica depois do Lago Phantom, em uma cabana amistosa. O Dr. Lúcio Sting é psicanalista e está sempre rodeado de vários Gastly, daí sua fama fantasma. A verdade é que os pokémon auxiliam o homem no processo mental de recuperação de movimentos esquecidos.\nRelembra qualquer movimento que já tenha aprendido antes em troca de uma Heart Scale.",
+        "forum_link": "",
+        "linked_pokemon": [
+          92
+        ],
+        "linked_items": [
+          93
+        ],
+        "poi_image": "",
+        "custom_effect": [],
+        "shop_data": null
       }
     ],
     "forageable_items": [
