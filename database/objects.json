@@ -1331,7 +1331,7 @@
   },
   {
     "id": "MinaCave",
-    "name": "Mineiração Caverna",
+    "name": "Mineração Caverna Rochosa",
     "icon": "m",
     "category": "generic",
     "is_rollable": true,
