@@ -1,15 +1,5 @@
 [
   {
-    "id": 1,
-    "titulo": "A Fundação de Seira",
-    "autor": "Conselho dos Arquivistas",
-    "categoria": "historia",
-    "subcategoria": "historia-seira",
-    "descricao": "Registro oficial sobre as origens e a formação da região de Seira.",
-    "sinopse": "O documento mais antigo preservado na biblioteca, compilado pelos primeiros arquivistas após a Grande Travessia. Narra os eventos que levaram à fundação das cidades e o pacto original entre humanos e Pokémon.",
-    "conteudo": "<p>Muito antes de os mapas desenharem suas fronteiras, a terra que chamamos de Seira era apenas um nome sussurrado entre viajantes — uma promessa de horizonte, vasta e sem dono.</p>\n<p>Conta a tradição oral que os primeiros habitantes chegaram vindos do norte, atravessando a Cordilheira dos Ventos durante a última grande migração. Eram poucos: famílias, estudiosos e criadores de Pokémon que buscavam um lugar onde pudessem recomeçar longe das disputas que devastavam as regiões do oeste.</p>\n<p>O vale central — hoje ocupado pela Cidade de Seira — foi escolhido pelo florescimento de Roselia silvestres ao longo do rio. Os antigos interpretaram isso como um bom augúrio.</p>\n<h3>O Pacto de Fundação</h3>\n<p>No terceiro inverno, quando a fome ameaçava o assentamento, uma Arcanine de pelagem dourada desceu das montanhas e guiou os humanos até reservas de comida escondidas. A partir desse evento, estabeleceu-se o que os registros chamam de <em>Pacto de Seira</em>: humanos e Pokémon viveriam não como mestres e criaturas, mas como parceiros de um mesmo território.</p>\n<p>Este princípio, embora nem sempre honrado perfeitamente ao longo dos séculos, permanece como o fundamento filosófico que distingue Seira das regiões vizinhas.</p>"
-  },
-  {
     "id": 2,
     "titulo": "As Três Luas de Vesper",
     "autor": "Ellara Mwin",
@@ -38,16 +28,6 @@
     "descricao": "Relato pessoal de uma exploradora durante a primeira expedição às Cavernas do Eco.",
     "sinopse": "Recuperado entre os pertences de Nara Fen após sua lendária expedição, este diário documenta os 14 dias que ela passou mapeando as Cavernas do Eco, onde a ressonância sonora cria fenômenos ainda inexplicados pela ciência.",
     "conteudo": "<p><strong>Dia 1.</strong> Entramos ao meio-dia. O Jolteon de Mira está inquieto desde que cruzamos a primeira câmara. Não é medo — Jolteon não conhece medo — é outro instinto. Como se as paredes estivessem emitindo algo abaixo da frequência que conseguimos ouvir.</p>\n<p><strong>Dia 3.</strong> Descoberta importante: os ecos aqui não decaem linearmente. Um som produzido em certos pontos da caverna continua ricocheteando por horas. Esta noite, Mira tossiram e ouvimos o eco repetir por quase oito minutos. Oito. Anotei as coordenadas.</p>\n<p><strong>Dia 6.</strong> Encontramos o que o folclore local chama de Câmara do Sussurro. Paredes completamente cobertas de cristais curvos, dispostos em padrão que se repete em escalas diferentes. Como flocos de neve, mas em rocha. Meu Carbink ficou absolutamente imóvel por três horas. Não me preocupei. Ele faz isso quando está feliz.</p>\n<p><strong>Dia 9.</strong> A bússola parou de funcionar no setor leste. Mira sugere que há depósitos de minério magnético nas paredes. Eu acho que é outra coisa. Não anotei o que acho. Algumas teorias precisam de mais dias antes de merecerem papel.</p>\n<p><strong>Dia 14 — último.</strong> Saímos com 340 metros de mapas novos, 12 amostras de cristal, e uma teoria que vai demorar anos para provar. A caverna não é apenas um lugar físico. É um arquivo. Cada som que já foi produzido aqui está de alguma forma preservado na estrutura das paredes. Não sei como. Não sei ainda. Mas vou descobrir.</p>\n<p><em>— N. Fen, Seira, ano 7 da Era Nova</em></p>"
-  },
-  {
-    "id": 5,
-    "titulo": "Origens do Dialeto do Vale",
-    "autor": "Prof. Osta Brel, Universidade de Seira",
-    "categoria": "historia",
-    "subcategoria": "historia-geral",
-    "descricao": "Estudo linguístico sobre as palavras únicas usadas nas comunidades rurais de Seira.",
-    "sinopse": "Uma análise acadêmica, mas acessível, sobre como as comunidades do Vale de Seira desenvolveram expressões e palavras únicas ao longo de gerações de convivência próxima com Pokémon — algumas delas incorporadas até no linguajar urbano atual.",
-    "conteudo": "<p>A língua de um povo é o mapa de sua história. E poucos vocabulários revelam tanto sobre seus falantes quanto os termos regionais do Vale de Seira.</p>\n<h3>Palavras que vieram dos Pokémon</h3>\n<p>O verbo <em>rufoar</em>, hoje usado coloquialmente para descrever alguém que está se preparando com excessiva ansiedade, deriva do comportamento de Ruflet antes de voar. Gerações de agricultores que observaram o Pokémon agitar as asas repetidamente antes de alçar voo generalizaram o comportamento para humanos nervosos.</p>\n<p><em>Estar em modo Snorlax</em>, expressão óbvia para qualquer habitante de Seira, significa mais do que preguiça — implica uma paz deliberada, uma escolha de não se mover que é distinta da incapacidade de se mover. Há quase um elogio embutido na expressão.</p>\n<h3>Termos sem equivalente em outras regiões</h3>\n<p>A palavra <em>shinen</em> — de origem incerta, possivelmente do antigo dialeto da cordilheira — descreve a sensação específica de conexão com um Pokémon no momento exato em que ambos entendem algo simultaneamente. Não existe tradução precisa. Treinadores de outras regiões costumam usar \"sintonia\" ou \"vínculo\", mas veteranos de Seira insistem que esses termos não capturam a reciprocidade implícita em <em>shinen</em>.</p>\n<p>Este glossário é uma homenagem a todas as conversas silenciosas que moldaram a língua de um povo.</p>"
   },
   {
     "id": 6,
