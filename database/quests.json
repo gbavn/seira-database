@@ -2843,12 +2843,7 @@
       "money": 4000,
       "fame": 0,
       "character_exp": 0,
-      "items": [
-        {
-          "item_id": 200,
-          "quantity": 1
-        }
-      ],
+      "items": [],
       "pokemon": [],
       "custom": [
         "5 Flores"
@@ -2887,12 +2882,7 @@
       "money": 7,
       "fame": 0,
       "character_exp": 0,
-      "items": [
-        {
-          "item_id": 257,
-          "quantity": 1
-        }
-      ],
+      "items": [],
       "pokemon": [],
       "custom": [
         "5 Flores"
@@ -2931,12 +2921,7 @@
       "money": 2000,
       "fame": 0,
       "character_exp": 0,
-      "items": [
-        {
-          "item_id": 183,
-          "quantity": 1
-        }
-      ],
+      "items": [],
       "pokemon": [],
       "custom": [
         "5 Flores"
