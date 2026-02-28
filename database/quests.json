@@ -2975,7 +2975,7 @@
     "name": "✩✩✩✩ Mestre das Vinhas",
     "requester": "Prefeito de Hillshire",
     "description": "Durante o Festival das Flores, as vinícolas de Hillshire promovem uma celebração exclusiva que une tradição, estratégia e conexão com a terra. Apenas treinadores experientes são convidados a participar do processo completo de produção sazonal, desde a inspeção das parreiras até a colheita simbólica que marca o auge do florescimento. Assuma o papel de colaborador direto de uma vinícola ou produtor local e desenvolva uma narrativa extensa (mínimo 1000 palavras) envolvendo a organização do cultivo, a seleção das melhores uvas, a proteção das plantações contra interferências naturais e a participação em um evento social ou degustação pública promovida pelo festival. A missão deve evidenciar liderança, conhecimento agrícola e integração com a comunidade de Hillshire, demonstrando domínio técnico e respeito à tradição da cidade.",
-    "quest_type": "comum",
+    "quest_type": "unica",
     "assigned_character": "",
     "objectives": [
       {
