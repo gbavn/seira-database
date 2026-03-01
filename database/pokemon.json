@@ -150650,8 +150650,6 @@
     "id": 669,
     "name": "Flabebe",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fairy"
     ],
@@ -150662,7 +150660,9 @@
       "hidden": [
         "Symbiosis"
       ],
-      "exotic": []
+      "exotic": [
+        "Natural cure"
+      ]
     },
     "egg_groups": [
       "Fairy"
@@ -150687,6 +150687,18 @@
     "dex_entry": "Não é seguro ficar sem o poder de uma flor, mas ela continuará viajando até encontrar uma com a cor e formato perfeitos.",
     "classification": "Pokémon Flor Única",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Floette",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 19
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "comum",
@@ -150822,18 +150834,6 @@
       "Copycat",
       "Captivate",
       "Tearful look"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Floette",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 19
-          }
-        ]
-      }
     ]
   },
   {
