@@ -2587,7 +2587,7 @@
     "name": "✩ Colheita Aromática",
     "requester": "Prefeito de Hillshire",
     "description": "Os produtores locais de Hillshire estão preparando os jardins para a grande exposição floral do mês, mas parte das flores cultivadas foi afetada por pragas naturais e mudanças recentes no solo. Ajude um vinhedo ou jardim comunitário realizando uma atividade narrativa detalhada onde seu personagem auxilia na colheita, poda, organização ou proteção das flores contra Pokémon selvagens que estejam interferindo no cultivo. A missão deve envolver interação direta com o ambiente natural da cidade.",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
@@ -2626,7 +2626,7 @@
     "name": "✩ Perfume da Primavera",
     "requester": "Prefeito de Hillshire",
     "description": "Durante o Festival das Flores, artesãos e perfumistas locais buscam capturar a essência aromática única das colinas de Hillshire, no entanto, para criar fragrâncias autênticas, é necessário observar e registrar o comportamento das flores em seu ambiente natural. Realize uma atividade narrativa ambientada em um campo florido, pomar ou jardim botânico de Hillshire, descrevendo a coleta responsável de pétalas, a análise de aromas ou a ajuda a um comerciante local na criação de uma fragrância sazonal. A postagem deve destacar o ambiente sensorial da primavera e a interação com o ambiente.",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
@@ -2665,7 +2665,7 @@
     "name": "✩ Jardineiro Iniciante",
     "requester": "Prefeito de Hillshire",
     "description": "Com a chegada do Festival das Flores, a prefeitura de Hillshire abriu vagas temporárias para auxiliar na manutenção das praças, hortas comunitárias e jardins verticais da cidade. Nem todos os voluntários possuem experiência, mas a dedicação é o que mantém o espírito da estação vivo. Realize uma atividade narrativa ajudando na preparação de um jardim local, pode envolver replantio, irrigação manual, organização de mudas, controle de ervas invasoras ou auxílio a um morador experiente. A narrativa deve demonstrar aprendizado prático e interação direta com o ambiente natural da cidade.",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
@@ -2704,7 +2704,7 @@
     "name": "✩✩ Defensores do Vale",
     "requester": "Prefeito de Hillshire",
     "description": "Com o aumento do fluxo de visitantes durante o Festival das Flores, algumas áreas naturais de Hillshire começaram a sofrer interferência de Pokémon selvagens atraídos pela grande concentração de aromas e alimentos. Pequenos grupos de Pokémon dos tipos Grass e Bug passaram a ocupar trilhas, vinhedos e campos agrícolas, dificultando o trabalho dos produtores locais. Seu objetivo é proteger o vale derrotando 3 Pokémon do tipo Grass ou Bug nas rotas de Hillshire. As batalhas devem ocorrer em postagens completas e separadas, demonstrando interação com o ambiente e justificativa narrativa para o confronto. Os Pokémon derrotados devem estar oficialmente registrados nas rotas da cidade.",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
@@ -2743,7 +2743,7 @@
     "name": "✩✩ Vinhedos Protegidos",
     "requester": "Prefeito de Hillshire",
     "description": "Com o Festival das Flores em pleno andamento, os vinhedos de Hillshire tornaram-se um dos principais pontos turísticos da região. No entanto, alguns treinadores visitantes têm desafiado produtores locais, colocando em risco colheitas delicadas e áreas de cultivo sensíveis. Para preservar a tradição agrícola da cidade, você deverá aceitar um desafio contra um NPC nas rotas ou áreas rurais de Hillshire, utilizando obrigatoriamente ao menos 1 Pokémon do tipo Grass durante a batalha. O Pokémon do tipo Grass deve participar ativamente do combate (não podendo apenas entrar e sair de campo).",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
@@ -2782,7 +2782,7 @@
     "name": "✩✩ Cultivo Estruturado",
     "requester": "Prefeito de Hillshire",
     "description": "Com o aumento do fluxo comercial durante o Festival das Flores, produtores e comerciantes de Hillshire precisam reorganizar sua cadeia produtiva para atender à alta demanda por vinhos, mudas ornamentais, arranjos florais e produtos artesanais. Realize 2 postagens de profissão distintas ambientadas em Hillshire, obrigatoriamente relacionadas à agricultura, floricultura, comércio de vinhos, feiras sazonais ou mercado local. As postagens devem apresentar desenvolvimento profissional real, demonstrando negociação, produção, logística ou venda de produtos ligados ao contexto do festival. As duas postagens não podem ocorrer no mesmo dia narrativo e devem mostrar progresso ou impacto comercial concreto.",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
@@ -2808,7 +2808,9 @@
       "character_exp": 0,
       "items": [],
       "pokemon": [],
-      "custom": []
+      "custom": [
+        "5 Flores"
+      ]
     },
     "status": "available",
     "repeatable": false,
@@ -2819,7 +2821,7 @@
     "name": "✩✩✩ Guardião das Colinas",
     "requester": "Prefeito de Hillshire",
     "description": "Com o fluxo intenso de visitantes durante o Festival das Flores, algumas áreas das colinas de Hillshire passaram a sofrer desequilíbrio ecológico. Pokémon selvagens estão disputando território e interferindo em zonas agrícolas sensíveis, exigindo ação imediata de treinadores experientes. Para restaurar o equilíbrio, você deverá realizar a captura de 2 Pokémon distintos nas rotas de Hillshire e, dentro do mesmo arco narrativo, enfrentar e vencer 1 batalha contra NPC que esteja atuando como competidor, caçador oportunista ou treinador desafiador da região. Pelo menos um dos Pokémon capturados deve ser de raridade comum ou superior da rota, a batalha contra NPC deve ocorrer após ao menos uma das capturas. A narrativa deve demonstrar atuação ativa na preservação das colinas, seja protegendo vinhedos, jardins ou áreas naturais.",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
@@ -2858,7 +2860,7 @@
     "name": "✩✩✩ Harmonia Natural",
     "requester": "Prefeito de Hillshire",
     "description": "Os campos abertos e jardins botânicos de Hillshire são conhecidos por oferecer o ambiente ideal para o aperfeiçoamento de Pokémon do tipo Grass. Durante o Festival das Flores, treinadores são incentivados a desenvolver uma conexão técnica e estratégica com seus parceiros naturais. Realize 3 sessões de treinamento distintas em áreas naturais de Hillshire utilizando ao menos 1 Pokémon do tipo Grass como participante ativo. O Pokémon deve executar técnicas, estratégias ou aprimoramentos reais durante o treino, não sendo permitido apenas presença passiva. As sessões devem ocorrer em dias narrativos diferentes. Ao menos um dos treinos deve envolver aplicação prática em ambiente externo (campo, colina, vinhedo ou jardim). A missão deve demonstrar evolução técnica, adaptação ao terreno e aprofundamento na sintonia entre treinador e Pokémon.",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
@@ -2897,7 +2899,7 @@
     "name": "✩✩✩ Essência de Hillshire",
     "requester": "Prefeito de Hillshire",
     "description": "Hillshire é conhecida por sua harmonia entre tradição agrícola e preservação natural. No entanto, durante o Festival das Flores, Pokémon raros tendem a surgir atraídos pela intensa energia vital que percorre os campos e vinhedos da cidade. Para compreender e proteger essa essência natural, você deverá realizar a captura de 1 Pokémon de raridade Rara ou superior nas rotas de Hillshire e, no mesmo arco narrativo, enfrentar e vencer 1 batalha contra NPC que esteja explorando ou desafiando a região. A captura deve ser validada oficialmente como Raridade 2 ou superior. A batalha contra NPC deve ocorrer após a captura ou estar diretamente relacionada a ela. Não é permitido utilizar eventos desconectados ou capturas anteriores ao período da missão. A narrativa deve demonstrar interação direta com os campos, colinas ou vinhedos de Hillshire, reforçando a preservação e o respeito ao equilíbrio natural da cidade.",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
@@ -2936,7 +2938,7 @@
     "name": "✩✩✩✩ Protetor do Festival",
     "requester": "Prefeito de Hillshire",
     "description": "Com o auge do Festival das Flores, Hillshire recebe treinadores de diversas regiões, atraídos pela fama de seus campos e competições sazonais. Entretanto, nem todos chegam com intenções pacíficas: disputas por prestígio, desafios impulsivos e rivalidades emergem entre os visitantes, colocando à prova a serenidade da cidade. Assuma o papel de defensor do espírito do festival e vença 3 batalhas contra NPCs em Hillshire, demonstrando domínio estratégico e respeito à tradição local. Todas as batalhas devem ser finalizadas por um Pokémon do tipo Grass ou Bug, simbolizando a força da natureza como essência da celebração. A narrativa deve evidenciar o cenário das colinas, vinhedos ou praças floridas, mostrando como seu personagem protege o equilíbrio e a honra do evento diante dos desafios impostos pelos oponentes.",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
@@ -2975,7 +2977,7 @@
     "name": "✩✩✩✩ Mestre das Vinhas",
     "requester": "Prefeito de Hillshire",
     "description": "Durante o Festival das Flores, as vinícolas de Hillshire promovem uma celebração exclusiva que une tradição, estratégia e conexão com a terra. Apenas treinadores experientes são convidados a participar do processo completo de produção sazonal, desde a inspeção das parreiras até a colheita simbólica que marca o auge do florescimento. Assuma o papel de colaborador direto de uma vinícola ou produtor local e desenvolva uma narrativa extensa (mínimo 1000 palavras) envolvendo a organização do cultivo, a seleção das melhores uvas, a proteção das plantações contra interferências naturais e a participação em um evento social ou degustação pública promovida pelo festival. A missão deve evidenciar liderança, conhecimento agrícola e integração com a comunidade de Hillshire, demonstrando domínio técnico e respeito à tradição da cidade.",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
@@ -3014,7 +3016,7 @@
     "name": "✩✩✩✩ Florescer Supremo",
     "requester": "Prefeito de Hillshire",
     "description": "No ponto mais alto das colinas de Hillshire, onde os campos se encontram com o horizonte dourado dos vinhedos, ocorre um ritual simbólico conhecido como \"Florescer Supremo\". Trata-se de uma tradição reservada a treinadores experientes, convidados a representar a força, a disciplina e a harmonia entre humano e Pokémon durante o auge do Festival das Flores. Sua missão é desenvolver uma narrativa extensa (mínimo 1200 palavras) participando dessa cerimônia especial, que pode envolver um desafio amistoso contra um treinador renomado, a demonstração pública de técnicas refinadas com um Pokémon do tipo Grass ou Bug, ou a superação de um obstáculo natural que ameace o equilíbrio dos campos. A história deve evidenciar maturidade estratégica, controle emocional e domínio técnico, culminando em um momento simbólico que represente o verdadeiro florescimento do treinador dentro da comunidade de Hillshire.",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
@@ -3053,7 +3055,7 @@
     "name": "✩✩✩✩✩ Lenda das Flores",
     "requester": "Prefeito de Hillshire",
     "description": "Durante o ápice do Festival, apenas treinadores com grande reputação recebem o convite para participar da cerimônia conhecida como \"Lenda das Flores\", um marco simbólico reservado àqueles que representam o equilíbrio entre força, técnica e conexão com a natureza. Para concluir esta missão, você deverá realizar 2 capturas épicas, vencer 4 batalhas contra NPCs e conduzir 2 sessões de treinamento em Hillshire, tudo dentro de um mesmo arco narrativo coeso. Cada etapa deve ter justificativa contextual ligada ao festival e demonstrar progressão do personagem dentro da história. Não conta de missões anteriores.",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
@@ -3094,7 +3096,7 @@
     "name": "✩✩✩✩✩ Espírito de Nassael",
     "requester": "Prefeito de Hillshire",
     "description": "Inspirado pela influência cosmopolita que moldou Hillshire, o desafio \"Espírito de Nassael\" celebra elegância estratégica e domínio técnico. Trata-se de uma série de confrontos públicos organizados nas praças floridas da cidade, onde apenas treinadores renomados são convidados a provar sua excelência. Você deverá vencer 2 batalhas consecutivas contra NPCs sem permitir que nenhum de seus Pokémon desmaie. As batalhas devem ocorrer dentro do contexto do festival, podendo envolver desafios formais, disputas amistosas ou confrontos que ameacem a ordem local.",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
@@ -3135,7 +3137,7 @@
     "name": "✩✩✩✩✩ Guardião de Hillshire",
     "requester": "Prefeito de Hillshire",
     "description": "Há uma tradição silenciosa em Hillshire que não é anunciada nos cartazes do Festival das Flores nem mencionada nos discursos oficiais. Quando a primavera atinge seu auge e os campos se tornam um mar de cores vibrantes, a cidade observa - atenta - quem entre os treinadores presentes demonstra não apenas força, mas equilíbrio, liderança e profunda conexão com a terra. Esse indivíduo não recebe uma coroa, nem um troféu público. Recebe algo maior: o reconhecimento simbólico como Guardião de Hillshire. Nesta missão, você deverá desenvolver uma narrativa épica (mínimo 1.500 palavras) inteiramente ambientada na cidade, onde seu personagem assume um papel central em um momento crítico do Festival. Pode ser a proteção dos vinhedos diante de um conflito inesperado, a liderança em meio a uma crise que ameace a celebração, a mediação de tensões entre visitantes e moradores ou um confronto decisivo que determine o equilíbrio da festividade. O foco não está apenas na ação, mas na postura: decisões difíceis, responsabilidade assumida e impacto real sobre a comunidade. A história deve transmitir maturidade emocional, domínio estratégico e uma ligação genuína com a natureza que define Hillshire. O desfecho precisa deixar claro que sua presença fortaleceu a cidade, restaurou sua harmonia e elevou o espírito do Festival, não por imposição, mas por mérito reconhecido pelos próprios habitantes.",
-    "quest_type": "unica",
+    "quest_type": "comum",
     "assigned_character": "",
     "objectives": [
       {
