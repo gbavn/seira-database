@@ -704,7 +704,7 @@
   {
     "id": 118,
     "name": "Honey gather",
-    "effect": "The Pokémon may pick up honey after battle.",
+    "effect": "Se o usuário de Honey Gather não estiver com item equipado, tem a chance de encontrar Mel após a batalha. A chance de um Pokémon com essa Habilidade coletar Mel depende do seu nível, começando em 5% se o Pokémon estiver entre os níveis 1 e 10, e aumentando em 5% a cada dez níveis, chegando a 50% de chance nos níveis 91-100.",
     "modified_for_rpg": false
   },
   {
