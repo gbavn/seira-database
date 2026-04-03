@@ -169589,8 +169589,6 @@
     "id": 764,
     "name": "Comfey",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fairy"
     ],
@@ -169633,9 +169631,10 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_producer": false,
     "production": [],
     "moveset_by_level": [
@@ -169802,8 +169801,7 @@
       "Worry seed",
       "After you",
       "Leaf tornado"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 765,
