@@ -118,16 +118,15 @@
       "FishLake"
     ],
     "accesses": {
-      "north": {
-        "id": "R06",
-        "name": "Rota 06",
-        "forum_link": "https://seira.forumeiros.com/f45-rota-06"
-      },
       "west": {
+        "id": "R02",
+        "name": "Rota 02",
+        "posts_required": ""
+      },
+      "east": {
         "id": "R01",
         "name": "Rota 01",
-        "posts_required": "",
-        "forum_link": ""
+        "posts_required": ""
       }
     },
     "special_location": false
@@ -2806,14 +2805,13 @@
     ],
     "accesses": {
       "west": {
-        "id": "R02",
-        "name": "Rota 02",
-        "posts_required": "",
-        "forum_link": ""
-      },
-      "east": {
         "id": "R01",
         "name": "Rota 01",
+        "posts_required": ""
+      },
+      "north": {
+        "id": "R06",
+        "name": "Rota 06",
         "posts_required": ""
       }
     },
