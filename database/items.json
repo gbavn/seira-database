@@ -26107,5 +26107,38 @@
     "linked_pokemon": [
       10083
     ]
+  },
+  {
+    "id": 804,
+    "name": "Festival Flower",
+    "category": "other",
+    "subcategory": "Itens de Evento",
+    "sprite": "https://i.imgur.com/4KGC8CO.png",
+    "price": {
+      "buy": 0,
+      "sell": 0,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": false,
+    "is_craftable": false,
+    "description": "Uma flor comemorativa concedida durante o Festival das Flores de Hillshire. Simboliza a participação e contribuição dos treinadores para as celebrações sazonais da cidade. Pode ser trocada por recompensas especiais do evento.",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0
   }
 ]
