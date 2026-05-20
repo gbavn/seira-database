@@ -43292,6 +43292,18 @@
     "dex_entry": "Roupas feitas da lã de Mareep carregam eletricidade estática facilmente, então um processo especial é aplicado nelas.",
     "classification": "Pokémon Lã",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Flaaffy",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 15
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -43300,12 +43312,12 @@
       {
         "item_id": 706,
         "item_name": "Wool",
-        "description": "Mareep solta parte de sua lã carregada de eletricidade estática, acumulando uma porção suave ao longo da semana. (Produz 1 unidade a cada 7 dias)"
+        "description": "Mareep solta parte de sua lã carregada de eletricidade estática, acumulando uma porção suave ao longo da semana. (Produz 1 unidade a cada 14 dias)"
       },
       {
         "item_id": 707,
         "item_name": "Shiny Wool",
-        "description": "Se for shiny, Mareep produz uma lã especial de coloração rara, regenerada lentamente ao longo da semana. (Produz 1 unidade a cada 7 dias se for shiny)"
+        "description": "Se for shiny, Mareep produz uma lã especial de coloração rara, regenerada lentamente ao longo da semana. (Produz 1 unidade a cada 14 dias se for shiny)"
       }
     ],
     "moveset_by_level": [
@@ -43458,18 +43470,6 @@
       "Electroweb",
       "Eerie impulse",
       "Electric terrain"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Flaaffy",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 15
-          }
-        ]
-      }
     ]
   },
   {
@@ -74919,6 +74919,18 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Swalot",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 26
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -74927,7 +74939,7 @@
       {
         "item_id": 704,
         "item_name": "Sticky Goo",
-        "description": "Gulpin secreta um fluido viscoso enquanto digere resíduos orgânicos, produzindo uma goma pegajosa usada em diversas misturas. (Produz 1 unidade a cada 7 dias)"
+        "description": "Gulpin secreta um fluido viscoso enquanto digere resíduos orgânicos, produzindo uma goma pegajosa usada em diversas misturas. (Produz 1 unidade a cada 10 dias)"
       }
     ],
     "moveset_by_level": [
@@ -75084,18 +75096,6 @@
       "Clear smog",
       "Venom drench",
       "Stuff cheeks"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Swalot",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 26
-          }
-        ]
-      }
     ]
   },
   {
@@ -78934,6 +78934,18 @@
     "dex_entry": "Suas asas fofas são cheias de ar, tornando-as leves e macias ao toque. Swablu cuida de suas asas com grande dedicação.",
     "classification": "Pokémon Pássaro de Algodão",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Altaria",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 35
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -78942,12 +78954,12 @@
       {
         "item_id": 708,
         "item_name": "Cotton",
-        "description": "Swablu produz pequenas nuvens de algodão leve de suas asas, que se regeneram com o descanso. (Produz 1 unidade a cada 7 dias)"
+        "description": "Swablu produz pequenas nuvens de algodão leve de suas asas, que se regeneram com o descanso. (Produz 1 unidade a cada 14 dias)"
       },
       {
         "item_id": 709,
         "item_name": "Shiny Cotton",
-        "description": "Swablu shiny libera um algodão dourado e raro que se acumula lentamente em suas asas. (Produz 1 unidade a cada 7 dias se for shiny)"
+        "description": "Swablu shiny libera um algodão dourado e raro que se acumula lentamente em suas asas. (Produz 1 unidade a cada 14 dias se for shiny)"
       }
     ],
     "moveset_by_level": [
@@ -79109,18 +79121,6 @@
       "Dragon rush",
       "Defog",
       "Play rough"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Altaria",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 35
-          }
-        ]
-      }
     ]
   },
   {
@@ -98042,6 +98042,18 @@
     "dex_entry": "O habitat deste Pokémon molda sua aparência. Segundo algumas teorias, a vida em águas quentes do oceano causa essa variação.",
     "classification": "Pokémon Lesma Marinha",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Gastrodon",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 30
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -98050,7 +98062,7 @@
       {
         "item_id": 704,
         "item_name": "Sticky Goo",
-        "description": "Shellos libera uma secreção gelatinosa natural de sua pele úmida, resultando em uma goma suave, porém extremamente pegajosa. (Produz 1 unidade a cada 7 dias)"
+        "description": "Shellos libera uma secreção gelatinosa natural de sua pele úmida, resultando em uma goma suave, porém extremamente pegajosa. (Produz 1 unidade a cada 10 dias)"
       }
     ],
     "moveset_by_level": [
@@ -98195,18 +98207,6 @@
       "Brine",
       "Trump card",
       "Clear smog"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Gastrodon",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 30
-          }
-        ]
-      }
     ]
   },
   {
@@ -125343,12 +125343,12 @@
       {
         "item_id": 708,
         "item_name": "Cotton",
-        "description": "Cottonee forma um tufo de algodão fresco em seu corpo vegetal, renovado semanalmente. (Produz 1 unidade a cada 7 dias)"
+        "description": "Cottonee forma um tufo de algodão fresco em seu corpo vegetal, renovado semanalmente. (Produz 1 unidade a cada 14 dias)"
       },
       {
         "item_id": 709,
         "item_name": "Shiny Cotton",
-        "description": "Cottonee shiny gera um algodão brilhante que se renova após seu ciclo natural. (Produz 1 unidade a cada 7 dias se for shiny)"
+        "description": "Cottonee shiny gera um algodão brilhante que se renova após seu ciclo natural. (Produz 1 unidade a cada 14 dias se for shiny)"
       }
     ],
     "moveset_by_level": [
@@ -157717,6 +157717,18 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Sliggoo",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 40
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "epico",
@@ -157725,7 +157737,7 @@
       {
         "item_id": 704,
         "item_name": "Sticky Goo",
-        "description": "Goomy secreta um fluido viscoso que se acumula naturalmente em seu corpo. (Produz 1 unidade a cada 7 dias)"
+        "description": "Goomy secreta um fluido viscoso que se acumula naturalmente em seu corpo. (Produz 1 unidade a cada 10 dias)"
       }
     ],
     "moveset_by_level": [
@@ -157851,18 +157863,6 @@
       "Iron tail",
       "Poison tail",
       "Life dew"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Sliggoo",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 40
-          }
-        ]
-      }
     ]
   },
   {
@@ -165408,6 +165408,18 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Ribombee",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 25
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -165416,7 +165428,7 @@
       {
         "item_id": 697,
         "item_name": "Dazzling Honey",
-        "description": "Cutiefly colhe o néctar de flores raras e o refina em seu corpo, transformando-o em um mel brilhante e perfumado. (Produz 1 unidade a cada 10 dias)"
+        "description": "Cutiefly colhe o néctar de flores raras e o refina em seu corpo, transformando-o em um mel brilhante e perfumado. (Produz 1 unidade a cada 20 dias)"
       }
     ],
     "moveset_by_level": [
@@ -165549,18 +165561,6 @@
       "Aromatic mist",
       "Powder",
       "Speed swap"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Ribombee",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 25
-          }
-        ]
-      }
     ]
   },
   {
@@ -165611,6 +165611,7 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -165619,7 +165620,7 @@
       {
         "item_id": 697,
         "item_name": "Dazzling Honey",
-        "description": "Ribombee usa pólen concentrado e flores energizadas, produzindo um Dazzling Honey de alta pureza. (Produz 3 unidades a cada 10 dias)"
+        "description": "Ribombee usa pólen concentrado e flores energizadas, produzindo um Dazzling Honey de alta pureza. (Produz 1 unidades a cada 10 dias)"
       }
     ],
     "moveset_by_level": [
@@ -165766,8 +165767,7 @@
       "Aromatic mist",
       "Powder",
       "Speed swap"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 744,
@@ -181308,12 +181308,12 @@
       {
         "item_id": 706,
         "item_name": "Wool",
-        "description": "Wooloo produz um tufo denso e fofo de lã, que se regenera naturalmente após a tosquia. (Produz 1 unidade a cada 7 dias)"
+        "description": "Wooloo produz um tufo denso e fofo de lã, que se regenera naturalmente após a tosquia. (Produz 1 unidade a cada 14 dias)"
       },
       {
         "item_id": 707,
         "item_name": "Shiny Wool",
-        "description": "Wooloo shiny desenvolve uma lã de tonalidade única, recolhida após seu ciclo natural de crescimento. (Produz 1 unidade a cada 7 dias se for shiny)"
+        "description": "Wooloo shiny desenvolve uma lã de tonalidade única, recolhida após seu ciclo natural de crescimento. (Produz 1 unidade a cada 14 dias se for shiny)"
       }
     ],
     "moveset_by_level": [
@@ -226778,11 +226778,18 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "epico",
-    "is_producer": false,
-    "production": [],
+    "is_producer": true,
+    "production": [
+      {
+        "item_id": 704,
+        "item_name": "Sticky Goo",
+        "description": "Goomy secreta um fluido viscoso que se acumula naturalmente em seu corpo. (Produz 1 unidade a cada 10 dias)"
+      }
+    ],
     "moveset_by_level": [
       {
         "move": "Tackle",
@@ -226906,8 +226913,7 @@
       "Iron tail",
       "Life dew",
       "Poison tail"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 10069,
