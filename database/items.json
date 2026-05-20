@@ -24285,12 +24285,17 @@
     "id": 749,
     "name": "Berry Picante Rara",
     "category": "other",
-    "sprite": "",
+    "sprite": "https://2img.net/i.imgur.com/B0Fc0MG.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -24302,23 +24307,27 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 750,
     "name": "Berry Azeda Rara",
     "category": "other",
-    "sprite": "",
+    "sprite": "https://2img.net/i.imgur.com/B0Fc0MG.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -24330,23 +24339,27 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 751,
     "name": "Berry Seca Rara",
     "category": "other",
-    "sprite": "",
+    "sprite": "https://2img.net/i.imgur.com/B0Fc0MG.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -24358,23 +24371,27 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 752,
     "name": "Berry Amarga Rara",
     "category": "other",
-    "sprite": "",
+    "sprite": "https://2img.net/i.imgur.com/B0Fc0MG.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -24386,23 +24403,27 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 753,
     "name": "Berry Doce Rara",
     "category": "other",
-    "sprite": "",
+    "sprite": "https://2img.net/i.imgur.com/B0Fc0MG.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -24414,12 +24435,11 @@
     "natural_gift_type": "",
     "is_consumable": false,
     "modified_for_rpg": false,
-    "rarity": "comum",
+    "rarity": "raro",
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 754,
@@ -24888,85 +24908,6 @@
       742,
       743,
       744
-    ]
-  },
-  {
-    "id": 767,
-    "name": "Culinária Regional Vol. 1",
-    "category": "key-item",
-    "sprite": "https://2img.net/i.imgur.com/dlWxw5i.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": true,
-    "is_craftable": false,
-    "description": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "book_category": "culinary",
-    "unlocks_recipes": [
-      317,
-      42,
-      54,
-      374,
-      331
-    ]
-  },
-  {
-    "id": 768,
-    "name": "Culinária Regional Vol. 2",
-    "category": "key-item",
-    "sprite": "https://2img.net/i.imgur.com/yEIvopy.png",
-    "price": {
-      "buy": 0,
-      "sell": 0,
-      "casino": 0,
-      "mile": 0
-    },
-    "shop_availability": {
-      "pokemart": false,
-      "casino": false,
-      "mile_shop": false
-    },
-    "is_key_item": true,
-    "is_craftable": false,
-    "description": "",
-    "held_effect": "",
-    "fling_power": 0,
-    "fling_effect": "",
-    "natural_gift_power": 0,
-    "natural_gift_type": "",
-    "is_consumable": false,
-    "modified_for_rpg": false,
-    "rarity": "comum",
-    "is_unique": false,
-    "craft_recipe": [],
-    "forageable": false,
-    "posts_to_collect": 0,
-    "book_category": "culinary",
-    "unlocks_recipes": [
-      425,
-      431,
-      522,
-      457
     ]
   },
   {
