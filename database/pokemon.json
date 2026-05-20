@@ -2785,6 +2785,7 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": false,
     "rarity": "comum",
@@ -2793,7 +2794,7 @@
       {
         "item_id": 94,
         "item_name": "Honey",
-        "description": "Beedrill coleta néctar e auxilia na maturação, contribuindo com uma pequena porção de Honey por ciclo. (Produz 2 unidades a cada 7 dias)"
+        "description": "Beedrill coleta néctar e auxilia na maturação, contribuindo com uma pequena porção de Honey por ciclo. (Produz 1 unidades a cada 7 dias)"
       }
     ],
     "moveset_by_level": [
@@ -2954,8 +2955,7 @@
       "Venoshock",
       "X scissor"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 16,
@@ -96562,6 +96562,18 @@
         "rarity": 100
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Vespiquen",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 21
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "comum",
@@ -96570,7 +96582,7 @@
       {
         "item_id": 94,
         "item_name": "Honey",
-        "description": "Combee reúne néctar de flores variadas e o armazena para maturação, trabalhando sem parar até formar o Honey. (Produz 1 unidade a cada 7 dias)"
+        "description": "Combee reúne néctar de flores variadas e o armazena para maturação, trabalhando sem parar até formar o Honey. (Produz 1 unidade a cada 15 dias)"
       }
     ],
     "moveset_by_level": [
@@ -96613,19 +96625,7 @@
       "Tailwind",
       "Tera blast"
     ],
-    "egg_moves": [],
-    "evolves_to": [
-      {
-        "pokemon": "Vespiquen",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 21
-          }
-        ]
-      }
-    ]
+    "egg_moves": []
   },
   {
     "id": 416,
@@ -96673,6 +96673,7 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "comum",
@@ -96681,7 +96682,7 @@
       {
         "item_id": 94,
         "item_name": "Honey",
-        "description": "Vespiquen supervisiona a colmeia e compacta o néctar coletado, garantindo que o Honey atinja seu ponto ideal. (Produz 3 unidades a cada 7 dias)"
+        "description": "Vespiquen supervisiona a colmeia e compacta o néctar coletado, garantindo que o Honey atinja seu ponto ideal. (Produz 1 unidades a cada 7 dias)"
       }
     ],
     "moveset_by_level": [
@@ -96876,8 +96877,7 @@
       "Venoshock",
       "X scissor"
     ],
-    "egg_moves": [],
-    "evolves_to": []
+    "egg_moves": []
   },
   {
     "id": 417,
