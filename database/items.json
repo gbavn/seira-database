@@ -24809,15 +24809,16 @@
     "id": 765,
     "name": "Receitas de Iscas",
     "category": "key-item",
+    "subcategory": "Culinária",
     "sprite": "https://2img.net/i.imgur.com/fr00xGL.png",
     "price": {
-      "buy": 0,
-      "sell": 0,
+      "buy": 5000,
+      "sell": 1000,
       "casino": 0,
       "mile": 0
     },
     "shop_availability": {
-      "pokemart": false,
+      "pokemart": true,
       "casino": false,
       "mile_shop": false
     },
@@ -24850,15 +24851,16 @@
     "id": 766,
     "name": "Receitas de Kitakami",
     "category": "key-item",
+    "subcategory": "Culinária",
     "sprite": "https://2img.net/i.imgur.com/1ZHhYwk.png",
     "price": {
-      "buy": 0,
-      "sell": 0,
+      "buy": 10000,
+      "sell": 5000,
       "casino": 0,
       "mile": 0
     },
     "shop_availability": {
-      "pokemart": false,
+      "pokemart": true,
       "casino": false,
       "mile_shop": false
     },
@@ -24971,15 +24973,16 @@
     "id": 769,
     "name": "Receitas de Hisui",
     "category": "key-item",
+    "subcategory": "Culinária",
     "sprite": "https://2img.net/i.imgur.com/bkJX3P4.png",
     "price": {
-      "buy": 0,
-      "sell": 0,
+      "buy": 8000,
+      "sell": 3000,
       "casino": 0,
       "mile": 0
     },
     "shop_availability": {
-      "pokemart": false,
+      "pokemart": true,
       "casino": false,
       "mile_shop": false
     },
@@ -26140,5 +26143,86 @@
     "craft_recipe": [],
     "forageable": false,
     "posts_to_collect": 0
+  },
+  {
+    "id": 805,
+    "name": "Culinária Regional Pokémon Vol. 1",
+    "category": "key-item",
+    "subcategory": "Culinária",
+    "sprite": "https://2img.net/i.imgur.com/dlWxw5i.png",
+    "price": {
+      "buy": 10000,
+      "sell": 3000,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": true,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "book_category": "culinary",
+    "unlocks_recipes": [
+      317,
+      42,
+      54,
+      374,
+      331
+    ]
+  },
+  {
+    "id": 806,
+    "name": "Culinária Regional Pokémon Vol. 2",
+    "category": "key-item",
+    "subcategory": "Culinária",
+    "sprite": "https://2img.net/i.imgur.com/yEIvopy.png",
+    "price": {
+      "buy": 10000,
+      "sell": 3000,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": true,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "book_category": "culinary",
+    "unlocks_recipes": [
+      425,
+      431,
+      522,
+      457
+    ]
   }
 ]
