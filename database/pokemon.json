@@ -53021,8 +53021,6 @@
     "id": 220,
     "name": "Swinub",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Ice",
       "Ground"
@@ -53066,11 +53064,29 @@
         "rarity": 50
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Piloswine",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 33
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "comum",
-    "is_producer": false,
-    "production": [],
+    "is_producer": true,
+    "production": [
+      {
+        "item_id": 693,
+        "item_name": "Candy Truffle",
+        "description": "Swinub usa seu olfato extremamente sensível para farejar ingredientes raros e adocicados enterrados no solo, encontrando pequenas trufas naturais perfeitas para consumo. (Encontra 1 unidade a cada 15 dias)"
+      }
+    ],
     "moveset_by_level": [
       {
         "move": "Tackle",
@@ -53236,18 +53252,6 @@
       "Stealth rock",
       "Icicle crash",
       "Freeze dry"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Piloswine",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 33
-          }
-        ]
-      }
     ]
   },
   {
@@ -53310,8 +53314,14 @@
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "comum",
-    "is_producer": false,
-    "production": [],
+    "is_producer": true,
+    "production": [
+      {
+        "item_id": 693,
+        "item_name": "Candy Truffle",
+        "description": "Piloswine usa seu olfato extremamente sensível para farejar ingredientes raros e adocicados enterrados no solo, encontrando pequenas trufas naturais perfeitas para consumo. (Encontra 1 unidade a cada 15 dias)"
+      }
+    ],
     "moveset_by_level": [
       {
         "move": "Fury attack",
@@ -57659,6 +57669,7 @@
         "rarity": 100
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "epico",
@@ -57667,7 +57678,7 @@
       {
         "item_id": 33,
         "item_name": "Moomoo Milk",
-        "description": "Miltank acumula leite ao longo da semana, gerando um frasco de Moomoo Milk pronto para uso. (Produz 3 unidades a cada 7 dias)"
+        "description": "Miltank acumula leite ao longo da semana, gerando um frasco de Moomoo Milk pronto para uso. (Produz 1 unidade a cada 7 dias)"
       }
     ],
     "moveset_by_level": [
@@ -57846,8 +57857,7 @@
       "Punishment",
       "Heart stamp",
       "Belch"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 242,
@@ -115789,8 +115799,6 @@
     "id": 498,
     "name": "Tepig",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fire"
     ],
@@ -115826,11 +115834,29 @@
     "dex_entry": "Desvia com agilidade enquanto lança bolas de fogo pelo nariz. Assa frutas antes de comê-las.",
     "classification": "Pokémon Porco de Fogo",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Pignite",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 17
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "epico",
-    "is_producer": false,
-    "production": [],
+    "is_producer": true,
+    "production": [
+      {
+        "item_id": 693,
+        "item_name": "Candy Truffle",
+        "description": "Tepig usa seu olfato extremamente sensível para farejar ingredientes raros e adocicados enterrados no solo, encontrando pequenas trufas naturais perfeitas para consumo. (Encontra 1 unidade a cada 15 dias)\n"
+      }
+    ],
     "moveset_by_level": [
       {
         "move": "Tackle",
@@ -115970,26 +115996,12 @@
       "Sucker punch",
       "Heavy slam",
       "Burn up"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Pignite",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 17
-          }
-        ]
-      }
     ]
   },
   {
     "id": 499,
     "name": "Pignite",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fire",
       "Fighting"
@@ -116026,11 +116038,29 @@
     "dex_entry": "Quando seu fogo interno aumenta, seus movimentos ficam mais rápidos e precisos. Em perigo, libera fumaça.",
     "classification": "Pokémon Porco de Fogo",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Emboar",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 36
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "epico",
-    "is_producer": false,
-    "production": [],
+    "is_producer": true,
+    "production": [
+      {
+        "item_id": 693,
+        "item_name": "Candy Truffle",
+        "description": "Pignite usa seu olfato extremamente sensível para farejar ingredientes raros e adocicados enterrados no solo, encontrando pequenas trufas naturais perfeitas para consumo. (Encontra 1 unidade a cada 15 dias)"
+      }
+    ],
     "moveset_by_level": [
       {
         "move": "Arm thrust",
@@ -116194,26 +116224,12 @@
       "Sucker punch",
       "Heavy slam",
       "Burn up"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Emboar",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 36
-          }
-        ]
-      }
     ]
   },
   {
     "id": 500,
     "name": "Emboar",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Fire",
       "Fighting"
@@ -116250,11 +116266,18 @@
     "dex_entry": "Pode lançar um soco flamejante incendiando seus punhos com o fogo do queixo. É extremamente leal aos amigos.",
     "classification": "Pokémon Mega Porco de Fogo",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "epico",
     "is_producer": false,
-    "production": [],
+    "production": [
+      {
+        "item_id": 693,
+        "item_name": "Candy Truffle",
+        "description": "Emboar usa seu olfato extremamente sensível para farejar ingredientes raros e adocicados enterrados no solo, encontrando pequenas trufas naturais perfeitas para consumo. (Encontra 1 unidade a cada 7 dias)\n"
+      }
+    ],
     "moveset_by_level": [
       {
         "move": "Tackle",
@@ -116428,8 +116451,7 @@
       "Sucker punch",
       "Heavy slam",
       "Burn up"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 501,
@@ -151445,6 +151467,7 @@
     "dex_entry": "Consegue sentir como seu Treinador está se sentindo através de sutis mudanças na pressão sobre seus chifres. Essa empatia permite que corram como se fossem um só.",
     "classification": "Pokémon Montaria",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -151453,7 +151476,7 @@
       {
         "item_id": 718,
         "item_name": "Googoo Milk",
-        "description": "Gogoat processa lentamente folhas mais densas, reunindo leite suficiente para um frasco de Googoo Milk. (Produz 3 unidades a cada 10 dias)"
+        "description": "Gogoat processa lentamente folhas mais densas, reunindo leite suficiente para um frasco de Googoo Milk. (Produz 1 unidade a cada 10 dias)"
       }
     ],
     "moveset_by_level": [
@@ -151603,8 +151626,7 @@
       "Rollout",
       "Milk drink",
       "Grassy terrain"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 674,
@@ -197297,6 +197319,18 @@
     "dex_entry": "Dolliv compartilha seu óleo saboroso e de aroma fresco com outros. Esta espécie coexiste com humanos desde tempos muito antigos.",
     "classification": "Pokémon Oliveira",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Arboliva",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 35
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "comum",
@@ -197305,7 +197339,7 @@
       {
         "item_id": 638,
         "item_name": "Olive Oil",
-        "description": "Dolliv amadurece melhor seu óleo interno, resultando em um líquido mais suave e aromático. (Produz 1 unidade a cada 15 dias)"
+        "description": "Dolliv amadurece melhor seu óleo interno, resultando em um líquido mais suave e aromático. (Produz 1 unidade a cada 10 dias)"
       }
     ],
     "moveset_by_level": [
@@ -197393,18 +197427,6 @@
       "Memento",
       "Weather ball",
       "Strength sap"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Arboliva",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 35
-          }
-        ]
-      }
     ]
   },
   {
@@ -197447,6 +197469,7 @@
     "dex_entry": "Este Pokémon calmo é muito compassivo. Ele compartilha seu óleo delicioso e rico em nutrientes com Pokémon enfraquecidos.",
     "classification": "Pokémon Oliveira",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "comum",
@@ -197455,7 +197478,7 @@
       {
         "item_id": 638,
         "item_name": "Olive Oil",
-        "description": "Arboliva condensa energia solar em seus frutos, criando um azeite puro e altamente refinado. (Produz 1 unidade a cada 15 dias)"
+        "description": "Arboliva condensa energia solar em seus frutos, criando um azeite puro e altamente refinado. (Produz 1 unidade a cada 7 dias)"
       }
     ],
     "moveset_by_level": [
@@ -197572,8 +197595,7 @@
       "Memento",
       "Weather ball",
       "Strength sap"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 931,
