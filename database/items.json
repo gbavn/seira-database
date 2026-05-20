@@ -10308,7 +10308,7 @@
     "id": 321,
     "name": "Slowpoke Tail",
     "category": "other",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/slowpoketail.png",
+    "sprite": "https://www.serebii.net/pokemonsleep/ingredients/slowpoketail.png",
     "price": {
       "buy": 0,
       "sell": 3000,
