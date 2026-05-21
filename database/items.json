@@ -17134,7 +17134,7 @@
       "mile_shop": false
     },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Uma lata de feijões cozidos lentamente. Ao serem aquecidos, liberam um sabor suave que combina bem com diversos tipos de refeição.",
     "held_effect": "",
     "fling_power": 0,
@@ -17145,7 +17145,12 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 696,
+        "quantity": 10
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0
   },
@@ -18659,7 +18664,7 @@
       "mile_shop": false
     },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Creme fresco e sedoso, perfeito para ser batido. Acrescentado a pratos picantes, oferece doçura e suavidade equilibrada.",
     "held_effect": "",
     "fling_power": 0,
@@ -18670,7 +18675,20 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 33,
+        "quantity": 1
+      },
+      {
+        "item_id": 628,
+        "quantity": 1
+      },
+      {
+        "item_id": 715,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0
   },
