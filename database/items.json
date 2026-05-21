@@ -9293,12 +9293,17 @@
     "id": 291,
     "name": "Explorer Kit",
     "category": "key-item",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/explorer-kit.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/explorerkit.png",
     "price": {
       "buy": 0,
       "sell": 0,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": true,
     "is_craftable": false,
@@ -9314,8 +9319,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 292,
@@ -22952,7 +22956,7 @@
     "id": 710,
     "name": "Iron Ore",
     "category": "craft-material",
-    "sprite": "",
+    "sprite": "https://i.imgur.com/PdMEkWv.png",
     "price": {
       "buy": 0,
       "sell": 0,
@@ -22984,7 +22988,7 @@
     "id": 711,
     "name": "Copper Ore",
     "category": "craft-material",
-    "sprite": "",
+    "sprite": "https://i.imgur.com/Uh7RNWB.png",
     "price": {
       "buy": 0,
       "sell": 0,
@@ -23016,7 +23020,7 @@
     "id": 712,
     "name": "Silver Ore",
     "category": "craft-material",
-    "sprite": "",
+    "sprite": "https://www.serebii.net/itemdex/sprites/legends/ironchunk.png",
     "price": {
       "buy": 0,
       "sell": 0,
@@ -23048,7 +23052,7 @@
     "id": 713,
     "name": "Gold Ore",
     "category": "craft-material",
-    "sprite": "",
+    "sprite": "https://i.imgur.com/8FwmrGL.png",
     "price": {
       "buy": 0,
       "sell": 0,
