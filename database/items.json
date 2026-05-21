@@ -23232,7 +23232,7 @@
   {
     "id": 719,
     "name": "Berry Aleatória",
-    "category": "other",
+    "category": "berry",
     "sprite": "https://2img.net/i.imgur.com/B0Fc0MG.png",
     "price": {
       "buy": 0,
@@ -24299,9 +24299,9 @@
   },
   {
     "id": 748,
-    "name": "Twice-Spiced Raddish",
+    "name": "Twice-Spiced Radish",
     "category": "other",
-    "sprite": "",
+    "sprite": "https://www.serebii.net/itemdex/sprites/legends/twice-spicedradish.png",
     "price": {
       "buy": 0,
       "sell": 0,
@@ -24349,8 +24349,9 @@
   {
     "id": 749,
     "name": "Berry Picante Rara",
-    "category": "other",
-    "sprite": "https://2img.net/i.imgur.com/B0Fc0MG.png",
+    "category": "berry",
+    "subcategory": "Picante",
+    "sprite": "https://i.imgur.com/ybJLx0B.png",
     "price": {
       "buy": 0,
       "sell": 0,
@@ -24381,8 +24382,9 @@
   {
     "id": 750,
     "name": "Berry Azeda Rara",
-    "category": "other",
-    "sprite": "https://2img.net/i.imgur.com/B0Fc0MG.png",
+    "category": "berry",
+    "subcategory": "Azeda",
+    "sprite": "https://i.imgur.com/w411AK5.png",
     "price": {
       "buy": 0,
       "sell": 0,
@@ -24413,8 +24415,9 @@
   {
     "id": 751,
     "name": "Berry Seca Rara",
-    "category": "other",
-    "sprite": "https://2img.net/i.imgur.com/B0Fc0MG.png",
+    "category": "berry",
+    "subcategory": "Seca",
+    "sprite": "https://i.imgur.com/xkMmsrU.png",
     "price": {
       "buy": 0,
       "sell": 0,
@@ -24445,8 +24448,9 @@
   {
     "id": 752,
     "name": "Berry Amarga Rara",
-    "category": "other",
-    "sprite": "https://2img.net/i.imgur.com/B0Fc0MG.png",
+    "category": "berry",
+    "subcategory": "Amarga",
+    "sprite": "https://i.imgur.com/mKEdg3V.png",
     "price": {
       "buy": 0,
       "sell": 0,
@@ -24477,8 +24481,9 @@
   {
     "id": 753,
     "name": "Berry Doce Rara",
-    "category": "other",
-    "sprite": "https://2img.net/i.imgur.com/B0Fc0MG.png",
+    "category": "berry",
+    "subcategory": "Doce",
+    "sprite": "https://i.imgur.com/106jilN.png",
     "price": {
       "buy": 0,
       "sell": 0,
