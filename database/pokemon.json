@@ -19772,6 +19772,18 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Sirfetchd",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "custom",
+            "description": "Land 3 critical hits in one battle"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "epico",
@@ -19985,18 +19997,6 @@
       "Simple beam",
       "Final gambit",
       "First impression"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Sirfetchd",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Land 3 critical hits in one battle"
-          }
-        ]
-      }
     ]
   },
   {
@@ -182721,8 +182721,14 @@
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "comum",
-    "is_producer": false,
-    "production": [],
+    "is_producer": true,
+    "production": [
+      {
+        "item_id": 534,
+        "item_name": "Fancy Apple",
+        "description": "Applin é conhecido por fingir ser uma grande maçã, mas o que não é de conhecimento geral é que ele busca sempre novas cascas, deixando a antiga útil para receitas. (Produz 1 unidade a cada 10 dias)"
+      }
+    ],
     "moveset_by_level": [
       {
         "move": "Withdraw",
@@ -186758,7 +186764,13 @@
     "in_seira_pokedex": false,
     "rarity": "epico",
     "is_producer": false,
-    "production": [],
+    "production": [
+      {
+        "item_id": 533,
+        "item_name": "Large Leek",
+        "description": "Farfetch’d cultiva e carrega seus próprios talos de alho-poró, crescendo um novo após o ciclo natural. (Produz 1 unidade a cada 15 dias)"
+      }
+    ],
     "moveset_by_level": [
       {
         "move": "Iron defense",
