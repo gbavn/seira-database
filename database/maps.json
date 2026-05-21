@@ -61,7 +61,10 @@
             551,
             552,
             553,
-            554
+            554,
+            534,
+            571,
+            574
           ],
           "buys": []
         },
@@ -334,6 +337,27 @@
           ],
           "buys": []
         }
+      },
+      {
+        "id": "poi-1779328478038",
+        "name": "6Seven",
+        "type": "shop",
+        "description": "Loja de conveniência que vende todo tipo de alimento que você imaginar (desde que tenha no estoque).",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [
+          631,
+          715,
+          577,
+          575,
+          572,
+          530,
+          529,
+          525
+        ],
+        "poi_image": "",
+        "custom_effect": [],
+        "shop_data": null
       }
     ],
     "forageable_items": [],
@@ -449,7 +473,12 @@
           "sells": [
             555,
             556,
-            756
+            756,
+            534,
+            571,
+            538,
+            537,
+            531
           ],
           "buys": []
         },
@@ -569,10 +598,15 @@
         "description": "No subsolo do Distrito das Sombras, o \"Câmbio Cego\" opera atrás de uma fachada de ferro e vapor. É um bunker clandestino onde fortunas físicas são trocadas por créditos indetectáveis, sem perguntas ou registros. Sob a luz fraca, figuras encapuzadas liquidam seus espólios rapidamente, convertendo riscos em riqueza anônima antes de sumirem nos becos.",
         "forum_link": "",
         "shop_data": {
-          "sells": [],
+          "sells": [
+            535,
+            532
+          ],
           "buys": [
             92,
-            371
+            371,
+            102,
+            321
           ]
         },
         "custom_effect": "(Requer 50 de Fama e Nível 3 de Treinador)"
@@ -724,6 +758,32 @@
         ],
         "linked_items": [
           93
+        ],
+        "poi_image": "",
+        "custom_effect": [],
+        "shop_data": {
+          "sells": [
+            535
+          ],
+          "buys": []
+        }
+      },
+      {
+        "id": "poi-1779327972201",
+        "name": "Mercado Natural",
+        "type": "shop",
+        "description": "Um estabelecimento humilde que vende produtos naturais, saudáveis e ainda proporcional serviços de saúde básicos gratuitos aos finais de semana, como aferir pressão e glicose.",
+        "forum_link": "",
+        "linked_pokemon": [],
+        "linked_items": [
+          576,
+          573,
+          571,
+          538,
+          536,
+          537,
+          533,
+          531
         ],
         "poi_image": "",
         "custom_effect": [],
@@ -1314,7 +1374,9 @@
         "shop_data": {
           "sells": [
             455,
-            759
+            759,
+            539,
+            578
           ],
           "buys": []
         }
@@ -2759,6 +2821,31 @@
         "poi_image": "https://conhecimentocientifico.r7.com/wp-content/uploads/2020/09/praias-o-que-sao-caracteristicas-e-importancia-para-o-meio-ambiente-5.jpg",
         "custom_effect": [],
         "shop_data": null
+      },
+      {
+        "id": "poi-1779326569142",
+        "name": "Peixaria da Tia Carvanha",
+        "type": "shop",
+        "description": "Ela vende os melhores frescos e enlatados da região, pode acreditar!",
+        "forum_link": "",
+        "linked_pokemon": [
+          129,
+          318,
+          847
+        ],
+        "linked_items": [],
+        "poi_image": "https://s2-oglobo.glbimg.com/0euJRjN8mBmDMV5MVsaejCkhGAQ=/0x0:1080x910/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/7/M/ASluj2SsCs7TfWWUHANw/whatsapp-image-2026-03-27-at-18.02.49.jpeg",
+        "custom_effect": [],
+        "shop_data": {
+          "sells": [
+            528,
+            526,
+            527
+          ],
+          "buys": [
+            321
+          ]
+        }
       }
     ],
     "forageable_items": [
