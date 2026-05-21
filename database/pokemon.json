@@ -27239,8 +27239,6 @@
     "id": 113,
     "name": "Chansey",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -27293,11 +27291,29 @@
         "rarity": 50
       }
     ],
+    "evolves_to": [
+      {
+        "pokemon": "Blissey",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "custom",
+            "description": "Level up (especificar condição: friendship, location, move, etc)"
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "epico",
-    "is_producer": false,
-    "production": [],
+    "is_producer": true,
+    "production": [
+      {
+        "item_id": 540,
+        "item_name": "Boiled Egg",
+        "description": "Sempre que Blissey encontra um Pokémon enfraquecido, compartilha seu ovo e oferece cuidado até ele melhorar. (Produz 1 unidade a cada 30 dias)"
+      }
+    ],
     "moveset_by_level": [
       {
         "move": "Pound",
@@ -27564,18 +27580,6 @@
       "Natural gift",
       "Last resort",
       "Mud bomb"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Blissey",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "custom",
-            "description": "Level up (especificar condição: friendship, location, move, etc)"
-          }
-        ]
-      }
     ]
   },
   {
