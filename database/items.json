@@ -22598,13 +22598,13 @@
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/KsySVk7.png",
     "price": {
-      "buy": 0,
+      "buy": 1000,
       "sell": 0,
       "casino": 0,
       "mile": 0
     },
     "shop_availability": {
-      "pokemart": false,
+      "pokemart": true,
       "casino": false,
       "mile_shop": false
     },
@@ -23110,13 +23110,13 @@
     "category": "craft-material",
     "sprite": "https://2img.net/i.imgur.com/KhzS48H.png",
     "price": {
-      "buy": 0,
-      "sell": 100,
+      "buy": 100,
+      "sell": 50,
       "casino": 0,
       "mile": 0
     },
     "shop_availability": {
-      "pokemart": false,
+      "pokemart": true,
       "casino": false,
       "mile_shop": false
     },
