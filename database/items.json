@@ -17551,7 +17551,10 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "linked_pokemon": [
+      242
+    ]
   },
   {
     "id": 541,
