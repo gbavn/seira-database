@@ -17233,7 +17233,7 @@
       "mile_shop": false
     },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Um conjunto variado de cogumelos de aroma terroso. Sua mistura equilibrada adiciona profundidade a pratos quentes e ensopados.",
     "held_effect": "",
     "fling_power": 0,
@@ -17244,7 +17244,12 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 86,
+        "quantity": 10
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0
   },
@@ -17266,7 +17271,7 @@
       "mile_shop": false
     },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Cauda de Slowpoke naturalmente desprendida, de sabor suave e defumado. Tradicional em algumas cozinhas, é apreciada pelo toque delicado que oferece aos pratos.",
     "held_effect": "",
     "fling_power": 0,
@@ -17277,7 +17282,16 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 321,
+        "quantity": 3
+      },
+      {
+        "item_id": 698,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0
   },
@@ -17553,7 +17567,8 @@
     "forageable": false,
     "posts_to_collect": 0,
     "linked_pokemon": [
-      242
+      242,
+      113
     ]
   },
   {
