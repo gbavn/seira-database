@@ -121889,6 +121889,18 @@
     "dex_entry": "Ele junta suas garras e gira em alta velocidade antes de avançar contra sua presa.",
     "classification": "Pokémon Toupeira",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Excadrill",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 31
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -121897,7 +121909,7 @@
       {
         "item_id": 723,
         "item_name": "Minério Aleatório",
-        "description": "Drilbur cava túneis rapidamente e encontra pequenos veios metálicos subterrâneos, recolhendo o minério descoberto. (Colhe 2 unidade a cada 14 dias)"
+        "description": "Drilbur cava túneis rapidamente e encontra pequenos veios metálicos subterrâneos, recolhendo o minério descoberto. (Colhe 1 unidade a cada 30 dias)"
       }
     ],
     "moveset_by_level": [
@@ -122031,18 +122043,6 @@
       "Iron defense",
       "Earth power",
       "Rock climb"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Excadrill",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 31
-          }
-        ]
-      }
     ]
   },
   {
@@ -122086,6 +122086,7 @@
     "dex_entry": "Não é raro túneis que parecem naturais terem sido criados pela escavação desenfreada de Excadrill.",
     "classification": "Pokémon Subterrâneo",
     "held_items": [],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -122094,7 +122095,7 @@
       {
         "item_id": 723,
         "item_name": "Minério Aleatório",
-        "description": "Excadrill perfura o solo em grande profundidade, encontrando depósitos mais densos e trazendo à superfície o minério coletado. (Colhe 4 unidade a cada 14 dias)"
+        "description": "Excadrill perfura o solo em grande profundidade, encontrando depósitos mais densos e trazendo à superfície o minério coletado. (Colhe 1 unidade a cada 15 dias)"
       }
     ],
     "moveset_by_level": [
@@ -122248,8 +122249,7 @@
       "Iron defense",
       "Earth power",
       "Rock climb"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 531,
@@ -201921,6 +201921,18 @@
     "dex_entry": "Ela balança seu martelo artesanal para se proteger, mas o martelo frequentemente é roubado por Pokémon que comem metal.",
     "classification": "Pokémon Ferreira",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Tinkatuff",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 24
+          }
+        ]
+      }
+    ],
     "is_starter": true,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -201929,7 +201941,7 @@
       {
         "item_id": 723,
         "item_name": "Minério Aleatório",
-        "description": "Tinkatink coleta pedaços de minério para reforçar suas ferramentas, recolhendo fragmentos úteis enquanto explora áreas rochosas. (Colhe 2 unidade a cada 14 dias)"
+        "description": "Tinkatink coleta pedaços de minério para reforçar suas ferramentas, recolhendo fragmentos úteis enquanto explora áreas rochosas. (Colhe 1 unidade a cada 30 dias)"
       }
     ],
     "moveset_by_level": [
@@ -202037,18 +202049,6 @@
       "Feint",
       "Quash",
       "Ice hammer"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Tinkatuff",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 24
-          }
-        ]
-      }
     ]
   },
   {
@@ -202092,6 +202092,18 @@
     "dex_entry": "Este Pokémon ataca grupos de Pawniard e Bisharp, reunindo metal deles para criar um martelo grande e resistente.",
     "classification": "Pokémon Martelo",
     "held_items": [],
+    "evolves_to": [
+      {
+        "pokemon": "Tinkaton",
+        "method": "primary",
+        "triggers": [
+          {
+            "type": "level",
+            "level": 38
+          }
+        ]
+      }
+    ],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "raro",
@@ -202100,7 +202112,7 @@
       {
         "item_id": 723,
         "item_name": "Minério Aleatório",
-        "description": "Tinkatuff busca minérios mais resistentes para aprimorar seu martelo, acumulando materiais metálicos ao longo do ciclo. (Colhe 3 unidade a cada 14 dias)"
+        "description": "Tinkatuff busca minérios mais resistentes para aprimorar seu martelo, acumulando materiais metálicos ao longo do ciclo. (Colhe 1 unidade a cada 20 dias)"
       }
     ],
     "moveset_by_level": [
@@ -202209,18 +202221,6 @@
       "Feint",
       "Quash",
       "Ice hammer"
-    ],
-    "evolves_to": [
-      {
-        "pokemon": "Tinkaton",
-        "method": "primary",
-        "triggers": [
-          {
-            "type": "level",
-            "level": 38
-          }
-        ]
-      }
     ]
   },
   {
@@ -202273,7 +202273,7 @@
       {
         "item_id": 723,
         "item_name": "Minério Aleatório",
-        "description": "Tinkaton vasculha formações rochosas e depósitos minerais, reunindo metais raros que utiliza para manter seu gigantesco martelo. (Colhe 4 unidade a cada 14 dias)"
+        "description": "Tinkaton vasculha formações rochosas e depósitos minerais, reunindo metais raros que utiliza para manter seu gigantesco martelo. (Colhe 1 unidade a cada 10 dias)"
       }
     ],
     "moveset_by_level": [
