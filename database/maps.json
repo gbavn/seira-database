@@ -883,7 +883,15 @@
         "type": "facility",
         "description": "As mini fazendas oferecem pequenos espaços organizados onde os jogadores podem deixar seus Pokémon produtores. Cada área possui estruturas simples e bem cuidadas, permitindo que os Pokémon trabalhem, descansem e gerem recursos com tranquilidade. O ambiente é calmo e funcional, sempre pronto para receber novos parceiros e manter a produção ativa.",
         "forum_link": "https://seira.forumeiros.com/f62-fazenda-mcdonnie",
-        "shop_data": null
+        "shop_data": {
+          "sells": [
+            33,
+            718,
+            572,
+            574
+          ],
+          "buys": []
+        }
       },
       {
         "id": "DayCareMC",
