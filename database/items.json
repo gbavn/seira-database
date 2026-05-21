@@ -26230,5 +26230,174 @@
       522,
       457
     ]
+  },
+  {
+    "id": 807,
+    "name": "Livro de Curry",
+    "category": "key-item",
+    "subcategory": "Culinária",
+    "sprite": "https://i.imgur.com/24UpdYK.png",
+    "price": {
+      "buy": 10000,
+      "sell": 5000,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": true,
+    "is_craftable": false,
+    "description": "",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "book_category": "culinary"
+  },
+  {
+    "id": 808,
+    "name": "Especial de Curry I",
+    "category": "key-item",
+    "sprite": "https://i.imgur.com/24UpdYK.png",
+    "price": {
+      "buy": 5000,
+      "sell": 1000,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": true,
+    "is_craftable": false,
+    "description": "Carnes e Proteínas Robustas",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "book_category": "culinary"
+  },
+  {
+    "id": 809,
+    "name": "Especial de Curry II",
+    "category": "key-item",
+    "subcategory": "Culinária",
+    "sprite": "https://i.imgur.com/24UpdYK.png",
+    "price": {
+      "buy": 5000,
+      "sell": 1000,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": true,
+    "is_craftable": false,
+    "description": "Enlatados e Mantimentos",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "book_category": "culinary"
+  },
+  {
+    "id": 810,
+    "name": "Especial de Curry III",
+    "category": "key-item",
+    "subcategory": "Culinária",
+    "sprite": "https://i.imgur.com/24UpdYK.png",
+    "price": {
+      "buy": 5000,
+      "sell": 1000,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": true,
+    "is_craftable": false,
+    "description": "Carboidratos e Massas",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "book_category": "culinary"
+  },
+  {
+    "id": 811,
+    "name": "Especial de Curry IV",
+    "category": "key-item",
+    "subcategory": "Culinária",
+    "sprite": "https://i.imgur.com/24UpdYK.png",
+    "price": {
+      "buy": 5000,
+      "sell": 1000,
+      "casino": 0,
+      "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": true,
+      "casino": false,
+      "mile_shop": false
+    },
+    "is_key_item": true,
+    "is_craftable": false,
+    "description": "Vegetais, Ervas e Cogumelos",
+    "held_effect": "",
+    "fling_power": 0,
+    "fling_effect": "",
+    "natural_gift_power": 0,
+    "natural_gift_type": "",
+    "is_consumable": false,
+    "modified_for_rpg": false,
+    "rarity": "comum",
+    "is_unique": false,
+    "craft_recipe": [],
+    "forageable": false,
+    "posts_to_collect": 0,
+    "book_category": "culinary"
   }
 ]
