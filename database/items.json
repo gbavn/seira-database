@@ -17312,7 +17312,12 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "linked_pokemon": [
+      83,
+      10024,
+      865
+    ]
   },
   {
     "id": 534,
@@ -17345,7 +17350,10 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0
+    "posts_to_collect": 0,
+    "linked_pokemon": [
+      840
+    ]
   },
   {
     "id": 535,
@@ -18554,7 +18562,7 @@
       "mile_shop": false
     },
     "is_key_item": false,
-    "is_craftable": false,
+    "is_craftable": true,
     "description": "Queijo cremoso feito com leite Moomoo. Ao derreter, traz riqueza e profundidade a pratos quentes, especialmente curries.",
     "held_effect": "",
     "fling_power": 0,
@@ -18565,7 +18573,20 @@
     "modified_for_rpg": false,
     "rarity": "comum",
     "is_unique": false,
-    "craft_recipe": [],
+    "craft_recipe": [
+      {
+        "item_id": 33,
+        "quantity": 3
+      },
+      {
+        "item_id": 628,
+        "quantity": 1
+      },
+      {
+        "item_id": 631,
+        "quantity": 1
+      }
+    ],
     "forageable": false,
     "posts_to_collect": 0
   },
