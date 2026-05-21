@@ -23093,9 +23093,14 @@
     "sprite": "https://2img.net/i.imgur.com/KhzS48H.png",
     "price": {
       "buy": 0,
-      "sell": 0,
+      "sell": 100,
       "casino": 0,
       "mile": 0
+    },
+    "shop_availability": {
+      "pokemart": false,
+      "casino": false,
+      "mile_shop": false
     },
     "is_key_item": false,
     "is_craftable": false,
@@ -23111,8 +23116,7 @@
     "is_unique": false,
     "craft_recipe": [],
     "forageable": false,
-    "posts_to_collect": 0,
-    "linked_pokemon": []
+    "posts_to_collect": 0
   },
   {
     "id": 716,
