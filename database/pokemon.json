@@ -57863,8 +57863,6 @@
     "id": 242,
     "name": "Blissey",
     "base_form": true,
-    "form_of": null,
-    "form_type": null,
     "types": [
       "Normal"
     ],
@@ -57898,7 +57896,7 @@
     "artwork": "https://www.serebii.net/pokemon/art/242.png",
     "height": 1.5,
     "weight": 46.8,
-    "dex_entry": "Sempre que Blissey encontra um Pokémon enfraquecido, compartilha seu ovo e oferece cuidado até ele melhorar.",
+    "dex_entry": "Sempre que Blissey encontra um Pokémon enfraquecido, compartilha seu ovo e oferece cuidado até ele melhorar. (Produz 1 unidade a cada 15 dias)",
     "classification": "Pokémon Felicidade",
     "held_items": [
       {
@@ -57912,11 +57910,18 @@
         "rarity": 5
       }
     ],
+    "evolves_to": [],
     "is_starter": false,
     "in_seira_pokedex": true,
     "rarity": "epico",
-    "is_producer": false,
-    "production": [],
+    "is_producer": true,
+    "production": [
+      {
+        "item_id": 540,
+        "item_name": "Boiled Egg",
+        "description": "Blissey carrega na bolsa um ovo super nutritivo que é usado em diversas receitas."
+      }
+    ],
     "moveset_by_level": [
       {
         "move": "Pound",
@@ -58177,8 +58182,7 @@
       "Natural gift",
       "Last resort",
       "Mud bomb"
-    ],
-    "evolves_to": []
+    ]
   },
   {
     "id": 243,
@@ -182726,7 +182730,7 @@
       {
         "item_id": 534,
         "item_name": "Fancy Apple",
-        "description": "Applin é conhecido por fingir ser uma grande maçã, mas o que não é de conhecimento geral é que ele busca sempre novas cascas, deixando a antiga útil para receitas. (Produz 1 unidade a cada 10 dias)"
+        "description": "Applin é conhecido por fingir ser uma grande maçã, mas o que não é de conhecimento geral é que ele busca sempre novas cascas, deixando a antiga útil para receitas. (Produz 1 unidade a cada 20 dias)"
       }
     ],
     "moveset_by_level": [
