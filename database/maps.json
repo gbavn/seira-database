@@ -345,19 +345,22 @@
         "description": "Loja de conveniência que vende todo tipo de alimento que você imaginar (desde que tenha no estoque).",
         "forum_link": "",
         "linked_pokemon": [],
-        "linked_items": [
-          631,
-          715,
-          577,
-          575,
-          572,
-          530,
-          529,
-          525
-        ],
-        "poi_image": "",
+        "linked_items": [],
+        "poi_image": "https://i.imgur.com/u7i1AUn.jpeg",
         "custom_effect": [],
-        "shop_data": null
+        "shop_data": {
+          "sells": [
+            631,
+            715,
+            577,
+            575,
+            572,
+            530,
+            529,
+            525
+          ],
+          "buys": []
+        }
       }
     ],
     "forageable_items": [],
@@ -775,19 +778,22 @@
         "description": "Um estabelecimento humilde que vende produtos naturais, saudáveis e ainda proporcional serviços de saúde básicos gratuitos aos finais de semana, como aferir pressão e glicose.",
         "forum_link": "",
         "linked_pokemon": [],
-        "linked_items": [
-          576,
-          573,
-          571,
-          538,
-          536,
-          537,
-          533,
-          531
-        ],
+        "linked_items": [],
         "poi_image": "",
         "custom_effect": [],
-        "shop_data": null
+        "shop_data": {
+          "sells": [
+            576,
+            573,
+            571,
+            538,
+            536,
+            537,
+            533,
+            531
+          ],
+          "buys": []
+        }
       }
     ],
     "forageable_items": [
