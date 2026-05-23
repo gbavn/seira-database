@@ -1292,7 +1292,7 @@
         },
         {
           "item_id": 90,
-          "rate": 10
+          "rate": 5
         },
         {
           "item_id": 91,
@@ -1300,19 +1300,19 @@
         },
         {
           "item_id": 72,
-          "rate": 10
+          "rate": 8
         },
         {
           "item_id": 73,
-          "rate": 10
+          "rate": 8
         },
         {
           "item_id": 75,
-          "rate": 10
+          "rate": 8
         },
         {
           "item_id": 74,
-          "rate": 10
+          "rate": 8
         },
         {
           "item_id": 371,
@@ -1324,6 +1324,34 @@
         },
         {
           "item_id": 703,
+          "rate": 5
+        },
+        {
+          "item_id": 710,
+          "rate": 8
+        },
+        {
+          "item_id": 711,
+          "rate": 3
+        },
+        {
+          "item_id": 712,
+          "rate": 2
+        },
+        {
+          "item_id": 713,
+          "rate": 1
+        },
+        {
+          "item_id": 239,
+          "rate": 1
+        },
+        {
+          "item_id": 190,
+          "rate": 5
+        },
+        {
+          "item_id": 199,
           "rate": 10
         }
       ]
