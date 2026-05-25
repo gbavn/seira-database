@@ -33078,7 +33078,7 @@
     "name": "TM187",
     "category": "tm",
     "subcategory": "TM",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm187.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm046.png",
     "price": {
       "buy": 6500,
       "sell": 1625,
@@ -33114,7 +33114,7 @@
     "name": "TM188",
     "category": "tm",
     "subcategory": "TM",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm188.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm022.png",
     "price": {
       "buy": 7500,
       "sell": 1875,
@@ -33474,7 +33474,7 @@
     "name": "TM198",
     "category": "tm",
     "subcategory": "TM",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm198.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm224.png",
     "price": {
       "buy": 7500,
       "sell": 1875,
@@ -34590,7 +34590,7 @@
     "name": "TM229",
     "category": "tm",
     "subcategory": "TM",
-    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm229.png",
+    "sprite": "https://www.serebii.net/itemdex/sprites/sv/tm213.png",
     "price": {
       "buy": 12000,
       "sell": 3000,
