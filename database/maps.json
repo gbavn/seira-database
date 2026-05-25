@@ -65,7 +65,8 @@
             534,
             571,
             574,
-            715
+            715,
+            1012
           ],
           "buys": []
         },
@@ -189,7 +190,13 @@
         "linked_pokemon": [],
         "linked_items": [],
         "custom_effect": "Aparece apenas em dias de Domingo (OFF)",
-        "shop_data": null
+        "shop_data": {
+          "sells": [
+            867,
+            882
+          ],
+          "buys": []
+        }
       }
     ],
     "forageable_items": [
@@ -309,9 +316,16 @@
         "id": "VibeDome",
         "name": "Estúdio V!be Dome",
         "type": "other",
-        "description": "O V!be Dome é a arena mais famosa de Seira, onde batalhas Pokémon se transformam em performances coreografadas. Telas holográficas, luzes pulsantes e plateias digitais criam uma experiência imersiva, e muitos ídolos locais começaram suas carreiras como treinadores nesse palco icônico.\nÉ possível reservar uma data e realizar uma performance no palco do V!be Dome por mês, por uma taxa fixa de manutenção.",
+        "description": "O V!be Dome é a arena mais famosa de Seira, onde batalhas Pokémon se transformam em performances coreografadas. Telas holográficas, luzes pulsantes e plateias digitais criam uma experiência imersiva, e muitos ídolos locais começaram suas carreiras como treinadores nesse palco icônico.\nÉ possível reservar uma data e realizar uma performance no palco do V!be Dome por mês, por uma taxa fixa de manutenção.\nUma agente de estrelas pode ser encontrada vendendo TMs raros.",
         "forum_link": "",
-        "shop_data": null,
+        "shop_data": {
+          "sells": [
+            885,
+            886,
+            890
+          ],
+          "buys": []
+        },
         "custom_effect": "(Requer 100 de Fama e Nível 3 de Treinador)",
         "poi_image": "https://i.imgur.com/7oZqSAi.jpeg"
       },
@@ -334,7 +348,10 @@
             283,
             284,
             754,
-            83
+            83,
+            937,
+            936,
+            946
           ],
           "buys": []
         }
@@ -460,11 +477,17 @@
         "shop_data": {
           "sells": [
             85,
-            279
+            279,
+            947,
+            948,
+            949,
+            950
           ],
           "buys": []
         },
-        "custom_effect": "Possível aprender Grass Pledge por $10.000",
+        "custom_effect": [
+          "Possível aprender Frenzy Plant, se estiver no estágio final, por $10.000 "
+        ],
         "poi_image": "https://i.imgur.com/zIoQZrS.jpeg"
       },
       {
@@ -588,7 +611,9 @@
         "shop_data": {
           "sells": [
             213,
-            285
+            285,
+            829,
+            992
           ],
           "buys": []
         },
@@ -644,7 +669,14 @@
         "linked_pokemon": [],
         "linked_items": [],
         "custom_effect": "(Requer 50 de Fama e Nível 2 de Treinador)",
-        "shop_data": null
+        "shop_data": {
+          "sells": [
+            1034,
+            1038,
+            928
+          ],
+          "buys": []
+        }
       }
     ],
     "forageable_items": [],
@@ -725,7 +757,11 @@
         "shop_data": {
           "sells": [
             104,
-            275
+            275,
+            860,
+            861,
+            862,
+            863
           ],
           "buys": []
         }
@@ -767,7 +803,11 @@
         "custom_effect": [],
         "shop_data": {
           "sells": [
-            535
+            535,
+            828,
+            840,
+            1009,
+            1035
           ],
           "buys": []
         }
@@ -1013,7 +1053,12 @@
         "type": "facility",
         "description": "Mantidas pela guilda local, estas estruturas robustas seguem a 'Lei do Abrigo': as portas nunca se trancam para quem precisa. Além de proteção contra o clima e predadores, os mineradores mantêm estoques de remédios e aquecedores sempre ativos. A segurança absoluta do local permite que viajantes e seus Pokémon baixem a guarda, garantindo um sono profundo que restaura todas as energias.",
         "forum_link": "",
-        "shop_data": null,
+        "shop_data": {
+          "sells": [
+            839
+          ],
+          "buys": []
+        },
         "custom_effect": "(O personagem pode descansar na cabana a cada 8 Postagens, recuperando totalmente a vida dos seus Pokémon.)"
       },
       {
@@ -1391,7 +1436,9 @@
             455,
             759,
             539,
-            578
+            578,
+            857,
+            998
           ],
           "buys": []
         }
@@ -2173,7 +2220,10 @@
         "shop_data": {
           "sells": [
             54,
-            43
+            43,
+            899,
+            911,
+            1027
           ],
           "buys": []
         }
@@ -2857,7 +2907,9 @@
           "sells": [
             528,
             526,
-            527
+            527,
+            833,
+            999
           ],
           "buys": [
             321
